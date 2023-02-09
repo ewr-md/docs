@@ -1,0 +1,237 @@
+\documentclass{book}
+\usepackage[margin=1.00in]{geometry}
+\usepackage{titlesec,titling}
+\usepackage[utf8]{inputenc}
+
+%allow use of and defining appearence of hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,     
+	urlcolor=blue,
+	pdfpagemode=FullScreen,
+}
+
+%setting up bibliography stuff
+\usepackage[natbib=true, style=numeric, sorting=ynt, url=false]{biblatex}
+\addbibresource{../../bibtex-sync/cv-ewr.bib}
+
+%defining variables specifying column widths
+\newcommand\colleft{.20}
+\newcommand\colright{.75}
+\newcommand\mohan{Mohan Thanikachalam, MD}
+
+%Defining \entry command:
+\newcommand{\entryfour}[4]
+	{
+		\begin{minipage}[t]{\colleft\textwidth}
+		\hfill \textsc{#1}
+		\end{minipage}
+		\hfill\vline\hfill
+		\begin{minipage}[t]{\colright\textwidth}
+		{\bf#2}\\
+		\textit{#3}
+		\footnotesize{#4}
+		\end{minipage}\\
+		\entryvspace
+	}%end defining \entry command
+
+%Defining \briefentry command:
+\newcommand{\entrythree}[3]
+{
+	\begin{minipage}[t]{\colleft\textwidth}
+		\hfill \textsc{#1}
+	\end{minipage}
+	\hfill\vline\hfill
+	\begin{minipage}[t]{\colright\textwidth}
+		{\bf#2}\\
+		\footnotesize{#3}
+	\end{minipage}
+	\entryvspace
+}%end defining \briefentry command
+
+%Defining \briefentry command:
+\newcommand{\entrytwo}[2]
+{
+	\begin{minipage}[t]{\colleft\textwidth}
+		\hfill \textsc{#1}
+	\end{minipage}
+	\hfill\vline\hfill
+	\begin{minipage}[t]{\colright\textwidth}
+		{\bf#2}
+	\end{minipage}
+	\entryvspace
+}%end defining \briefentry command
+
+\newcommand{\entryvspace}{\vspace{0.5em}}
+\newcommand{\residency}{Rhode Island Hospital / Brown University}
+\newcommand{\medschool}{Tufts University School of Medicine}
+\newcommand{\me}{Robbins, E.W.}
+\newcommand{\undergrad}{Pomona College}
+\newcommand{\cphone}{339-203-8046}
+\newcommand{\address}{593 Eddy Street, Providence, RI 02903}
+\newcommand{\email}{eric\_robbins@brown.edu}
+
+\titleformat{\section}
+{\bfseries\Large}
+{}
+{0em}
+{}[\titlerule]
+
+\titleformat{\subsection}
+{\large\bfseries}
+{}
+{}
+{}
+
+\titleformat{\subsubsection}[runin]
+{\bfseries}
+{}
+{}
+{}
+
+\renewcommand{\maketitle}{
+\begin{center}
+	{\huge\bfseries\theauthor}
+	\vspace{0.25em}\\
+	\email
+	\hspace{1em}\vline \hspace{1em}%puts space and a vertical line between data
+	\cphone
+	\hspace{1em}\vline \hspace{1em}
+	\address
+\end{center}
+}
+	
+\title{R\'esum\'e}
+\author{Eric W. Robbins}
+\date{}
+
+%prevent idendation between \entry commands
+\setlength{\parindent}{0in}
+
+\begin{document}
+	\maketitle
+	\pagenumbering{gobble} %suppresses page numbers
+	\section*{Education}
+		\entryfour{2020 -- 2023}
+			{Residency: Internal Medicine}
+			{\residency}
+			{}
+			
+		\entryfour{2016 -- 2020}
+			{Doctor of Medicine (M.D.)}
+			{\medschool}
+			{Awarded \textit{Honos Civicus} for significant community service}
+			
+		\entryfour{2006 -- 2010}
+		{Bachelor of Arts (B.A.)}
+		{\undergrad}
+		{Major: Asian Studies}
+	\section*{Work Experience}
+		\entryfour{12/2021}{Affiliate}{medRxiv}{%
+			\begin{itemize}
+				\item Screened submitted manuscripts for appropriateness, scope, and medical feasibility.
+			\end{itemize}
+			}
+
+		\entryfour{2/2018}{Clinical Trial Assistant}{\medschool}{%
+		 \begin{itemize}
+		 	\item Supervisor: \mohan
+		 	\item Collected data from an experimental blood pressure monitoring device—now patented as ViTrack by the startup Dynocardia—and confirmed findings by measuring blood pressure via auscultation
+		 \end{itemize}
+	 	}
+		
+		\entryfour{2/2017 -- 8/2018}{Research Assistant}{Department of Public Health and Community Medicine, Tufts University}{%		
+		\begin{itemize}
+			\item Performed literature review, data analysis, and manuscript preparation for a population study on endovascular disease and risk factor prevalence among South Indians
+			\item Conducted an independent investigation on link between $\beta$ cell function and insulin resistance
+		\end{itemize}
+	}
+
+		\entryfour{6/2017 -- 9/2017}{Medical Editor}{Journal of Medical Insight / Boston, MA}{%
+		\begin{itemize}
+			\item Directed the editorial department strategy for a peer-reviewed surgical video journal
+			\item Wrote abstracts for pre-print articles and evaluated medical accuracy of animations
+		\end{itemize}
+		}
+		
+		\entryfour{9/2013 -- 8/2016}{Copyeditor}{Cell Press, RELX Group}{%
+			\begin{itemize}
+				\item Copyedited manuscripts for \emph{Molecular Cell}, \emph{Cell Metabolism}, \emph{Cell Host \& Microbe}, and \emph{Neuron}
+				\item Managed troubleshooting, technical design, and strategic initiatives for launch of new website 
+			\end{itemize}
+		}
+		
+		\entryfour{6/2011 -- 9/2013}{Editorial Assistant}{Cell Press, RELX Group}{%
+			\begin{itemize}
+				\item Ferried submitted manuscripts through all stages of the review, rebuttal, and re-review processes
+			\end{itemize}
+		}
+	\section*{Publications, Abstracts, and Case Reports}	
+	%\nocite{Robbins2020,Robbins2020a,Robbins2020b,Robbins2022}
+	%\printbibliography
+	\textbf{Robbins EW}, Yee D, Shea BS. ``Diabetes Insipidus in a Critically Ill Post-Partum COVID Patient.'' \emph{Crit Care Med}. Jan 2022. 50-1, p46. \url{https://doi.org/10.1097/01.ccm.0000806828.13647.9a}.
+	\\ \\
+	\textbf{Robbins EW}, Arao KA, Minami T, and Manzoor K. ``Denosumab-Related Mononeuritis Leading to Diaphragm and Long Thoracic Nerve Paralysis.'' \emph{Am J Respir Crit Care Med}. 2020;201:A7618. \url{https://doi.org/10.1164/ajrccm-conference.2020.201.1\_MeetingAbstracts.A7618}.
+	\\ \\
+	\textbf{Robbins E}, Allam G,  and  Manzoor K. ``Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon.'' \emph{Am J Respir Crit Care Med}. 2020;201:A6990. \url{https://doi.org/10.1164/ajrccm-conference.2020.201.1\_MeetingAbstracts.A6990}. 
+	\\ \\
+	\textbf{Robbins E}, Thota A, Manzoor K. ``Adenocarcinoma of the Lung with a Miliary Pattern.'' \emph{Chest}. 2020;158:A1550. \url{https://doi.org/10.1016/j.chest.2020.08.1392}
+  \section*{Ongoing Research Topics}
+  \textbf{Checkpoint Inhibitor-Induced Pneumonitis}
+  \\
+  Planned prospective and retrospective investigations looking at immune-related adverse events of pneumonitis, caused by PD-1 and PD-L1 inhibitors.
+	\\ \\
+  \textbf{Non-adherence in Patients with Pulmonary Arterial Hypertension}
+  \\
+	Assessment using prospectively gathered survey data to assess the effects of medical non-adherence on mortality, hospitalization, and quality of life measurements in patients with pulmonary arterial hypertension.
+  \section*{Presentations and Invited Talks}
+	\textbf{Robbins EW}, Allam G, and Manzoor K ``Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon.'' Poster presentation at the South Shore Health Research Symposium, Weymouth, MA. 1/2020.
+	\\ \\
+	\textbf{Robbins EW} and Thanikachalam M ``Relative Contributions of Insulin Resistance and $\beta$ Cell Dysfunction to the Development of Type 2 Diabetes in the PURSE-HIS Cohort.'' Poster presentation at the \medschool \ Summer Research Fair, Boston, MA. 1/2018.
+	
+	\section*{Awards \& Fellowships}
+		%\entrythree{12/2018}{Lahey Top Gun}{Top simulation score on surgery clerkship}
+		
+		\entrythree{6/2017}{David F. Noonan Fellowship}{Awarded for summer research on diabetes development in South Indian patient populations}
+	\section*{Service \& Leadership}
+	\entryfour{1/2017 -- 2/2020}{Diabetes Clinical Coordinator / Clinical Assistant}{MetroWest Free Medical Program / Sudbury, MA}{%
+	\begin{itemize}
+		\item Managed the diabetes desk by collecting blood samples, running diagnostic equipment, and educating patients on lifestyle modifications
+		\item Trained and supervised new volunteers on how to perform ECGs and blood tests for cholesterol 
+		\item Acted as the clinic's go-to expert on translating patient vaccination information into English
+	\end{itemize}
+	}
+
+	\entryfour{5/2019 -- 5/2020}{Student Representative}{Massachusetts Medical Society, Committee on Publications / Waltham, MA}{%
+		\begin{itemize}
+			\item Weighed in on new initiatives, product development, and business strategies relating to the \emph{New England Journal of Medicine} during quarterly committee meetings
+		\end{itemize}
+	}
+
+	\entryfour{5/2017 -- 5/2018}{Student Representative Alternate}{Massachusetts Medical Society, Committee on Publications / Waltham, MA}{%
+	\begin{itemize}
+		\item Weighed in on new initiatives, product development, and business strategies relating to the \emph{New England Journal of Medicine} during quarterly committee meetings
+	\end{itemize}
+}
+
+	\entryfour{7/2014 -- 6/2015}{Managing Editor}{Harvard Medical Student Review (HMSR) / Brookline, MA}{%
+	\begin{itemize}
+		\item Designed from scratch the peer review and publication production processes for the journal
+		\item Played a decision-maker role in the vetting of submissions, serving on the executive board
+	\end{itemize}
+	}
+
+	\entryfour{9/2013 -- 8/2016}{Medical Assistant}{New Hope Medical Center / Waltham, MA}{%
+	\begin{itemize}
+		\item Volunteered at a free clinic for the un- and under-insured, taking patient vitals and basic histories
+	\end{itemize}
+	}
+	\section*{Professional \& Honorary Societies}
+		\entrytwo{2019 -- Now}{American Thoracic Society}
+		
+		\entrytwo{2019 -- Now}{American College of Physicians}
+		
+		\entrythree{5/2020}{\textit{Honos Civicus} Society}{Selected 9/2019; Induction 5/2020}
+		
+		\entrytwo{2016 -- 2020}{Massachusetts Medical Society, Charles River District}
+\end{document}
