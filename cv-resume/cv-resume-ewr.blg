@@ -1,21 +1,74 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'cv-resume-ewr.blg'
-[160] biber:340> INFO - === Thu Mar 10, 2022, 21:13:42
-[188] Biber.pm:415> INFO - Reading 'cv-resume-ewr.bcf'
-[343] Biber.pm:952> INFO - Found 4 citekeys in bib section 0
-[375] Biber.pm:4340> INFO - Processing section 0
-[396] Biber.pm:4531> INFO - Looking for bibtex format file '../../bibtex-sync/cv-ewr.bib' for section 0
-[398] bibtex.pm:1689> INFO - LaTeX decoding ...
-[423] bibtex.pm:1494> INFO - Found BibTeX data source '../../bibtex-sync/cv-ewr.bib'
-[489] Utils.pm:395> WARN - legacy month field 'may' in entry 'Robbins2020' is not an integer - this will probably not sort properly.
-[504] Utils.pm:395> WARN - legacy month field 'may' in entry 'Robbins2020a' is not an integer - this will probably not sort properly.
-[519] Utils.pm:395> WARN - legacy month field 'oct' in entry 'Robbins2020b' is not an integer - this will probably not sort properly.
-[533] Utils.pm:395> WARN - legacy month field 'jan' in entry 'Robbins2022' is not an integer - this will probably not sort properly.
-[534] Utils.pm:395> WARN - BibTeX subsystem: /tmp/biber_tmp_1fhm/9eb93450ec35195874a418c1c5a679cf_8571.utf8, line 6, warning: 172 characters of junk seen at toplevel
-[564] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[565] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[565] Biber.pm:4168> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
-[565] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[584] bbl.pm:654> INFO - Writing 'cv-resume-ewr.bbl' with encoding 'UTF-8'
-[590] bbl.pm:757> INFO - Output to cv-resume-ewr.bbl
-[590] Biber.pm:128> INFO - WARNINGS: 5
+This is BibTeX, Version 0.99d (TeX Live 2022/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: cv-resume-ewr.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=8) to 20 items from 10.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Database file #1: cv-resume-ewr-blx.bib
+Database file #2: cv-resume-ewr.bib
+Repeated entry---line 13 of file cv-resume-ewr.bib
+ : @article{Robbins2022
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 39 of file cv-resume-ewr.bib
+ : @article{Robbins2022
+ :                     ,
+I'm skipping whatever remains of this entry
+Biblatex version: 3.18
+Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+You've used 5 entries,
+            6399 wiz_defined-function locations,
+            1239 strings with 14030 characters,
+and the built_in function-call counts, 41667 in all, are:
+= -- 3354
+> -- 672
+< -- 205
++ -- 1410
+- -- 268
+* -- 2840
+:= -- 5100
+add.period$ -- 0
+call.type$ -- 5
+change.case$ -- 90
+chr.to.int$ -- 78
+cite$ -- 8
+duplicate$ -- 4590
+empty$ -- 3345
+format.name$ -- 347
+if$ -- 8188
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 0
+newline$ -- 212
+num.names$ -- 220
+pop$ -- 1583
+preamble$ -- 1
+purify$ -- 128
+quote$ -- 0
+skip$ -- 963
+stack$ -- 0
+substring$ -- 5975
+swap$ -- 842
+text.length$ -- 155
+text.prefix$ -- 4
+top$ -- 1
+type$ -- 158
+warning$ -- 0
+while$ -- 707
+width$ -- 0
+write$ -- 208
+(There were 2 error messages)

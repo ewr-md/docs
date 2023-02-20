@@ -5,15 +5,11 @@
 
 %allow use of and defining appearence of hyperlinks
 \usepackage{hyperref}
-\hypersetup{
-	colorlinks=true,     
-	urlcolor=blue,
-	pdfpagemode=FullScreen,
-}
+\hypersetup{colorlinks=true, urlcolor=blue, pdfpagemode=FullScreen}
 
 %setting up bibliography stuff
-\usepackage[natbib=true, style=numeric, sorting=ynt, url=false]{biblatex}
-\addbibresource{../../bibtex-sync/cv-ewr.bib}
+\usepackage[backend=bibtex, natbib=true, style=numeric, sorting=ynt, url=false]{biblatex}
+\addbibresource{test.bib}
 
 %defining variables specifying column widths
 \newcommand\colleft{.20}
@@ -63,9 +59,10 @@
 }%end defining \briefentry command
 
 \newcommand{\entryvspace}{\vspace{0.5em}}
+\newcommand{\fellowship}{University of Maryland Medical Center \& NIH / NHLBI}
 \newcommand{\residency}{Rhode Island Hospital / Brown University}
 \newcommand{\medschool}{Tufts University School of Medicine}
-\newcommand{\me}{Robbins, E.W.}
+\newcommand{\me}{Eric W. Robbins}
 \newcommand{\undergrad}{Pomona College}
 \newcommand{\cphone}{339-203-8046}
 \newcommand{\address}{593 Eddy Street, Providence, RI 02903}
@@ -102,7 +99,7 @@
 }
 	
 \title{R\'esum\'e}
-\author{Eric W. Robbins}
+\author{\me}
 \date{}
 
 %prevent idendation between \entry commands
@@ -112,6 +109,11 @@
 	\maketitle
 	\pagenumbering{gobble} %suppresses page numbers
 	\section*{Education}
+		\entryfour{2023 -- Present}
+			{Fellowship: Pulmonary and Critical Care Medicine}
+			{\fellowship}
+			{}
+			
 		\entryfour{2020 -- 2023}
 			{Residency: Internal Medicine}
 			{\residency}
@@ -166,16 +168,31 @@
 				\item Ferried submitted manuscripts through all stages of the review, rebuttal, and re-review processes
 			\end{itemize}
 		}
-	\section*{Publications, Abstracts, and Case Reports}	
-	%\nocite{Robbins2020,Robbins2020a,Robbins2020b,Robbins2022}
-	%\printbibliography
-	\textbf{Robbins EW}, Yee D, Shea BS. ``Diabetes Insipidus in a Critically Ill Post-Partum COVID Patient.'' \emph{Crit Care Med}. Jan 2022. 50-1, p46. \url{https://doi.org/10.1097/01.ccm.0000806828.13647.9a}.
-	\\ \\
-	\textbf{Robbins EW}, Arao KA, Minami T, and Manzoor K. ``Denosumab-Related Mononeuritis Leading to Diaphragm and Long Thoracic Nerve Paralysis.'' \emph{Am J Respir Crit Care Med}. 2020;201:A7618. \url{https://doi.org/10.1164/ajrccm-conference.2020.201.1\_MeetingAbstracts.A7618}.
-	\\ \\
-	\textbf{Robbins E}, Allam G,  and  Manzoor K. ``Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon.'' \emph{Am J Respir Crit Care Med}. 2020;201:A6990. \url{https://doi.org/10.1164/ajrccm-conference.2020.201.1\_MeetingAbstracts.A6990}. 
-	\\ \\
-	\textbf{Robbins E}, Thota A, Manzoor K. ``Adenocarcinoma of the Lung with a Miliary Pattern.'' \emph{Chest}. 2020;158:A1550. \url{https://doi.org/10.1016/j.chest.2020.08.1392}
+		
+\section*{Publications, Abstracts, and Case Reports}
+	\printbibliography[heading=subbibliography, title={Publications, Abstracts, and Case Reports}]
+	
+%
+%    \textbf{Robbins EW}, Sacks A, Sloan KA, Halle D, Manzoor K . ``ADENOCARCINOMA OF THE LUNG MIMICKING MILIARY TB AND POTT DISEASE.'' \emph{JOURNAL}
+%\url{https://doi:.org/10.1016/j.chest.2022.08.1375}
+%
+%    AORTIC DISSECTION INDUCED BY PERSISTENT COUGHING IN A PATIENT WITH EMPHYSEMA
+%
+%    ERIC W ROBBINS
+%    AHSAN AYAZ
+%    NIKOLA PEROSEVIC
+%    ARI SACKS
+%    KAMRAN MANZOOR
+%
+%DOI:https://doi.org/10.1016/j.chest.2022.08.1070
+%
+%	\textbf{Robbins EW}, Yee D, Shea BS. ``Diabetes Insipidus in a Critically Ill Post-Partum COVID Patient.'' \emph{Crit Care Med}. Jan 2022. 50-1, p46. \url{https://doi.org/10.1097/01.ccm.0000806828.13647.9a}.
+%	\\ \\
+%	\textbf{Robbins EW}, Arao KA, Minami T, and Manzoor K. ``Denosumab-Related Mononeuritis Leading to Diaphragm and Long Thoracic Nerve Paralysis.'' \emph{Am J Respir Crit Care Med}. 2020;201:A7618. \url{https://doi.org/10.1164/ajrccm-conference.2020.201.1\_MeetingAbstracts.A7618}.
+%	\\ \\
+%	\textbf{Robbins E}, Allam G,  and  Manzoor K. ``Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon.'' \emph{Am J Respir Crit Care Med}. 2020;201:A6990. \url{https://doi.org/10.1164/ajrccm-conference.2020.201.1\_MeetingAbstracts.A6990}. 
+%	\\ \\
+%	\textbf{Robbins E}, Thota A, Manzoor K. ``Adenocarcinoma of the Lung with a Miliary Pattern.'' \emph{Chest}. 2020;158:A1550. \url{https://doi.org/10.1016/j.chest.2020.08.1392}
   \section*{Ongoing Research Topics}
   \textbf{Checkpoint Inhibitor-Induced Pneumonitis}
   \\
@@ -185,6 +202,10 @@
   \\
 	Assessment using prospectively gathered survey data to assess the effects of medical non-adherence on mortality, hospitalization, and quality of life measurements in patients with pulmonary arterial hypertension.
   \section*{Presentations and Invited Talks}
+ 
+  %march 2023 morning report
+  %CPR talk morning report
+  %ICU TALK noon conference
 	\textbf{Robbins EW}, Allam G, and Manzoor K ``Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon.'' Poster presentation at the South Shore Health Research Symposium, Weymouth, MA. 1/2020.
 	\\ \\
 	\textbf{Robbins EW} and Thanikachalam M ``Relative Contributions of Insulin Resistance and $\beta$ Cell Dysfunction to the Development of Type 2 Diabetes in the PURSE-HIS Cohort.'' Poster presentation at the \medschool \ Summer Research Fair, Boston, MA. 1/2018.

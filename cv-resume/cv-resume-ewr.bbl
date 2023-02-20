@@ -1,10 +1,10 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated by
-% biber as required.
+% This file may safely be deleted. It will be recreated as
+% required.
 %
 \begingroup
 \makeatletter
@@ -16,208 +16,253 @@
   {}
 \endgroup
 
+\datalist[entry]{ynt/global//global/global}
+  \entry{Robbins2020a}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=RE}{%
+         family={Robbins},
+         familyi={R\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=AG}{%
+         family={Allam},
+         familyi={A\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Manzoor},
+         familyi={M\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Thoracic Society}%
+    }
+    \strng{namehash}{REAGMK1}
+    \strng{fullhash}{REAGMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1164/ajrccm-conference.2020.201.1_meetingabstracts.a6990
+    \endverb
+    \field{pages}{A6990\bibrangedash A6990}
+    \field{title}{Progressive Weakness in a Patient with Respiratory Failure:
+  Finding the Uncommon}
+    \verb{url}
+    \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_
+    \verb MeetingAbstracts.A6990
+    \endverb
+    \field{journaltitle}{D48. CRITICAL CARE CASE REPORTS: NEUROCRITICAL CARE,
+  SEDATION, AND DELIRIUM}
+    \field{month}{05}
+    \field{year}{2020}
+  \endentry
 
-\refsection{0}
-  \datalist[entry]{ynt/global//global/global}
-    \entry{Robbins2020a}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=a5b1ddb7e9374130cdd39c57967a6b89}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod}}}%
-        {{hash=8dc7dee9976f5f2442fff1a16c4e7f1a}{%
-           family={Allam},
-           familyi={A\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod}}}%
-        {{hash=72adc1fd012d368b5a379500b569d8cf}{%
-           family={Manzoor},
-           familyi={M\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {American Thoracic Society}%
-      }
-      \strng{namehash}{c8fc48e1ea6fce3a12f812ff68d150cc}
-      \strng{fullhash}{c8fc48e1ea6fce3a12f812ff68d150cc}
-      \strng{bibnamehash}{c8fc48e1ea6fce3a12f812ff68d150cc}
-      \strng{authorbibnamehash}{c8fc48e1ea6fce3a12f812ff68d150cc}
-      \strng{authornamehash}{c8fc48e1ea6fce3a12f812ff68d150cc}
-      \strng{authorfullhash}{c8fc48e1ea6fce3a12f812ff68d150cc}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{D48. CRITICAL CARE CASE REPORTS: NEUROCRITICAL CARE, SEDATION, AND DELIRIUM}
-      \field{month}{5}
-      \field{title}{{Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon}}
-      \field{year}{2020}
-      \true{nocite}
-      \field{pages}{A6990\bibrangedash A6990}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1164/ajrccm-conference.2020.201.1_meetingabstracts.a6990
-      \endverb
-      \verb{urlraw}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1{\_}MeetingAbstracts.A6990
-      \endverb
-      \verb{url}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1%7B%5C_%7DMeetingAbstracts.A6990
-      \endverb
-    \endentry
-    \entry{Robbins2020}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=e842b49d60d5fc317b10a24c45be4b52}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={E.W.},
-           giveni={E\bibinitperiod}}}%
-        {{hash=3d7983fc004e121d3541cc59d02ecf97}{%
-           family={Arao},
-           familyi={A\bibinitperiod},
-           given={K.A.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=7cd182fbc2b5814b04d5fd8d673fabb6}{%
-           family={Minami},
-           familyi={M\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=72adc1fd012d368b5a379500b569d8cf}{%
-           family={Manzoor},
-           familyi={M\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {American Thoracic Society}%
-      }
-      \strng{namehash}{d922cd6e2e0f9a814d9030683d4ba1a1}
-      \strng{fullhash}{458d3fb1a139e76e30dd8a7237a16558}
-      \strng{bibnamehash}{d922cd6e2e0f9a814d9030683d4ba1a1}
-      \strng{authorbibnamehash}{d922cd6e2e0f9a814d9030683d4ba1a1}
-      \strng{authornamehash}{d922cd6e2e0f9a814d9030683d4ba1a1}
-      \strng{authorfullhash}{458d3fb1a139e76e30dd8a7237a16558}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{D79. SRN: CURIOUS CASES IN SLEEP AND RESPIRATORY MEDICINE}
-      \field{month}{5}
-      \field{title}{{Denosumab-Related Mononeuritis Leading to Diaphragm and Long Thoracic Nerve Paralysis}}
-      \field{year}{2020}
-      \true{nocite}
-      \field{pages}{A7618\bibrangedash A7618}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1164/ajrccm-conference.2020.201.1_meetingabstracts.a7618
-      \endverb
-      \verb{urlraw}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1{\_}MeetingAbstracts.A7618
-      \endverb
-      \verb{url}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1%7B%5C_%7DMeetingAbstracts.A7618
-      \endverb
-    \endentry
-    \entry{Robbins2020b}{article}{}
-      \name{author}{3}{}{%
-        {{hash=4ea6b46cfb34fa70926d217d91731b07}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
-        {{hash=3844c00e1e146591b0024a5e634d699c}{%
-           family={Thota},
-           familyi={T\bibinitperiod},
-           given={Ajit},
-           giveni={A\bibinitperiod}}}%
-        {{hash=2dc229558d9428cef48711e6f530e3bc}{%
-           family={Manzoor},
-           familyi={M\bibinitperiod},
-           given={Kamran},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{f555af54eeb46fe4aa29a87cd8a38395}
-      \strng{fullhash}{f555af54eeb46fe4aa29a87cd8a38395}
-      \strng{bibnamehash}{f555af54eeb46fe4aa29a87cd8a38395}
-      \strng{authorbibnamehash}{f555af54eeb46fe4aa29a87cd8a38395}
-      \strng{authornamehash}{f555af54eeb46fe4aa29a87cd8a38395}
-      \strng{authorfullhash}{f555af54eeb46fe4aa29a87cd8a38395}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{SESSION TITLE: Medical Student/Resident Lung Cancer Posters SESSION TYPE: Med Student/Res Case Rep Postr PRESENTED ON: October 18-21, 2020 INTRODUCTION: A miliary pattern on chest imaging is often concerning for primary tuberculosis. However, such nodules may also be seen in fungal infections and autoimmune or (rarely) metastatic processes. Here, we report a case of a miliary mottling on chest imaging associated with metastatic lung adenocarcinoma. CASE PRESENTATION: A 39-year-old man with a history of obesity and tobacco use presented with worsening chest congestion and dyspnea on exertion for 2 months. He had occasional wheezing without associated symptoms, including fever, chills or night sweats, or weight loss. He worked in environmental services without any known sick contacts or recent travel history. Physical examination was unremarkable except a small, palpable right supraclavicular lymph node. The initial chest x-ray showed diffuse interstitial infiltrates. Chest CT revealed innumerable bilateral cavitary nodules with an apical gradient, a right lower lobe 6-cm mass with cavitation, and mediastinal and supraclavicular lymphadenopathy. Given concern of pulmonary tuberculosis with a miliary component, the patient remained on airborne precautions. Laboratory workup was notable for a mild leukocytosis of 12,000. Sputum cultures and AFB staining were negative. A baseline connective tissue panel, AFP, and beta-hCG levels were unmeasurable. Given his age and concern for metastatic disease, a scrotal ultrasound was performed but did not reveal any testicular mass. Subsequently, the patient underwent a fine-needle aspiration and core biopsy of the right supraclavicular lymph node, which showed metastatic adenocarcinoma. The immunohistochemical profile was suggestive of a positive CK7 but negative for CK20, TTF-1, CDX2, and Napsin A—support the diagnosis of non-small cell lung cancer with a KRAS Q61K mutation. Immuno-chemotherapy with a combination of carboplatin, pemetrexed, and pembrolizumab was initiated, given his stage IV metastatic lung adenocarcinoma. DISCUSSION: The differential diagnosis for miliary patterns on chest imaging includes tuberculosis, fungal infections, sarcoidosis, pneumoconiosis, and secondary metastasis. Miliary-pattern metastatic lung adenocarcinomas have been rarely reported. Our case is of interest given the negative TTF-1 with a KRAS Q61K mutation, the later of which is associated with resistance to the EGFR inhibitors gefitinib and erlotinib. This entity is thought to have a poorer prognosis than KRAS wild-type adenocarcinomas. CONCLUSIONS: The initial radiologic presentation of these cases can be misleading in areas with high prevalence of infections such as tuberculosis and fungal infections. The possibility of primary lung cancer should also be considered in these cases. Reference {\#}1: A. Sekine et al., “Miliary lung metastases from non‑small cell lung cancer with Exon 20 insertion: A dismal prognostic entity: A case report,” Mol. Clin. Oncol., Oct. 2018, doi: 10.3892/mco.2018.1730. Reference {\#}2: L. Kimmig and J. Bueno, “Miliary Nodules: Not Always Tuberculosis,” Ann. Am. Thorac. Soc., vol. 14, no. 12, pp. 1858–1860, Dec. 2017, doi: 10.1513/AnnalsATS.201706-436CC. Reference {\#}3: P. J. Roberts, T. E. Stinchcombe, C. J. Der, and M. A. Socinski, “Personalized medicine in non-small-cell lung cancer: is KRAS a useful marker in selecting patients for epidermal growth factor receptor-targeted therapy?,” J. Clin. Oncol., vol. 28, no. 31, pp. 4769–77, Nov. 2010, doi: 10.1200/JCO.2009.27.4365. DISCLOSURES: No relevant relationships by Kamran Manzoor, source=Web Response No relevant relationships by Eric Robbins, source=Web Response No relevant relationships by Ajit Thota, source=Web Response}
-      \field{issn}{00123692}
-      \field{journaltitle}{Chest}
-      \field{month}{10}
-      \field{number}{4}
-      \field{title}{{Adenocarcinoma of the Lung With a Miliary Pattern}}
-      \field{volume}{158}
-      \field{year}{2020}
-      \true{nocite}
-      \field{pages}{A1550}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1016/j.chest.2020.08.1392
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369220335789
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369220335789
-      \endverb
-    \endentry
-    \entry{Robbins2022}{article}{}
-      \name{author}{3}{}{%
-        {{hash=4ea6b46cfb34fa70926d217d91731b07}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
-        {{hash=33e093767511995ab8da349fefdc0338}{%
-           family={Yee},
-           familyi={Y\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
-        {{hash=6affa698c1fe9e62bc50c15830318a75}{%
-           family={Shea},
-           familyi={S\bibinitperiod},
-           given={Barry},
-           giveni={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{ee383ae444dc094f83da94608b7ef731}
-      \strng{fullhash}{ee383ae444dc094f83da94608b7ef731}
-      \strng{bibnamehash}{ee383ae444dc094f83da94608b7ef731}
-      \strng{authorbibnamehash}{ee383ae444dc094f83da94608b7ef731}
-      \strng{authornamehash}{ee383ae444dc094f83da94608b7ef731}
-      \strng{authorfullhash}{ee383ae444dc094f83da94608b7ef731}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0090-3493}
-      \field{journaltitle}{Critical Care Medicine}
-      \field{month}{1}
-      \field{number}{1}
-      \field{title}{{126: Diabetes Insipidus in a Critically Ill Postpartum Covid Patient}}
-      \field{volume}{50}
-      \field{year}{2022}
-      \true{nocite}
-      \field{pages}{46\bibrangedash 46}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1097/01.ccm.0000806828.13647.9a
-      \endverb
-      \verb{urlraw}
-      \verb https://journals.lww.com/10.1097/01.ccm.0000806828.13647.9a
-      \endverb
-      \verb{url}
-      \verb https://journals.lww.com/10.1097/01.ccm.0000806828.13647.9a
-      \endverb
-    \endentry
-  \enddatalist
-\endrefsection
+  \entry{Robbins2020b}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RE}{%
+         family={Robbins},
+         familyi={R\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Thota},
+         familyi={T\bibinitperiod},
+         given={Ajit},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Manzoor},
+         familyi={M\bibinitperiod},
+         given={Kamran},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RETAMK1}
+    \strng{fullhash}{RETAMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    SESSION TITLE: Medical Student/Resident Lung Cancer Posters SESSION TYPE:
+  Med Student/Res Case Rep Postr PRESENTED ON: October 18-21, 2020
+  INTRODUCTION: A miliary pattern on chest imaging is often concerning for
+  primary tuberculosis. However, such nodules may also be seen in fungal
+  infections and autoimmune or (rarely) metastatic processes. Here, we report a
+  case of a miliary mottling on chest imaging associated with metastatic lung
+  adenocarcinoma. CASE PRESENTATION: A 39-year-old man with a history of
+  obesity and tobacco use presented with worsening chest congestion and dyspnea
+  on exertion for 2 months. He had occasional wheezing without associated
+  symptoms, including fever, chills or night sweats, or weight loss. He worked
+  in environmental services without any known sick contacts or recent travel
+  history. Physical examination was unremarkable except a small, palpable right
+  supraclavicular lymph node. The initial chest x-ray showed diffuse
+  interstitial infiltrates. Chest CT revealed innumerable bilateral cavitary
+  nodules with an apical gradient, a right lower lobe 6-cm mass with
+  cavitation, and mediastinal and supraclavicular lymphadenopathy. Given
+  concern of pulmonary tuberculosis with a miliary component, the patient
+  remained on airborne precautions. Laboratory workup was notable for a mild
+  leukocytosis of 12,000. Sputum cultures and AFB staining were negative. A
+  baseline connective tissue panel, AFP, and beta-hCG levels were unmeasurable.
+  Given his age and concern for metastatic disease, a scrotal ultrasound was
+  performed but did not reveal any testicular mass. Subsequently, the patient
+  underwent a fine-needle aspiration and core biopsy of the right
+  supraclavicular lymph node, which showed metastatic adenocarcinoma. The
+  immunohistochemical profile was suggestive of a positive CK7 but negative for
+  CK20, TTF-1, CDX2, and Napsin A—support the diagnosis of non-small cell
+  lung cancer with a KRAS Q61K mutation. Immuno-chemotherapy with a combination
+  of carboplatin, pemetrexed, and pembrolizumab was initiated, given his stage
+  IV metastatic lung adenocarcinoma. DISCUSSION: The differential diagnosis for
+  miliary patterns on chest imaging includes tuberculosis, fungal infections,
+  sarcoidosis, pneumoconiosis, and secondary metastasis. Miliary-pattern
+  metastatic lung adenocarcinomas have been rarely reported. Our case is of
+  interest given the negative TTF-1 with a KRAS Q61K mutation, the later of
+  which is associated with resistance to the EGFR inhibitors gefitinib and
+  erlotinib. This entity is thought to have a poorer prognosis than KRAS
+  wild-type adenocarcinomas. CONCLUSIONS: The initial radiologic presentation
+  of these cases can be misleading in areas with high prevalence of infections
+  such as tuberculosis and fungal infections. The possibility of primary lung
+  cancer should also be considered in these cases. Reference #1: A. Sekine et
+  al., “Miliary lung metastases from non‑small cell lung cancer with Exon
+  20 insertion: A dismal prognostic entity: A case report,” Mol. Clin.
+  Oncol., Oct. 2018, doi: 10.3892/mco.2018.1730. Reference #2: L. Kimmig and J.
+  Bueno, “Miliary Nodules: Not Always Tuberculosis,” Ann. Am. Thorac. Soc.,
+  vol. 14, no. 12, pp. 1858–1860, Dec. 2017, doi:
+  10.1513/AnnalsATS.201706-436CC. Reference #3: P. J. Roberts, T. E.
+  Stinchcombe, C. J. Der, and M. A. Socinski, “Personalized medicine in
+  non-small-cell lung cancer: is KRAS a useful marker in selecting patients for
+  epidermal growth factor receptor-targeted therapy?,” J. Clin. Oncol., vol.
+  28, no. 31, pp. 4769–77, Nov. 2010, doi: 10.1200/JCO.2009.27.4365.
+  DISCLOSURES: No relevant relationships by Kamran Manzoor, source=Web Response
+  No relevant relationships by Eric Robbins, source=Web Response No relevant
+  relationships by Ajit Thota, source=Web Response%
+    }
+    \verb{doi}
+    \verb 10.1016/j.chest.2020.08.1392
+    \endverb
+    \field{issn}{00123692}
+    \field{issue}{4}
+    \field{pages}{A1550}
+    \field{title}{Adenocarcinoma of the Lung With a Miliary Pattern}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369220335789
+    \endverb
+    \field{volume}{158}
+    \field{journaltitle}{Chest}
+    \field{month}{10}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Robbins2020}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=RE}{%
+         family={Robbins},
+         familyi={R\bibinitperiod},
+         given={E.W.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=AK}{%
+         family={Arao},
+         familyi={A\bibinitperiod},
+         given={K.A.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Minami},
+         familyi={M\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Manzoor},
+         familyi={M\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Thoracic Society}%
+    }
+    \strng{namehash}{RE+1}
+    \strng{fullhash}{REAKMTMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1164/ajrccm-conference.2020.201.1_meetingabstracts.a7618
+    \endverb
+    \field{pages}{A7618\bibrangedash A7618}
+    \field{title}{Denosumab-Related Mononeuritis Leading to Diaphragm and Long
+  Thoracic Nerve Paralysis}
+    \verb{url}
+    \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_
+    \verb MeetingAbstracts.A7618
+    \endverb
+    \field{journaltitle}{D79. SRN: CURIOUS CASES IN SLEEP AND RESPIRATORY
+  MEDICINE}
+    \field{month}{05}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Robbins2022}{article}{}
+    \name{author}{5}{}{%
+      {{hash=REW}{%
+         family={Robbins},
+         familyi={R\bibinitperiod},
+         given={Eric\bibnamedelima W},
+         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Ayaz},
+         familyi={A\bibinitperiod},
+         given={Ahsan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PN}{%
+         family={Perosevic},
+         familyi={P\bibinitperiod},
+         given={Nikola},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sacks},
+         familyi={S\bibinitperiod},
+         given={Ari},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Manzoor},
+         familyi={M\bibinitperiod},
+         given={Kamran},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{REW+1}
+    \strng{fullhash}{REWAAPNSAMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1016/j.chest.2022.08.1070
+    \endverb
+    \field{issn}{00123692}
+    \field{issue}{4}
+    \field{pages}{A1340\bibrangedash A1341}
+    \field{title}{AORTIC DISSECTION INDUCED BY PERSISTENT COUGHING IN A PATIENT
+  WITH EMPHYSEMA}
+    \field{volume}{162}
+    \field{journaltitle}{Chest}
+    \field{month}{10}
+    \field{year}{2022}
+  \endentry
+\enddatalist
 \endinput
-
