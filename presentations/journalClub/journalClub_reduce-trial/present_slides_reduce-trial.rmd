@@ -1,0 +1,34 @@
+---
+title: "REDUCE Trial: Limiting Steroids in COPD Exacerbations"
+author: "Eric Robbins"
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+output: 
+    beamer_presentation:
+        theme: "CambridgeUS"
+        colortheme: "dolphin"
+        fonttheme: "structurebold"
+        slide_level: 1
+---
+
+# Outline
+1. *Background learning points*
+    - AECOPD diagnosed using Winnipeg criteria (/"cardinal"/ diagnostic criteria)
+	- [Winnipeg trial of antibiotics in COPD](https://doi.org/10.7326/0003-4819-106-2-196/)
+    - where 5 days of steroids originates
+    - follow up to [SCCOPE trial](https://doi.org/10.1016/s0197-2456(98)00011-7), which proved efficacy of steroids on AECOPD
+	- looked at placebo, 2 weeks, 8 weeks of steroids
+2. *Discussion points*
+    - non-inferiority trial
+        - what does "non-inferior" mean?
+	    - is it ever "better?"
+    - external validity concerns
+	    - significant between-group difference in sex representation
+
+# Outline 
+- PICO Question
+- Background for this study 
+- Study design
+  - Non-inferiority
+  - 
+- Criticisms
+- Discussion
