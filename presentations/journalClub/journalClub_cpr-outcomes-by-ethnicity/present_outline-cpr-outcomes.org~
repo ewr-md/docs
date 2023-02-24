@@ -1,0 +1,53 @@
+* outline
+** study overview
+*** study question
+*** historical context
+**** prior studies
+**** novelty of this study
+*** study design
+**** DONE inclusion methodology slide
+*** results
+** assessing the study
+*** traditional limitations
+**** not all US areas participate in CARES
+- rural regions do not (p. 1577)
+**** race of bystanders unknown
+- neighborhood racial makeup was used as proxy for this
+**** number of bystanders to OOH arrests unknown
+- neighborhood urbanicity was used as proxy
+*** dealing with imperfect data
+**** classification error
+***** patient races given by either patient, bystander, or EMS
+- p. 1571 :: "...race and ethnic group are reported by persons who had a cardiac arrest or their family members, whnever possible, or are reported by EMS personnel when the person dies during resuscitation and no family member or acquaintance is available to provide race or ethnic-group information."
+**** missing data
+***** learning point
+- why is missing data something we care about?
+- what are the options for dealing with missing data?
+***** how study dealt with it
+- p. 1572 :: "To account for potential bias owing to missing data regarding race or ethnic group, we used inverse probability weighting to generate all model estimates.
+*** MCID
+*** problem of multiple testing
+**** learning point
+**** how study dealt with it
+- p. 1572 :: "Because we did not prespecify that there would be correction for multiplicity when conducting tests, results are reported as point estimates and 95% confidence intervals. The widths of the confidence intervals have not been adjusted for multiplicity, so the intervals should not be used to infer definitive associations."
+* TODO action items
+** DONE making presentation
+*** DONE mock up beamer outline
+*** DONE create chart for inclusion / exclusion <2022-12-05 Mon>
+*** DONE create table (heatmap?) showing areas where black / hispanic worse outcomes
+- worse all subgroups, so no need to make
+** TODO things to research
+*** TODO what is cluster effects?
+*** TODO what is a mutlivariable hierarchial logistic regression model?
+*** TODO obtain contextual studies' PDFs
+**** TODO N Engl J Med 2012;​367:​1607-15.
+**** DONE Am J Emerg Med 2008;​26:​655-60.
+**** DONE Resuscitation 2017;​115:​11-6.
+**** DONE JAMA Intern Med 2014;​174:​194-201.
+**** DONE Ann Emerg Med 2015;​65(5):​ 545-552.e2.
+**** TODO Basic Appl Soc Psych 2018;​40:​195-200.
+**** TODO Eur J 
+**** TODO
+**** TODO
+**** TODO
+**** TODO

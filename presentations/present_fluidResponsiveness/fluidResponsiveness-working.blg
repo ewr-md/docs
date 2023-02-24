@@ -1,0 +1,29 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'fluidResponsiveness-working.blg'
+[187] biber:340> INFO - === Wed Mar 23, 2022, 19:29:39
+[277] Biber.pm:418> INFO - Reading 'fluidResponsiveness-working.bcf'
+[433] Biber.pm:972> INFO - Found 14 citekeys in bib section 0
+[460] Biber.pm:4383> INFO - Processing section 0
+[494] Biber.pm:4574> INFO - Looking for bibtex file '../../../bibtex-sync/lectures-fluidResponsiveness.bib' for section 0
+[498] bibtex.pm:1713> INFO - LaTeX decoding ...
+[600] bibtex.pm:1518> INFO - Found BibTeX data source '../../../bibtex-sync/lectures-fluidResponsiveness.bib'
+[1062] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1063] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1063] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1063] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[1128] bbl.pm:654> INFO - Writing 'fluidResponsiveness-working.bbl' with encoding 'UTF-8'
+[1158] bbl.pm:757> INFO - Output to fluidResponsiveness-working.bbl
+[1159] Biber.pm:130> WARN - legacy month field 'jan' in entry 'Teboul2019' is not an integer - this will probably not sort properly.
+[1159] Biber.pm:130> WARN - legacy month field 'dec' in entry 'AlvaradoSanchez2021' is not an integer - this will probably not sort properly.
+[1159] Biber.pm:130> WARN - legacy month field 'dec' in entry 'Marik2011' is not an integer - this will probably not sort properly.
+[1159] Biber.pm:130> WARN - legacy month field 'jan' in entry 'Monnet2012' is not an integer - this will probably not sort properly.
+[1160] Biber.pm:130> WARN - legacy month field 'oct' in entry 'Douglas2020' is not an integer - this will probably not sort properly.
+[1160] Biber.pm:130> WARN - legacy month field 'may' in entry 'Monnet2006' is not an integer - this will probably not sort properly.
+[1160] Biber.pm:130> WARN - legacy month field 'dec' in entry 'Gavelli2019' is not an integer - this will probably not sort properly.
+[1160] Biber.pm:130> WARN - legacy month field 'jan' in entry 'DeBacker2014' is not an integer - this will probably not sort properly.
+[1160] Biber.pm:130> WARN - legacy month field 'jul' in entry 'Via2016' is not an integer - this will probably not sort properly.
+[1160] Biber.pm:130> WARN - legacy month field 'dec' in entry 'Kim2021' is not an integer - this will probably not sort properly.
+[1160] Biber.pm:130> WARN - legacy month field 'jan' in entry 'Ceruti2018' is not an integer - this will probably not sort properly.
+[1160] Biber.pm:130> WARN - legacy month field 'feb' in entry 'Tawfik2019' is not an integer - this will probably not sort properly.
+[1161] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_RSd4/49d9e759b4b60896bafe485afaa78989_5288.utf8, line 6, warning: 172 characters of junk seen at toplevel
+[1161] Biber.pm:132> INFO - WARNINGS: 13

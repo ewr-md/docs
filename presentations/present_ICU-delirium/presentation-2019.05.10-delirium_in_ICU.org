@@ -1,0 +1,112 @@
+* pharmacologic treatment
+** overview 
+- no single effective pharmacologic approach to treatment of delirium exists(1)
+- dexmedetomidine may reduce time to delirium resolution
+- cholinergic agents do not appear to be effective
+- antipsychotics require ECG monitoring may not reduce delirium duration but may be considered for symptomatic treatment atypical antipsychotics may reduce duration of delirium in adult intensive care unit (ICU) patients, but may cause sedation and respiratory depression
+- no evidence that haloperidol reduces delirium duration
+- consider low-dose haloperidol, risperidone, olanzapine, or quetiapine for symptomatic therapy (DGAI/DIVI Grade O, Level 1a)(4)
+** antipsychotics
+*** MIND-USA trial in NEJM 2018
+*treatment with haloperidol or ziprasidone may not reduce duration of delirium or coma in adult ICU patients (level 2 [mid-level] evidence)*
+- based on randomized trial with high dropout rate
+- 566 adults aged 50-69 years admitted to medical or surgical intensive care unit with acute respiratory failure or shock and hypoactive or hyperactive delirium were randomized to 1 of 3 treatments for 14 days or until ICU discharge
+- haloperidol 2.5 mg/0.5 mL IV every 12 hours (maximum dose 20 mg/day)
+- ziprasidone 5 mg/0.5 mL IV every 12 hours (maximum dose 40 mg/day)
+- placebo
+- patients assessed twice daily for delirium using CAM-ICU and Richmond Agitation Sedation Scale with dose adjustment based on delirium status, current dose level, and side effects
+- 21% withdrew from treatment and had open-label antipsychotic therapy (no significant difference in withdrawal rates between treatment groups)
+- no significant differences between groups in days alive without delirium or coma, duration of mechanical ventilation, length of intensive care unit stay, length of hospital stay, or 30- or 90-day mortality
+*** MIND trial (Crit Care Med 2010 Feb;38(2):428)
+- delirium treatment with antipsychotics may not increase days alive without delirium or coma in mechanically ventilated ICU patients (level 2 [mid-level] evidence)
+- based on randomized trial with high crossover rate
+- 101 mechanically ventilated intensive care patients (mean age 54 years) were randomized to haloperidol 5 mg vs. ziprasidone 40 mg vs. placebo every 6 hours for up to 14 days and followed for 21 days
+- medications adjusted twice daily according to delirium status, level of sedation, and side effects
+- 47%-54% of patients in each group had delirium at baseline
+- ≥ 1 dose of haloperidol given in addition to study drug to 42% in placebo, 33% in ziprasidone, and 20% in haloperidol groups
+- no significant differences in number of days alive without delirium or coma, number of days with delirium, length of stay in ICU or hospital, or 21-day mortality
+- no significant difference in adverse events
+*** Crit Care Med 2010 Feb;38(2):419
+*quetiapine may reduce time until delirium resolution when added to as-needed haloperidol in patients in ICU (level 2 [mid-level] evidence)*
+- based on small randomized trial
+- 36 adults (mean age 63 years) in ICU with delirium (ICDSC score ≥ 4) were randomized to quetiapine 50 mg twice daily vs. placebo in addition to as-needed haloperidol
+- quetiapine dose increased every 24 hours (50 mg increments every 12 hours) if ≥ dose of haloperidol was given in previous 24 hours
+- study drug continued until delirium resolution, therapy had lasted ≥ 10 days, or ICU discharge
+- comparing quetiapine vs. placebo
+- mean time to first resolution of delirium 1 day vs. 4.5 days (p = 0.001)
+- mean time spent in delirium 36 hours vs. 120 hours (p = 0.006)
+- mean time spent in agitation 6 hours vs. 36 hours (p = 0.02)
+- patients in quetiapine group received significantly less fentanyl (p = 0.03)
+- no significant difference in daily amount of haloperidol administered, mortality, or ICU or hospital length of stay
+*** Intensive Care Med 2004 Mar;30(3):444
+*olanzapine may have similar effect on delirium compared to haloperidol in patients in ICU (level 2 [mid-level] evidence)*
+- based on quasi-randomized trial
+- 73 adults (mean age 65 years) in medical and surgical ICUs for ≥ 1 day diagnosed with delirium were randomized to olanzapine 5 mg daily vs. haloperidol 2.5-5 mg every 8 hours and followed for 5 days after delirium diagnosis
+- patients > 60 years old received lower initial dosage (haloperidol 0.5-1 mg, olanzapine 2.5 mg)
+- delirium diagnosed using ICU Delirium Screening Checklist (score ≥ 4) and confirmed using DSM IV criteria
+- patients randomized on even/odd day basis
+- patients in olanzapine group were significantly older compared to haloperidol group (67.5 years vs. 63.26 years, p = 0.046)
+- no significant difference in mean Delirium Index score (delirium severity scale based on 7 items scored from 0-3 each) between groups
+- 0 patients in olanzapine group had extrapyramidal side effects vs. 6 patients in haloperidol group (no p value reported)
+** Cholinergic agents
+*** Lancet 2010 Nov 27;376(9755):1829
+*rivastigmine may increase mortality and length of stay on ICU in patients taking haloperidol for delirium (level 2 [mid-level] evidence)*
+- based on randomized trial with borderline statistical	significance
+- 104 patients ≥ 18 years old with critical illness and	delirium randomized to rivastigmine vs. placebo
+- rivastigmine was 0.75 mL (1.5 mg) twice daily	increasing to 3 mL (6 mg) twice daily from day 10 onward
+- all patients received haloperidol (1 mg IV 3 times daily for patients ≥ 70 years old, 2.5 mg IV 3 times daily for patients ≤ 69 years old)
+- trial terminated early before planned enrollment of 440 patients due to increased mortality with rivastigmine
+- comparing rivastigmine vs. placebo
+- mortality 22% vs. 8% (p = 0.07, NNH 7)
+- median length of stay in ICU 15 days vs. 8 days (p < 0.0001)
+- mean duration of delirium 5 days vs. 3 days (p = 0.06)
+- median length of stay in hospital 29 days vs. 25 days	(p = 0.06)
+- total percentage of comatose days 10% vs. 3% (p < 0.0001)
+*** Cochrane Database Syst Rev 2008 Jan	23;(1):CD005317
+*no evidence that cholinesterase inhibitors are effective for treatment of delirium*
+based on Cochrane review
+systematic review of randomized trials evaluating cholinesterase inhibitors for treatment of delirium
+only 1 trial comparing donepezil vs. placebo in 15 patients included
+no significant differences in duration of delirium (mean duration of postoperative delirium 1 day with donepezil vs 1.3 days with placebo)
+*** DahLIA trial (JAMA 2016 Apr 12;315(14):1460)
+*dexmedetomidine might decrease time to extubation and time to delirium resolution in patients with agitated delirium receiving	mechanical ventilation (level	2 [mid-level] evidence)*
+ based on randomized trial with baseline differences and early	termination
+ 74 adults (median age 57 years, 76% male) with agitated	delirium receiving mechanical ventilation were randomized to	dexmedetomidine IV vs. placebo (saline) IV for up to 7	days
+ all patients needed mechanical restraint and/or	antipsychotic or sedative medication, had delirium	on Confusion Assessment Method for the ICU	(CAM-ICU), and had Motor Activity Assessment Scale	score ≥ 5
+ dexmedetomidine dose titrated from initial dose of	0.5 mcg/kg/hour to 0-1.5 mcg/kg/hour to achieve	either Richmond Agitation-Sedation Scale score 0 or	physician-prescribed goals
+ treating physicians could stop trial infusion and	prescribe dexmedetomidine after 48 hours
+ patients were excluded for altered mental status due	to head injury, dementia requiring professional nursing care, pregnancy or breastfeeding, already	receiving dexmedetomidine or clonidine for sedation,	or other contraindications
+ median duration of intubation prior to enrollment was 63	hours in dexmedetomidine vs. 43.5 hours in placebo group (no	p value reported)
+ trial was terminated early without stopping rule before	planned enrollment of 96 patients due to funding termination
+ 96% were included in analysis
+ comparing dexmedetomidine vs. placebo
+ median time to extubation 21.9 hours vs. 44.3 hours	(p < 0.001)
+ median ventilator-free time in first 7 days 144.8	hours vs. 127.5 hours (p = 0.01)
+ extubation within 24 hours in 20.5% vs. 6.3% (p =	0.09)
+ median time to delirium resolution 23.3 hours vs. 40	hours (p = 0.01)
+ no significant differences in intensive care unit length of	stay, or rates of tracheostomy, reintubation, or adverse	events due to bradycardia or agitation
+* non-pharm treatment
+onpharmacologic treatment options include
+addressing medical issues
+identify and treat possible causes of delirium
+treat medical problems, including pain, hypoxia,	infection, and metabolic disorders
+maintain hydration and nutrition
+drug management
+discontinue or reduce dose of psychoactive drugs,	including anticholinergics, sedatives or hypnotics, and opioids
+replace existing medications with less toxic	alternatives
+use nonpharmacological alternatives (such as music,	massage, and relaxation techniques) to manage sleep and	anxiety problems
+reorienting patient
+establish quiet, warm, soothing environment
+facilitate involvement of family and friends
+address sensory impairment; provide eyeglasses, hearing	aid, interpreters
+encourage regular communication and self-care
+for distressed patients at risk of harming themselves or	others use verbal and nonverbal techniques to	de-escalate situation
+encouraging mobility
+ambulate patient ≥ 3 times/day
+use active range of motion exercises
+avoid physical restraints, tethers, and bed alarms
+normalizing sleep-wake cycle
+discourage daytime napping and encourage bright lights	during the day
+optimize nighttime environment for sleeping with	nonpharmacological protocol, including quiet room, low lighting, and uninterrupted sleeping period
+Reference - Lancet 2014 Mar 8;383(9920):911, commentary can	be found in Lancet 2014 Jun 14;383(9934):2044
+in critically ill adults, bright light therapy not suggested for	treatment of delirium (ACCCM Conditional recommendation, Moderate quality	evidence)(6)

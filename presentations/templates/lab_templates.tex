@@ -1,0 +1,49 @@
+\documentclass{beamer}
+\usetheme{PaloAlto}
+%\usecolortheme{dolphin}
+%themes to test
+%Theme to: AnnArbor Antibes Bergen Berkeley Berlin Boadilla boxes CambridgeUS Copenhagen Darmstadt default Dresden Frankfurt Goettingen Hannover Ilmenau JuanLesPins Luebeck Madrid Malmoe Marburg Montpellier PaloAlto Pittsburgh Rochester Singapore Szeged Warsaw
+%Color to: albatross beaver beetle crane default dolphin dove fly lily orchid rose seagull seahorse sidebartab structure whale wolverine
+%Font to: default professionalfonts serif structurebold structureitalicserif structuresmallcapsserif
+
+%allows picture file insertion into document
+\usepackage{graphicx}
+\usepackage{multirow}
+
+%sets numbered citation and uses bib.bib as bibliography file
+\usepackage[natbib=true, style=numeric, sorting=none]{biblatex}
+
+\title{Lab Templates}
+\author{Eric W. Robbins}
+\date{Last updated: 2022-09-29}
+\begin{document}
+	\begin{frame}
+		\maketitle
+	\end{frame}
+\section{Common Labs}
+	\subsection{BMP, CBC, coags, lytes, VBG, lactate}
+		\begin{frame}
+			\frametitle{BMP, CBC, coags, lytes, VBG, lactate}
+			% START BMP
+			\begin{table}[]
+				\begin{tabular}{l|l|l|l}
+				Na	& CL & BUN & \multirow{2}{*}{Glucose} \\ \cline{1-3}
+				K	& HCO3 & sCr  &                  
+				\end{tabular}
+			\end{table}
+			% END BMP
+			
+			% START CBC
+			\begin{table}[]
+				\begin{tabular}{l|l|l}
+					\multirow{2}{*}{WBC} & HGB & \multirow{2}{*}{PLT} \\ \cline{2-2}
+					& HCT &                  
+				\end{tabular}
+			\end{table}
+			% END CBC
+			
+			%START VBG
+			$VBG/pCO_{2}/p_{a}O_{2}/HCO_{3}/SaO_{2}$
+			%END VBG
+		\end{frame}
+\end{document}

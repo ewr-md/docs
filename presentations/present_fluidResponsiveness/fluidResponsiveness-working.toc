@@ -1,0 +1,16 @@
+\beamer@sectionintoc {1}{Overview}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Scenario}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{The Goal}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{Physiology}{9}{0}{1}
+\beamer@subsectionintoc {1}{4}{Some Thoughts}{10}{0}{1}
+\beamer@sectionintoc {2}{Assessing Shock}{12}{0}{2}
+\beamer@subsectionintoc {2}{1}{Overview}{12}{0}{2}
+\beamer@sectionintoc {3}{Strategies}{14}{0}{3}
+\beamer@sectionintoc {4}{Monitoring Cardiac Output}{18}{0}{4}
+\beamer@sectionintoc {5}{Assessment Methods}{27}{0}{5}
+\beamer@subsectionintoc {5}{1}{Pulse Pressure Variation}{27}{0}{5}
+\beamer@subsectionintoc {5}{2}{Passive Leg Raise}{30}{0}{5}
+\beamer@subsectionintoc {5}{3}{End-Expiratory Occlusion Test}{33}{0}{5}
+\beamer@subsectionintoc {5}{4}{IVC Ultrasound}{39}{0}{5}
+\beamer@sectionintoc {6}{Conclusions}{49}{0}{6}
+\beamer@sectionintoc {7}{References}{50}{0}{7}

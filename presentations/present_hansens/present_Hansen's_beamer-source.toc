@@ -1,0 +1,11 @@
+\beamer@sectionintoc {1}{Why Care?}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Incidence and Demographics}{3}{0}{1}
+\beamer@sectionintoc {2}{Clinical Manifestations}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Sites of Manifestation}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Examples of Palpable Nerves}{8}{0}{2}
+\beamer@subsectionintoc {2}{3}{Dermatologic Findings}{13}{0}{2}
+\beamer@sectionintoc {3}{Diagnosis}{14}{0}{3}
+\beamer@subsectionintoc {3}{1}{Biopsy}{14}{0}{3}
+\beamer@sectionintoc {4}{Treatments}{15}{0}{4}
+\beamer@subsectionintoc {4}{1}{Antimicrobials}{15}{0}{4}
+\beamer@subsectionintoc {4}{2}{Immunosuppression}{16}{0}{4}

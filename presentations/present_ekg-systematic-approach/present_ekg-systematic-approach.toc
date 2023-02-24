@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{Problems with EKG Teaching}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Classical Approach}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{My Approach}{3}{0}{1}
+\beamer@sectionintoc {2}{Triage}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Overview}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Examples of Palpable Nerves}{5}{0}{2}
+\beamer@subsectionintoc {2}{3}{Dermatologic Findings}{10}{0}{2}
+\beamer@sectionintoc {3}{Masqueraders}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{Biopsy}{11}{0}{3}

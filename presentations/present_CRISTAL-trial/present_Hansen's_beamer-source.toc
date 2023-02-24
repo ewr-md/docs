@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{Background}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Prior Trials}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Study Question}{4}{0}{1}
+\beamer@sectionintoc {2}{Trial Design}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Trial Overview}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Inclusion Criteria}{5}{0}{2}
+\beamer@subsectionintoc {2}{3}{Exclusion Criteria}{7}{0}{2}
+\beamer@subsectionintoc {2}{4}{Interventions}{8}{0}{2}
+\beamer@subsectionintoc {2}{5}{Outcomes}{9}{0}{2}
+\beamer@sectionintoc {3}{Criticisms}{12}{0}{3}

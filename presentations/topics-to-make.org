@@ -1,0 +1,32 @@
+* CARDS
+** TODO ekg systematic approach
+** TODO deadly arrhythmias
+** TODO hyperkalemia
+** TODO code blue
+** TODO AFL / AFB
+** TODO diuresis
+** TODO GDMT / CHF
+** TODO AVB
+* RENAL
+** TODO hyponatremia
+* ONC
+** TODO emergencies of malignancy
+* GEN
+** TODO night shift problems
+** TODO AE from common abx
+** TODO constipation
+** TODO IV catheters
+* PULM
+** TODO acute PE
+** TODO COPD
+** TODO asthma
+* ENDO
+** TODO DKA
+** TODO DM (things not releated to DM)
+* CCM
+** TODO ECMO, VV
+* GI
+** TODO cirrhosis, new
+** TODO cirrhosis, decompensated
+* ID
+** TODO new england diseases (ticks, encephalitis)

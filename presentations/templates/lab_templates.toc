@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Common Labs}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{BMP, CBC, coags, lytes, VBG, lactate}{2}{0}{1}

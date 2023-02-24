@@ -1,0 +1,21 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[1] Config.pm:315> INFO - Logfile is 'main-text.blg'
+[136] biber:330> INFO - === Wed May  5, 2021, 06:32:43
+[160] Biber.pm:415> INFO - Reading 'main-text.bcf'
+[281] Biber.pm:952> INFO - Found 4 citekeys in bib section 0
+[305] Biber.pm:4334> INFO - Processing section 0
+[324] Biber.pm:4523> INFO - Looking for bibtex format file 'bib.bib' for section 0
+[326] bibtex.pm:1682> INFO - LaTeX decoding ...
+[354] bibtex.pm:1494> INFO - Found BibTeX data source 'bib.bib'
+[400] Utils.pm:395> WARN - month field 'nov' in entry 'Tsuda2017' is not an integer - this will probably not sort properly.
+[414] Utils.pm:395> WARN - month field 'may' in entry 'Boucher2020' is not an integer - this will probably not sort properly.
+[432] Utils.pm:395> WARN - month field 'jan' in entry 'Knopp-Sihota2012' is not an integer - this will probably not sort properly.
+[472] Utils.pm:395> WARN - month field 'mar' in entry 'Esses2011' is not an integer - this will probably not sort properly.
+[473] Utils.pm:395> WARN - BibTeX subsystem: /tmp/biber_tmp_PFCS/283e1cb250985c2debc501124f55eeff_1613.utf8, line 6, warning: 172 characters of junk seen at toplevel
+[493] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[493] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[493] Biber.pm:4162> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[493] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[508] bbl.pm:651> INFO - Writing 'main-text.bbl' with encoding 'UTF-8'
+[515] bbl.pm:754> INFO - Output to main-text.bbl
+[515] Biber.pm:128> INFO - WARNINGS: 5

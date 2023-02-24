@@ -1,0 +1,15 @@
+\beamer@sectionintoc {1}{Study Overview}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Study Questions}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Historical Context}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{What this Study Adds}{6}{0}{1}
+\beamer@subsectionintoc {1}{4}{Study Design}{7}{0}{1}
+\beamer@subsectionintoc {1}{5}{Methods}{9}{0}{1}
+\beamer@subsectionintoc {1}{6}{Results}{20}{0}{1}
+\beamer@subsectionintoc {1}{7}{Discussion}{32}{0}{1}
+\beamer@sectionintoc {2}{Assessing the Study}{33}{0}{2}
+\beamer@subsectionintoc {2}{1}{Dealing with Imperfect Data}{33}{0}{2}
+\beamer@subsectionintoc {2}{2}{Mapping Results to Conclusions}{41}{0}{2}
+\beamer@sectionintoc {3}{Takeaway Points}{50}{0}{3}
+\beamer@subsectionintoc {3}{1}{Study}{50}{0}{3}
+\beamer@subsectionintoc {3}{2}{Statistics}{52}{0}{3}
+\beamer@sectionintoc {4}{References}{53}{0}{4}

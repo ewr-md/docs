@@ -1,0 +1,819 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Hougen2021}{article}{}
+      \name{author}{7}{}{%
+        {{hash=06514245a488674ce8a802c4d66bcbb5}{%
+           family={Hougen},
+           familyi={H\bibinitperiod},
+           given={Ingrid},
+           giveni={I\bibinitperiod}}}%
+        {{hash=237ffc7e2dad3bd517668a3710ef70b6}{%
+           family={Leon},
+           familyi={L\bibinitperiod},
+           given={Silvia\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=58fc0c9e820bed9f830ba0580de964c3}{%
+           family={Whitlock},
+           familyi={W\bibinitperiod},
+           given={Reid},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d7bdb8f8abdde415dcb3d7464f57e4d8}{%
+           family={Rigatto},
+           familyi={R\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d4eec7820a32a09c65014c679666a7aa}{%
+           family={Komenda},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0894d50dcdb334a5d68f03252d7ecbea}{%
+           family={Bohm},
+           familyi={B\bibinitperiod},
+           given={Clara},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0ebd2614a40413c81dba57b267bb9a91}{%
+           family={Tangri},
+           familyi={T\bibinitperiod},
+           given={Navdeep},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{48e39f1d9ede65a0534241e5671a1325}
+      \strng{fullhash}{f7b53417c3b0c7f1d149296826e76273}
+      \strng{bibnamehash}{48e39f1d9ede65a0534241e5671a1325}
+      \strng{authorbibnamehash}{48e39f1d9ede65a0534241e5671a1325}
+      \strng{authornamehash}{48e39f1d9ede65a0534241e5671a1325}
+      \strng{authorfullhash}{f7b53417c3b0c7f1d149296826e76273}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{24680249}
+      \field{journaltitle}{Kidney International Reports}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{{Hyperkalemia and its Association With Mortality, Cardiovascular Events, Hospitalizations, and Intensive Care Unit Admissions in a Population-Based Retrospective Cohort}}
+      \field{volume}{6}
+      \field{year}{2021}
+      \field{pages}{1309\bibrangedash 1316}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.ekir.2021.02.038
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2468024921001431
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2468024921001431
+      \endverb
+    \endentry
+    \entry{Rafique2020}{article}{}
+      \name{author}{6}{}{%
+        {{hash=e78e4fb2643615b67e083cdac148c9b2}{%
+           family={Rafique},
+           familyi={R\bibinitperiod},
+           given={Zubaid},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ec138a885abc2824cfdbfb5e0e9369d1}{%
+           family={Aceves},
+           familyi={A\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod}}}%
+        {{hash=62cff4b7e94e96342f7358921f3dd2c8}{%
+           family={Espina},
+           familyi={E\bibinitperiod},
+           given={Ilse},
+           giveni={I\bibinitperiod}}}%
+        {{hash=5044d24d1e2c219b4389a045559770fc}{%
+           family={Peacock},
+           familyi={P\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=01e62a93c527d1a5076793c3f7a97a22}{%
+           family={Sheikh-Hamad},
+           familyi={S\bibinithyphendelim H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1f7d437007bdcbe16e2dba3a1b280f4f}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Dick},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{cb08f0be7107475c3bf0a8e54ad264d1}
+      \strng{fullhash}{250cf317300c830639164fe7045b2970}
+      \strng{bibnamehash}{cb08f0be7107475c3bf0a8e54ad264d1}
+      \strng{authorbibnamehash}{cb08f0be7107475c3bf0a8e54ad264d1}
+      \strng{authornamehash}{cb08f0be7107475c3bf0a8e54ad264d1}
+      \strng{authorfullhash}{250cf317300c830639164fe7045b2970}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{07356757}
+      \field{journaltitle}{The American Journal of Emergency Medicine}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Can physicians detect hyperkalemia based on the electrocardiogram?}}
+      \field{volume}{38}
+      \field{year}{2020}
+      \field{pages}{105\bibrangedash 108}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1016/j.ajem.2019.04.036
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0735675719302608
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0735675719302608
+      \endverb
+    \endentry
+    \entry{Wrenn1991}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a7b85b48aed9550c4aff4153f1f31dda}{%
+           family={Wrenn},
+           familyi={W\bibinitperiod},
+           given={Keith\bibnamedelima D},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=dc03c4d7153eebac8e6f7da5576c23f5}{%
+           family={Slovis},
+           familyi={S\bibinitperiod},
+           given={Corey\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=660dc2977938aa0703a6a374eba887d2}{%
+           family={Slovis},
+           familyi={S\bibinitperiod},
+           given={Bonnie\bibnamedelima S},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{50233211e43b84339732a60ca3c138e2}
+      \strng{fullhash}{50233211e43b84339732a60ca3c138e2}
+      \strng{bibnamehash}{50233211e43b84339732a60ca3c138e2}
+      \strng{authorbibnamehash}{50233211e43b84339732a60ca3c138e2}
+      \strng{authornamehash}{50233211e43b84339732a60ca3c138e2}
+      \strng{authorfullhash}{50233211e43b84339732a60ca3c138e2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01960644}
+      \field{journaltitle}{Annals of Emergency Medicine}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{{The ability of physicians to predict hyperkalemia from the ECG}}
+      \field{volume}{20}
+      \field{year}{1991}
+      \field{pages}{1229\bibrangedash 1232}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1016/S0196-0644(05)81476-3
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0196064405814763
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0196064405814763
+      \endverb
+    \endentry
+    \entry{Montague2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b7e1b8957edc159185b1c2c0e9485449}{%
+           family={Montague},
+           familyi={M\bibinitperiod},
+           given={Brian\bibnamedelima T.},
+           giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=9f6b06c5e970970137802a2f181f23fa}{%
+           family={Ouellette},
+           familyi={O\bibinitperiod},
+           given={Jason\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=4f389cea3574d668a27509d17456ecff}{%
+           family={Buller},
+           familyi={B\bibinitperiod},
+           given={Gregory\bibnamedelima K.},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{941bb129de5d8770471e929d91faaf50}
+      \strng{fullhash}{941bb129de5d8770471e929d91faaf50}
+      \strng{bibnamehash}{941bb129de5d8770471e929d91faaf50}
+      \strng{authorbibnamehash}{941bb129de5d8770471e929d91faaf50}
+      \strng{authornamehash}{941bb129de5d8770471e929d91faaf50}
+      \strng{authorfullhash}{941bb129de5d8770471e929d91faaf50}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1555-9041}
+      \field{journaltitle}{Clinical Journal of the American Society of Nephrology}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{{Retrospective Review of the Frequency of ECG Changes in Hyperkalemia}}
+      \field{volume}{3}
+      \field{year}{2008}
+      \field{pages}{324\bibrangedash 330}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.2215/CJN.04611007
+      \endverb
+      \verb{urlraw}
+      \verb https://cjasn.asnjournals.org/lookup/doi/10.2215/CJN.04611007
+      \endverb
+      \verb{url}
+      \verb https://cjasn.asnjournals.org/lookup/doi/10.2215/CJN.04611007
+      \endverb
+    \endentry
+    \entry{Clase2020}{article}{}
+      \name{author}{53}{}{%
+        {{hash=5726a1e931b1c1365d74b5993413ce50}{%
+           family={Clase},
+           familyi={C\bibinitperiod},
+           given={Catherine\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5be6518b0cd2a3a7c990c1d095352b5a}{%
+           family={Carrero},
+           familyi={C\bibinitperiod},
+           given={Juan-Jesus},
+           giveni={J\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=31462759d4559d77fb37c7c2bdf892ac}{%
+           family={Ellison},
+           familyi={E\bibinitperiod},
+           given={David\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=a8cbb40b445c9df3cb4fdb0eeffb5266}{%
+           family={Grams},
+           familyi={G\bibinitperiod},
+           given={Morgan\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=61e8c8494f3af23e4d940a04f0cdfc20}{%
+           family={Hemmelgarn},
+           familyi={H\bibinitperiod},
+           given={Brenda\bibnamedelima R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=1146f532b8a6f66ac3c9b0c020034e96}{%
+           family={Jardine},
+           familyi={J\bibinitperiod},
+           given={Meg\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c63b79dd78e21cace7a693b25562409b}{%
+           family={Kovesdy},
+           familyi={K\bibinitperiod},
+           given={Csaba\bibnamedelima P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=2f9e29823e960fd1143afff5162296bf}{%
+           family={Kline},
+           familyi={K\bibinitperiod},
+           given={Gregory\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e02f2bd07e19bd1bd1928ffb2aeb9135}{%
+           family={Lindner},
+           familyi={L\bibinitperiod},
+           given={Gregor},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7ed8a3768ab0d1b5c7604d388b94d92b}{%
+           family={Obrador},
+           familyi={O\bibinitperiod},
+           given={Gregorio\bibnamedelima T.},
+           giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=222fd52e852a7650aa6eb77e22d551ce}{%
+           family={Palmer},
+           familyi={P\bibinitperiod},
+           given={Biff\bibnamedelima F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=ec55b8436b5abc36000f674a4401d2bf}{%
+           family={Cheung},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7c04a4465e2f4d0ad1ff6a1f2c6d87b3}{%
+           family={Wheeler},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ae6e4d500815dd8cdcefc6edf385fd01}{%
+           family={Winkelmayer},
+           familyi={W\bibinitperiod},
+           given={Wolfgang\bibnamedelima C.},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=04a46e77224a280853dc46afcbb6bf3b}{%
+           family={Pecoits-Filho},
+           familyi={P\bibinithyphendelim F\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1dcb86b568f6ac8dd4844f8bb33ebcf6}{%
+           family={Ashuntantang},
+           familyi={A\bibinitperiod},
+           given={Gloria\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=7fd7395962064bd4f8e143e85a859ff0}{%
+           family={Bakker},
+           familyi={B\bibinitperiod},
+           given={Stephan\bibnamedelima J.L.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ecf8f5158af2d97993fd343327659096}{%
+           family={Bakris},
+           familyi={B\bibinitperiod},
+           given={George\bibnamedelima L.},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=4b07452dd8d3863a8e564f71d2b686ca}{%
+           family={Bhandari},
+           familyi={B\bibinitperiod},
+           given={Sunil},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7fb53f7ce71634554cc712c37a2280c5}{%
+           family={Burdmann},
+           familyi={B\bibinitperiod},
+           given={Emmanuel\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=3702e6c402fe166ede94bab67dc84812}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Katrina\bibnamedelima L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=13b6af8b0fd96fa53723d709a41169e6}{%
+           family={Charytan},
+           familyi={C\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e5d380ab8f086ac5087a6ed02404e3bf}{%
+           family={Clegg},
+           familyi={C\bibinitperiod},
+           given={Deborah\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5dabb7817f56a9456e236463cf54cd83}{%
+           family={Cuppari},
+           familyi={C\bibinitperiod},
+           given={Lilian},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f584b113fedaed73d3ef4904fb5a3982}{%
+           family={Goldsmith},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=551ec1b225348dfac79c8eefffc2f7bc}{%
+           family={Hallan},
+           familyi={H\bibinitperiod},
+           given={Stein\bibnamedelima I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=edaae1e790a277919402b3133f272dcc}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=06b7ca2fbaf12bbf11307624390ad3f0}{%
+           family={Herzog},
+           familyi={H\bibinitperiod},
+           given={Charles\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e69586952a0a89620dff9ba0cae114e3}{%
+           family={Hoenig},
+           familyi={H\bibinitperiod},
+           given={Melanie\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=de041fa2f5125bb75ab7e5ddf03cd79f}{%
+           family={Hoorn},
+           familyi={H\bibinitperiod},
+           given={Ewout\bibnamedelima J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=afba1724563806abad4174bba1a98064}{%
+           family={Leipziger},
+           familyi={L\bibinitperiod},
+           given={Jens\bibnamedelima Georg},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=213252c0b80a13af956e518025cae178}{%
+           family={Leonberg-Yoo},
+           familyi={L\bibinithyphendelim Y\bibinitperiod},
+           given={Amanda\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=310e5b36a963f439ddf13fab489198f1}{%
+           family={Lerma},
+           familyi={L\bibinitperiod},
+           given={Edgar\bibnamedelima V.},
+           giveni={E\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=c673504cfc9a898511651cfa4987eb34}{%
+           family={Lopez-Almaraz},
+           familyi={L\bibinithyphendelim A\bibinitperiod},
+           given={Jose\bibnamedelima Ernesto},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=c54b90a78aecec038c1c6514f8fc9dc4}{%
+           family={Ma{ł}yszko},
+           familyi={M\bibinitperiod},
+           given={Jolanta},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f8642e235af9a812e3c6bc39b0691ca1}{%
+           family={Mann},
+           familyi={M\bibinitperiod},
+           given={Johannes\bibnamedelima F.E.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=cc3cd9f4c15414469e9e23ebb3ebc671}{%
+           family={Marklund},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+        {{hash=720d872ef7036729e387ed774bd0147b}{%
+           family={McDonough},
+           familyi={M\bibinitperiod},
+           given={Alicia\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=16cfe7cae858e70fbcc5cbf1273566d8}{%
+           family={Nagahama},
+           familyi={N\bibinitperiod},
+           given={Masahiko},
+           giveni={M\bibinitperiod}}}%
+        {{hash=979c2cd0f385fa5509cb6bfb484c6acb}{%
+           family={Navaneethan},
+           familyi={N\bibinitperiod},
+           given={Sankar\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=143f0de13cc10df9fe3b96ac685d56d1}{%
+           family={Pitt},
+           familyi={P\bibinitperiod},
+           given={Bertram},
+           giveni={B\bibinitperiod}}}%
+        {{hash=0f2c28abbb927627f70f3eec2cf1517f}{%
+           family={Pochynyuk},
+           familyi={P\bibinitperiod},
+           given={Oleh\bibnamedelima M.},
+           giveni={O\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f3029c27250e264b3a9cf2c8761dad1f}{%
+           family={{Proença de Moraes}},
+           familyi={P\bibinitperiod},
+           given={Thyago},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e78e4fb2643615b67e083cdac148c9b2}{%
+           family={Rafique},
+           familyi={R\bibinitperiod},
+           given={Zubaid},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=32ee3a9a4fdf0e09526e64a3bdb98749}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Bruce\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=10721ad874acfc1f9e7e567d1bcc3641}{%
+           family={Roger},
+           familyi={R\bibinitperiod},
+           given={Simon\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9ae9ef6d840565a9b67ec0173718f43d}{%
+           family={Rossignol},
+           familyi={R\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=58dee56ff34122f2284c02bf8a0f9276}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e67e6b97dc1e552603b1dc5438e05c8b}{%
+           family={Smyth},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=87887fa2e25f133cf1ba428b2ed74621}{%
+           family={Sood},
+           familyi={S\bibinitperiod},
+           given={Manish\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4c6c7d0c21cde86a17e641b19c5b4d95}{%
+           family={Walsh},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cf0ba7faa1296deed3de86757a23248c}{%
+           family={Weir},
+           familyi={W\bibinitperiod},
+           given={Matthew\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=d93e889b41a15313e7d6d580d5ffa3d5}{%
+           family={Wingo},
+           familyi={W\bibinitperiod},
+           given={Charles\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d4491bcb2860e6e60a5cff165c0a7a1}
+      \strng{fullhash}{9cbfba93b05f563a28f766fce24613c0}
+      \strng{bibnamehash}{5d4491bcb2860e6e60a5cff165c0a7a1}
+      \strng{authorbibnamehash}{5d4491bcb2860e6e60a5cff165c0a7a1}
+      \strng{authornamehash}{5d4491bcb2860e6e60a5cff165c0a7a1}
+      \strng{authorfullhash}{9cbfba93b05f563a28f766fce24613c0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00852538}
+      \field{journaltitle}{Kidney International}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Potassium homeostasis and management of dyskalemia in kidney diseases: conclusions from a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference}}
+      \field{volume}{97}
+      \field{year}{2020}
+      \field{pages}{42\bibrangedash 61}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.kint.2019.09.018
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0085253819310129
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0085253819310129
+      \endverb
+    \endentry
+    \entry{LaRue2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fcb1dafce8c748d3857980583a4f77aa}{%
+           family={LaRue},
+           familyi={L\bibinitperiod},
+           given={Heather\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f3083cfb9d23bccc40c1f4bbb7d1f3de}{%
+           family={Peksa},
+           familyi={P\bibinitperiod},
+           given={Gary\bibnamedelima Daniel},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=6975385074d1acc01aa159630828f679}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Shital\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{66c782d59b9d7ebaa617caddcca2279e}
+      \strng{fullhash}{66c782d59b9d7ebaa617caddcca2279e}
+      \strng{bibnamehash}{66c782d59b9d7ebaa617caddcca2279e}
+      \strng{authorbibnamehash}{66c782d59b9d7ebaa617caddcca2279e}
+      \strng{authornamehash}{66c782d59b9d7ebaa617caddcca2279e}
+      \strng{authorfullhash}{66c782d59b9d7ebaa617caddcca2279e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{02770008}
+      \field{journaltitle}{Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{A Comparison of Insulin Doses for the Treatment of Hyperkalemia in Patients with Renal Insufficiency}}
+      \field{volume}{37}
+      \field{year}{2017}
+      \field{pages}{1516\bibrangedash 1522}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1002/phar.2038
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/phar.2038
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/phar.2038
+      \endverb
+    \endentry
+    \entry{Allon1989}{article}{}
+      \name{author}{3}{}{%
+        {{hash=51cf69c49f25dab2990ad4b3a9c944ae}{%
+           family={Allon},
+           familyi={A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=77c18927788d62aeb194f444855c41aa}{%
+           family={Dunlay},
+           familyi={D\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=866dd73f437a6b17756985a43dc6d082}{%
+           family={Copkney},
+           familyi={C\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{68c758681bac741de169a9afbadde471}
+      \strng{fullhash}{68c758681bac741de169a9afbadde471}
+      \strng{bibnamehash}{68c758681bac741de169a9afbadde471}
+      \strng{authorbibnamehash}{68c758681bac741de169a9afbadde471}
+      \strng{authornamehash}{68c758681bac741de169a9afbadde471}
+      \strng{authorfullhash}{68c758681bac741de169a9afbadde471}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{STUDY OBJECTIVE To determine the efficacy and safety of nebulized albuterol in the acute treatment of hyperkalemia in patients on chronic hemodialysis. DESIGN Prospective, double-blind, and placebo-controlled study. SETTING Outpatient hemodialysis clinic at a university medical center. PATIENTS Ten patients on maintenance hemodialysis who had chronic hyperkalemia. INTERVENTIONS Patients received nebulized albuterol therapy (10 mg or 20 mg) or placebo (saline) on three separate occasions, serial measurements of plasma potassium levels, blood pressure, and pulse were then taken for a 2-hour period. MEASUREMENTS AND MAIN RESULT Patients had a significant decrease in plasma potassium concentrations that was evident by 30 minutes and sustained for at least 2 hours after albuterol treatment. After the administration of 10- and 20-mg doses of albuterol, the maximal decrease in the plasma potassium levels was 0.62 +/- 0.09 and 0.98 +/- 0.14 mmol/L (SE), respectively. Nebulized saline administration did not produce a significant change in the plasma potassium concentrations. Patients did not develop symptoms or significant changes in blood pressure or heart rate with albuterol treatment. CONCLUSIONS In the doses used, nebulized albuterol therapy resulted in a prompt and significant decrease in the plasma potassium concentrations in patients on hemodialysis, and caused no adverse cardiovascular effects. This treatment should be considered as an important adjunct for acute treatment of serious hyperkalemia in this population of patients.}
+      \field{issn}{0003-4819}
+      \field{journaltitle}{Annals of internal medicine}
+      \field{month}{3}
+      \field{number}{6}
+      \field{title}{{Nebulized albuterol for acute hyperkalemia in patients on hemodialysis.}}
+      \field{volume}{110}
+      \field{year}{1989}
+      \field{pages}{426\bibrangedash 9}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.7326/0003-4819-110-6-426
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/2919849
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/2919849
+      \endverb
+    \endentry
+    \entry{Allon1990}{article}{}
+      \name{author}{2}{}{%
+        {{hash=51cf69c49f25dab2990ad4b3a9c944ae}{%
+           family={Allon},
+           familyi={A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=866dd73f437a6b17756985a43dc6d082}{%
+           family={Copkney},
+           familyi={C\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{4edb9b54488a2ef09feef0d6f272bf08}
+      \strng{fullhash}{4edb9b54488a2ef09feef0d6f272bf08}
+      \strng{bibnamehash}{4edb9b54488a2ef09feef0d6f272bf08}
+      \strng{authorbibnamehash}{4edb9b54488a2ef09feef0d6f272bf08}
+      \strng{authornamehash}{4edb9b54488a2ef09feef0d6f272bf08}
+      \strng{authorfullhash}{4edb9b54488a2ef09feef0d6f272bf08}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We evaluated in maintenance hemodialysis patients the potassium lowering effects of intravenous insulin with glucose, nebulized albuterol, and a regimen combining both modalities. There was a similar decrease in plasma potassium following either insulin with glucose (0.65 +/- 0.09 mmol/liter) or albuterol (0.66 +/- 0.12 mmol/liter), and a substantially greater fall with the combined regimen (1.21 +/- 0.19 mmol/liter, P less than 0.02 vs. either drug alone). Baseline plasma glucose concentrations were similar (about 4.8 mmol/liter) prior to all three treatments. Following insulin with glucose, plasma glucose increased transiently. but then fell to 2.8 +/- 0.3 mmol/liter at one hour, with concentrations below 3 mmol/liter in 9 of 12 patients. None of the patients had symptoms of hypoglycemia. Plasma glucose increased to 6.8 +/- 0.5 mmol/liter with albuterol. After the combined drug regimen plasma glucose rose transiently and was back to baseline (4.7 +/- 0.7 mmol/liter) at one hour. Treatment with insulin or albuterol produced trivial increases in heart rate, whereas the combined drug regimen was associated with a significant rise (15.1 +/- 6.0 min-1). These observations suggest that albuterol and insulin with glucose are equally efficacious in lowering plasma potassium in uremic patients, and that the hypokalemic effects of the two drugs is additive. The hypoglycemic effect of insulin is attenuated by coadministration albuterol. Combined therapy with insulin, glucose and albuterol is efficacious and safe for the acute treatment of hyperkalemia in hemodialysis patients.}
+      \field{issn}{0085-2538}
+      \field{journaltitle}{Kidney international}
+      \field{month}{11}
+      \field{number}{5}
+      \field{title}{{Albuterol and insulin for treatment of hyperkalemia in hemodialysis patients.}}
+      \field{volume}{38}
+      \field{year}{1990}
+      \field{pages}{869\bibrangedash 72}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/ki.1990.284
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/2266671
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/2266671
+      \endverb
+    \endentry
+    \entry{Liou1994}{article}{}
+      \name{author}{7}{}{%
+        {{hash=d390dee62574f833b7b4368440d3780b}{%
+           family={Liou},
+           familyi={L\bibinitperiod},
+           given={H\bibnamedelima H},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=1444962cf9027907ed1f17578a471b04}{%
+           family={Chiang},
+           familyi={C\bibinitperiod},
+           given={S\bibnamedelima S},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5cf9130b527568ff1729e99f670c03c5}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={S\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=5c368efdb9b16dcd9ee645885bb1600e}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={T\bibnamedelima P},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=9aaa4dfc9cf59c07400494f39658cdf3}{%
+           family={Campese},
+           familyi={C\bibinitperiod},
+           given={V\bibnamedelima M},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2a0bbc7781ba36e4f40a468c86a53001}{%
+           family={Smogorzewski},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7bb8a377f169424129aac28d09c3aa20}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={W\bibnamedelima C},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2db50ac856279b305336b09cb74bec5e}
+      \strng{fullhash}{1787cfb630193f6c43d755729c93ca8c}
+      \strng{bibnamehash}{2db50ac856279b305336b09cb74bec5e}
+      \strng{authorbibnamehash}{2db50ac856279b305336b09cb74bec5e}
+      \strng{authornamehash}{2db50ac856279b305336b09cb74bec5e}
+      \strng{authorfullhash}{1787cfb630193f6c43d755729c93ca8c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To examine and compare the efficacy and safety of different routes of administration of salbutamol in treating hyperkalemia, 15 patients with chronic renal failure (blood urea nitrogen {>} 80 mg/dL, serum creatinine {>} 8.0 mg/dL) were enrolled to sequentially receive either intravenous infusion (0.5 mg) or nebulization (10 mg) of salbutamol. Five of these patients (33.3{\%}) did not respond to the intravenous salbutamol and were excluded from the study. Both treatments significantly decreased plasma potassium in 10 patients and the decrease was sustained for at least 3 hours. After infusion, the maximal reduction in plasma potassium levels was 0.92 +/- 0.10 mEq/L and occurred after 30 minutes. On the other hand, the maximal reduction in plasma potassium after nebulization (0.85 +/- 0.13 mEq/L) was similar to that after infusion, but it occurred after 90 minutes. Insulin and blood glucose increased, whereas blood pH, PCO2, sodium, osmolality, and blood pressure did not change after either treatment. Heart rate increased significantly after both treatments, but less after nebulization than after infusion. It is concluded that both infusion and nebulization are simple, effective, and safe therapeutic modalities for the treatment of hyperkalemia in patients with chronic renal failure. Infusion should be used in patients requiring a rapid decrease in plasma potassium; nebulization, on the other hand, should be used in patients with coronary artery diseases.}
+      \field{issn}{0272-6386}
+      \field{journaltitle}{American journal of kidney diseases : the official journal of the National Kidney Foundation}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{{Hypokalemic effects of intravenous infusion or nebulization of salbutamol in patients with chronic renal failure: comparative study.}}
+      \field{volume}{23}
+      \field{year}{1994}
+      \field{pages}{266\bibrangedash 71}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/s0272-6386(12)80983-8
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/8311086
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/8311086
+      \endverb
+    \endentry
+    \entry{Mandelberg1999}{article}{}
+      \name{author}{7}{}{%
+        {{hash=07dafcaf02a296518ab535c50da97ca6}{%
+           family={Mandelberg},
+           familyi={M\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a7507fc90ac55b12ffc5d3fdfc00b95e}{%
+           family={Krupnik},
+           familyi={K\bibinitperiod},
+           given={Z},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=d0d58f727a79cdf1aeef6c5542ba084d}{%
+           family={Houri},
+           familyi={H\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=366d5ac5c877d9c43d1143e9eedd3a20}{%
+           family={Smetana},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b56ffa1266b324096e3d3ac3112ca875}{%
+           family={Gilad},
+           familyi={G\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a2efa87afc55ad3e99b1b7f970a7a398}{%
+           family={Matas},
+           familyi={M\bibinitperiod},
+           given={Z},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=7937f76d0c41102c2a23fea86a2442ea}{%
+           family={Priel},
+           familyi={P\bibinitperiod},
+           given={I\bibnamedelima E},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{146899be7266c74d9a86d39ccae8c55b}
+      \strng{fullhash}{7b109af118448bd37912d6d0d298a730}
+      \strng{bibnamehash}{146899be7266c74d9a86d39ccae8c55b}
+      \strng{authorbibnamehash}{146899be7266c74d9a86d39ccae8c55b}
+      \strng{authornamehash}{146899be7266c74d9a86d39ccae8c55b}
+      \strng{authorfullhash}{7b109af118448bd37912d6d0d298a730}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{OBJECTIVE To determine the efficacy of inhaled salbutamol (rapidly delivered, using a metered-dose inhaler with a spacer device [MDI-S]) in lowering the serum potassium levels in patients with hyperkalemia. DESIGN A randomized, double-blind, placebo-controlled trial. PATIENTS Seventeen chronic renal failure patients referred to the Nephrology Unit between October 1, 1997 and March 31, 1998 for hemodialysis were randomized. INTERVENTION AND RESULTS Group 1 received salbutamol followed by a placebo. Group 2 received a placebo followed by salbutamol. Each patient inhaled 1,200 microg salbutamol or a placebo through an MDI-S within 2 min. Blood samples were obtained repeatedly before inhalation and after 1, 3, 5, 10, and 60 min. The pulse rate and blood pressure were repeatedly measured. Insulin levels were examined in a subset of patients (n = 10) before, and 1 and 5 min following inhalation. Salbutamol's known side effects, palpitation, tachycardia tremor, and headache, were recorded. Potassium levels rose after 1 min following the completion of treatment and then decreased steadily thereafter. A rise of {>} or = 0.1 mEq/L was seen in 10 of 17 patients (59{\%}) during the treatment period and there was no change (0{\%}) seen during the placebo period (p {<} 0.0001). Within 3 min after inhalation of salbutamol, potassium levels declined as a function of time. Potassium levels in those patients taking the placebo did not change as a function of time (p {<} 0.001). The difference between the placebo and the salbutamol-treated periods reached significance after 5 min (p {<} 0.05). The serum glucose levels rose following inhalation of salbutamol, with a significant rise after 3 min. The heart rate rose significantly within the first 5 min following inhalation. Serum insulin levels remained unchanged 1 min after inhalation; however, after 5 min, a significant elevation was detected. CONCLUSION Salbutamol inhalation of 1,200 microg, using an MDI-S, has a relatively rapid onset of action that induces a consistent reduction in serum potassium levels, starting 3 to 5 min following delivery. Unexpectedly, a paradoxical elevation was detected in serum potassium levels in the first minutes following inhalation. This effect, although minor (0.15 mEq/L above baseline), may cast some doubt on the role of salbutamol inhalation as the first treatment for excessive hyperkalemia.}
+      \field{issn}{0012-3692}
+      \field{journaltitle}{Chest}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{{Salbutamol metered-dose inhaler with spacer for hyperkalemia: how fast? How safe?}}
+      \field{volume}{115}
+      \field{year}{1999}
+      \field{pages}{617\bibrangedash 22}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1378/chest.115.3.617
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/10084465
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/10084465
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

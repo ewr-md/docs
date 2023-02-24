@@ -1,0 +1,64 @@
+\documentclass{beamer}
+\usetheme{CambridgeUS}
+\usecolortheme{dolphin}
+%themes to test
+
+%Theme to: AnnArbor Antibes Bergen Berkeley Berlin Boadilla boxes CambridgeUS Copenhagen Darmstadt default Dresden Frankfurt Goettingen Hannover Ilmenau JuanLesPins Luebeck Madrid Malmoe Marburg Montpellier PaloAlto Pittsburgh Rochester Singapore Szeged Warsaw
+
+%Color to: albatross beaver beetle crane default dolphin dove fly lily orchid rose seagull seahorse sidebartab structure whale wolverine
+
+%Font to: default professionalfonts serif structurebold structureitalicserif structuresmallcapsserif
+\usepackage{graphicx}
+
+\title{Neurologic Manifestations of Hansen's Disease}
+\author{Eric W. Robbins}
+\date{}
+\begin{document}
+	\begin{frame}
+		\maketitle
+	\end{frame}
+	\begin{frame}
+		\frametitle{Incidence USA}
+		\includegraphics[width=1.0\textwidth,keepaspectratio]{hansen-incidence-USA.png}
+	\end{frame}
+	\begin{frame}
+		\frametitle{Incidence Worldwide}
+		\includegraphics[width=1.0\textwidth,keepaspectratio]{hansen-incidence-world.png}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{Sites of Manifestation}
+			\centering
+			\includegraphics[height=0.90\textheight,keepaspectratio]{hansen-sites.jpg}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{Examples of Neuritis\textemdash Great Auricular}
+		\centering
+		\includegraphics[height=0.8\textheight,keepaspectratio]{great-auricular.jpg}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{Examples of Neuritis\textemdash Great Auricular}
+		\centering
+		\includegraphics[height=0.8\textheight,keepaspectratio]{great-auricular.jpg}
+	\end{frame}
+	\begin{frame}
+	\frametitle{Antimicrobials}
+		\centering
+		\includegraphics[height=0.4\textheight,keepaspectratio]{clofazimine-02.jpeg}
+		\begin{columns}
+			\column{0.5\textwidth}
+			\centering
+			\includegraphics[height=.33\textheight,keepaspectratio]{rifampin.jpg}
+			\column{0.5\textwidth}
+			\centering
+			\includegraphics[height=.33\textheight,keepaspectratio]{dapsone.jpg}
+		\end{columns}
+	\end{frame}
+	\begin{frame}
+		\frametitle{Neuritis Treatment}
+		\includegraphics[width=1.0\textwidth,keepaspectratio]{thalidomide.jpg}
+	\end{frame}
+
+\end{document}

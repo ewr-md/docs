@@ -1,0 +1,46 @@
+digraph table_inclusion {
+
+	subgraph included {
+		node [shape = box, color = "limegreen", style = "filled", group = "included"];
+		node_root
+		node_adult
+		node_witness_nonEMS
+		node_non_snf
+		node_final
+	}
+
+	subgraph excluded {
+		node [shape = box, color = "tomato", style = "filled", group = "included", label = "excluded"];
+		node_peds
+		node_witness_EMS
+		node_witness_none
+		node_snf
+		node_missing_ethnic
+		node_missing_other
+		node_ethnic_other
+	}
+
+	node_root [label = "Total Non-Traumatic OOH Arrests\n n = 460,827"]
+	node_adult [label = "Adult\nn = 448,088"]
+	node_peds [label = "Pediatric\nn = 12,739"]
+	node_witness_nonEMS [label = "Witnessed by non-EMS\nn = 169,021"]
+	node_witness_EMS [label = "Witnessed by EMS\nn = 56,272"]
+	node_witness_none [label =	"Unwitnessed\nn = 222,795"]
+	node_snf[label = "At Healthcare Facility\nn = 22,899"]
+	node_non_snf [label = "Not at Healthcare Facility\nn = 146,122"]
+	node_final [label = "Study Population\nn = 110,054"]
+	node_missing_ethnic [label = "Missing Data, Ethnicity\nn = 30,559"]
+	node_missing_other [label = "Missing Data, Other\nn = 919"]
+	node_ethnic_other [label = "Other Ethnicities\nn = 4,590"]
+
+	node_root -> node_adult [weight = 0];
+	node_adult -> {node_witness_none, node_witness_EMS} [weight = 0];
+	node_adult -> node_witness_nonEMS [weight = 0];
+	node_witness_nonEMS -> node_non_snf [weight = 0];
+	node_non_snf-> node_final [weight = 0];
+	
+	node_root -> node_peds [weight = 0];
+	node_witness_nonEMS -> node_snf [weight = 0];
+	node_non_snf -> {node_missing_other, node_missing_ethnic, node_ethnic_other} [weight = 0];
+
+}

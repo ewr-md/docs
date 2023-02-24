@@ -1,0 +1,856 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Teboul2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8155349b4002dee4f0cbcb52a8b862a4}{%
+           family={Teboul},
+           familyi={T\bibinitperiod},
+           given={Jean-Louis},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=51f98dca75335f453da9edae7f00435d}{%
+           family={Monnet},
+           familyi={M\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+        {{hash=16912f9a3e7339298d17a0a702b5088b}{%
+           family={Chemla},
+           familyi={C\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e93d9f75ab85072dbd1050220e9b65c9}{%
+           family={Michard},
+           familyi={M\bibinitperiod},
+           given={Frédéric},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{0877cbad1931c8ccc97a82e364a8bac8}
+      \strng{fullhash}{739cc428ea889ae92141587d4583cd81}
+      \strng{bibnamehash}{0877cbad1931c8ccc97a82e364a8bac8}
+      \strng{authorbibnamehash}{0877cbad1931c8ccc97a82e364a8bac8}
+      \strng{authornamehash}{0877cbad1931c8ccc97a82e364a8bac8}
+      \strng{authorfullhash}{739cc428ea889ae92141587d4583cd81}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1073-449X}
+      \field{journaltitle}{American Journal of Respiratory and Critical Care Medicine}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Arterial Pulse Pressure Variation with Mechanical Ventilation}}
+      \field{volume}{199}
+      \field{year}{2019}
+      \field{pages}{22\bibrangedash 31}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1164/rccm.201801-0088CI
+      \endverb
+      \verb{urlraw}
+      \verb https://www.atsjournals.org/doi/10.1164/rccm.201801-0088CI
+      \endverb
+      \verb{url}
+      \verb https://www.atsjournals.org/doi/10.1164/rccm.201801-0088CI
+      \endverb
+    \endentry
+    \entry{AlvaradoSanchez2021}{article}{}
+      \name{author}{6}{}{%
+        {{hash=a1deafa611d0aece885b16faba5d8616}{%
+           family={{Alvarado Sánchez}},
+           familyi={A\bibinitperiod},
+           given={Jorge\bibnamedelima Iván},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=295b8b696fde0a685ee303377b3e4f06}{%
+           family={{Caicedo Ruiz}},
+           familyi={C\bibinitperiod},
+           given={Juan\bibnamedelima Daniel},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=a88fe7063a21389c37cdbeaa063a6f84}{%
+           family={{Diaztagle Fernández}},
+           familyi={D\bibinitperiod},
+           given={Juan\bibnamedelima José},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b0220039a799d956ef0c2fd2f168914a}{%
+           family={{Amaya Zuñiga}},
+           familyi={A\bibinitperiod},
+           given={William\bibnamedelima Fernando},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=9870a8a6d8ba53039d396bf9ece0ac11}{%
+           family={Ospina-Tascón},
+           familyi={O\bibinithyphendelim T\bibinitperiod},
+           given={Gustavo\bibnamedelima Adolfo},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a721d2a5d0168d63c19327e833f6b273}{%
+           family={{Cruz Martínez}},
+           familyi={C\bibinitperiod},
+           given={Luis\bibnamedelima Eduardo},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{82cd656f0211d65eea5c12568d8a466b}
+      \strng{fullhash}{b5753580a23d6551ad9ab29002353678}
+      \strng{bibnamehash}{82cd656f0211d65eea5c12568d8a466b}
+      \strng{authorbibnamehash}{82cd656f0211d65eea5c12568d8a466b}
+      \strng{authornamehash}{82cd656f0211d65eea5c12568d8a466b}
+      \strng{authorfullhash}{b5753580a23d6551ad9ab29002353678}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2110-5820}
+      \field{journaltitle}{Annals of Intensive Care}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{Predictors of fluid responsiveness in critically ill patients mechanically ventilated at low tidal volumes: systematic review and meta-analysis}}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{pages}{28}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s13613-021-00817-5
+      \endverb
+      \verb{urlraw}
+      \verb https://annalsofintensivecare.springeropen.com/articles/10.1186/s13613-021-00817-5
+      \endverb
+      \verb{url}
+      \verb https://annalsofintensivecare.springeropen.com/articles/10.1186/s13613-021-00817-5
+      \endverb
+    \endentry
+    \entry{Marik2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5931cac2121fac3423d995ace5610e36}{%
+           family={Marik},
+           familyi={M\bibinitperiod},
+           given={Paul\bibnamedelima E},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=51f98dca75335f453da9edae7f00435d}{%
+           family={Monnet},
+           familyi={M\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+        {{hash=8155349b4002dee4f0cbcb52a8b862a4}{%
+           family={Teboul},
+           familyi={T\bibinitperiod},
+           given={Jean-Louis},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb206f1ec6d6a2efaf23f513acfc1090}
+      \strng{fullhash}{bb206f1ec6d6a2efaf23f513acfc1090}
+      \strng{bibnamehash}{bb206f1ec6d6a2efaf23f513acfc1090}
+      \strng{authorbibnamehash}{bb206f1ec6d6a2efaf23f513acfc1090}
+      \strng{authornamehash}{bb206f1ec6d6a2efaf23f513acfc1090}
+      \strng{authorfullhash}{bb206f1ec6d6a2efaf23f513acfc1090}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2110-5820}
+      \field{journaltitle}{Annals of Intensive Care}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{Hemodynamic parameters to guide fluid therapy}}
+      \field{volume}{1}
+      \field{year}{2011}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/2110-5820-1-1
+      \endverb
+      \verb{urlraw}
+      \verb https://annalsofintensivecare.springeropen.com/articles/10.1186/2110-5820-1-1
+      \endverb
+      \verb{url}
+      \verb https://annalsofintensivecare.springeropen.com/articles/10.1186/2110-5820-1-1
+      \endverb
+    \endentry
+    \entry{Monnet2012}{article}{}
+      \name{author}{7}{}{%
+        {{hash=51f98dca75335f453da9edae7f00435d}{%
+           family={Monnet},
+           familyi={M\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+        {{hash=e11f618882b47740fce16936cdeab4af}{%
+           family={Bleibtreu},
+           familyi={B\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=61deb1833e24402614b394d33b7aae9a}{%
+           family={Ferré},
+           familyi={F\bibinitperiod},
+           given={Alexis},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b0bf3953729e291d7ffb7e36477f3c49}{%
+           family={Dres},
+           familyi={D\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e7300d07c88431a8cb76ca60a2ec57cf}{%
+           family={Gharbi},
+           familyi={G\bibinitperiod},
+           given={Rim},
+           giveni={R\bibinitperiod}}}%
+        {{hash=50de1d8f8f21ff77783eb890dac00c7d}{%
+           family={Richard},
+           familyi={R\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8155349b4002dee4f0cbcb52a8b862a4}{%
+           family={Teboul},
+           familyi={T\bibinitperiod},
+           given={Jean-Louis},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{92eb64cdc7735212843991df8ea89aa6}
+      \strng{fullhash}{871afa1fe4845e7036ac54322672ea6e}
+      \strng{bibnamehash}{92eb64cdc7735212843991df8ea89aa6}
+      \strng{authorbibnamehash}{92eb64cdc7735212843991df8ea89aa6}
+      \strng{authornamehash}{92eb64cdc7735212843991df8ea89aa6}
+      \strng{authorfullhash}{871afa1fe4845e7036ac54322672ea6e}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0090-3493}
+      \field{journaltitle}{Critical Care Medicine}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Passive leg-raising and end-expiratory occlusion tests perform better than pulse pressure variation in patients with low respiratory system compliance*}}
+      \field{volume}{40}
+      \field{year}{2012}
+      \field{pages}{152\bibrangedash 157}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1097/CCM.0b013e31822f08d7
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.lww.com/00003246-201201000-00023
+      \endverb
+      \verb{url}
+      \verb http://journals.lww.com/00003246-201201000-00023
+      \endverb
+    \endentry
+    \entry{Douglas2020}{article}{}
+      \name{author}{16}{}{%
+        {{hash=a2509172b3378b9881e31ce5e71b8631}{%
+           family={Douglas},
+           familyi={D\bibinitperiod},
+           given={Ivor\bibnamedelima S.},
+           giveni={I\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=248d3ae74042b5f3ac5489b9ffe2e966}{%
+           family={Alapat},
+           familyi={A\bibinitperiod},
+           given={Philip\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a430ac5af1901d80279bc125175ce4ab}{%
+           family={Corl},
+           familyi={C\bibinitperiod},
+           given={Keith\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8b051ff84bcaa1ca6bb0bd8c469d891e}{%
+           family={Exline},
+           familyi={E\bibinitperiod},
+           given={Matthew\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ccec5e407b215a3ef4a6a6bfc3f708e0}{%
+           family={Forni},
+           familyi={F\bibinitperiod},
+           given={Lui\bibnamedelima G.},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=e85ff01ca8af8b1e2ebe50548cb0f4cc}{%
+           family={Holder},
+           familyi={H\bibinitperiod},
+           given={Andre\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=05613f3fdb79669cdb7ed718e0a809ed}{%
+           family={Kaufman},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=603b2167897b84f07a6ed7e81e6455de}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Akram},
+           giveni={A\bibinitperiod}}}%
+        {{hash=051314791a4a94cda595c29a9ebd48e7}{%
+           family={Levy},
+           familyi={L\bibinitperiod},
+           given={Mitchell\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9d902fd4dd904c174fede5cca56171be}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Gregory\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4fff72937f7591f91d147b1c93305384}{%
+           family={Sahatjian},
+           familyi={S\bibinitperiod},
+           given={Jennifer\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d1b9fa44eec8e98bf941d5f97bebd9d3}{%
+           family={Seeley},
+           familyi={S\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=241c2decc47c2e1c9a5bf3471c287cf6}{%
+           family={Self},
+           familyi={S\bibinitperiod},
+           given={Wesley\bibnamedelima H.},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=f8cff619f077f7a3b1948ee7ee734f94}{%
+           family={Weingarten},
+           familyi={W\bibinitperiod},
+           given={Jeremy\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ab8e9cdec237082a76dc691175185bf6}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2919542398a01c549ac43413626dce3f}{%
+           family={Hansell},
+           familyi={H\bibinitperiod},
+           given={Douglas\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae065e6eb1d78a004b4529722014660b}
+      \strng{fullhash}{cc0c23341e90935d42bc094a64f4e588}
+      \strng{bibnamehash}{ae065e6eb1d78a004b4529722014660b}
+      \strng{authorbibnamehash}{ae065e6eb1d78a004b4529722014660b}
+      \strng{authornamehash}{ae065e6eb1d78a004b4529722014660b}
+      \strng{authorfullhash}{cc0c23341e90935d42bc094a64f4e588}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00123692}
+      \field{journaltitle}{Chest}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{{Fluid Response Evaluation in Sepsis Hypotension and Shock}}
+      \field{volume}{158}
+      \field{year}{2020}
+      \field{pages}{1431\bibrangedash 1445}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.chest.2020.04.025
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369220307686
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369220307686
+      \endverb
+    \endentry
+    \entry{Monnet2006}{article}{}
+      \name{author}{7}{}{%
+        {{hash=51f98dca75335f453da9edae7f00435d}{%
+           family={Monnet},
+           familyi={M\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+        {{hash=8d6b909c9f1a14a92627a930fb39bc19}{%
+           family={Rienzo},
+           familyi={R\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ff28acd4de810a4c45ad44167b78edcc}{%
+           family={Osman},
+           familyi={O\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bd71b75604e962c07a409ca29221e255}{%
+           family={Anguel},
+           familyi={A\bibinitperiod},
+           given={Nadia},
+           giveni={N\bibinitperiod}}}%
+        {{hash=50de1d8f8f21ff77783eb890dac00c7d}{%
+           family={Richard},
+           familyi={R\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1f637d8a33104b6a0ebc32c54b71b993}{%
+           family={Pinsky},
+           familyi={P\bibinitperiod},
+           given={Michael\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8155349b4002dee4f0cbcb52a8b862a4}{%
+           family={Teboul},
+           familyi={T\bibinitperiod},
+           given={Jean-Louis},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{92eb64cdc7735212843991df8ea89aa6}
+      \strng{fullhash}{540f6d1d6fadc1b8247e217925a7be1f}
+      \strng{bibnamehash}{92eb64cdc7735212843991df8ea89aa6}
+      \strng{authorbibnamehash}{92eb64cdc7735212843991df8ea89aa6}
+      \strng{authornamehash}{92eb64cdc7735212843991df8ea89aa6}
+      \strng{authorfullhash}{540f6d1d6fadc1b8247e217925a7be1f}
+      \field{extraname}{2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0090-3493}
+      \field{journaltitle}{Critical Care Medicine}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{{Passive leg raising predicts fluid responsiveness in the critically ill*}}
+      \field{volume}{34}
+      \field{year}{2006}
+      \field{pages}{1402\bibrangedash 1407}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1097/01.CCM.0000215453.11735.06
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.lww.com/00003246-200605000-00016
+      \endverb
+      \verb{url}
+      \verb http://journals.lww.com/00003246-200605000-00016
+      \endverb
+    \endentry
+    \entry{Gavelli2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=329f94450cd6c11f7afebda75181ea5e}{%
+           family={Gavelli},
+           familyi={G\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8155349b4002dee4f0cbcb52a8b862a4}{%
+           family={Teboul},
+           familyi={T\bibinitperiod},
+           given={Jean-Louis},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=51f98dca75335f453da9edae7f00435d}{%
+           family={Monnet},
+           familyi={M\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{1393517d5146cd0c659f00cfadf69d5e}
+      \strng{fullhash}{1393517d5146cd0c659f00cfadf69d5e}
+      \strng{bibnamehash}{1393517d5146cd0c659f00cfadf69d5e}
+      \strng{authorbibnamehash}{1393517d5146cd0c659f00cfadf69d5e}
+      \strng{authornamehash}{1393517d5146cd0c659f00cfadf69d5e}
+      \strng{authorfullhash}{1393517d5146cd0c659f00cfadf69d5e}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1364-8535}
+      \field{journaltitle}{Critical Care}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{The end-expiratory occlusion test: please, let me hold your breath!}}
+      \field{volume}{23}
+      \field{year}{2019}
+      \field{pages}{274}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s13054-019-2554-y
+      \endverb
+      \verb{urlraw}
+      \verb https://ccforum.biomedcentral.com/articles/10.1186/s13054-019-2554-y
+      \endverb
+      \verb{url}
+      \verb https://ccforum.biomedcentral.com/articles/10.1186/s13054-019-2554-y
+      \endverb
+    \endentry
+    \entry{DeBacker2014}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e6f9afb6c079a53a85ff45f82f77429e}{%
+           family={{De Backer}},
+           familyi={D\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a07020439522ac2115664d3287629db5}{%
+           family={Fagnoul},
+           familyi={F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{146cc2afd10d65f74089a4428e47f05a}
+      \strng{fullhash}{146cc2afd10d65f74089a4428e47f05a}
+      \strng{bibnamehash}{146cc2afd10d65f74089a4428e47f05a}
+      \strng{authorbibnamehash}{146cc2afd10d65f74089a4428e47f05a}
+      \strng{authornamehash}{146cc2afd10d65f74089a4428e47f05a}
+      \strng{authorfullhash}{146cc2afd10d65f74089a4428e47f05a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2325-6621}
+      \field{journaltitle}{Annals of the American Thoracic Society}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Intensive Care Ultrasound: VI. Fluid Responsiveness and Shock Assessment}}
+      \field{volume}{11}
+      \field{year}{2014}
+      \field{pages}{129\bibrangedash 136}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1513/AnnalsATS.201309-320OT
+      \endverb
+      \verb{urlraw}
+      \verb http://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.201309-320OT
+      \endverb
+      \verb{url}
+      \verb http://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.201309-320OT
+      \endverb
+    \endentry
+    \entry{Via2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=588acc8ab4d51d68a92866ce9075d961}{%
+           family={Via},
+           familyi={V\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8e30a487cba4f1fa7cea01b20ea06cc8}{%
+           family={Tavazzi},
+           familyi={T\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=fa66c04b5076dd3b0afff91d081a5881}{%
+           family={Price},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{13204ca65c7dcc0b3d72c020fa987d69}
+      \strng{fullhash}{13204ca65c7dcc0b3d72c020fa987d69}
+      \strng{bibnamehash}{13204ca65c7dcc0b3d72c020fa987d69}
+      \strng{authorbibnamehash}{13204ca65c7dcc0b3d72c020fa987d69}
+      \strng{authornamehash}{13204ca65c7dcc0b3d72c020fa987d69}
+      \strng{authorfullhash}{13204ca65c7dcc0b3d72c020fa987d69}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0342-4642}
+      \field{journaltitle}{Intensive Care Medicine}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{{Ten situations where inferior vena cava ultrasound may fail to accurately predict fluid responsiveness: a physiologically based point of view}}
+      \field{volume}{42}
+      \field{year}{2016}
+      \field{pages}{1164\bibrangedash 1167}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1007/s00134-016-4357-9
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00134-016-4357-9
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00134-016-4357-9
+      \endverb
+    \endentry
+    \entry{Long2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0f4c10b1bd6bafe30f50d5727f22c71f}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Elliot},
+           giveni={E\bibinitperiod}}}%
+        {{hash=68b3e000bd5628a382a89dfbb7d524c7}{%
+           family={Oakley},
+           familyi={O\bibinitperiod},
+           given={Ed},
+           giveni={E\bibinitperiod}}}%
+        {{hash=29cd76c4f8847d5be4eec490bed5bb6c}{%
+           family={Duke},
+           familyi={D\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=10b99f8685af3232d10548a7bd4fad74}{%
+           family={Babl},
+           familyi={B\bibinitperiod},
+           given={Franz\bibnamedelima E.},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c15c24cc99d4eeefe68af7456045585}
+      \strng{fullhash}{3dc806d3e73e53e1a9e837d1f150fd79}
+      \strng{bibnamehash}{8c15c24cc99d4eeefe68af7456045585}
+      \strng{authorbibnamehash}{8c15c24cc99d4eeefe68af7456045585}
+      \strng{authornamehash}{8c15c24cc99d4eeefe68af7456045585}
+      \strng{authorfullhash}{3dc806d3e73e53e1a9e837d1f150fd79}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: The aim of fluid resuscitation is to increase stroke volume, yet this effect is observed in only 50{\%} of patients. Prediction of fluid responsiveness may allow fluid resuscitation to be administered to those most likely to benefit. The aim of this study was to systematically review the test characteristics of respiratory variation in inferior vena cava (IVC) diameter as a predictor of fluid responsiveness in patients with acute circulatory failure. Methods: Electronic searches combined with reference review of identified studies. Prospective observational studies of all patient groups and ages that used a recognized reference standard, stratified participants into fluid responders and fluid non-responders, and used summary statistics to describe their results were selected for inclusion. Study design, size, setting, patient population, use of mechanical ventilation and tidal volume, definition of fluid responsiveness, fluid challenge strategy, and summary statistics were ed. Quality assessment was performed using the Quality Assessment of Diagnostic Accuracy Studies-2 (QUADAS-2) domains. Results: Seventeen studies involving 533 patients were included, in whom 253 (47{\%}) were fluid responders. The pooled sensitivity and specificity for a positive IVC ultrasound as a predictor of fluid responsiveness were 0.63 (95{\%} confidence interval [CI]: 0.56-0.69) and 0.73 (95{\%} CI: 0.67-0.78), respectively, with a pooled area under the receiver operating characteristic curve of 0.79 (standard error 0.05). In subgroup analysis, respiratory variation in IVC diameter was a better predictor of fluid responsiveness in mechanically ventilated patients. Conclusions: Respiratory variation in IVC diameter has limited ability to predict fluid responsiveness, particularly in spontaneously ventilating patients. A negative test cannot be used to rule out fluid responsiveness. Clinical context should be taken into account when using IVC ultrasound to help make treatment decisions.}
+      \field{issn}{15400514}
+      \field{journaltitle}{Shock}
+      \field{number}{5}
+      \field{title}{{Does Respiratory Variation in Inferior Vena Cava Diameter Predict Fluid Responsiveness: A Systematic Review and Meta-Analysis}}
+      \field{volume}{47}
+      \field{year}{2017}
+      \field{pages}{550\bibrangedash 559}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1097/SHK.0000000000000801
+      \endverb
+      \keyw{Circulatory failure,echocardiography,fluid therapy,resuscitation,sepsis,shock}
+    \endentry
+    \entry{Orso2020}{article}{}
+      \name{author}{6}{}{%
+        {{hash=326853ca61dac394d049861368cb4661}{%
+           family={Orso},
+           familyi={O\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fc24e8c378815810159a6969f7cb827b}{%
+           family={Paoli},
+           familyi={P\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod}}}%
+        {{hash=19ccdcbd31f36eea327eadcb9746c14a}{%
+           family={Piani},
+           familyi={P\bibinitperiod},
+           given={Tommaso},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a15e6bdc81bd575772d4284a860a8362}{%
+           family={Cilenti},
+           familyi={C\bibinitperiod},
+           given={Francesco\bibnamedelima L.},
+           giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=937a433dd24253079c834352737431d7}{%
+           family={Cristiani},
+           familyi={C\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=75772758163d8462731c48ec7fcb52c6}{%
+           family={Guglielmo},
+           familyi={G\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{d16bde14e0a44a91e9bfd1ae93200be1}
+      \strng{fullhash}{3c8b9f36100577d595b57f4ae0127fcd}
+      \strng{bibnamehash}{d16bde14e0a44a91e9bfd1ae93200be1}
+      \strng{authorbibnamehash}{d16bde14e0a44a91e9bfd1ae93200be1}
+      \strng{authornamehash}{d16bde14e0a44a91e9bfd1ae93200be1}
+      \strng{authorfullhash}{3c8b9f36100577d595b57f4ae0127fcd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Objective: Fluid responsiveness is the ability to increase the cardiac output in response to a fluid challenge. Only about 50{\%} of patients receiving fluid resuscitation for acute circulatory failure increase their stroke volume, but the other 50{\%} may worsen their outcome. Therefore, predicting fluid responsiveness is needed. In this purpose, in recent years, the assessment of the inferior vena cava (IVC) through ultrasound (US) has become very popular. The aim of our work was to systematically review all the previously published studies assessing the accuracy of the diameter of IVC or its respiratory variations measured through US in predicting fluid responsiveness. Data Sources: We searched in the MEDLINE (PubMed), Embase, Web of Science databases for all relevant articles from inception to September 2017. Study Selection: Included articles specifically addressed the accuracy of IVC diameter or its respiratory variations assessed by US in predicting the fluid responsiveness in critically ill ventilated or not, adult or pediatric patients. Data Extraction: We included 26 studies that investigated the role of the caval index (IVC collapsibility or distensibility) and 5 studies on IVC diameter. Data Synthesis: We conducted a meta-analysis for caval index with 20 studies: The pooled area under the curve, logarithmic diagnostic odds ratio, sensitivity, and specificity were 0.71 (95{\%} confidence interval [CI]: 0.46-0.83), 2.02 (95{\%} CI: 1.29-2.89), 0.71 (95{\%} CI: 0.62-0.80), and 0.75 (95{\%} CI: 0.64-0.85), respectively. Conclusion: An extreme heterogeneity of included studies was highlighted. Ultrasound evaluation of the diameter of the IVC and its respiratory variations does not seem to be a reliable method to predict fluid responsiveness.}
+      \field{issn}{15251489}
+      \field{journaltitle}{Journal of Intensive Care Medicine}
+      \field{number}{4}
+      \field{title}{{Accuracy of Ultrasonographic Measurements of Inferior Vena Cava to Determine Fluid Responsiveness: A Systematic Review and Meta-Analysis}}
+      \field{volume}{35}
+      \field{year}{2020}
+      \field{pages}{354\bibrangedash 363}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1177/0885066617752308
+      \endverb
+      \keyw{fluid responsiveness,inferior vena cava,meta-analysis,review}
+    \endentry
+    \entry{Kim2021}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5012b5c97f90b6fbccb8e84ac91539c3}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Do-Wan},
+           giveni={D\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=a73f96741d0d570dad89a46df46d9700}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Seungwoo},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ca11b66e11c3c9d17eb7a5e90c190325}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Wu-Seong},
+           giveni={W\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=a71ccf907aed78a7ee4a2e7f42809b95}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Joongsuck},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f1f104241e5f5879ba79b8584128450}
+      \strng{fullhash}{9ff04193737e081398d357d4ee7202ce}
+      \strng{bibnamehash}{7f1f104241e5f5879ba79b8584128450}
+      \strng{authorbibnamehash}{7f1f104241e5f5879ba79b8584128450}
+      \strng{authornamehash}{7f1f104241e5f5879ba79b8584128450}
+      \strng{authorfullhash}{9ff04193737e081398d357d4ee7202ce}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This systematic review and meta-analysis aimed to investigate the ultrasonographic variation of the diameter of the inferior vena cava (IVC), internal jugular vein (IJV), subclavian vein (SCV), and femoral vein (FV) to predict fluid responsiveness in critically ill patients. Relevant articles were obtained by searching PubMed, EMBASE, and Cochrane databases (articles up to 21 October 2021). The number of true positives, false positives, false negatives, and true negatives for the index test to predict fluid responsiveness was collected. We used a hierarchical summary receiver operating characteristics model and bivariate model for meta-analysis. Finally, 30 studies comprising 1719 patients were included in this review. The ultrasonographic variation of the IVC showed a pooled sensitivity and specificity of 0.75 and 0.83, respectively. The area under the receiver operating characteristics curve was 0.86. In the subgroup analysis, there was no difference between patients on mechanical ventilation and those breathing spontaneously. In terms of the IJV, SCV, and FV, meta-analysis was not conducted due to the limited number of studies. The ultrasonographic measurement of the variation in diameter of the IVC has a favorable diagnostic accuracy for predicting fluid responsiveness in critically ill patients. However, there was insufficient evidence in terms of the IJV, SCV, and FV.}
+      \field{issn}{2075-4418}
+      \field{journaltitle}{Diagnostics}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{Diagnostic Accuracy of Ultrasonographic Respiratory Variation in the Inferior Vena Cava, Subclavian Vein, Internal Jugular Vein, and Femoral Vein Diameter to Predict Fluid Responsiveness: A Systematic Review and Meta-Analysis}}
+      \field{volume}{12}
+      \field{year}{2021}
+      \field{pages}{49}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/diagnostics12010049
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2075-4418/12/1/49
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2075-4418/12/1/49
+      \endverb
+    \endentry
+    \entry{Ceruti2018}{article}{}
+      \name{author}{7}{}{%
+        {{hash=cce1f5305e500ac68ac1d43cc9296bd8}{%
+           family={Ceruti},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=adbdeccc1cfb72025aaff69da043cabf}{%
+           family={Anselmi},
+           familyi={A\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a0b99ecd9ee7c54c3fe218be900471d3}{%
+           family={Minotti},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7f0ab44fdfe0a577d916c6c2e853f136}{%
+           family={Franceschini},
+           familyi={F\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5d1422d4bcaec422ba7651ede97d8842}{%
+           family={Aguirre},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2c6786bfd56887af0e1a4e716e416a81}{%
+           family={Borgeat},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=95ad53a62dabff1aadce3c3a2b4155f7}{%
+           family={Saporito},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cb08f5c81a7342b4b3e60bdf1a02e64b}
+      \strng{fullhash}{753142bf3e59b7c29b723dc7270dbd0d}
+      \strng{bibnamehash}{cb08f5c81a7342b4b3e60bdf1a02e64b}
+      \strng{authorbibnamehash}{cb08f5c81a7342b4b3e60bdf1a02e64b}
+      \strng{authornamehash}{cb08f5c81a7342b4b3e60bdf1a02e64b}
+      \strng{authorfullhash}{753142bf3e59b7c29b723dc7270dbd0d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00070912}
+      \field{journaltitle}{British Journal of Anaesthesia}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Prevention of arterial hypotension after spinal anaesthesia using vena cava ultrasound to guide fluid management}}
+      \field{volume}{120}
+      \field{year}{2018}
+      \field{pages}{101\bibrangedash 108}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.bja.2017.08.001
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0007091217539422
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0007091217539422
+      \endverb
+    \endentry
+    \entry{Tawfik2019}{article}{}
+      \name{author}{6}{}{%
+        {{hash=06aec73ef77a8288e6d80ba0f4794e90}{%
+           family={Tawfik},
+           familyi={T\bibinitperiod},
+           given={Mohamed\bibnamedelima Mohamed},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=16be57cd2c0520e2614adabcd181d9c9}{%
+           family={Tarbay},
+           familyi={T\bibinitperiod},
+           given={Amany\bibnamedelima Ismail},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=3bb64f537b61e6c74673e8e93b7301d6}{%
+           family={Elaidy},
+           familyi={E\bibinitperiod},
+           given={Ahmed\bibnamedelima Mohamed},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cef8b86562fee6b9d54cca6a5877ff59}{%
+           family={Awad},
+           familyi={A\bibinitperiod},
+           given={Karim\bibnamedelima Ali},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=558fbec0c26ce479b571efa533d0d3ee}{%
+           family={Ezz},
+           familyi={E\bibinitperiod},
+           given={Hanaa\bibnamedelima Mohamed},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5be6a9ed0d29a2bec0ec6b63100af747}{%
+           family={Tolba},
+           familyi={T\bibinitperiod},
+           given={Mohamed\bibnamedelima Ahmed},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{643726805611bbb0124fb4af99b70053}
+      \strng{fullhash}{7574a950f4dbd9d7cae2609688c34e41}
+      \strng{bibnamehash}{643726805611bbb0124fb4af99b70053}
+      \strng{authorbibnamehash}{643726805611bbb0124fb4af99b70053}
+      \strng{authornamehash}{643726805611bbb0124fb4af99b70053}
+      \strng{authorfullhash}{7574a950f4dbd9d7cae2609688c34e41}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0003-2999}
+      \field{journaltitle}{Anesthesia {\&} Analgesia}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{{Combined Colloid Preload and Crystalloid Coload Versus Crystalloid Coload During Spinal Anesthesia for Cesarean Delivery}}
+      \field{volume}{128}
+      \field{year}{2019}
+      \field{pages}{304\bibrangedash 312}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1213/ANE.0000000000003306
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.lww.com/00000539-201902000-00016
+      \endverb
+      \verb{url}
+      \verb http://journals.lww.com/00000539-201902000-00016
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

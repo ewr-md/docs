@@ -1,0 +1,27 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[1] Config.pm:315> INFO - Logfile is 'present_hyperkalemia.blg'
+[173] biber:330> INFO - === Mon Nov  1, 2021, 19:35:34
+[201] Biber.pm:415> INFO - Reading 'present_hyperkalemia.bcf'
+[354] Biber.pm:952> INFO - Found 10 citekeys in bib section 0
+[387] Biber.pm:4334> INFO - Processing section 0
+[409] Biber.pm:4523> INFO - Looking for bibtex format file 'bib.bib' for section 0
+[414] bibtex.pm:1682> INFO - LaTeX decoding ...
+[462] bibtex.pm:1494> INFO - Found BibTeX data source 'bib.bib'
+[539] Utils.pm:395> WARN - month field 'may' in entry 'Hougen2021' is not an integer - this will probably not sort properly.
+[563] Utils.pm:395> WARN - month field 'jan' in entry 'Rafique2020' is not an integer - this will probably not sort properly.
+[579] Utils.pm:395> WARN - month field 'nov' in entry 'Wrenn1991' is not an integer - this will probably not sort properly.
+[595] Utils.pm:395> WARN - month field 'mar' in entry 'Montague2008' is not an integer - this will probably not sort properly.
+[766] Utils.pm:395> WARN - month field 'jan' in entry 'Clase2020' is not an integer - this will probably not sort properly.
+[782] Utils.pm:395> WARN - month field 'dec' in entry 'LaRue2017' is not an integer - this will probably not sort properly.
+[795] Utils.pm:395> WARN - month field 'mar' in entry 'Allon1989' is not an integer - this will probably not sort properly.
+[809] Utils.pm:395> WARN - month field 'nov' in entry 'Allon1990' is not an integer - this will probably not sort properly.
+[838] Utils.pm:395> WARN - month field 'feb' in entry 'Liou1994' is not an integer - this will probably not sort properly.
+[868] Utils.pm:395> WARN - month field 'mar' in entry 'Mandelberg1999' is not an integer - this will probably not sort properly.
+[870] Utils.pm:395> WARN - BibTeX subsystem: /tmp/biber_tmp_JXmS/283e1cb250985c2debc501124f55eeff_4947.utf8, line 6, warning: 172 characters of junk seen at toplevel
+[916] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[916] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[916] Biber.pm:4162> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[916] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[948] bbl.pm:651> INFO - Writing 'present_hyperkalemia.bbl' with encoding 'UTF-8'
+[990] bbl.pm:754> INFO - Output to present_hyperkalemia.bbl
+[991] Biber.pm:128> INFO - WARNINGS: 11

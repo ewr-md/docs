@@ -1,0 +1,371 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{sasson_association_2012}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ea12209d8189547202d46ab5976b1607}{%
+           family={Sasson},
+           familyi={S\bibinitperiod},
+           given={Comilla},
+           giveni={C\bibinitperiod}}}%
+        {{hash=10a00d9049c74d840df7f0124c5370dd}{%
+           family={Magid},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=3b7387b53cf3fa2be77eeab42227aa7c}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9eab94111fae82438d755be63f2c45ef}{%
+           family={Root},
+           familyi={R\bibinitperiod},
+           given={Elisabeth\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e191f1caad909ab34f985ca0eade9eaf}{%
+           family={{McNally}},
+           familyi={M\bibinitperiod},
+           given={Bryan\bibnamedelima F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=21ad6d89241cfcd8b24ff13d4ed5bd61}{%
+           family={Kellermann},
+           familyi={K\bibinitperiod},
+           given={Arthur\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f98a57e15476822b199b6f33ab73e782}{%
+           family={Haukoos},
+           familyi={H\bibinitperiod},
+           given={Jason\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f71477a4afd8d35cebe206932da0015f}
+      \strng{fullhash}{b581d382803297e89bed20a7c22f3b46}
+      \strng{bibnamehash}{f71477a4afd8d35cebe206932da0015f}
+      \strng{authorbibnamehash}{f71477a4afd8d35cebe206932da0015f}
+      \strng{authornamehash}{f71477a4afd8d35cebe206932da0015f}
+      \strng{authorfullhash}{b581d382803297e89bed20a7c22f3b46}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{issn}{0028-4793, 1533-4406}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{17}
+      \field{shortjournal}{N Engl J Med}
+      \field{title}{Association of Neighborhood Characteristics with Bystander-Initiated {CPR}}
+      \field{urlday}{6}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{367}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1607\bibrangedash 1615}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1056/NEJMoa1110700
+      \endverb
+      \verb{file}
+      \verb Accepted Version:/home/eric/Zotero/storage/8DYAYJG6/Sasson et al. - 2012 - Association of Neighborhood Characteristics with B.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nejm.org/doi/abs/10.1056/NEJMoa1110700
+      \endverb
+      \verb{url}
+      \verb http://www.nejm.org/doi/abs/10.1056/NEJMoa1110700
+      \endverb
+    \endentry
+    \entry{anderson_rates_2014}{article}{}
+      \name{author}{11}{}{%
+        {{hash=f91a65e71313697be9431f9e329f70e8}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Monique\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1b5e61961c446a02f71868e04dabb72c}{%
+           family={Cox},
+           familyi={C\bibinitperiod},
+           given={Margueritte},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8d81997e3b0e6e7cc76fd9ceeeb5c9af}{%
+           family={Al-Khatib},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={Sana\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3163c5a7afa3e6121a2b477d8b018357}{%
+           family={Nichol},
+           familyi={N\bibinitperiod},
+           given={Graham},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0a8744fbb6a870c6c3365fcfb54e35d3}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Kevin\bibnamedelima L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d7666b03ec999701cdbbda5925754b41}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={Paul\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0c5e0ee19dcdcd34fcd36a16fe419ce7}{%
+           family={Saha-Chaudhuri},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Paramita},
+           giveni={P\bibinitperiod}}}%
+        {{hash=96d738a549ad1bc5c86d248cd45a486f}{%
+           family={Fosbol},
+           familyi={F\bibinitperiod},
+           given={Emil\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=59eee3797e4cca1304e3931f349f4819}{%
+           family={Eigel},
+           familyi={E\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=52688b0e2c7f3713e16e6955cdde9425}{%
+           family={Clendenen},
+           familyi={C\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+        {{hash=dab8eda9d84d0d5a5a1e6c846080d809}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={Eric\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{3710ddf02192f74ac88b7b2edfde9aa7}
+      \strng{fullhash}{6c8ee1f48ffb9389e3893288ba469a16}
+      \strng{bibnamehash}{3710ddf02192f74ac88b7b2edfde9aa7}
+      \strng{authorbibnamehash}{3710ddf02192f74ac88b7b2edfde9aa7}
+      \strng{authornamehash}{3710ddf02192f74ac88b7b2edfde9aa7}
+      \strng{authorfullhash}{6c8ee1f48ffb9389e3893288ba469a16}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{2168-6106}
+      \field{journaltitle}{{JAMA} Internal Medicine}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{{JAMA} Intern Med}
+      \field{title}{Rates of Cardiopulmonary Resuscitation Training in the United States}
+      \field{urlday}{6}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{174}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{194}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1001/jamainternmed.2013.11320
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/eric/Zotero/storage/CSCPR7SP/Anderson et al. - 2014 - Rates of Cardiopulmonary Resuscitation Training in.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://archinte.jamanetwork.com/article.aspx?doi=10.1001/jamainternmed.2013.11320
+      \endverb
+      \verb{url}
+      \verb http://archinte.jamanetwork.com/article.aspx?doi=10.1001/jamainternmed.2013.11320
+      \endverb
+    \endentry
+    \entry{sasson_barriers_2015}{article}{}
+      \name{author}{8}{}{%
+        {{hash=ea12209d8189547202d46ab5976b1607}{%
+           family={Sasson},
+           familyi={S\bibinitperiod},
+           given={Comilla},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f98a57e15476822b199b6f33ab73e782}{%
+           family={Haukoos},
+           familyi={H\bibinitperiod},
+           given={Jason\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9489a0ee6a53ddf419cdd28530579cc2}{%
+           family={Ben-Youssef},
+           familyi={B\bibinithyphendelim Y\bibinitperiod},
+           given={Leila},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fa3fa149a6a181d6d0f8e01de867d464}{%
+           family={Ramirez},
+           familyi={R\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=455b0e79ed9b801b1db571e20b67c2c9}{%
+           family={Bull},
+           familyi={B\bibinitperiod},
+           given={Sheana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=59eee3797e4cca1304e3931f349f4819}{%
+           family={Eigel},
+           familyi={E\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=10a00d9049c74d840df7f0124c5370dd}{%
+           family={Magid},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=fb039fe828fb86771e86c703ad84a55f}{%
+           family={Padilla},
+           familyi={P\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f71477a4afd8d35cebe206932da0015f}
+      \strng{fullhash}{a2262cfba2ab37d75416bdac11c69e1e}
+      \strng{bibnamehash}{f71477a4afd8d35cebe206932da0015f}
+      \strng{authorbibnamehash}{f71477a4afd8d35cebe206932da0015f}
+      \strng{authornamehash}{f71477a4afd8d35cebe206932da0015f}
+      \strng{authorfullhash}{a2262cfba2ab37d75416bdac11c69e1e}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01960644}
+      \field{journaltitle}{Annals of Emergency Medicine}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{5}
+      \field{shortjournal}{Annals of Emergency Medicine}
+      \field{title}{Barriers to Calling 911 and Learning and Performing Cardiopulmonary Resuscitation for Residents of Primarily Latino, High-Risk Neighborhoods in Denver, Colorado}
+      \field{urlday}{6}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{65}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{545\bibrangedash 552.e2}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.annemergmed.2014.10.028
+      \endverb
+      \verb{file}
+      \verb Accepted Version:/home/eric/Zotero/storage/FEC2CZDU/Sasson et al. - 2015 - Barriers to Calling 911 and Learning and Performin.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0196064414014152
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0196064414014152
+      \endverb
+    \endentry
+    \entry{nuno_disparities_2017}{article}{}
+      \name{author}{9}{}{%
+        {{hash=97976e1d34179b4363c7720e8c07ba12}{%
+           family={Nuño},
+           familyi={N\bibinitperiod},
+           given={Tomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1880ed9c78041e5f46412e6b686d005b}{%
+           family={Bobrow},
+           familyi={B\bibinitperiod},
+           given={Bentley\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2f4df1a92c50cbd39d7916f76b2b2e43}{%
+           family={Rogge-Miller},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Karen\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bf9e8608bcd48c13ae02a6165a6c9fab}{%
+           family={Panczyk},
+           familyi={P\bibinitperiod},
+           given={Micah},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f72ca755dbc93579162c12f33a6c9bc2}{%
+           family={Mullins},
+           familyi={M\bibinitperiod},
+           given={Terry},
+           giveni={T\bibinitperiod}}}%
+        {{hash=cb22d390a063a7698015546413cb0256}{%
+           family={Tormala},
+           familyi={T\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod}}}%
+        {{hash=393df133d5402d9cbb022048926cbe9e}{%
+           family={Estrada},
+           familyi={E\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=196907b876b92d95514d11defb4977e3}{%
+           family={Keim},
+           familyi={K\bibinitperiod},
+           given={Samuel\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=6c3f2466368312d38a340076d569bf47}{%
+           family={Spaite},
+           familyi={S\bibinitperiod},
+           given={Daniel\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa6a6387b6b6637e3aa4becc740104de}
+      \strng{fullhash}{47a200512c4fd8ccb0346d7f50cd70ae}
+      \strng{bibnamehash}{aa6a6387b6b6637e3aa4becc740104de}
+      \strng{authorbibnamehash}{aa6a6387b6b6637e3aa4becc740104de}
+      \strng{authornamehash}{aa6a6387b6b6637e3aa4becc740104de}
+      \strng{authorfullhash}{47a200512c4fd8ccb0346d7f50cd70ae}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{03009572}
+      \field{journaltitle}{Resuscitation}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{shortjournal}{Resuscitation}
+      \field{title}{Disparities in telephone {CPR} access and timing during out-of-hospital cardiac arrest}
+      \field{urlday}{6}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{115}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{11\bibrangedash 16}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.resuscitation.2017.03.028
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/eric/Zotero/storage/PRJFCZUG/Nuño et al. - 2017 - Disparities in telephone CPR access and timing dur.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0300957217301296
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0300957217301296
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

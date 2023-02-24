@@ -1,0 +1,264 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Tsuda2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=68d3e3820cebeabdad4ceda5b92cae78}{%
+           family={Tsuda},
+           familyi={T\bibinitperiod},
+           given={Takayuki},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d3e3820cebeabdad4ceda5b92cae78}
+      \strng{fullhash}{68d3e3820cebeabdad4ceda5b92cae78}
+      \strng{bibnamehash}{68d3e3820cebeabdad4ceda5b92cae78}
+      \strng{authorbibnamehash}{68d3e3820cebeabdad4ceda5b92cae78}
+      \strng{authornamehash}{68d3e3820cebeabdad4ceda5b92cae78}
+      \strng{authorfullhash}{68d3e3820cebeabdad4ceda5b92cae78}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1940-7041}
+      \field{journaltitle}{Current Orthopaedic Practice}
+      \field{month}{11}
+      \field{number}{6}
+      \field{title}{{Epidemiology of fragility fractures and fall prevention in the elderly: a systematic review of the literature}}
+      \field{volume}{28}
+      \field{year}{2017}
+      \field{pages}{580\bibrangedash 585}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1097/BCO.0000000000000563
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.lww.com/01337441-201711000-00014
+      \endverb
+      \verb{url}
+      \verb https://journals.lww.com/01337441-201711000-00014
+      \endverb
+    \endentry
+    \entry{Boucher2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e944df1c5f1ce38bf1ab4984973ae277}{%
+           family={Boucher},
+           familyi={B\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+        {{hash=656bfaa487e43f017ca5187884a9f017}{%
+           family={Rosgen},
+           familyi={R\bibinitperiod},
+           given={Brianna},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2741dca4373e9ebae412c81f19c71e80}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Eddy},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e13756d89afe01b28815df461d1ce81}
+      \strng{fullhash}{3e13756d89afe01b28815df461d1ce81}
+      \strng{bibnamehash}{3e13756d89afe01b28815df461d1ce81}
+      \strng{authorbibnamehash}{3e13756d89afe01b28815df461d1ce81}
+      \strng{authornamehash}{3e13756d89afe01b28815df461d1ce81}
+      \strng{authorfullhash}{3e13756d89afe01b28815df461d1ce81}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1481-8035}
+      \field{journaltitle}{CJEM}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{{Efficacy of calcitonin for treating acute pain associated with osteoporotic vertebral compression fracture: an updated systematic review}}
+      \field{volume}{22}
+      \field{year}{2020}
+      \field{pages}{359\bibrangedash 367}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1017/cem.2019.490
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/identifier/S1481803519004901/type/journal{\_}article
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/identifier/S1481803519004901/type/journal%7B%5C_%7Darticle
+      \endverb
+    \endentry
+    \entry{Knopp-Sihota2012}{article}{}
+      \name{author}{5}{}{%
+        {{hash=3cc69995956e511b39cc5d62fe4e74d6}{%
+           family={Knopp-Sihota},
+           familyi={K\bibinithyphendelim S\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ba918c5b403bc3afea0299b40ea382e8}{%
+           family={Newburn-Cook},
+           familyi={N\bibinithyphendelim C\bibinitperiod},
+           given={C.\bibnamedelimi V.},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=03b5ecac7a0086398736e01425632c35}{%
+           family={Homik},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6d1a9fe12ef80363a66e44de0e7e478d}{%
+           family={Cummings},
+           familyi={C\bibinitperiod},
+           given={G.\bibnamedelimi G.},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=18f7b6ef64a521c8e60f36eaf9e5afc0}{%
+           family={Voaklander},
+           familyi={V\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1a2a58b8557fdb973d01d38706fd418}
+      \strng{fullhash}{5c889b07e42a9a6303b0e00bdaaf2baa}
+      \strng{bibnamehash}{b1a2a58b8557fdb973d01d38706fd418}
+      \strng{authorbibnamehash}{b1a2a58b8557fdb973d01d38706fd418}
+      \strng{authornamehash}{b1a2a58b8557fdb973d01d38706fd418}
+      \strng{authorfullhash}{5c889b07e42a9a6303b0e00bdaaf2baa}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0937-941X}
+      \field{journaltitle}{Osteoporosis International}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Calcitonin for treating acute and chronic pain of recent and remote osteoporotic vertebral compression fractures: a systematic review and meta-analysis}}
+      \field{volume}{23}
+      \field{year}{2012}
+      \field{pages}{17\bibrangedash 38}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/s00198-011-1676-0
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00198-011-1676-0
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00198-011-1676-0
+      \endverb
+    \endentry
+    \entry{Esses2011}{article}{}
+      \name{author}{13}{}{%
+        {{hash=9dd1dc7698429934022ee7a2e0385745}{%
+           family={Esses},
+           familyi={E\bibinitperiod},
+           given={Stephen\bibnamedelima I},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=eb2f80e5dcd3ccbdd141534addab394d}{%
+           family={McGuire},
+           familyi={M\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=57bc60a95a9a82e348f5d7eda9a2ddd9}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=522663b2c29aea14dd9bff6ebe85eb0e}{%
+           family={Finkelstein},
+           familyi={F\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a703d93dfe9034c95c20c85a47de05f2}{%
+           family={Woodard},
+           familyi={W\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=ddac9c1ec5b3ee30e9be1c9c60b81885}{%
+           family={Watters},
+           familyi={W\bibinitperiod},
+           given={William\bibnamedelima C},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=eeab31386b76af152d14faa5393f11ee}{%
+           family={Goldberg},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8f353e10d6eef98d495f4165d587a6d9}{%
+           family={Keith},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=122c6606992a2bb9352ebcb99fd1da00}{%
+           family={Turkelson},
+           familyi={T\bibinitperiod},
+           given={Charles\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a92166a5d16f1f7899533ecdcc11190d}{%
+           family={Wies},
+           familyi={W\bibinitperiod},
+           given={Janet\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=9f44eb8ea65b5ca86ce2b803263c3891}{%
+           family={Sluka},
+           familyi={S\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ad95b1f33616d9c8528a23ecbf6ee22d}{%
+           family={Boyer},
+           familyi={B\bibinitperiod},
+           given={Kevin\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9fb8a661f67a731ed74ba84eb041594a}{%
+           family={Hitchcock},
+           familyi={H\bibinitperiod},
+           given={Kristin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba66e2e82d5d952ae2ff4240667b6447}
+      \strng{fullhash}{6f5687e623f02beeabd48c5b611f93f3}
+      \strng{bibnamehash}{ba66e2e82d5d952ae2ff4240667b6447}
+      \strng{authorbibnamehash}{ba66e2e82d5d952ae2ff4240667b6447}
+      \strng{authornamehash}{ba66e2e82d5d952ae2ff4240667b6447}
+      \strng{authorfullhash}{6f5687e623f02beeabd48c5b611f93f3}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This clinical practice guideline is based on a series of systematic reviews of published studies on the treatment of symptomatic osteoporotic spinal compression fractures. Of 11 recommendations, one is strong; one, moderate; three, weak; and six, inconclusive. The strong recommendation is against the use of vertebroplasty to treat the fractures; the moderate recommendation is for the use of calcitonin for 4 weeks following the onset of fracture. The weak recommendations address the use of ibandronate and strontium ranelate to prevent additional symptomatic fractures, the use of L2 nerve root blocks to treat the pain associated with L3 or L4 fractures, and the use of kyphoplasty to treat symptomatic fractures in patients who are neurologically intact.}
+      \field{issn}{1067-151X}
+      \field{journaltitle}{The Journal of the American Academy of Orthopaedic Surgeons}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{{The treatment of symptomatic osteoporotic spinal compression fractures.}}
+      \field{volume}{19}
+      \field{year}{2011}
+      \field{pages}{176\bibrangedash 82}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.5435/00124635-201103000-00007
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/21368099
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/21368099
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
