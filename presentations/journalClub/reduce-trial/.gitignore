@@ -10,16 +10,9 @@ __pycache__/
 *.docx
 
 #TEX build files
-*.aux
-*.bbl
-*.bcf
-*.blg
-*.nav
-*.out
-*.run.xml
-*.snm
-*.sunctex.gz
-*.toc
+src/*.*
+!src/*.tex
+!src/*.py
 
 # Distribution / packaging
 .Python
