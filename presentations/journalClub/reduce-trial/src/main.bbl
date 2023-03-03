@@ -1,0 +1,526 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{anthonisen_antibiotic_1987}{article}{}
+      \name{author}{1}{}{%
+        {{hash=81e29d55967ff1db557c1ac1910d9da5}{%
+           family={Anthonisen},
+           familyi={A\bibinitperiod},
+           given={N.\bibnamedelimi R.},
+           giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{81e29d55967ff1db557c1ac1910d9da5}
+      \strng{fullhash}{81e29d55967ff1db557c1ac1910d9da5}
+      \strng{bibnamehash}{81e29d55967ff1db557c1ac1910d9da5}
+      \strng{authorbibnamehash}{81e29d55967ff1db557c1ac1910d9da5}
+      \strng{authornamehash}{81e29d55967ff1db557c1ac1910d9da5}
+      \strng{authorfullhash}{81e29d55967ff1db557c1ac1910d9da5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{0003-4819}
+      \field{journaltitle}{Annals of Internal Medicine}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{Ann Intern Med}
+      \field{title}{Antibiotic Therapy in Exacerbations of Chronic Obstructive Pulmonary Disease}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{106}
+      \field{year}{1987}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{196}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.7326/0003-4819-106-2-196
+      \endverb
+      \verb{urlraw}
+      \verb http://annals.org/article.aspx?doi=10.7326/0003-4819-106-2-196
+      \endverb
+      \verb{url}
+      \verb http://annals.org/article.aspx?doi=10.7326/0003-4819-106-2-196
+      \endverb
+    \endentry
+    \entry{franklin_bronchodilators_1958}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1f8168e19d6b7061c61a71164af80065}{%
+           family={Franklin},
+           familyi={F\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=d79e150d5adc42acfe0349ba7fb3858e}{%
+           family={Michelson},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6f0a7c3c95b2829899eba3e9f04779d5}{%
+           family={Lowell},
+           familyi={L\bibinitperiod},
+           given={F.\bibnamedelimi C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b3430e75bd8d01551d72c7496881bd59}{%
+           family={Schiller},
+           familyi={S\bibinitperiod},
+           given={I.\bibnamedelimi W.},
+           giveni={I\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad5c1a72d75b7f13fe97684bac399c67}
+      \strng{fullhash}{14147382e3166e6f8d2c2780d5ae4bc6}
+      \strng{bibnamehash}{ad5c1a72d75b7f13fe97684bac399c67}
+      \strng{authorbibnamehash}{ad5c1a72d75b7f13fe97684bac399c67}
+      \strng{authornamehash}{ad5c1a72d75b7f13fe97684bac399c67}
+      \strng{authorfullhash}{14147382e3166e6f8d2c2780d5ae4bc6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{issn}{0028-4793, 1533-4406}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{16}
+      \field{shortjournal}{N Engl J Med}
+      \field{title}{Bronchodilators and Corticosteroids in the Treatment of Obstructive Pulmonary Emphysema}
+      \field{urlday}{2}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{258}
+      \field{year}{1958}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{774\bibrangedash 778}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1056/NEJM195804172581602
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nejm.org/doi/abs/10.1056/NEJM195804172581602
+      \endverb
+      \verb{url}
+      \verb http://www.nejm.org/doi/abs/10.1056/NEJM195804172581602
+      \endverb
+    \endentry
+    \entry{beerel_controlled_1963}{article}{}
+      \name{author}{5}{}{%
+        {{hash=3741efcc146b55884814c81cba3b4de1}{%
+           family={Beerel},
+           familyi={B\bibinitperiod},
+           given={Frederick},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e5ca53c79b181a226fb57c3c5db4ec93}{%
+           family={Jick},
+           familyi={J\bibinitperiod},
+           given={Hershel},
+           giveni={H\bibinitperiod}}}%
+        {{hash=77017c1d3c15edd44cea17c195aef3cb}{%
+           family={Tyler},
+           familyi={T\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=b778bbc33db19e7215bb8155432a7f24}{%
+           family={Gordon},
+           familyi={G\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=32f97b94084f2019d5baeec90ffd1383}{%
+           family={Muench},
+           familyi={M\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{89b4cdfc1f4bd6d58b2ef5b01f0c87ff}
+      \strng{fullhash}{49cb2a4f71d5465c7cc50af309ddcf5c}
+      \strng{bibnamehash}{89b4cdfc1f4bd6d58b2ef5b01f0c87ff}
+      \strng{authorbibnamehash}{89b4cdfc1f4bd6d58b2ef5b01f0c87ff}
+      \strng{authornamehash}{89b4cdfc1f4bd6d58b2ef5b01f0c87ff}
+      \strng{authorfullhash}{49cb2a4f71d5465c7cc50af309ddcf5c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{31}
+      \field{issn}{0028-4793, 1533-4406}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{5}
+      \field{shortjournal}{N Engl J Med}
+      \field{title}{A Controlled Study of the Effect of Prednisone on Air-Flow Obstruction in Severe Pulmonary Emphysema}
+      \field{urlday}{2}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{268}
+      \field{year}{1963}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{226\bibrangedash 230}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1056/NEJM196301312680502
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nejm.org/doi/abs/10.1056/NEJM196301312680502
+      \endverb
+      \verb{url}
+      \verb http://www.nejm.org/doi/abs/10.1056/NEJM196301312680502
+      \endverb
+    \endentry
+    \entry{evans_controlled_1974}{article}{}
+      \name{author}{3}{}{%
+        {{hash=55fa31efef40484c4d90f04a8d26c6c0}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=fe9047db0c53c659080bf736f2482b74}{%
+           family={Morrison},
+           familyi={M\bibinitperiod},
+           given={I.\bibnamedelimi M.},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0d41b7f1a45d61e7724ca39d969e733a}{%
+           family={Saunders},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi B.},
+           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a145ba18dc92ae22ff1244198e1dc5f5}
+      \strng{fullhash}{a145ba18dc92ae22ff1244198e1dc5f5}
+      \strng{bibnamehash}{a145ba18dc92ae22ff1244198e1dc5f5}
+      \strng{authorbibnamehash}{a145ba18dc92ae22ff1244198e1dc5f5}
+      \strng{authornamehash}{a145ba18dc92ae22ff1244198e1dc5f5}
+      \strng{authorfullhash}{a145ba18dc92ae22ff1244198e1dc5f5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{0040-6376}
+      \field{journaltitle}{Thorax}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{4}
+      \field{shortjournal}{Thorax}
+      \field{title}{A controlled trial of prednisone, in low dosage, in patients with chronic airways obstruction}
+      \field{urlday}{2}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{29}
+      \field{year}{1974}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{401\bibrangedash 406}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1136/thx.29.4.401
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/eric/Zotero/storage/VF6WHQJ4/Evans et al. - 1974 - A controlled trial of prednisone, in low dosage, i.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://thorax.bmj.com/lookup/doi/10.1136/thx.29.4.401
+      \endverb
+      \verb{url}
+      \verb https://thorax.bmj.com/lookup/doi/10.1136/thx.29.4.401
+      \endverb
+    \endentry
+    \entry{albert_controlled_1980}{article}{}
+      \name{author}{1}{}{%
+        {{hash=65d101b69559950483adf3acb21773d3}{%
+           family={Albert},
+           familyi={A\bibinitperiod},
+           given={Richard\bibnamedelima K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{65d101b69559950483adf3acb21773d3}
+      \strng{fullhash}{65d101b69559950483adf3acb21773d3}
+      \strng{bibnamehash}{65d101b69559950483adf3acb21773d3}
+      \strng{authorbibnamehash}{65d101b69559950483adf3acb21773d3}
+      \strng{authornamehash}{65d101b69559950483adf3acb21773d3}
+      \strng{authorfullhash}{65d101b69559950483adf3acb21773d3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{0003-4819}
+      \field{journaltitle}{Annals of Internal Medicine}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{6}
+      \field{shortjournal}{Ann Intern Med}
+      \field{title}{Controlled Clinical Trial of Methylprednisolone in Patients with Chronic Bronchitis and Acute Respiratory Insufficiency}
+      \field{urlday}{2}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{92}
+      \field{year}{1980}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{753}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.7326/0003-4819-92-6-753
+      \endverb
+      \verb{urlraw}
+      \verb http://annals.org/article.aspx?doi=10.7326/0003-4819-92-6-753
+      \endverb
+      \verb{url}
+      \verb http://annals.org/article.aspx?doi=10.7326/0003-4819-92-6-753
+      \endverb
+    \endentry
+    \entry{mendella_steroid_1982}{article}{}
+      \name{author}{1}{}{%
+        {{hash=21a31a8f6d09341871df7dde7973e2f7}{%
+           family={Mendella},
+           familyi={M\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{21a31a8f6d09341871df7dde7973e2f7}
+      \strng{fullhash}{21a31a8f6d09341871df7dde7973e2f7}
+      \strng{bibnamehash}{21a31a8f6d09341871df7dde7973e2f7}
+      \strng{authorbibnamehash}{21a31a8f6d09341871df7dde7973e2f7}
+      \strng{authornamehash}{21a31a8f6d09341871df7dde7973e2f7}
+      \strng{authorfullhash}{21a31a8f6d09341871df7dde7973e2f7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{0003-4819}
+      \field{journaltitle}{Annals of Internal Medicine}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Ann Intern Med}
+      \field{title}{Steroid Response in Stable Chronic Obstructive Pulmonary Disease}
+      \field{urlday}{2}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{96}
+      \field{year}{1982}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{17}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.7326/0003-4819-96-1-17
+      \endverb
+      \verb{urlraw}
+      \verb http://annals.org/article.aspx?doi=10.7326/0003-4819-96-1-17
+      \endverb
+      \verb{url}
+      \verb http://annals.org/article.aspx?doi=10.7326/0003-4819-96-1-17
+      \endverb
+    \endentry
+    \entry{blair_treatment_1984}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3d097f7fef7863b619b41630e0637e68}{%
+           family={Blair},
+           familyi={B\bibinitperiod},
+           given={Gregory\bibnamedelima P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=ec9cfd5ebca416097561658df574fea1}{%
+           family={Light},
+           familyi={L\bibinitperiod},
+           given={Richard\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{95356bdd2d8114b2ef3d6a03ca90ac64}
+      \strng{fullhash}{95356bdd2d8114b2ef3d6a03ca90ac64}
+      \strng{bibnamehash}{95356bdd2d8114b2ef3d6a03ca90ac64}
+      \strng{authorbibnamehash}{95356bdd2d8114b2ef3d6a03ca90ac64}
+      \strng{authornamehash}{95356bdd2d8114b2ef3d6a03ca90ac64}
+      \strng{authorfullhash}{95356bdd2d8114b2ef3d6a03ca90ac64}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00123692}
+      \field{journaltitle}{Chest}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shortjournal}{Chest}
+      \field{title}{Treatment of Chronic Obstructive Pulmonary Disease with Corticosteroids}
+      \field{urlday}{2}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{86}
+      \field{year}{1984}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{524\bibrangedash 528}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1378/chest.86.4.524
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369215397233
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369215397233
+      \endverb
+    \endentry
+    \entry{erbland_systemic_1998}{article}{}
+      \name{author}{3}{}{%
+        {{hash=db996d2be417fcf7f5df032e298b259c}{%
+           family={Erbland},
+           familyi={E\bibinitperiod},
+           given={Marcia\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6d4b34fc65f67c1904e483ca83e4bfc2}{%
+           family={Deupree},
+           familyi={D\bibinitperiod},
+           given={Robert\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=2cf29f506c4b205fe8538110743b6743}{%
+           family={Niewoehner},
+           familyi={N\bibinitperiod},
+           given={Dennis\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5ead72e3a2afe0264829ccff2d8d1bf}
+      \strng{fullhash}{c5ead72e3a2afe0264829ccff2d8d1bf}
+      \strng{bibnamehash}{c5ead72e3a2afe0264829ccff2d8d1bf}
+      \strng{authorbibnamehash}{c5ead72e3a2afe0264829ccff2d8d1bf}
+      \strng{authornamehash}{c5ead72e3a2afe0264829ccff2d8d1bf}
+      \strng{authorfullhash}{c5ead72e3a2afe0264829ccff2d8d1bf}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01972456}
+      \field{journaltitle}{Controlled Clinical Trials}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{4}
+      \field{shortjournal}{Controlled Clinical Trials}
+      \field{title}{Systemic Corticosteroids in Chronic Obstructive Pulmonary Disease Exacerbations ({SCCOPE})}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{19}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{404\bibrangedash 417}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/S0197-2456(98)00011-7
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0197245698000117
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0197245698000117
+      \endverb
+    \endentry
+    \entry{drazen_challenges_2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=aec01a121307c97a50867f96fe372971}{%
+           family={Mauri},
+           familyi={M\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=14f4bb5ab174b7b06ea61d3fd85b50da}{%
+           family={D’Agostino},
+           familyi={D\bibinitperiod},
+           given={Ralph\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=05efdf36bdf132152fa8edea68ad6b2a}{%
+           family={Drazen},
+           familyi={D\bibinitperiod},
+           given={Jeffrey\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fc94081787c247ab1cf39567fd93ee21}{%
+           family={Harrington},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=9ee943dc63a8419a0464581c16edd6eb}{%
+           family={{McMurray}},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima J.V.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b6800fa115c6d5e2f07a263bd7ee8ea0}{%
+           family={Ware},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=2a54567c376f918164d0b7d3f6d02b53}{%
+           family={Woodcock},
+           familyi={W\bibinitperiod},
+           given={Janet},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b4b0dc8eaebf711cceb67aa26a1eb2fd}
+      \strng{fullhash}{b4b0dc8eaebf711cceb67aa26a1eb2fd}
+      \strng{bibnamehash}{b4b0dc8eaebf711cceb67aa26a1eb2fd}
+      \strng{authorbibnamehash}{b4b0dc8eaebf711cceb67aa26a1eb2fd}
+      \strng{authornamehash}{b4b0dc8eaebf711cceb67aa26a1eb2fd}
+      \strng{authorfullhash}{b4b0dc8eaebf711cceb67aa26a1eb2fd}
+      \strng{editorbibnamehash}{a9251ea2d3eb8ef1aa0fadb2fd6c6de0}
+      \strng{editornamehash}{a9251ea2d3eb8ef1aa0fadb2fd6c6de0}
+      \strng{editorfullhash}{7aecee03329b9769b90448a4f778a00e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{issn}{0028-4793, 1533-4406}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{14}
+      \field{shortjournal}{N Engl J Med}
+      \field{title}{Challenges in the Design and Interpretation of Noninferiority Trials}
+      \field{urlday}{2}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{377}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1357\bibrangedash 1367}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1056/NEJMra1510063
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nejm.org/doi/10.1056/NEJMra1510063
+      \endverb
+      \verb{url}
+      \verb http://www.nejm.org/doi/10.1056/NEJMra1510063
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

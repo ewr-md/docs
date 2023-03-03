@@ -1,0 +1,23 @@
+\beamer@sectionintoc {1}{Background}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{History of Steroids in COPD}{3}{0}{1}
+\beamer@sectionintoc {2}{PICO Question}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Overview}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Population}{8}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{1}{Inclusion Criteria}{8}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{2}{Exclusion Criteria}{10}{0}{2}
+\beamer@subsectionintoc {2}{3}{Intervention}{12}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{1}{Primary Intervention}{12}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{2}{Secondary Intervention}{13}{0}{2}
+\beamer@subsectionintoc {2}{4}{Outcome}{15}{0}{2}
+\beamer@subsectionintoc {2}{5}{Non-Inferiority Trial}{17}{0}{2}
+\beamer@sectionintoc {3}{Methodology}{17}{0}{3}
+\beamer@subsectionintoc {3}{1}{Non-Inferiority Trial}{17}{0}{3}
+\beamer@subsectionintoc {3}{2}{Evaluating Randomization}{17}{0}{3}
+\beamer@sectionintoc {4}{Results}{18}{0}{4}
+\beamer@subsectionintoc {4}{1}{Primary Outcome}{18}{0}{4}
+\beamer@subsectionintoc {4}{2}{Secondary Outcomes}{20}{0}{4}
+\beamer@subsectionintoc {4}{3}{Non-Inferiority}{22}{0}{4}
+\beamer@subsectionintoc {4}{4}{Hazards of Interpreting Non-Inferiority}{26}{0}{4}
+\beamer@subsectionintoc {4}{5}{Our Study}{27}{0}{4}
+\beamer@sectionintoc {5}{Criticisms}{29}{0}{5}
+\beamer@sectionintoc {6}{Discussion}{31}{0}{6}
