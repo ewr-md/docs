@@ -10,8 +10,8 @@ __pycache__/
 *.docx
 
 #TEX build files
-main.*
-!main.tex
+**/src/main.*
+!**/src/main.tex
 
 # Distribution / packaging
 .Python
