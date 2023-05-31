@@ -1,4 +1,5 @@
 *.pdf
 *.docx
-./expense_reports/
 .Rproj.user
+cv-resume-ewr.*
+!cv-resume-ewr.tex
