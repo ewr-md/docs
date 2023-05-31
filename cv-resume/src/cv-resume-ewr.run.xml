@@ -44,8 +44,7 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>cv-resume-ewr.aux</file>
-      <file>cv-resume-ewr-blx.bib</file>
+      <file>cv-resume-ewr.bcf</file>
     </provides>
     <requires type="dynamic">
       <file>cv-resume-ewr.bbl</file>
@@ -53,25 +52,24 @@
     <requires type="static">
       <file>blx-dm.def</file>
       <file>blx-compat.def</file>
-      <file>blx-bibtex.def</file>
       <file>biblatex.def</file>
-      <file>blx-natbib.def</file>
       <file>standard.bbx</file>
       <file>numeric.bbx</file>
-      <file>numeric.cbx</file>
+      <file>nejm.bbx</file>
+      <file>numeric-comp.cbx</file>
+      <file>nejm.cbx</file>
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="0">
-    <generic>bibtex</generic>
+    <generic>biber</generic>
     <cmdline>
-      <binary>bibtex</binary>
-      <option>-min-crossrefs 2</option>
+      <binary>biber</binary>
       <infile>cv-resume-ewr</infile>
     </cmdline>
     <input>
-      <file>cv-resume-ewr.aux</file>
+      <file>cv-resume-ewr.bcf</file>
     </input>
     <output>
       <file>cv-resume-ewr.bbl</file>
@@ -80,14 +78,10 @@
       <file>cv-resume-ewr.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>cv-resume-ewr.aux</file>
-      <file>cv-resume-ewr-blx.bib</file>
+      <file>cv-resume-ewr.bcf</file>
     </requires>
     <requires type="editable">
-      <file>test.bib</file>
-    </requires>
-    <requires type="static">
-      <file>biblatex.bst</file>
+      <file>works.bib</file>
     </requires>
   </external>
 </requests>

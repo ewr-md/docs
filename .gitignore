@@ -1,0 +1,4 @@
+*.pdf
+*.docx
+./expense_reports/
+.Rproj.user

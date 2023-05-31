@@ -1,0 +1,94 @@
+---
+title: "Suggestions to Improve Brown IM Residency"
+author: "Eric W. Robbins"
+date: "`r Sys.Date()`"
+output:
+  bookdown::html_document2:
+    keep_tex: true
+    toc: true
+    number_sections: false
+---
+
+# Overview
+This document hopes to suggest a series of concrete, actionable projects that are aimed at improving resident workflows, quality of life, and professional competencies.
+I have not listed any problems here without also offering at least one possible solution.
+There are other problems I have identified, but I do not necessarily have workable solutions or suggestions for them, so I have not included them here.
+
+# Create a Residency Wiki {#id:wiki}
+
+> **Bottom line:**
+>
+> We should adopt a residency Wiki to organize program information and move away from using email and Canvas.
+
+## The Problem
+Many large organizations, including governmental bodies, corporate entities, and non-profit organizations, codify their policies and standard operating procedures (SOPs) and then distribute a document listing these codified standards.
+This is typically done for the following reasons:
+
+- Workflow friction is minimized when workers leave or transition.
+- SOPs to be vetted, amended, or disposed of entirely.
+- Internal policies become easily discovered (and thus followable). 
+
+Currently, the Brown IM residency utilizes several venues to disseminate its policies and SOPs, including [Canvas](https://www.instructure.com/canvas), reoccuring emails, one-off emails, and sharing of cloud-based documents.
+However, each of these tools have significant limitations.
+
+Canvas is a tool created for teaching and educational material sharing, not as a reference tool for policy or workflow documentation. 
+It does have a search function, but this searchability function only allows you to search for a document's title; it does not allow you to search the contents of the file itself.
+For example, searching `"ACLS"` will bring you to a PDF file showing the ACLS algorithm, searching `"epinephrine"` will show no results, despite it being written in multiple places in the aforementioned ACLS PDF file.
+Also, this search funciton exists in `Files` section, but not in `Pages` section of Canvas, so much of the information contained on the site much be "stumbled upon" by multiple blind clicks of hyperlinks rather than being easily searched.
+
+Emails are a wonderful tool for alerting people to the *presence* of a policy or documentation update, but it is not an ideal option for distributing the update itself.
+This because (1) emails within Lifespan are auto-deleted within 3 months, necessitating recurrent emails to ensure information is discoverable, (2) relevant information is not necessarily easily searchable as emails may contain text in their body (searchable) or attached DOCX or PDF files (often not searchable).
+
+Finally, several work-related tools are hosted on cloud services.
+A widely used example is an Excel spreadsheet shared among residents that automatically calculates cardiac output data, making the reporting of Swan-Ganz catheter numbers much faster and easier.
+However, to obtain the file, one much had a co-residency "share" the link, meaning this is a tool that is not very searchable and depends on your senior having had the tool shared with them in the past.
+While hosting the tool on a cloud platform makes sense, there needs to be a better way to get to or discover the tool.
+
+## Proposed Solution
+I recommend me migrate our current processes to a Wiki-based solution.
+
+Examples of free options include [DokuWiki](https://www.dokuwiki.org/dokuwiki) and [PBWorks](https://www.pbworks.com/), although there are many others.
+
+- **Pros of a Wiki System**
+  - provides a single, known, *definitive* location to access vetted and up-to-date information
+    - Examples of info to include there:
+      - rotation outlines (e.g., call schedules, what call team is responsible for, how direct admissions work, etc.)
+      - Outpatient clinic info (e.g., putting the CPC or Fain handbook information itself onto the wiki page)
+  - all information would be 100% searchable
+    - a fantastic win for new interns or residents who've never rotated on a particular service before (e.g., med A heme-onc)
+  - Wiki content could serve people's specific needs
+    - There could be a central "from the program" section that included rotation details, resources, policies, etc.
+    - There could also be a "how to" section that residents updated, such as how to do an admission, tips for rounding, Epic EMR tips, VA tips, etc.
+  - Sharing external documents is still possible
+    - In the CCU page, you could share the Swan-Ganz excel document hyperlink, for example.
+- **Cons of Migrating to a Wiki**
+  - current information would need to be gathered, assessed, and migrated to the Wiki
+    - this would be a non-trivial task, perhaps best for a Chief project
+  - there would need to be an "owner" of the wiki
+    - preferably tech literate
+  - Wiki would need maintaining
+    - due to the permissions systems in Wiki software, you could have residents make suggested edits or new pages which would then be reviewed and approved by an admin (chiefs?)
+
+# Improve Procedural Competency {#id:procedures}
+> **Bottom line:**
+>
+> Brown categorical IM residents lack basic exposure to outpatient procedures.
+
+# Make Check-In Sessions Feedback Bidirectional
+> **Bottom line:**
+>
+> We should build in a means for Brown IM residents to give feedback about the overall program in general on a regular basis.
+
+# Include Residents' Families in Social Events
+> **Bottom line:**
+>
+> More social events should explicitly inclue resident families as elligible participants or partners non-elligibility for an event should be make explicit.
+
+
+# Modify the Research Opportunities Document {#id:research}
+> **Bottom line:**
+>
+> Finding access to active research projects is needlessly obtuse, so we should construct a document listing specific projects and opportunities.
+
+- [Research Overview PDF](https://brownim.org/research.pdf)
+- talk is too late in the year

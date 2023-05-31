@@ -8,8 +8,8 @@
 \hypersetup{colorlinks=true, urlcolor=blue, pdfpagemode=FullScreen}
 
 %setting up bibliography stuff
-\usepackage[backend=bibtex, natbib=true, style=numeric, sorting=ynt, url=false]{biblatex}
-\addbibresource{test.bib}
+\usepackage[sorting=ydnt, url=false, style=nejm, minbibnames=3, maxbibnames=3]{biblatex}
+\addbibresource{works.bib}
 
 %defining variables specifying column widths
 \newcommand\colleft{.20}
@@ -62,11 +62,11 @@
 \newcommand{\fellowship}{University of Maryland Medical Center \& NIH / NHLBI}
 \newcommand{\residency}{Rhode Island Hospital / Brown University}
 \newcommand{\medschool}{Tufts University School of Medicine}
-\newcommand{\me}{Eric W. Robbins}
+\newcommand{\me}{Robbins EW}
 \newcommand{\undergrad}{Pomona College}
 \newcommand{\cphone}{339-203-8046}
 \newcommand{\address}{593 Eddy Street, Providence, RI 02903}
-\newcommand{\email}{eric\_robbins@brown.edu}
+\newcommand{\email}{erobbins.md@protonmail.com}
 
 \titleformat{\section}
 {\bfseries\Large}
@@ -99,7 +99,7 @@
 }
 	
 \title{R\'esum\'e}
-\author{\me}
+\author{Eric W. Robbins}
 \date{}
 
 %prevent idendation between \entry commands
@@ -131,16 +131,16 @@
 	\section*{Work Experience}
 		\entryfour{12/2021}{Affiliate}{medRxiv}{%
 			\begin{itemize}
-				\item Screened submitted manuscripts for appropriateness, scope, and medical feasibility.
+				\item Screened submitted manuscripts for appropriateness, scope, and medical feasibility
 			\end{itemize}
 			}
 
-		\entryfour{2/2018}{Clinical Trial Assistant}{\medschool}{%
-		 \begin{itemize}
-		 	\item Supervisor: \mohan
-		 	\item Collected data from an experimental blood pressure monitoring device—now patented as ViTrack by the startup Dynocardia—and confirmed findings by measuring blood pressure via auscultation
-		 \end{itemize}
-	 	}
+%		\entryfour{2/2018}{Clinical Trial Assistant}{\medschool}{%
+%		 \begin{itemize}
+%		 	\item Supervisor: \mohan
+%		 	\item Collected data from an experimental blood pressure monitoring device—now patented as ViTrack by the startup Dynocardia—and confirmed findings by measuring blood pressure via auscultation
+%		 \end{itemize}
+%	 	}
 		
 		\entryfour{2/2017 -- 8/2018}{Research Assistant}{Department of Public Health and Community Medicine, Tufts University}{%		
 		\begin{itemize}
@@ -168,50 +168,26 @@
 				\item Ferried submitted manuscripts through all stages of the review, rebuttal, and re-review processes
 			\end{itemize}
 		}
-		
-\section*{Publications, Abstracts, and Case Reports}
-	\printbibliography[heading=subbibliography, title={Publications, Abstracts, and Case Reports}]
-	
-%
-%    \textbf{Robbins EW}, Sacks A, Sloan KA, Halle D, Manzoor K . ``ADENOCARCINOMA OF THE LUNG MIMICKING MILIARY TB AND POTT DISEASE.'' \emph{JOURNAL}
-%\url{https://doi:.org/10.1016/j.chest.2022.08.1375}
-%
-%    AORTIC DISSECTION INDUCED BY PERSISTENT COUGHING IN A PATIENT WITH EMPHYSEMA
-%
-%    ERIC W ROBBINS
-%    AHSAN AYAZ
-%    NIKOLA PEROSEVIC
-%    ARI SACKS
-%    KAMRAN MANZOOR
-%
-%DOI:https://doi.org/10.1016/j.chest.2022.08.1070
-%
-%	\textbf{Robbins EW}, Yee D, Shea BS. ``Diabetes Insipidus in a Critically Ill Post-Partum COVID Patient.'' \emph{Crit Care Med}. Jan 2022. 50-1, p46. \url{https://doi.org/10.1097/01.ccm.0000806828.13647.9a}.
-%	\\ \\
-%	\textbf{Robbins EW}, Arao KA, Minami T, and Manzoor K. ``Denosumab-Related Mononeuritis Leading to Diaphragm and Long Thoracic Nerve Paralysis.'' \emph{Am J Respir Crit Care Med}. 2020;201:A7618. \url{https://doi.org/10.1164/ajrccm-conference.2020.201.1\_MeetingAbstracts.A7618}.
-%	\\ \\
-%	\textbf{Robbins E}, Allam G,  and  Manzoor K. ``Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon.'' \emph{Am J Respir Crit Care Med}. 2020;201:A6990. \url{https://doi.org/10.1164/ajrccm-conference.2020.201.1\_MeetingAbstracts.A6990}. 
-%	\\ \\
-%	\textbf{Robbins E}, Thota A, Manzoor K. ``Adenocarcinoma of the Lung with a Miliary Pattern.'' \emph{Chest}. 2020;158:A1550. \url{https://doi.org/10.1016/j.chest.2020.08.1392}
-  \section*{Ongoing Research Topics}
-  \textbf{Checkpoint Inhibitor-Induced Pneumonitis}
-  \\
-  Planned prospective and retrospective investigations looking at immune-related adverse events of pneumonitis, caused by PD-1 and PD-L1 inhibitors.
-	\\ \\
-  \textbf{Non-adherence in Patients with Pulmonary Arterial Hypertension}
-  \\
-	Assessment using prospectively gathered survey data to assess the effects of medical non-adherence on mortality, hospitalization, and quality of life measurements in patients with pulmonary arterial hypertension.
+
+% START Research section
+\section*{Research}
+	\nocite{*}
+	\subsection*{Scientific Abstracts}
+		\printbibliography[keyword=abstract, heading=none]	
+	\subsection*{Case Reports}
+		\printbibliography[keyword=caseRep, heading=none]
+
   \section*{Presentations and Invited Talks}
- 
-  %march 2023 morning report
-  %CPR talk morning report
-  %ICU TALK noon conference
-	\textbf{Robbins EW}, Allam G, and Manzoor K ``Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon.'' Poster presentation at the South Shore Health Research Symposium, Weymouth, MA. 1/2020.
-	\\ \\
-	\textbf{Robbins EW} and Thanikachalam M ``Relative Contributions of Insulin Resistance and $\beta$ Cell Dysfunction to the Development of Type 2 Diabetes in the PURSE-HIS Cohort.'' Poster presentation at the \medschool \ Summer Research Fair, Boston, MA. 1/2018.
-	
+  		\begin{enumerate}
+ 			\item Robbins, EW. ``xxx.'' Morning Report for Brown University Internal Medicine Program, Providence, RI. Mar. 2023. 
+ 			\item Robbins, EW. ``xxx CPR talk morning report.'' Morning Report for Brown University Internal Medicine Program, Providence, RI. DATE.
+ 			\item Robbins, EW. ``xxx ICU.'' Morning Report for Brown University Internal Medicine Program, Providence, RI. DATE.
+ 			\item \me, Allam G, and Manzoor K.  ``Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon.'' Poster presentation at the South Shore Health Research Symposium, Weymouth, MA. 1/2020.
+ 			\item \me \space and Thanikachalam M. ``Relative Contributions of Insulin Resistance and $\beta$ Cell Dysfunction to the Development of Type 2 Diabetes in the PURSE-HIS Cohort.'' Poster presentation at the \medschool \ Summer Research Fair, Boston, MA. 1/2018.
+ 		\end{enumerate}
+
 	\section*{Awards \& Fellowships}
-		%\entrythree{12/2018}{Lahey Top Gun}{Top simulation score on surgery clerkship}
+		\entrythree{12/2018}{Lahey Top Gun}{Top simulation score on surgery clerkship}
 		
 		\entrythree{6/2017}{David F. Noonan Fellowship}{Awarded for summer research on diabetes development in South Indian patient populations}
 	\section*{Service \& Leadership}
@@ -235,7 +211,7 @@
 	\end{itemize}
 }
 
-	\entryfour{7/2014 -- 6/2015}{Managing Editor}{Harvard Medical Student Review (HMSR) / Brookline, MA}{%
+	\entryfour{7/2014 -- 6/2015}{Managing Editor}{Harvard Medical Student Review (HMSR) / Boston, MA}{%
 	\begin{itemize}
 		\item Designed from scratch the peer review and publication production processes for the journal
 		\item Played a decision-maker role in the vetting of submissions, serving on the executive board
@@ -247,12 +223,4 @@
 		\item Volunteered at a free clinic for the un- and under-insured, taking patient vitals and basic histories
 	\end{itemize}
 	}
-	\section*{Professional \& Honorary Societies}
-		\entrytwo{2019 -- Now}{American Thoracic Society}
-		
-		\entrytwo{2019 -- Now}{American College of Physicians}
-		
-		\entrythree{5/2020}{\textit{Honos Civicus} Society}{Selected 9/2019; Induction 5/2020}
-		
-		\entrytwo{2016 -- 2020}{Massachusetts Medical Society, Charles River District}
 \end{document}

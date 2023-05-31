@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Overview}{1}{section.1}%
+\contentsline {paragraph}{}{1}{section*.2}%
+\contentsline {paragraph}{}{1}{section*.3}%
+\contentsline {section}{\numberline {2}Create a Residency Wiki}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The Problem}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}The Solution}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Improve Procedural Competency}{2}{section.3}%
+\contentsline {section}{\numberline {4}Make Check-In Sessions Feedback Bidirectional}{2}{section.4}%
+\contentsline {section}{\numberline {5}Include Residents' Families in Social Events}{2}{section.5}%
+\contentsline {section}{\numberline {6}Asymmetries in Research Opportunities}{2}{section.6}%
