@@ -19,6 +19,51 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{benavente_exploring_2023}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d2c039c68b304d068db05a6c5b57b61c}{%
+           family={Benavente},
+           familyi={B\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Eric\bibnamedelima W},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=08e578cc9f2bb558b586224a7f6aff16}{%
+           family={Fujiuchi},
+           familyi={F\bibinitperiod},
+           given={Bradley},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2dc229558d9428cef48711e6f530e3bc}{%
+           family={Manzoor},
+           familyi={M\bibinitperiod},
+           given={Kamran},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{64a78c85dc940ba1879894b1405cba91}
+      \strng{fullhash}{64a78c85dc940ba1879894b1405cba91}
+      \strng{bibnamehash}{7d7380aaf4d0603a9f0d80917c11b31e}
+      \strng{authorbibnamehash}{7d7380aaf4d0603a9f0d80917c11b31e}
+      \strng{authornamehash}{64a78c85dc940ba1879894b1405cba91}
+      \strng{authorfullhash}{64a78c85dc940ba1879894b1405cba91}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mechanical Ventilation}
+      \field{month}{6}
+      \field{note}{In press}
+      \field{number}{2}
+      \field{shortjournal}{J Mech Vent}
+      \field{title}{Exploring Clinicians' Beliefs and Practices Regarding Non-Invasive Ventilation Devices: An International Survey Study}
+      \field{volume}{4}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{article}
+    \endentry
     \entry{dustin_pneumonitis_2023}{inproceedings}{}
       \name{author}{7}{}{%
         {{hash=e316f40eedf40b56dffe2bbce4c60a11}{%
@@ -34,7 +79,7 @@
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
            familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W.},
+           given={Eric\bibnamedelima W},
            giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
         {{hash=ada81c825f20660042d904fc0a9719b8}{%
            family={Decarli},
@@ -96,12 +141,43 @@
       \endverb
       \keyw{abstract}
     \endentry
+    \entry{robbins_reduce_2023}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Eric\bibnamedelima W},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Providence, {RI}}%
+      }
+      \strng{namehash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{fullhash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{bibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{authorbibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{authornamehash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{authorfullhash}{817410d8d04e2cbc97f884db8a8d3910}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{month}{10}
+      \field{note}{Morning Report for Brown University Internal Medicine Program}
+      \field{title}{{REDUCE} Trial: Limiting Steroids in {COPD} Exacerbations}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{presentation}
+    \endentry
     \entry{robbins_medication_2023}{inproceedings}{}
       \name{author}{19}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
            familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W.},
+           given={Eric\bibnamedelima W},
            giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
         {{hash=d740f15a48e5a346c6cb12eb95f4d4f2}{%
            family={Bradley},
@@ -280,14 +356,76 @@
       \verb{url}
       \verb https://journals.lww.com/10.1097/01.ccm.0000806828.13647.9a
       \endverb
-      \keyw{caseRep}
+      \keyw{{caseRep}}
+    \endentry
+    \entry{robbins_assessing_2022}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Eric\bibnamedelima W},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Providence, {RI}}%
+      }
+      \strng{namehash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{fullhash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{bibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{authorbibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{authornamehash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{authorfullhash}{817410d8d04e2cbc97f884db8a8d3910}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{month}{3}
+      \field{note}{Morning Report for Brown University Internal Medicine Program}
+      \field{title}{Assessing Fluid Responsiveness in the {MICU}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{presentation}
+    \endentry
+    \entry{robbins_racial_2022}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Eric\bibnamedelima W},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Providence, {RI}}%
+      }
+      \strng{namehash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{fullhash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{bibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{authorbibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{authornamehash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{authorfullhash}{817410d8d04e2cbc97f884db8a8d3910}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{month}{12}
+      \field{note}{Morning Report for Brown University Internal Medicine Program}
+      \field{title}{Racial and Ethnic Differences in Bystander {CPR} for Witnessed Cardiac Arrest}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{presentation}
     \endentry
     \entry{robbins_aortic_2022}{inproceedings}{}
       \name{author}{5}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
            familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W.},
+           given={Eric\bibnamedelima W},
            giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
         {{hash=5aa1d86c788b9114a04854a38864815a}{%
            family={Ayaz},
@@ -346,14 +484,14 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369222024308
       \endverb
-      \keyw{caseRep}
+      \keyw{{caseRep}}
     \endentry
     \entry{robbins_adenocarcinoma_2022}{inproceedings}{}
       \name{author}{5}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
            familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W.},
+           given={Eric\bibnamedelima W},
            giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
         {{hash=53047d6686a1cd4ec7d7eaee14b10edc}{%
            family={Sacks},
@@ -411,7 +549,7 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369222027350
       \endverb
-      \keyw{caseRep}
+      \keyw{{caseRep}}
     \endentry
     \entry{Robbins2020a}{inproceedings}{}
       \name{author}{3}{}{%
@@ -440,6 +578,7 @@
       \strng{authorbibnamehash}{7d1b0c17ca5d8c251d2d1e3377902144}
       \strng{authornamehash}{7d1b0c17ca5d8c251d2d1e3377902144}
       \strng{authorfullhash}{7d1b0c17ca5d8c251d2d1e3377902144}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -461,7 +600,7 @@
       \verb{url}
       \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A6990
       \endverb
-      \keyw{caseRep}
+      \keyw{{caseRep}}
     \endentry
     \entry{Robbins2020b}{inproceedings}{}
       \name{author}{3}{}{%
@@ -491,7 +630,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{{SESSION} {TITLE}: Medical Student/Resident Lung Cancer Posters {SESSION} {TYPE}: Med Student/Res Case Rep Postr {PRESENTED} {ON}: October 18-21, 2020 {INTRODUCTION}: A miliary pattern on chest imaging is often concerning for primary tuberculosis. However, such nodules may also be seen in fungal infections and autoimmune or (rarely) metastatic processes. Here, we report a case of a miliary mottling on chest imaging associated with metastatic lung adenocarcinoma. {CASE} {PRESENTATION}: A 39-year-old man with a history of obesity and tobacco use presented with worsening chest congestion and dyspnea on exertion for 2 months. He had occasional wheezing without associated symptoms, including fever, chills or night sweats, or weight loss. He worked in environmental services without any known sick contacts or recent travel history. Physical examination was unremarkable except a small, palpable right supraclavicular lymph node. The initial chest x-ray showed diffuse interstitial infiltrates. Chest {CT} revealed innumerable bilateral cavitary nodules with an apical gradient, a right lower lobe 6-cm mass with cavitation, and mediastinal and supraclavicular lymphadenopathy. Given concern of pulmonary tuberculosis with a miliary component, the patient remained on airborne precautions. Laboratory workup was notable for a mild leukocytosis of 12,000. Sputum cultures and {AFB} staining were negative. A baseline connective tissue panel, {AFP}, and beta-{hCG} levels were unmeasurable. Given his age and concern for metastatic disease, a scrotal ultrasound was performed but did not reveal any testicular mass. Subsequently, the patient underwent a fine-needle aspiration and core biopsy of the right supraclavicular lymph node, which showed metastatic adenocarcinoma. The immunohistochemical profile was suggestive of a positive {CK}7 but negative for {CK}20, {TTF}-1, {CDX}2, and Napsin A—support the diagnosis of non-small cell lung cancer with a {KRAS} Q61K mutation. Immuno-chemotherapy with a combination of carboplatin, pemetrexed, and pembrolizumab was initiated, given his stage {IV} metastatic lung adenocarcinoma. {DISCUSSION}: The differential diagnosis for miliary patterns on chest imaging includes tuberculosis, fungal infections, sarcoidosis, pneumoconiosis, and secondary metastasis. Miliary-pattern metastatic lung adenocarcinomas have been rarely reported. Our case is of interest given the negative {TTF}-1 with a {KRAS} Q61K mutation, the later of which is associated with resistance to the {EGFR} inhibitors gefitinib and erlotinib. This entity is thought to have a poorer prognosis than {KRAS} wild-ty\begin{environment-name} content \end{environment-name}pe adenocarcinomas. {CONCLUSIONS}: The initial radiologic presentation of these cases can be misleading in areas with high prevalence of infections such as tuberculosis and fungal infections. The possibility of primary lung cancer should also be considered in these cases. Reference \#1: A. Sekine et al., “Miliary lung metastases from non‑small cell lung cancer with Exon 20 insertion: A dismal prognostic entity: A case report,” Mol. Clin. Oncol., Oct. 2018, doi: 10.3892/mco.2018.1730. Reference \#2: L. Kimmig and J. Bueno, “Miliary Nodules: Not Always Tuberculosis,” Ann. Am. Thorac. Soc., vol. 14, no. 12, pp. 1858–1860, Dec. 2017, doi: 10.1513/{AnnalsATS}.201706-436CC. Reference \#3: P. J. Roberts, T. E. Stinchcombe, C. J. Der, and M. A. Socinski, “Personalized medicine in non-small-cell lung cancer: is {KRAS} a useful marker in selecting patients for epidermal growth factor receptor-targeted therapy?,” J. Clin. Oncol., vol. 28, no. 31, pp. 4769–77, Nov. 2010, doi: 10.1200/{JCO}.2009.27.4365. {DISCLOSURES}: No relevant relationships by Kamran Manzoor, source=Web Response No relevant relationships by Eric Robbins, source=Web Response No relevant relationships by Ajit Thota, source=Web Response}
+      \field{abstract}{{SESSION} {TITLE}: Medical Student/Resident Lung Cancer Posters {SESSION} {TYPE}: Med Student/Res Case Rep Postr {PRESENTED} {ON}: October 18-21, 2020 {INTRODUCTION}: A miliary pattern on chest imaging is often concerning for primary tuberculosis. However, such nodules may also be seen in fungal infections and autoimmune or (rarely) metastatic processes. Here, we report a case of a miliary mottling on chest imaging associated with metastatic lung adenocarcinoma. {CASE} {PRESENTATION}: A 39-year-old man with a history of obesity and tobacco use presented with worsening chest congestion and dyspnea on exertion for 2 months. He had occasional wheezing without associated symptoms, including fever, chills or night sweats, or weight loss. He worked in environmental services without any known sick contacts or recent travel history. Physical examination was unremarkable except a small, palpable right supraclavicular lymph node. The initial chest x-ray showed diffuse interstitial infiltrates. Chest {CT} revealed innumerable bilateral cavitary nodules with an apical gradient, a right lower lobe 6-cm mass with cavitation, and mediastinal and supraclavicular lymphadenopathy. Given concern of pulmonary tuberculosis with a miliary component, the patient remained on airborne precautions. Laboratory workup was notable for a mild leukocytosis of 12,000. Sputum cultures and {AFB} staining were negative. A baseline connective tissue panel, {AFP}, and beta-{hCG} levels were unmeasurable. Given his age and concern for metastatic disease, a scrotal ultrasound was performed but did not reveal any testicular mass. Subsequently, the patient underwent a fine-needle aspiration and core biopsy of the right supraclavicular lymph node, which showed metastatic adenocarcinoma. The immunohistochemical profile was suggestive of a positive {CK}7 but negative for {CK}20, {TTF}-1, {CDX}2, and Napsin A—support the diagnosis of non-small cell lung cancer with a {KRAS} Q61K mutation. Immuno-chemotherapy with a combination of carboplatin, pemetrexed, and pembrolizumab was initiated, given his stage {IV} metastatic lung adenocarcinoma. {DISCUSSION}: The differential diagnosis for miliary patterns on chest imaging includes tuberculosis, fungal infections, sarcoidosis, pneumoconiosis, and secondary metastasis. Miliary-pattern metastatic lung adenocarcinomas have been rarely reported. Our case is of interest given the negative {TTF}-1 with a {KRAS} Q61K mutation, the later of which is associated with resistance to the {EGFR} inhibitors gefitinib and erlotinib. This entity is thought to have a poorer prognosis than {KRAS} wild-type adenocarcinomas. {CONCLUSIONS}: The initial radiologic presentation of these cases can be misleading in areas with high prevalence of infections such as tuberculosis and fungal infections. The possibility of primary lung cancer should also be considered in these cases. Reference \#1: A. Sekine et al., “Miliary lung metastases from non‑small cell lung cancer with Exon 20 insertion: A dismal prognostic entity: A case report,” Mol. Clin. Oncol., Oct. 2018, doi: 10.3892/mco.2018.1730. Reference \#2: L. Kimmig and J. Bueno, “Miliary Nodules: Not Always Tuberculosis,” Ann. Am. Thorac. Soc., vol. 14, no. 12, pp. 1858–1860, Dec. 2017, doi: 10.1513/{AnnalsATS}.201706-436CC. Reference \#3: P. J. Roberts, T. E. Stinchcombe, C. J. Der, and M. A. Socinski, “Personalized medicine in non-small-cell lung cancer: is {KRAS} a useful marker in selecting patients for epidermal growth factor receptor-targeted therapy?,” J. Clin. Oncol., vol. 28, no. 31, pp. 4769–77, Nov. 2010, doi: 10.1200/{JCO}.2009.27.4365. {DISCLOSURES}: No relevant relationships by Kamran Manzoor, source=Web Response No relevant relationships by Eric Robbins, source=Web Response No relevant relationships by Ajit Thota, source=Web Response}
       \field{booktitle}{Chest}
       \field{month}{10}
       \field{title}{Adenocarcinoma of the Lung With a Miliary Pattern}
@@ -510,7 +649,49 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369220335789
       \endverb
-      \keyw{caseRep}
+      \keyw{{caseRep}}
+    \endentry
+    \entry{robbins_progressive_2020}{unpublished}{}
+      \name{author}{3}{}{%
+        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Eric\bibnamedelima W},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f6851b7c13d4d6614e2e9bdc871cdb47}{%
+           family={Allam},
+           familyi={A\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2dc229558d9428cef48711e6f530e3bc}{%
+           family={Manzoor},
+           familyi={M\bibinitperiod},
+           given={Kamran},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Weymouth, {MA}}%
+      }
+      \strng{namehash}{b744966b3fed6b0377c8f8b28897125f}
+      \strng{fullhash}{b744966b3fed6b0377c8f8b28897125f}
+      \strng{bibnamehash}{b744966b3fed6b0377c8f8b28897125f}
+      \strng{authorbibnamehash}{b744966b3fed6b0377c8f8b28897125f}
+      \strng{authornamehash}{b744966b3fed6b0377c8f8b28897125f}
+      \strng{authorfullhash}{b744966b3fed6b0377c8f8b28897125f}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{1}
+      \field{note}{South Shore Health Research Symposium}
+      \field{title}{Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon}
+      \field{type}{Poster Presentation}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{presentation}
     \endentry
     \entry{Robbins2020}{inproceedings}{}
       \name{author}{4}{}{%
@@ -565,7 +746,43 @@
       \verb{url}
       \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A7618
       \endverb
-      \keyw{caseRep}
+      \keyw{{caseRep}}
+    \endentry
+    \entry{robbins_relative_2018}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Eric\bibnamedelima W},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=88a2ef473b6172bc4cf7219dd1315146}{%
+           family={Thanikachalam},
+           familyi={T\bibinitperiod},
+           given={Mohan},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, {MA}}%
+      }
+      \strng{namehash}{a5a92219dc69086b9792464551ca3e51}
+      \strng{fullhash}{a5a92219dc69086b9792464551ca3e51}
+      \strng{bibnamehash}{a5a92219dc69086b9792464551ca3e51}
+      \strng{authorbibnamehash}{a5a92219dc69086b9792464551ca3e51}
+      \strng{authornamehash}{a5a92219dc69086b9792464551ca3e51}
+      \strng{authorfullhash}{a5a92219dc69086b9792464551ca3e51}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{1}
+      \field{note}{Tufts University School of Medicine Summer Research Fair}
+      \field{title}{Relative Contributions of Insulin Resistance and Beta Cell Dysfunction to the Development of Type 2 Diabetes in the {PURSE}-{HIS} Cohort}
+      \field{type}{Poster Presentation}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{presentation}
     \endentry
   \enddatalist
 \endrefsection

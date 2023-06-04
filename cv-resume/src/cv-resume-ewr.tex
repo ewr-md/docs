@@ -1,4 +1,4 @@
-\documentclass{book}
+\documentclass{article}
 \usepackage[margin=1.00in]{geometry}
 \usepackage{titlesec,titling}
 \usepackage[utf8]{inputenc}
@@ -8,7 +8,7 @@
 \hypersetup{colorlinks=true, urlcolor=blue, pdfpagemode=FullScreen}
 
 %setting up bibliography stuff
-\usepackage[sorting=ydnt, url=false, style=nejm, minbibnames=3, maxbibnames=3]{biblatex}
+\usepackage[sorting=ydnt, url=false, style=nejm, minbibnames=3, maxbibnames=3, defernumbers=true]{biblatex}
 \addbibresource{works.bib}
 
 %defining variables specifying column widths
@@ -108,32 +108,30 @@
 \begin{document}
 	\maketitle
 	\pagenumbering{gobble} %suppresses page numbers
+	
+		\section*{Postgraduate Training}
+	\entryfour{2023 -- Present}
+	{Fellowship: Pulmonary and Critical Care Medicine}
+	{\fellowship}
+	{}
+	
+	\entryfour{2020 -- 2023}
+	{Residency: Internal Medicine}
+	{\residency}
+	{}
+	
 	\section*{Education}
-		\entryfour{2023 -- Present}
-			{Fellowship: Pulmonary and Critical Care Medicine}
-			{\fellowship}
-			{}
-			
-		\entryfour{2020 -- 2023}
-			{Residency: Internal Medicine}
-			{\residency}
-			{}
-			
 		\entryfour{2016 -- 2020}
 			{Doctor of Medicine (M.D.)}
 			{\medschool}
-			{Awarded \textit{Honos Civicus} for significant community service}
+			{}%{Awarded \textit{Honos Civicus} for significant community service}
 			
 		\entryfour{2006 -- 2010}
 		{Bachelor of Arts (B.A.)}
 		{\undergrad}
-		{Major: Asian Studies}
+		{}%{Major: Asian Studies}
+
 	\section*{Work Experience}
-		\entryfour{12/2021}{Affiliate}{medRxiv}{%
-			\begin{itemize}
-				\item Screened submitted manuscripts for appropriateness, scope, and medical feasibility
-			\end{itemize}
-			}
 
 %		\entryfour{2/2018}{Clinical Trial Assistant}{\medschool}{%
 %		 \begin{itemize}
@@ -142,14 +140,14 @@
 %		 \end{itemize}
 %	 	}
 		
-		\entryfour{2/2017 -- 8/2018}{Research Assistant}{Department of Public Health and Community Medicine, Tufts University}{%		
-		\begin{itemize}
-			\item Performed literature review, data analysis, and manuscript preparation for a population study on endovascular disease and risk factor prevalence among South Indians
-			\item Conducted an independent investigation on link between $\beta$ cell function and insulin resistance
-		\end{itemize}
-	}
+%		\entryfour{2/2017 -- 8/2018}{Research Assistant}{Department of Public Health and Community Medicine, Tufts University}{%		
+%		\begin{itemize}
+%			\item Performed literature review, data analysis, and manuscript preparation for a population study on endovascular disease and risk factor prevalence among South Indians
+%			\item Conducted an independent investigation on link between $\beta$ cell function and insulin resistance
+%		\end{itemize}
+%	}
 
-		\entryfour{6/2017 -- 9/2017}{Medical Editor}{Journal of Medical Insight / Boston, MA}{%
+		\entryfour{6/2017 -- 9/2017}{Medical Editor}{Journal of Medical Insight}{%
 		\begin{itemize}
 			\item Directed the editorial department strategy for a peer-reviewed surgical video journal
 			\item Wrote abstracts for pre-print articles and evaluated medical accuracy of animations
@@ -172,55 +170,84 @@
 % START Research section
 \section*{Research}
 	\nocite{*}
+	\subsection*{Peer-Reviewed Articles}
+		\printbibliography[keyword=article, heading=none]
 	\subsection*{Scientific Abstracts}
-		\printbibliography[keyword=abstract, heading=none]	
+		\printbibliography[keyword=abstract, heading=none,resetnumbers]	
 	\subsection*{Case Reports}
-		\printbibliography[keyword=caseRep, heading=none]
+		\printbibliography[keyword=caseRep, heading=none,resetnumbers]
+  \subsection*{Presentations and Invited Talks}
+	  \printbibliography[keyword=presentation, heading=none, resetnumbers]
 
-  \section*{Presentations and Invited Talks}
-  		\begin{enumerate}
- 			\item Robbins, EW. ``xxx.'' Morning Report for Brown University Internal Medicine Program, Providence, RI. Mar. 2023. 
- 			\item Robbins, EW. ``xxx CPR talk morning report.'' Morning Report for Brown University Internal Medicine Program, Providence, RI. DATE.
- 			\item Robbins, EW. ``xxx ICU.'' Morning Report for Brown University Internal Medicine Program, Providence, RI. DATE.
- 			\item \me, Allam G, and Manzoor K.  ``Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon.'' Poster presentation at the South Shore Health Research Symposium, Weymouth, MA. 1/2020.
- 			\item \me \space and Thanikachalam M. ``Relative Contributions of Insulin Resistance and $\beta$ Cell Dysfunction to the Development of Type 2 Diabetes in the PURSE-HIS Cohort.'' Poster presentation at the \medschool \ Summer Research Fair, Boston, MA. 1/2018.
- 		\end{enumerate}
+%	\section*{Service \& Leadership}
+%	\entryfour{1/2017 -- 2/2020}{Diabetes Clinical Coordinator / Clinical Assistant}{MetroWest Free Medical Program / Sudbury, MA}{%
+%	\begin{itemize}
+%		\item Managed the diabetes desk by collecting blood samples, running diagnostic equipment, and educating patients on lifestyle modifications
+%		\item Trained and supervised new volunteers on how to perform ECGs and blood tests for cholesterol 
+%		\item Acted as the clinic's go-to expert on translating patient vaccination information into English
+%	\end{itemize}
+%	}
+	
+%		\entryfour{9/2013 -- 8/2016}{Medical Assistant}{New Hope Medical Center / Waltham, MA}{%
+%		\begin{itemize}
+%			\item Volunteered at a free clinic for the un- and under-insured, taking patient vitals and basic histories
+%		\end{itemize}
+%	}
 
-	\section*{Awards \& Fellowships}
-		\entrythree{12/2018}{Lahey Top Gun}{Top simulation score on surgery clerkship}
-		
-		\entrythree{6/2017}{David F. Noonan Fellowship}{Awarded for summer research on diabetes development in South Indian patient populations}
-	\section*{Service \& Leadership}
-	\entryfour{1/2017 -- 2/2020}{Diabetes Clinical Coordinator / Clinical Assistant}{MetroWest Free Medical Program / Sudbury, MA}{%
-	\begin{itemize}
-		\item Managed the diabetes desk by collecting blood samples, running diagnostic equipment, and educating patients on lifestyle modifications
-		\item Trained and supervised new volunteers on how to perform ECGs and blood tests for cholesterol 
-		\item Acted as the clinic's go-to expert on translating patient vaccination information into English
-	\end{itemize}
-	}
+	\section*{Committees and Other Appointments}
+		\entryfour{12/2021 -- Present}{Affiliate}{medRxiv}{%
+			\begin{itemize}
+				\item Screened submitted manuscripts for appropriateness, scope, and medical feasibility
+		\end{itemize}
+		}
 
-	\entryfour{5/2019 -- 5/2020}{Student Representative}{Massachusetts Medical Society, Committee on Publications / Waltham, MA}{%
+%%%%%%%%%%%%%%%%%%%%%%%%
+%  START Manual Entry for two-date position  %
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{\colleft\textwidth}
+	\vspace{0.1pc}
+	\begin{flushright}
+		5/2019 -- 5/2020\\
+		5/2017 -- 5/2018
+	\end{flushright}
+\end{minipage}
+\hfill\vline\hfill
+\begin{minipage}[t]{\colright\textwidth}
+	{\bf Student Representative, Committee on Publications}\\
+	\textit{Massachusetts Medical Society}
+	\footnotesize{%
 		\begin{itemize}
-			\item Weighed in on new initiatives, product development, and business strategies relating to the \emph{New England Journal of Medicine} during quarterly committee meetings
+			\item  Weighed in on new initiatives, product development, and business strategies relating to the \emph{New England Journal of Medicine} during quarterly meetings
 		\end{itemize}
 	}
+\end{minipage}
+\entryvspace
 
-	\entryfour{5/2017 -- 5/2018}{Student Representative Alternate}{Massachusetts Medical Society, Committee on Publications / Waltham, MA}{%
-	\begin{itemize}
-		\item Weighed in on new initiatives, product development, and business strategies relating to the \emph{New England Journal of Medicine} during quarterly committee meetings
-	\end{itemize}
-}
+%%%%%%%%%%%%%%%%%%%%%%%
+%  END Manual Entry for two-date position  %
+%%%%%%%%%%%%%%%%%%%%%%%
 
-	\entryfour{7/2014 -- 6/2015}{Managing Editor}{Harvard Medical Student Review (HMSR) / Boston, MA}{%
+	\entryfour{7/2014 -- 6/2015}{Managing Editor}{Harvard Medical Student Review (HMSR)}{%
 	\begin{itemize}
-		\item Designed from scratch the peer review and publication production processes for the journal
-		\item Played a decision-maker role in the vetting of submissions, serving on the executive board
-	\end{itemize}
-	}
-
-	\entryfour{9/2013 -- 8/2016}{Medical Assistant}{New Hope Medical Center / Waltham, MA}{%
-	\begin{itemize}
-		\item Volunteered at a free clinic for the un- and under-insured, taking patient vitals and basic histories
+		\item Selected to serve on the Executive Board, playing a decision-maker role in the vetting of submissions
+		\item Designed from scratch the peer review and publication production process
+		\item Oversaw the readying of submissions for publication, directly managing reviewers
 	\end{itemize}
 	}
+
+	\section*{Awards \& Fellowships}
+	\entryfour{12/2018}{Lahey Top Gun}{Lahey Hospital \& Medical Center}{%
+		\begin{itemize}
+			\item Achieved the top simulation score on my core surgery clerkship
+			\end{itemize}
+		}
+	
+	\entryfour{6/2017}{David F. Noonan Fellowship}{Tufts University School of Medicine}{%
+		\begin{itemize}
+			\item Awarded for summer research on relationship between beta-cell function and insulin
+			resistance in diabetes development
+			\end{itemize}
+		}
+	
 \end{document}
