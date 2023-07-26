@@ -1,5 +1,2 @@
-*.pdf
 *.docx
 .Rproj.user
-cv-resume-ewr.*
-!cv-resume-ewr.tex

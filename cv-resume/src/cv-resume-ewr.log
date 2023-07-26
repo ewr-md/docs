@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.6.4)  4 JUN 2023 10:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.6.4)  8 JUN 2023 21:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -292,7 +292,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'nejm.dbx' not found.
+Package biblatex Info: ... file 'ieee.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count321
@@ -402,11 +402,16 @@ File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 \biburllcskip=\muskip20
 \c@smartand=\count397
 )
-Package biblatex Info: Trying to load bibliography style 'nejm'...
-Package biblatex Info: ... file 'nejm.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex-nejm/nejm.bbx
-File: nejm.bbx 2018/07/28  v0.5: nejm.bbx
+(/usr/share/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+File: ieee.bbx 2021/12/06 v1.3f biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
@@ -419,12 +424,12 @@ Package biblatex Info: ... file 'standard.bbx' found.
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count398
 \c@bbx:relatedtotal=\count399
-)))
-Package biblatex Info: Trying to load citation style 'nejm'...
-Package biblatex Info: ... file 'nejm.cbx' found.
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex-nejm/nejm.cbx
-File: nejm.bbx 2018/07/28  v0.5: nejm.bbx
+(/usr/share/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+File: ieee.cbx 2021/12/06 v1.3f biblatex citation style
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
@@ -447,6 +452,8 @@ Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\cites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -583,9 +590,9 @@ Package biblatex Info: ... file 'cv-resume-ewr.bbl' found.
 Package biblatex Info: Reference section=0 on input line 108.
 Package biblatex Info: Reference segment=0 on input line 108.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 176.
+(Font)              <7> on input line 174.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 176.
+(Font)              <5> on input line 174.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
@@ -609,13 +616,13 @@ Package logreq Info: Writing requests to 'cv-resume-ewr.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16471 strings out of 476025
- 292778 string characters out of 5796533
+ 16505 strings out of 476025
+ 293564 string characters out of 5796533
  1867388 words of memory out of 5000000
- 36764 multiletter control sequences out of 15000+600000
+ 36796 multiletter control sequences out of 15000+600000
  515916 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,76p,3973b,1373s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,76p,3973b,1372s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/publ
@@ -624,10 +631,10 @@ cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
 /share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1
 /public/cm-super/sfrm0800.pfb>
-Output written on cv-resume-ewr.pdf (3 pages, 152394 bytes).
+Output written on cv-resume-ewr.pdf (3 pages, 153612 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
  16 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
