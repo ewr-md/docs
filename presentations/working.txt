@@ -1,0 +1,91 @@
+---
+Title: "Ground Glass Opacities in a Post-Cardiac-Arrest Patient"
+author: "Eric Robbins, MD"
+format: realjs
+---
+
+
+# Learning Objectives
+
+- List the differential diagnosis for acute-onset ground glass opacities.
+- Describe the diagnostic workup for presumed diffuse alveolar hemorrhage.
+- Describe four life-threatening side effects of inhaled cocaine use.
+- Describe the treatment for cocaine-induced diffuse alveolar hemorrhage.
+
+# References
+PMID: 27472774
+https://doi.org/10.1007/s00408-013-9553-6
+https://doi.org/10.1093/rheumatology/kew381
+https://doi.org/10.1093/rheumatology/kew256
+https://doi.org/10.1148/rg.274065144
+https://doi.org/10.1016/0002-9343(90)90484-u
+https://doi.org/10.1056/NEJM200108023450507
+https://doi.org/10.1378/chest.107.1.233
+
+# Case Presentation
+DEC 2022 
+ams w cf seizure. midaz then aed loaded (keppra). hypertensive. cxr w L opacity, asx and on room air, but got CT chest wo. findings Tree-in-bud opacities in the right lower lobe likely reflect bronchiolitis and in conjunction with the lower lobe groundglass opacities on the left, findings may be related to aspiration/pneumonia. no utox at time, but multiple prior cocaine + fentanyl pos uds, so presumed aspiration iso intoxication. dc from ed w augmentin. 
+
+SEP2023
+initial labs
+LAB,VALUE,DATE
+NA,136,9/3/23
+K,5.4,9/3/23
+CL,103,9/3/23
+BICARB,17,9/3/23
+BUN,28,9/3/23
+CREATININE,2.95,9/3/23
+LACTATE,7.9,9/3/23
+LACTATE,1.7,9/4/23
+TOTPRO,7.9,9/3/23
+ALBUMIN,4.4,9/3/23
+AST,119,9/3/23
+ALT,44,9/3/23
+TOTBILI,0.5,9/3/23
+ALKPHOS,66,9/3/23
+
+HPI
+57 yo M with PMHx of HTN, NICM, polysubstance abuse who initially presented to the ED following a cardiac arrest.  History obtained through chart review and conversation with daughter. Patient reportedly had an overdose on an unknown substance after being found by a friend.  Was noted to be apneic, pulseless on their arrival.  CPR was started and EMS was called.  On EMS arrival, patient was in asystole.  He received 3 rounds of CPR, 3 doses of epinephrine and converted to VT.  At that point, patient was defibrillated and converted to a bradycardic rhythm and was subsequently paced transcutaneously without significant effect.  Was also intubated in the field.  On arrival to the ED, patient continued to be paced and noted to be in a junctional bradycardia.  TCP was discontinued after several minutes and patient was noted to be in sinus rhythm with a rate in the 60s.  He showed evidence of decerebrate posturing and a Keppra load was provided.
+ 
+On my conversation with the eldest daughter, she reports that her father has been through similar experiences multiple times before.  She states that he was recently in rehab for substance use but did not continue because he felt that his addiction was under control.  She reports that he has had significant increase in his substance use over the past several weeks.  She did confirm to me that he would want to be full code at this time.
+ 
+On chart review, patient was noted to have a recent hospitalization (5/12/2023 - 5/15/2023) in the setting of hypertensive emergency following cocaine use.  Patient also had an admission (8/23/2022 - 8/29/2022) for hypertensive emergency.  At that time, patient was intubated in the field due to altered mental status with a reported GCS of 3.  While in the MICU, patient had aggressive blood pressure management for treatment of PRES.
+
+
+# Learning
+
+## Ground Glass Opacities
+
+### Acute
+Categories
+- infection
+- blood
+- protein
+- cells
+- inflammation
+
+- pulmonary edema
+- pulmonary infection
+  - bacterial, viral, PJP, mycoplasma
+- AIP (acute interstitial pneumonia)
+- ARDS (acute respiratory distress syndrome)
+- DAH (diffuse alveolar hemorrhage)
+- AEP (acute eosinphilic pneumonia)
+
+
+### Subacute to Chronic
+- UIP
+- NSIP
+- PAP
+- OP
+- vasculitis (GPA, MPN)
+- CEP
+- lymphangitic tumor spread
+- sarcoidosis
+- lipid pneumonia
+- alveolar microlithasis
+
+
+## Diagnosing DAH
+
+## Treating DAH
