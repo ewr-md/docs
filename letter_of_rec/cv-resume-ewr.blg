@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'cv-resume-ewr.blg'
+[115] biber:340> INFO - === Sat Oct  7, 2023, 15:59:11
+[133] Biber.pm:419> INFO - Reading 'cv-resume-ewr.bcf'
+[221] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[246] Biber.pm:4419> INFO - Processing section 0
+[260] Biber.pm:4610> INFO - Looking for bibtex file 'works.bib' for section 0
+[262] bibtex.pm:1713> INFO - LaTeX decoding ...
+[311] bibtex.pm:1519> INFO - Found BibTeX data source 'works.bib'
+[440] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[440] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[440] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[441] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[456] bbl.pm:660> INFO - Writing 'cv-resume-ewr.bbl' with encoding 'UTF-8'
+[462] bbl.pm:763> INFO - Output to cv-resume-ewr.bbl

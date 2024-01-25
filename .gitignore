@@ -1,2 +1,5 @@
 *.docx
 .Rproj.user
+*.png
+*.jpg
+*.jpeg

@@ -1,0 +1,70 @@
+\documentclass[a4paper]{article}
+\usepackage[margin=1.00in]{geometry}
+\usepackage{titlesec,titling}
+\usepackage[utf8]{inputenc}
+
+%allow use of and defining appearence of hyperlinks
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, urlcolor=blue, pdfpagemode=FullScreen}
+
+%setting up bibliography stuff
+\usepackage[sorting=ydnt, url=false, style=ieee, minbibnames=3, maxbibnames=5, defernumbers=true]{biblatex}
+\addbibresource{works.bib}
+
+%defining variables specifying column widths
+\newcommand\colleft{.20}
+\newcommand\colright{.75}
+\newcommand\mohan{Mohan Thanikachalam, MD}
+
+
+\titleformat{\section}
+{\bfseries\Large}
+{}
+{0em}
+{}[\titlerule]
+
+\titleformat{\subsection}
+{\large\bfseries}
+{}
+{}
+{}
+
+\titleformat{\subsubsection}[runin]
+{\bfseries}
+{}
+{}
+{}
+
+\renewcommand{\maketitle}{
+\begin{center}
+	{\huge\bfseries\theauthor}
+	\vspace{0.25em}\\
+	\email
+	\hspace{1em}\vline \hspace{1em}%puts space and a vertical line between data
+	\cphone
+	\hspace{1em}\vline \hspace{1em}
+	\address
+\end{center}
+}
+	
+
+%prevent idendation between \entry commands
+\setlength{\parindent}{0in}
+
+\begin{document}
+	\pagenumbering{gobble} %suppresses page numbers
+	
+
+% START Research section
+\section*{Research}
+	\nocite{*}
+	\subsection*{Peer-Reviewed Articles}
+		\printbibliography[keyword=article, heading=none]
+%	\subsection*{Scientific Abstracts}
+%		\printbibliography[keyword=abstract, heading=none,resetnumbers]	
+	\subsection*{Case Reports}
+		\printbibliography[keyword=caseRep, heading=none,resetnumbers]
+  \subsection*{Presentations and Invited Tfalks}
+	  \printbibliography[keyword=presentation, heading=none, resetnumbers]
+	
+\end{document}

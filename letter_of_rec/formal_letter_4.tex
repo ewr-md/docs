@@ -1,0 +1,125 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Professional Formal Letter
+% LaTeX Template
+% Version 2.0 (12/2/17)
+%
+% This template originates from:
+% http://www.LaTeXTemplates.com
+%
+% Authors:
+% Brian Moses
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt, a4paper]{letter} % Set the font size (10pt, 11pt and 12pt) and paper size (letterpaper, a4paper, etc)
+
+\input{structure.tex} % Include the file that specifies the document structure
+
+%\longindentation=0pt % Un-commenting this line will push the closing "Sincerely," and date to the left of the page
+
+%----------------------------------------------------------------------------------------
+%	YOUR INFORMATION
+%----------------------------------------------------------------------------------------
+
+\Who{Eric Robbins} % Your name
+
+\Title{, M.D.} % Your title, leave blank for no title
+
+\authordetails{
+  Divison of Pulmonary\\and Critical Care Medicine\\ % Your department/institution
+	22 S. Greene Street\\ % Your address
+	Baltimore, MD 21201\\ % Your city, zip code, country, etc
+	Email: eric.robbins@\\som.umaryland.edu\\ % Your email address
+	Phone: (339) 203-8046\\ % Your phone number
+	%URL: LaTeXTemplates.com % Your URL
+}
+
+%----------------------------------------------------------------------------------------
+%	HEADER CONTENTS
+%----------------------------------------------------------------------------------------
+
+\logo{logo.png} % Logo filename, your logo should have square dimensions (i.e. roughly the same width and height), if it does not, you will need to adjust spacing within the HEADER STRUCTURE block in structure.tex (read the comments carefully!)
+
+\headerlineone{UNIVERSITY OF MARYLAND} % Top header line, leave blank if you only want the bottom line
+
+\headerlinetwo{MEDICAL CENTER} % Bottom header line
+
+
+%----------------------------------------------------------------------------------------
+% RECOMMENDEE INFORMATION	
+%----------------------------------------------------------------------------------------
+
+\newcommand{\position}{Clinical Associate Professor of Medicine in the Department of Pulmonary and Critical Care Medicine at Tufts University School of Medicine}
+\newcommand{\candidate}{Dr. Kamran Manzoor}
+\newcommand{\candidateShort}{Dr. Manzoor}
+\newcommand{\recStrength}{strongly recommended, without any reservations,}
+\newcommand{\pccm}{Pulmonary and Critical Care Medicine}
+
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TO ADDRESS
+%----------------------------------------------------------------------------------------
+
+\begin{letter}{
+  Clinical Faculty Promotion and Appointment Committee\\
+  South Shore Hospital\\
+  55 Fogg Road\\
+  South Weymouth, MA 02190
+}
+
+
+%----------------------------------------------------------------------------------------
+%	LETTER CONTENT
+%----------------------------------------------------------------------------------------
+
+\opening{Dear Sir or Madam,}
+
+It is my pleasure to \recStrength \space \candidate \space for promotion to \position.
+I believe his excellent clinical teaching skills, track record of guiding trainees through research projects, and commitment to mentoring provide ample justification for his promotion. 
+
+I have known \candidateShort \space since 2019, when I was a Tufts Sub-Intern in the Intensive Care Unit at South Shore Hospital. His enthusiastic approach to teaching was inspirational and infectious.
+He constantly encouraged me to understand not only what to do for patients but also why certain diagnostics or therapies were chosen.
+He challenged me to learn more, to never be complacent in my medical knowledge.
+He had a clear passion for both \pccm, and the sheer depth of his knowledge and eagerness to share it helped me realize my own desire to pursue the specialty.
+As an aspiring academic physician, I hope to model \candidateShort's kindness, warmth, and dedication to teaching. 
+
+I have also had the pleasure of working on multiple research projects with \candidateShort.  
+In total, we have published or presented six research items (see attached for reference), and we currently have several more ongoing.
+More so than any other attending I have worked with to date, \candidateShort \space has shown an eagerness to involve me in his research.
+He has always been quick to reach out when he comes across an interesting case or a project that excites him.
+I can genuinely attribute \candidateShort’s encouragement and continued collaborative efforts as having played a pivotal role in my fellowship match.  
+
+Finally, I can attest to \candidateShort’s ongoing commitment to mentoring Tufts medical students.
+He introduced me to a recent alumnus now in Internal Medicine, and the three of us are currently working on a project together.
+I have specifically heard from said alumnus about Dr. Manzoor’s consistent mentorship through the residency application process.
+I was not surprised; \candidateShort \space did the same for me. We were in frequent contact about where I had interviewed for both residency and fellowship and how each aligned with my career goals.
+I fully expect to reach out to him yet again when I apply to my first attending position. 
+
+Overall, I consider myself fortunate to have met \candidate; his ongoing influence and support have been foundational to my professional life.
+I echo my strongest recommendation for his promotion to Clinical Associate Professor of Medicine at Tufts University School of Medicine. 
+
+\closing{Sincerely,}
+
+%----------------------------------------------------------------------------------------
+%	OPTIONAL FOOTNOTE
+%----------------------------------------------------------------------------------------
+
+% Uncomment the 4 lines below to print a footnote with custom text
+%\def\thefootnote{}
+%\def\footnoterule{\hrule}
+%\footnotetext{\hspace*{\fill}{\footnotesize\em Footnote text}}
+%\def\thefootnote{\arabic{footnote}}
+
+%----------------------------------------------------------------------------------------
+\end{letter}
+\end{document}

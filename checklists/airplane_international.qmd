@@ -1,0 +1,34 @@
+---
+title: "Intertional Travel Checklist"
+author:
+- Eric Robbins
+format: 
+  pdf: 
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+# High-Yield Info
+
+## Travel Dates and Locations
+- *Dates, Overall*
+- *Locations* 
+  - 
+
+## Hotel Information
+- *Name* 
+- *Address*
+
+## Embassy Information
+[List of Embassies](https://www.usembassy.gov/)
+
+# Airport Info
+## Ticket Info
+  - *Flight ID*: 
+  - *Miles / Customer ID*: 
+
+## Customer Service Numbers
+-  
+
+## Lounge Locations
