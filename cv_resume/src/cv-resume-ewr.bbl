@@ -117,6 +117,72 @@
       \endverb
       \keyw{article}
     \endentry
+    \entry{benavente_exploring_2023}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d2c039c68b304d068db05a6c5b57b61c}{%
+           family={Benavente},
+           familyi={B\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Eric\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=08e578cc9f2bb558b586224a7f6aff16}{%
+           family={Fujiuchi},
+           familyi={F\bibinitperiod},
+           given={Bradley},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2dc229558d9428cef48711e6f530e3bc}{%
+           family={Manzoor},
+           familyi={M\bibinitperiod},
+           given={Kamran},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d7380aaf4d0603a9f0d80917c11b31e}
+      \strng{fullhash}{64a78c85dc940ba1879894b1405cba91}
+      \strng{bibnamehash}{7d7380aaf4d0603a9f0d80917c11b31e}
+      \strng{authorbibnamehash}{7d7380aaf4d0603a9f0d80917c11b31e}
+      \strng{authornamehash}{7d7380aaf4d0603a9f0d80917c11b31e}
+      \strng{authorfullhash}{64a78c85dc940ba1879894b1405cba91}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Introduction Non-invasive ventilation ({NIV}) has a significant role in supporting patients with respiratory failure with the goal of avoiding mechanical ventilation. Traditionally, {NIV} has been applied using dedicated {NIV}-specific devices but over the last decade, newer generation critical care ventilators have updated their capabilities to include {NIV} options with improved synchrony and leak compensation. No recent trials have compared the efficacy of new generation critical care ventilators to {NIV} ventilators. The purpose of this study was to evaluate clinicians attitudes and perceptions toward the use of {NIV} between the dedicated {NIV} and critical care ventilators. Methods An online survey of clinicians with seven questions regarding their thoughts and experience in using {NIV} in acute care settings was posted online and promoted through emails and social media. The survey was anonymous and an exemption of consent was obtained from the Institutional Review Board. Analysis of variants ({ANOVA}) was done for the total responses in each question, followed by multivariate analysis of variants ({MANOVA}) for responses per occupation. Results 514 responses from 54 countries were recorded. 151 from North America, 109 from South America, 125 from Europe, 97 from Asia, 21 from Africa, and 11 from Australia. 218 responders were physicians, 218 were respiratory therapists, 28 were nurses, and 50 were reported as other professionals (engineers, biomedical technicians). 346 (67.3\%) reported using both types of ventilators for {NIV}, 91 (17.7\%) use only {NIV} -specific devices, and 77 (15\%) only use critical care ventilators (P 0.097), responses per occupation (P {<} 0.001). 290 (56.4\%) have automatic synchronization software on either of their ventilators, 113 (22\%) do not, while 111 (21.6\%) are unsure if they do (P 0.22), with significant variation by occupation (P 0.008). Regarding synchrony, 233 (45.3\%) said {NIV} ventilators are better, and 165 (32.1\%) said critical care ventilators are better, while 116 (22.5\%) said both are similar (P 0.59) with significant variation by occupation (P 0.04). Regarding leak compensation, 241 (46.9\%) said {NIV} ventilators are better, and 146 (284\%) said critical care ventilators are better, while 127 (24.7\%) said both are similar (P 0.6) without significant variation by occupation (P 0.07). Regarding the general opinion of superiority, 273 (53.1\%) said {NIV} ventilators are better, 131 (25.5\%) said critical care ventilators are better, and 110 (21.4\%) said both are similar (P 0.42) without significant variation by occupation (P 0.098). Conclusion Despite the lack of evidence, there is wide variability in opinion with no clear consensus regarding the clinicians’ attitude towards which ventilators are superior to use during {NIV}, especially according to surveyed occupation.}
+      \field{day}{15}
+      \field{issn}{26940450}
+      \field{journaltitle}{Journal of Mechanical Ventilation}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shortjournal}{{JMV}}
+      \field{shorttitle}{Exploring clinicians' beliefs and practices regarding Non-Invasive Ventilation devices}
+      \field{title}{Exploring clinicians' beliefs and practices regarding Non-Invasive Ventilation devices: An international survey study}
+      \field{urlday}{30}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{4}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{84\bibrangedash 93}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.53097/JMV.10078
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/eric/Zotero/storage/HSPJQDNW/University of Hawaii et al. - 2023 - Exploring clinicians' beliefs and practices regard.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.journalmechanicalventilation.com/exploring-clinicians-beliefs-and-practices-regarding-non-invasive-ventilation-devices-an-international-survey-study/
+      \endverb
+      \verb{url}
+      \verb https://www.journalmechanicalventilation.com/exploring-clinicians-beliefs-and-practices-regarding-non-invasive-ventilation-devices-an-international-survey-study/
+      \endverb
+      \keyw{article}
+    \endentry
     \entry{dustin_pneumonitis_2023}{inproceedings}{}
       \name{author}{7}{}{%
         {{hash=e316f40eedf40b56dffe2bbce4c60a11}{%
@@ -367,75 +433,6 @@
       \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A1186
       \endverb
       \keyw{abstract}
-    \endentry
-    \entry{university_of_hawaii_exploring_2023}{article}{}
-      \name{author}{5}{}{%
-        {{hash=972b2c4ff7e9738a162cdabccadeea4e}{%
-           family={{University of Hawaii}},
-           familyi={U\bibinitperiod}}}%
-        {{hash=d2c039c68b304d068db05a6c5b57b61c}{%
-           family={Benavente},
-           familyi={B\bibinitperiod},
-           given={Kevin},
-           giveni={K\bibinitperiod}}}%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W.},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=08e578cc9f2bb558b586224a7f6aff16}{%
-           family={Fujiuchi},
-           familyi={F\bibinitperiod},
-           given={Bradley},
-           giveni={B\bibinitperiod}}}%
-        {{hash=2dc229558d9428cef48711e6f530e3bc}{%
-           family={Manzoor},
-           familyi={M\bibinitperiod},
-           given={Kamran},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{8a361fcc344933aa3314da8c85f8e047}
-      \strng{fullhash}{363c807c968a41d2d2f84c04c864fc64}
-      \strng{bibnamehash}{8a361fcc344933aa3314da8c85f8e047}
-      \strng{authorbibnamehash}{8a361fcc344933aa3314da8c85f8e047}
-      \strng{authornamehash}{8a361fcc344933aa3314da8c85f8e047}
-      \strng{authorfullhash}{363c807c968a41d2d2f84c04c864fc64}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Introduction Non-invasive ventilation ({NIV}) has a significant role in supporting patients with respiratory failure with the goal of avoiding mechanical ventilation. Traditionally, {NIV} has been applied using dedicated {NIV}-specific devices but over the last decade, newer generation critical care ventilators have updated their capabilities to include {NIV} options with improved synchrony and leak compensation. No recent trials have compared the efficacy of new generation critical care ventilators to {NIV} ventilators. The purpose of this study was to evaluate clinicians attitudes and perceptions toward the use of {NIV} between the dedicated {NIV} and critical care ventilators. Methods An online survey of clinicians with seven questions regarding their thoughts and experience in using {NIV} in acute care settings was posted online and promoted through emails and social media. The survey was anonymous and an exemption of consent was obtained from the Institutional Review Board. Analysis of variants ({ANOVA}) was done for the total responses in each question, followed by multivariate analysis of variants ({MANOVA}) for responses per occupation. Results 514 responses from 54 countries were recorded. 151 from North America, 109 from South America, 125 from Europe, 97 from Asia, 21 from Africa, and 11 from Australia. 218 responders were physicians, 218 were respiratory therapists, 28 were nurses, and 50 were reported as other professionals (engineers, biomedical technicians). 346 (67.3\%) reported using both types of ventilators for {NIV}, 91 (17.7\%) use only {NIV} -specific devices, and 77 (15\%) only use critical care ventilators (P 0.097), responses per occupation (P {<} 0.001). 290 (56.4\%) have automatic synchronization software on either of their ventilators, 113 (22\%) do not, while 111 (21.6\%) are unsure if they do (P 0.22), with significant variation by occupation (P 0.008). Regarding synchrony, 233 (45.3\%) said {NIV} ventilators are better, and 165 (32.1\%) said critical care ventilators are better, while 116 (22.5\%) said both are similar (P 0.59) with significant variation by occupation (P 0.04). Regarding leak compensation, 241 (46.9\%) said {NIV} ventilators are better, and 146 (284\%) said critical care ventilators are better, while 127 (24.7\%) said both are similar (P 0.6) without significant variation by occupation (P 0.07). Regarding the general opinion of superiority, 273 (53.1\%) said {NIV} ventilators are better, 131 (25.5\%) said critical care ventilators are better, and 110 (21.4\%) said both are similar (P 0.42) without significant variation by occupation (P 0.098). Conclusion Despite the lack of evidence, there is wide variability in opinion with no clear consensus regarding the clinicians’ attitude towards which ventilators are superior to use during {NIV}, especially according to surveyed occupation.}
-      \field{day}{15}
-      \field{issn}{26940450}
-      \field{journaltitle}{Journal of Mechanical Ventilation}
-      \field{month}{6}
-      \field{number}{2}
-      \field{shortjournal}{{JMV}}
-      \field{shorttitle}{Exploring clinicians' beliefs and practices regarding Non-Invasive Ventilation devices}
-      \field{title}{Exploring clinicians' beliefs and practices regarding Non-Invasive Ventilation devices: An international survey study}
-      \field{urlday}{30}
-      \field{urlmonth}{1}
-      \field{urlyear}{2024}
-      \field{volume}{4}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{84\bibrangedash 93}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.53097/JMV.10078
-      \endverb
-      \verb{file}
-      \verb Full Text:/home/eric/Zotero/storage/HSPJQDNW/University of Hawaii et al. - 2023 - Exploring clinicians' beliefs and practices regard.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.journalmechanicalventilation.com/exploring-clinicians-beliefs-and-practices-regarding-non-invasive-ventilation-devices-an-international-survey-study/
-      \endverb
-      \verb{url}
-      \verb https://www.journalmechanicalventilation.com/exploring-clinicians-beliefs-and-practices-regarding-non-invasive-ventilation-devices-an-international-survey-study/
-      \endverb
-      \keyw{article}
     \endentry
     \entry{Robbins2022}{inproceedings}{}
       \name{author}{3}{}{%
