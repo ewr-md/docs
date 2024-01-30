@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'cv-resume-ewr.blg'
-[194] biber:340> INFO - === Wed Jan 24, 2024, 20:35:11
-[289] Biber.pm:419> INFO - Reading 'cv-resume-ewr.bcf'
-[438] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[474] Biber.pm:4419> INFO - Processing section 0
-[527] Biber.pm:4610> INFO - Looking for bibtex file 'works.bib' for section 0
-[529] bibtex.pm:1713> INFO - LaTeX decoding ...
-[600] bibtex.pm:1519> INFO - Found BibTeX data source 'works.bib'
-[1033] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1033] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1034] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[1034] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[1189] bbl.pm:660> INFO - Writing 'cv-resume-ewr.bbl' with encoding 'UTF-8'
-[1204] bbl.pm:763> INFO - Output to cv-resume-ewr.bbl
+[1] Config.pm:310> INFO - Logfile is 'cv-resume-ewr.blg'
+[213] biber:340> INFO - === Mon Jan 29, 2024, 20:24:50
+[310] Biber.pm:419> INFO - Reading 'cv-resume-ewr.bcf'
+[411] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[433] Biber.pm:4419> INFO - Processing section 0
+[489] Biber.pm:4610> INFO - Looking for bibtex file 'works.bib' for section 0
+[492] bibtex.pm:1713> INFO - LaTeX decoding ...
+[558] bibtex.pm:1519> INFO - Found BibTeX data source 'works.bib'
+[853] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[853] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[853] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[853] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[929] bbl.pm:660> INFO - Writing 'cv-resume-ewr.bbl' with encoding 'UTF-8'
+[942] bbl.pm:763> INFO - Output to cv-resume-ewr.bbl
