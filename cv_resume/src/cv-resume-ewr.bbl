@@ -81,7 +81,7 @@
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
            familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
+           given={Eric\bibnamedelima W.},
            giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
         {{hash=c35dfcf9ad2ae277e26bcbaafa7f912f}{%
            family={Minami},
@@ -103,19 +103,23 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Hypoglycemia is a common clinical finding, especially in the inpatient setting. However, laboratory testing may show falsely low blood glucose levels. It is crucial for clinicians to recognize the existence of pseudohypo- glycemia and know when and how to test for it.}
+      \field{day}{1}
+      \field{issn}{2327-2228}
       \field{journaltitle}{Rhode Island Medical Journal (2013)}
       \field{month}{2}
       \field{number}{2}
+      \field{shortjournal}{R I Med J (2013)}
+      \field{shorttitle}{Pseudohypoglycemia}
       \field{title}{Pseudohypoglycemia: A Pitfall in Everyday Practice}
       \field{volume}{107}
       \field{year}{2024}
       \field{dateera}{ce}
       \true{nocite}
-      \verb{doi}
-      \verb Accepted and In Press
-      \endverb
-      \keyw{article}
+      \field{pages}{20\bibrangedash 23}
+      \range{pages}{4}
+      \keyw{article,Blood Glucose,clinical testing,diabetes,false positives,Humans,hypoglycemia,Hypoglycemia,pseudohypoglycemia}
     \endentry
     \entry{benavente_exploring_2023}{article}{}
       \name{author}{4}{}{%
@@ -822,11 +826,9 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Poster Presentation}
       \field{month}{1}
       \field{note}{South Shore Health Research Symposium}
       \field{title}{Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon}
-      \field{type}{Poster Presentation}
       \field{year}{2020}
       \field{dateera}{ce}
       \true{nocite}
@@ -913,11 +915,9 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Poster Presentation}
       \field{month}{1}
       \field{note}{Tufts University School of Medicine Summer Research Fair}
       \field{title}{Relative Contributions of Insulin Resistance and Beta Cell Dysfunction to the Development of Type 2 Diabetes in the {PURSE}-{HIS} Cohort}
-      \field{type}{Poster Presentation}
       \field{year}{2018}
       \field{dateera}{ce}
       \true{nocite}
