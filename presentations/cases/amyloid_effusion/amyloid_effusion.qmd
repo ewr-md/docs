@@ -1,0 +1,67 @@
+---
+title: "Amyloidosis and Trapped Lung"
+format: html
+---
+
+```{r, echo=FALSE}
+#data from 2/7/24 thoracentesis
+
+pleural_ldh <- 145
+pleural_protein <- 3.8
+pleural_pH <- 7.413
+pleural_albumin <- 1.8
+pleural_glucose <- 93
+pleural_amylase <- 82
+pleural_triglycerides <- 118
+
+serum_ldh <- 353
+serum_albumin <- 3.8
+serum_protein <- 7.0
+serum_ldh_uln <- 246
+```
+# Story
+71F w/ hx of AL amyloidosis dx in 2021. sp dara-CyborD x3 cycles without good response, thereafter treated w/ maintenance daratumumab.
+
+
+
+## Lab Results
+**Pleural Chemistries**
+
+LDH ratio: `r pleural_ldh/serum_ldh`
+
+LDH ULN multiple: `r pleural_ldh/serum_ldh_uln`
+
+Protein ratio: `r pleural_protein/serum_protein`
+
+SAAG: `r serum_albumin - pleural_albumin`
+
+|Lab|Value|
+|---|---|
+|pleural LDH|`r pleural_ldh`|
+|serum LDH|`r serum_ldh` (ULN `r serum_ldh_uln`)|
+|pleural protein|`r pleural_protein`|
+|serum protein|`r serum_protein`|
+|pleural pH|`r pleural_pH`|
+|pleural albumin|`r pleural_albumin`|
+|serum albumin|`r serum_albumin`|
+
+**Pleural Differential**
+
+|Cell Type|Percentage|
+|---|---|
+|Polys|4%|
+|Lymphs|57%|
+|Monocytes|21%|
+|Macrophages|18%|
+
+## Imaging
+See CXR 2/27/2024 (file attached)
+
+See CT chest 2/27/2024
+
+## Follow up
+See CXR 3/06/2024 (file attached)
+
+See CT chest 3/08/2024
+
+As of now: Still no IPC. Recently readmitted to INOVA for recurrent pleural effusion.
