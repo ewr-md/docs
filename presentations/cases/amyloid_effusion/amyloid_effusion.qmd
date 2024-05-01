@@ -1,5 +1,6 @@
 ---
 title: "Amyloidosis and Trapped Lung"
+
 format: html
 ---
 
@@ -22,7 +23,32 @@ serum_ldh_uln <- 246
 # Story
 71F w/ hx of AL amyloidosis dx in 2021. sp dara-CyborD x3 cycles without good response, thereafter treated w/ maintenance daratumumab.
 
+<!---
 
+tell case story
+  story before me
+    textual story
+    images: (cxr sufficient; no EPIC)
+  my involvement
+    thora
+      picture of fluid
+        pleural fluid analysis
+          cytology
+          pleural chemistries
+          pleural analysis: show ratios
+      diagnosis, presumed
+    cf hydropneumo non-expandable lung (NLE)
+      CT chest (EPIC)
+    representation
+      CXR (no EPIC)
+learn about amyloid effusions
+  learning points (3)
+  guess at prognosis / future hx
+Story
+  surprise of expandable lung
+  no TPC; recent admission w reoccurence
+
+--->
 
 ## Lab Results
 **Pleural Chemistries**
@@ -53,6 +79,8 @@ SAAG: `r serum_albumin - pleural_albumin`
 |Lymphs|57%|
 |Monocytes|21%|
 |Macrophages|18%|
+
+Cytology wnl
 
 ## Imaging
 See CXR 2/27/2024 (file attached)
