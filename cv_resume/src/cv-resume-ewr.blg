@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'cv-resume-ewr.blg'
-[103] biber:340> INFO - === Fri Apr  5, 2024, 17:33:56
-[121] Biber.pm:419> INFO - Reading 'cv-resume-ewr.bcf'
-[228] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[258] Biber.pm:4419> INFO - Processing section 0
-[271] Biber.pm:4610> INFO - Looking for bibtex file 'works.bib' for section 0
-[274] bibtex.pm:1713> INFO - LaTeX decoding ...
-[339] bibtex.pm:1519> INFO - Found BibTeX data source 'works.bib'
-[584] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[584] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[584] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[584] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[612] bbl.pm:660> INFO - Writing 'cv-resume-ewr.bbl' with encoding 'UTF-8'
-[623] bbl.pm:763> INFO - Output to cv-resume-ewr.bbl
+[103] biber:340> INFO - === Sun Jun 23, 2024, 11:20:42
+[122] Biber.pm:419> INFO - Reading 'cv-resume-ewr.bcf'
+[208] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[231] Biber.pm:4419> INFO - Processing section 0
+[244] Biber.pm:4610> INFO - Looking for bibtex file 'works.bib' for section 0
+[246] bibtex.pm:1713> INFO - LaTeX decoding ...
+[308] bibtex.pm:1519> INFO - Found BibTeX data source 'works.bib'
+[574] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[574] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[574] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[574] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[603] bbl.pm:660> INFO - Writing 'cv-resume-ewr.bbl' with encoding 'UTF-8'
+[614] bbl.pm:763> INFO - Output to cv-resume-ewr.bbl

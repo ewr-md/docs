@@ -19,63 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
-    \entry{santi_definition_nodate}{inproceedings}{}
-      \name{author}{6}{}{%
-        {{hash=b5ede9fb3c9e443a5f30f25f21db8c60}{%
-           family={Santi},
-           familyi={S\bibinitperiod},
-           given={Armella},
-           giveni={A\bibinitperiod}}}%
-        {{hash=5bf5386978458d831b71804993ed373d}{%
-           family={Cvirn},
-           familyi={C\bibinitperiod},
-           given={Lisa},
-           giveni={L\bibinitperiod}}}%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=aab11f0fb594b1f0652e19fbd6ab4a55}{%
-           family={Ngah},
-           familyi={N\bibinitperiod},
-           given={Veranyuy},
-           giveni={V\bibinitperiod}}}%
-        {{hash=38ee374746a3d808e816652944fa661b}{%
-           family={Maron},
-           familyi={M\bibinitperiod},
-           given={Bradley\bibnamedelima A.},
-           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=5e6623c17073228b86fa687f85665125}{%
-           family={Zeder},
-           familyi={Z\bibinitperiod},
-           given={Katarina},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {San Diego, {CA}}%
-      }
-      \list{publisher}{1}{%
-        {American Thoracic Society}%
-      }
-      \strng{namehash}{9408af10b8f25ca1cbf7f05feed69da3}
-      \strng{fullhash}{e5359895e3fd0ea327d29d04d28811e3}
-      \strng{bibnamehash}{9408af10b8f25ca1cbf7f05feed69da3}
-      \strng{authorbibnamehash}{9408af10b8f25ca1cbf7f05feed69da3}
-      \strng{authornamehash}{9408af10b8f25ca1cbf7f05feed69da3}
-      \strng{authorfullhash}{e5359895e3fd0ea327d29d04d28811e3}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{eventtitle}{American Thoracic Society 2024 International Conference}
-      \field{title}{The Definition of Pulmonary Hypertension Varies Widely Across Empiric Research Studies}
-      \true{nocite}
-      \verb{doi}
-      \verb Accepted and In Press
-      \endverb
-      \keyw{abstract}
-    \endentry
     \entry{robbins_pseudohypoglycemia_2024}{article}{}
       \name{author}{3}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
@@ -119,7 +62,78 @@
       \true{nocite}
       \field{pages}{20\bibrangedash 23}
       \range{pages}{4}
-      \keyw{article,Blood Glucose,clinical testing,diabetes,false positives,Humans,hypoglycemia,Hypoglycemia,pseudohypoglycemia}
+      \keyw{diabetes,Humans,article,pseudohypoglycemia,Blood Glucose,clinical testing,false positives,hypoglycemia,Hypoglycemia}
+    \endentry
+    \entry{santi_definition_2024}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=a48263cdf75c850f7ea574d54029cd14}{%
+           family={Santi},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1ca6e068b2ddc03e55c1de706cc7c5a4}{%
+           family={Cvirn},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a5b1ddb7e9374130cdd39c57967a6b89}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c63c2e800ca6d02388e53a8ddd2361ee}{%
+           family={Ngah},
+           familyi={N\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=124e4de33c3d3316015706b8d71cb31e}{%
+           family={Maron},
+           familyi={M\bibinitperiod},
+           given={B.A.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=76c24fce6ab8b056b3a00268b53e1d1b}{%
+           family={Zeder},
+           familyi={Z\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Thoracic Society}%
+      }
+      \strng{namehash}{b859066f9a8b7a919ee8a973d5bfdf58}
+      \strng{fullhash}{8b3e044f4345071a6afa0739926ff869}
+      \strng{bibnamehash}{b859066f9a8b7a919ee8a973d5bfdf58}
+      \strng{authorbibnamehash}{b859066f9a8b7a919ee8a973d5bfdf58}
+      \strng{authornamehash}{b859066f9a8b7a919ee8a973d5bfdf58}
+      \strng{authorfullhash}{8b3e044f4345071a6afa0739926ff869}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{C62. {TOP} {GUN}: {NOVEL} {THERAPEUTICS} {AND} {OUTCOMES} {IN} {PAH}}
+      \field{eventtitle}{American Thoracic Society 2024 International Conference, May 17-22, 2024 - San Diego, {CA}}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{title}{The Definition of Pulmonary Hypertension Varies Widely Across Empiric Research Studies}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{A6110\bibrangedash A6110}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1164/ajrccm-conference.2024.209.1_MeetingAbstracts.A6110
+      \endverb
+      \verb{urlraw}
+      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2024.209.1_MeetingAbstracts.A6110
+      \endverb
+      \verb{url}
+      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2024.209.1_MeetingAbstracts.A6110
+      \endverb
+      \keyw{abstract}
     \endentry
     \entry{benavente_exploring_2023}{article}{}
       \name{author}{4}{}{%
