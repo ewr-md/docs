@@ -19,6 +19,68 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{santi_prevalence_2025}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=b5ede9fb3c9e443a5f30f25f21db8c60}{%
+           family={Santi},
+           familyi={S\bibinitperiod},
+           given={Armella},
+           giveni={A\bibinitperiod}}}%
+        {{hash=27cf082cadb0b6cadf52b5cd25991f5f}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Langjing},
+           giveni={L\bibinitperiod}}}%
+        {{hash=aab11f0fb594b1f0652e19fbd6ab4a55}{%
+           family={Ngah},
+           familyi={N\bibinitperiod},
+           given={Veranyuy},
+           giveni={V\bibinitperiod}}}%
+        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Eric\bibnamedelima W},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=0191646c9b3cb94f451f39efccd11870}{%
+           family={Diao},
+           familyi={D\bibinitperiod},
+           given={Guoqing},
+           giveni={G\bibinitperiod}}}%
+        {{hash=38ee374746a3d808e816652944fa661b}{%
+           family={Maron},
+           familyi={M\bibinitperiod},
+           given={Bradley\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=5e6623c17073228b86fa687f85665125}{%
+           family={Zeder},
+           familyi={Z\bibinitperiod},
+           given={Katarina},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rio de Janeiro, Brazil}%
+      }
+      \list{publisher}{1}{%
+        {Pulmonary Vascular Research Institute}%
+      }
+      \strng{namehash}{368df06d2ad8041605e56680303f7fab}
+      \strng{fullhash}{d2e44f3f1bf48d9ea3268386ebd498d4}
+      \strng{bibnamehash}{69f67bf33988ebe3ede7f5212142df89}
+      \strng{authorbibnamehash}{69f67bf33988ebe3ede7f5212142df89}
+      \strng{authornamehash}{368df06d2ad8041605e56680303f7fab}
+      \strng{authorfullhash}{d2e44f3f1bf48d9ea3268386ebd498d4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{eventtitle}{{PVRI} 2025 Annual Congress}
+      \field{month}{1}
+      \field{title}{The Prevalence of Pulmonary Hypertension in Sickle Cell Disease in sub-Saharan Africa: A Systematic Review and Meta-Analysis}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
     \entry{robbins_pseudohypoglycemia_2024}{article}{}
       \name{author}{3}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
@@ -102,8 +164,8 @@
       }
       \strng{namehash}{b859066f9a8b7a919ee8a973d5bfdf58}
       \strng{fullhash}{8b3e044f4345071a6afa0739926ff869}
-      \strng{bibnamehash}{b859066f9a8b7a919ee8a973d5bfdf58}
-      \strng{authorbibnamehash}{b859066f9a8b7a919ee8a973d5bfdf58}
+      \strng{bibnamehash}{90806d06bbba992c4709cf9e0ed049f9}
+      \strng{authorbibnamehash}{90806d06bbba992c4709cf9e0ed049f9}
       \strng{authornamehash}{b859066f9a8b7a919ee8a973d5bfdf58}
       \strng{authorfullhash}{8b3e044f4345071a6afa0739926ff869}
       \field{sortinit}{2}
@@ -135,6 +197,107 @@
       \endverb
       \keyw{abstract}
     \endentry
+    \entry{zeder_prevalence_2024}{inproceedings}{}
+      \name{author}{12}{}{%
+        {{hash=5e6623c17073228b86fa687f85665125}{%
+           family={Zeder},
+           familyi={Z\bibinitperiod},
+           given={Katarina},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6359c8221f9f7f5ea9fa5563fdad7a70}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Clayton},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5bf5386978458d831b71804993ed373d}{%
+           family={Cvirn},
+           familyi={C\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b5ede9fb3c9e443a5f30f25f21db8c60}{%
+           family={Santi},
+           familyi={S\bibinitperiod},
+           given={Armella},
+           giveni={A\bibinitperiod}}}%
+        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Eric\bibnamedelima W},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=aab11f0fb594b1f0652e19fbd6ab4a55}{%
+           family={Ngah},
+           familyi={N\bibinitperiod},
+           given={Veranyuy},
+           giveni={V\bibinitperiod}}}%
+        {{hash=1fd015e280539df81aad5b5ff93fcd35}{%
+           family={Ulrich},
+           familyi={U\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=37f97016061ad99b8332096312c35397}{%
+           family={Rosenkranz},
+           familyi={R\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=23ce1c98bd608bfd4e659b85991d808f}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c37509f46189b7840b59bd6304e8a035}{%
+           family={Strange},
+           familyi={S\bibinitperiod},
+           given={Geoff},
+           giveni={G\bibinitperiod}}}%
+        {{hash=33ef7227fa20e25c3e35a565eb43e495}{%
+           family={Kovacs},
+           familyi={K\bibinitperiod},
+           given={Gabor},
+           giveni={G\bibinitperiod}}}%
+        {{hash=38ee374746a3d808e816652944fa661b}{%
+           family={Maron},
+           familyi={M\bibinitperiod},
+           given={Bradley\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {European Respiratory Society}%
+      }
+      \strng{namehash}{2830ad93d5958f88d70a6bb76669a9ef}
+      \strng{fullhash}{04117f10438857a2f6e2dbb5fd0a4e3d}
+      \strng{bibnamehash}{2fd9f731831fb5aa8d63b323906df00a}
+      \strng{authorbibnamehash}{2fd9f731831fb5aa8d63b323906df00a}
+      \strng{authornamehash}{2830ad93d5958f88d70a6bb76669a9ef}
+      \strng{authorfullhash}{04117f10438857a2f6e2dbb5fd0a4e3d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Pulmonary hypertension}
+      \field{day}{14}
+      \field{eventtitle}{{ERS} Congress 2024 abstracts}
+      \field{month}{9}
+      \field{title}{The Prevalence of Pulmonary Hypertension in Left Heart Disease in Austria, Germany and Switzerland ({DACH} Region)}
+      \field{urlday}{7}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{PA5237}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1183/13993003.congress-2024.PA5237
+      \endverb
+      \verb{urlraw}
+      \verb http://publications.ersnet.org/lookup/doi/10.1183/13993003.congress-2024.PA5237
+      \endverb
+      \verb{url}
+      \verb http://publications.ersnet.org/lookup/doi/10.1183/13993003.congress-2024.PA5237
+      \endverb
+      \keyw{abstract}
+    \endentry
     \entry{benavente_exploring_2023}{article}{}
       \name{author}{4}{}{%
         {{hash=d2c039c68b304d068db05a6c5b57b61c}{%
@@ -160,8 +323,8 @@
       }
       \strng{namehash}{7d7380aaf4d0603a9f0d80917c11b31e}
       \strng{fullhash}{64a78c85dc940ba1879894b1405cba91}
-      \strng{bibnamehash}{7d7380aaf4d0603a9f0d80917c11b31e}
-      \strng{authorbibnamehash}{7d7380aaf4d0603a9f0d80917c11b31e}
+      \strng{bibnamehash}{64a78c85dc940ba1879894b1405cba91}
+      \strng{authorbibnamehash}{64a78c85dc940ba1879894b1405cba91}
       \strng{authornamehash}{7d7380aaf4d0603a9f0d80917c11b31e}
       \strng{authorfullhash}{64a78c85dc940ba1879894b1405cba91}
       \field{sortinit}{2}
@@ -247,8 +410,8 @@
       }
       \strng{namehash}{18ff11a1af67219bb21db7f89ebb3866}
       \strng{fullhash}{3b7090379f55e8f7c49a2f0cf369ddcf}
-      \strng{bibnamehash}{18ff11a1af67219bb21db7f89ebb3866}
-      \strng{authorbibnamehash}{18ff11a1af67219bb21db7f89ebb3866}
+      \strng{bibnamehash}{94099088b1eab6567c941c233717b35c}
+      \strng{authorbibnamehash}{94099088b1eab6567c941c233717b35c}
       \strng{authornamehash}{18ff11a1af67219bb21db7f89ebb3866}
       \strng{authorfullhash}{3b7090379f55e8f7c49a2f0cf369ddcf}
       \field{sortinit}{2}
@@ -418,8 +581,8 @@
       }
       \strng{namehash}{a71285adf71ee336d68e03b8d214ec41}
       \strng{fullhash}{df86685593e983d78f79e420d5c0528b}
-      \strng{bibnamehash}{a71285adf71ee336d68e03b8d214ec41}
-      \strng{authorbibnamehash}{a71285adf71ee336d68e03b8d214ec41}
+      \strng{bibnamehash}{f0e0785f9e765c7a65af39b5d0a58db5}
+      \strng{authorbibnamehash}{f0e0785f9e765c7a65af39b5d0a58db5}
       \strng{authornamehash}{a71285adf71ee336d68e03b8d214ec41}
       \strng{authorfullhash}{df86685593e983d78f79e420d5c0528b}
       \field{sortinit}{2}
@@ -599,8 +762,8 @@
       }
       \strng{namehash}{5dc330ed484fc6d1e1e92baf22b2eeeb}
       \strng{fullhash}{30695454b1d81294a30496b2d5e17439}
-      \strng{bibnamehash}{5dc330ed484fc6d1e1e92baf22b2eeeb}
-      \strng{authorbibnamehash}{5dc330ed484fc6d1e1e92baf22b2eeeb}
+      \strng{bibnamehash}{30695454b1d81294a30496b2d5e17439}
+      \strng{authorbibnamehash}{30695454b1d81294a30496b2d5e17439}
       \strng{authornamehash}{5dc330ed484fc6d1e1e92baf22b2eeeb}
       \strng{authorfullhash}{30695454b1d81294a30496b2d5e17439}
       \field{sortinit}{2}
@@ -668,8 +831,8 @@
       }
       \strng{namehash}{18f3ae490b7c5d2ffb6e2bbf0cffe535}
       \strng{fullhash}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
-      \strng{bibnamehash}{18f3ae490b7c5d2ffb6e2bbf0cffe535}
-      \strng{authorbibnamehash}{18f3ae490b7c5d2ffb6e2bbf0cffe535}
+      \strng{bibnamehash}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
+      \strng{authorbibnamehash}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
       \strng{authornamehash}{18f3ae490b7c5d2ffb6e2bbf0cffe535}
       \strng{authorfullhash}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
       \field{sortinit}{2}
@@ -876,8 +1039,8 @@
       }
       \strng{namehash}{0c7105a9d020d16f71594a55237c7dac}
       \strng{fullhash}{bfad66225cfba9ea4085104b700ea23b}
-      \strng{bibnamehash}{0c7105a9d020d16f71594a55237c7dac}
-      \strng{authorbibnamehash}{0c7105a9d020d16f71594a55237c7dac}
+      \strng{bibnamehash}{bfad66225cfba9ea4085104b700ea23b}
+      \strng{authorbibnamehash}{bfad66225cfba9ea4085104b700ea23b}
       \strng{authornamehash}{0c7105a9d020d16f71594a55237c7dac}
       \strng{authorfullhash}{bfad66225cfba9ea4085104b700ea23b}
       \field{sortinit}{2}

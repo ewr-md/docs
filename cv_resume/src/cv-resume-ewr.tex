@@ -8,7 +8,7 @@
 \hypersetup{colorlinks=true, urlcolor=blue, pdfpagemode=FullScreen}
 
 %setting up bibliography stuff
-\usepackage[sorting=ydnt, url=false, style=ieee, minbibnames=3, maxbibnames=3, defernumbers=true]{biblatex}
+\usepackage[sorting=ydnt, url=false, style=ieee, minbibnames=5, maxbibnames=5, defernumbers=true]{biblatex}
 \addbibresource{works.bib}
 
 %defining variables specifying column widths
@@ -59,7 +59,8 @@
 }%end defining \briefentry command
 
 \newcommand{\entryvspace}{\vspace{0.5em}}
-\newcommand{\fellowship}{University of Maryland Medical Center \& NIH / NHLBI}
+\newcommand{\fellowshipClinical}{University of Maryland Medical Center}
+\newcommand{\fellowshipResearch}{National Institutes of Health, NHLBI}
 \newcommand{\residency}{Rhode Island Hospital / Brown University}
 \newcommand{\medschool}{Tufts University School of Medicine}
 \newcommand{\me}{Robbins EW}
@@ -110,9 +111,14 @@
 	\pagenumbering{gobble} %suppresses page numbers
 	
 		\section*{Postgraduate Training}
+	\entryfour{1/2025 - Present}
+	{Research Fellowship: Suffredini Lab}
+	{\fellowshipResearch}
+	{}
+		
 	\entryfour{2023 -- Present}
-	{Fellowship: Pulmonary and Critical Care Medicine}
-	{\fellowship}
+	{Clinical Fellowship: Pulmonary and Critical Care Medicine}
+	{\fellowshipClinical}
 	{}
 	
 	\entryfour{2020 -- 2023}
@@ -171,9 +177,15 @@
 \section*{Research}
 	\nocite{*}
 	\subsection*{Ongoing Projects}
-		Co-Investigator on a Systematic Review and Meta-analysis on the Global Prevalence and Burden of Pulmonary Hypertension across Ten Global Regions, \textit{University of Maryland Institute for Health Computing}. Mentor: Bradley Maron
+		Co-Principal Investigator on a Prospective Registry Assessing the Pulmonary Manifestations of Relapsing Polychondritis and VEXAS Syndrome.
+		Mentor: Marcella Ferrada.
+		\\ \\
+		Co-Investigator on a Systematic Review and Meta-analysis on the Global Prevalence and Burden of Pulmonary Hypertension across Ten Global Regions, \textit{University of Maryland Institute for Health Computing}.
+		Mentor: Bradley Maron. PI: Katarina Zeder.
+	\subsection*{Accepted Manuscripts}
+		E. W. Robbins, K. Bradley, D. Badesch, et al. ``Medication Non-Adherence in Participants with Pulmonary Arterial Hypertension: The Pulmonary Hypertension Association Registry (PHAR),'' Accepted In Press, \emph{Annals of the American Thoracic Society}
 	\subsection*{Submitted Manuscripts}
-		E. W. Robbins, K. Bradley, D. Badesch, et al. ``Medication Non-Adherence in Participants with Pulmonary Arterial Hypertension: The Pulmonary Hypertension Association Registry (PHAR),'' Under revision at \emph{Annals of the American Thoracic Society}
+		E. W. Robbins, K. Bradley, D. Badesch, et al. ``Medication Non-Adherence in Participants with Pulmonary Arterial Hypertension: The Pulmonary Hypertension Association Registry (PHAR),'' Accepted In Press, \emph{Annals of the American Thoracic Society}
 	\subsection*{Peer-Reviewed Articles}
 		\printbibliography[keyword=article, heading=none]
 	\subsection*{Scientific Abstracts}

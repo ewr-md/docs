@@ -1,11 +1,17 @@
 ---
 title: "Amyloidosis and Trapped Lung"
-
-format: html
+author: "Eric Robbins, MD"
+format: 
+  revealjs:
+    theme: dark
+    chalkboard: true
+    progress: true
+    slide-level: 3
 ---
 
 ```{r, echo=FALSE}
 #data from 2/7/24 thoracentesis
+
 
 pleural_ldh <- 145
 pleural_protein <- 3.8
@@ -19,9 +25,12 @@ serum_ldh <- 353
 serum_albumin <- 3.8
 serum_protein <- 7.0
 serum_ldh_uln <- 246
+
 ```
 # Story
-71F w/ hx of AL amyloidosis dx in 2021. sp dara-CyborD x3 cycles without good response, thereafter treated w/ maintenance daratumumab.
+- 71F with a history of of AL amyloidosis diagnosed 3 years ago.
+  - Now status post 3 cycles of dara-CyborD (souce: 10.1056/NEJMoa2028631) bortezomib, cyclophosphamide, and dexamethasone without good response.
+  - Thereafter treated w/ maintenance daratumumab.
 
 <!---
 
@@ -51,16 +60,7 @@ Story
 --->
 
 ## Lab Results
-**Pleural Chemistries**
-
-LDH ratio: `r pleural_ldh/serum_ldh`
-
-LDH ULN multiple: `r pleural_ldh/serum_ldh_uln`
-
-Protein ratio: `r pleural_protein/serum_protein`
-
-SAAG: `r serum_albumin - pleural_albumin`
-
+## Pleural Chemistries
 |Lab|Value|
 |---|---|
 |pleural LDH|`r pleural_ldh`|
@@ -71,16 +71,22 @@ SAAG: `r serum_albumin - pleural_albumin`
 |pleural albumin|`r pleural_albumin`|
 |serum albumin|`r serum_albumin`|
 
-**Pleural Differential**
+## Pleural Calculations
+LDH ratio: `r pleural_ldh/serum_ldh`
 
+LDH ULN multiple: `r pleural_ldh/serum_ldh_uln`
+
+Protein ratio: `r pleural_protein/serum_protein`
+
+SAAG: `r serum_albumin - pleural_albumin`
+
+## Pleural Differential
 |Cell Type|Percentage|
 |---|---|
 |Polys|4%|
 |Lymphs|57%|
 |Monocytes|21%|
 |Macrophages|18%|
-
-Cytology wnl
 
 ## Imaging
 See CXR 2/27/2024 (file attached)
