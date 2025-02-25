@@ -19,6 +19,178 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{santi_heterogeneity_nodate}{article}{}
+      \name{author}{5}{}{%
+        {{hash=b5ede9fb3c9e443a5f30f25f21db8c60}{%
+           family={Santi},
+           familyi={S\bibinitperiod},
+           given={Armella},
+           giveni={A\bibinitperiod}}}%
+        {{hash=aab11f0fb594b1f0652e19fbd6ab4a55}{%
+           family={Ngah},
+           familyi={N\bibinitperiod},
+           given={Veranyuy},
+           giveni={V\bibinitperiod}}}%
+        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Eric\bibnamedelima W},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=38ee374746a3d808e816652944fa661b}{%
+           family={Maron},
+           familyi={M\bibinitperiod},
+           given={Bradley\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=5e6623c17073228b86fa687f85665125}{%
+           family={Zeder},
+           familyi={Z\bibinitperiod},
+           given={Katarina},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{8efeb25be52050b18932e8656c8704fe}
+      \strng{fullhash}{a274503fb5800cd46f34c1a2f0e4d6dc}
+      \strng{bibnamehash}{a274503fb5800cd46f34c1a2f0e4d6dc}
+      \strng{authorbibnamehash}{a274503fb5800cd46f34c1a2f0e4d6dc}
+      \strng{authornamehash}{8efeb25be52050b18932e8656c8704fe}
+      \strng{authorfullhash}{a274503fb5800cd46f34c1a2f0e4d6dc}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Heterogeneity of Pulmonary Hypertension Nomenclature in Empiric Research Studies}
+      \true{nocite}
+    \endentry
+    \entry{robbins_medication_2025}{article}{}
+      \name{author}{18}{}{%
+        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Eric\bibnamedelima W},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=bd14696a2df1dfb4adf8d4c6238fb5bf}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={Kaitlin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4abe318e780dd09a9ab22dac31a470ed}{%
+           family={Badesch},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=e9d4d544d8c64453c91c3f5981cfba7e}{%
+           family={Burger},
+           familyi={B\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a7c905ed5c475c84aab54310235a5d82}{%
+           family={Chybowski},
+           familyi={C\bibinitperiod},
+           given={Amy\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=42efd61171afa7b6034d2ac20b7a60db}{%
+           family={De\bibnamedelima Marco},
+           familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ce977d3e9eabee8c3a13ee6a9564c7bc}{%
+           family={Hemnes},
+           familyi={H\bibinitperiod},
+           given={Anna\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=45ebe57afbe71b29f09527a2b28772f9}{%
+           family={Lammi},
+           familyi={L\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1aa127573cda9bbc9d20ac648313463d}{%
+           family={Mathai},
+           familyi={M\bibinitperiod},
+           given={Stephen\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=806f25480e7f66bac65d07d09b811552}{%
+           family={Melendres-Groves},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Lana},
+           giveni={L\bibinitperiod}}}%
+        {{hash=bd7baf960dc5883a24908b48aa606436}{%
+           family={Raza},
+           familyi={R\bibinitperiod},
+           given={Farhan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=728841003bdcb90f5131e4f56da90224}{%
+           family={Sager},
+           familyi={S\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4ca336f436afd0d2bf95a12106559d25}{%
+           family={Shlobin},
+           familyi={S\bibinitperiod},
+           given={Oksana\bibnamedelima A.},
+           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4ebf359e41254488f1ffd0c6e555d3c9}{%
+           family={Thenappan},
+           familyi={T\bibinitperiod},
+           given={Thenappan},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d5426d0f20bd55e57e5dea2cba1f8464}{%
+           family={Zamanian},
+           familyi={Z\bibinitperiod},
+           given={Roham},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c80b42991f159890664b7ab8b0705f7d}{%
+           family={Runo},
+           familyi={R\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b1fb63add619e8272ed843223cbed7ad}{%
+           family={Baird},
+           familyi={B\bibinitperiod},
+           given={Grayson\bibnamedelima L},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=5f980e98a1602dd495ec610e220a725e}{%
+           family={Ventetuolo},
+           familyi={V\bibinitperiod},
+           given={Corey\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{8da8e31f21edc30cc712f8b9d9fe1fd0}
+      \strng{fullhash}{838485f97ec49b13d7a83d77ce54d87e}
+      \strng{bibnamehash}{a59738ce572b31ac846aabfa8d764c79}
+      \strng{authorbibnamehash}{a59738ce572b31ac846aabfa8d764c79}
+      \strng{authornamehash}{8da8e31f21edc30cc712f8b9d9fe1fd0}
+      \strng{authorfullhash}{838485f97ec49b13d7a83d77ce54d87e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{18}
+      \field{issn}{2329-6933, 2325-6621}
+      \field{journaltitle}{Annals of the American Thoracic Society}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{shortjournal}{Annals {ATS}}
+      \field{shorttitle}{Medication Non-Adherence in Patients with Pulmonary Arterial Hypertension}
+      \field{title}{Medication Non-Adherence in Patients with Pulmonary Arterial Hypertension: The Pulmonary Hypertension Association Registry ({PHAR})}
+      \field{urlday}{25}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{AnnalsATS.202312\bibrangedash 1083OC}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1513/AnnalsATS.202312-1083OC
+      \endverb
+      \verb{urlraw}
+      \verb https://www.atsjournals.org/doi/10.1513/AnnalsATS.202312-1083OC
+      \endverb
+      \verb{url}
+      \verb https://www.atsjournals.org/doi/10.1513/AnnalsATS.202312-1083OC
+      \endverb
+      \keyw{article}
+    \endentry
     \entry{santi_prevalence_2025}{inproceedings}{}
       \name{author}{7}{}{%
         {{hash=b5ede9fb3c9e443a5f30f25f21db8c60}{%
@@ -80,6 +252,7 @@
       \field{year}{2025}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{abstract}
     \endentry
     \entry{robbins_pseudohypoglycemia_2024}{article}{}
       \name{author}{3}{}{%
