@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{ydnt/global//global/global}
-    \entry{santi_heterogeneity_nodate}{article}{}
+  \datalist[entry]{ydnt/global//global/global/global}
+    \entry{santi_heterogeneity_nodate}{article}{}{}
       \name{author}{5}{}{%
         {{hash=b5ede9fb3c9e443a5f30f25f21db8c60}{%
            family={Santi},
@@ -47,20 +47,24 @@
            given={Katarina},
            giveni={K\bibinitperiod}}}%
       }
-      \strng{namehash}{8efeb25be52050b18932e8656c8704fe}
+      \strng{namehash}{50f8499813f0bb895fa56c3596e7c0ec}
       \strng{fullhash}{a274503fb5800cd46f34c1a2f0e4d6dc}
+      \strng{fullhashraw}{a274503fb5800cd46f34c1a2f0e4d6dc}
       \strng{bibnamehash}{a274503fb5800cd46f34c1a2f0e4d6dc}
       \strng{authorbibnamehash}{a274503fb5800cd46f34c1a2f0e4d6dc}
-      \strng{authornamehash}{8efeb25be52050b18932e8656c8704fe}
+      \strng{authornamehash}{50f8499813f0bb895fa56c3596e7c0ec}
       \strng{authorfullhash}{a274503fb5800cd46f34c1a2f0e4d6dc}
+      \strng{authorfullhashraw}{a274503fb5800cd46f34c1a2f0e4d6dc}
+      \field{extraname}{1}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Heterogeneity of Pulmonary Hypertension Nomenclature in Empiric Research Studies}
       \true{nocite}
+      \annotation{item}{author}{default}{3}{}{0}{highlight}
     \endentry
-    \entry{robbins_medication_2025}{article}{}
+    \entry{robbins_medication_2025}{article}{}{}
       \name{author}{18}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
@@ -153,12 +157,15 @@
            given={Corey\bibnamedelima E.},
            giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
-      \strng{namehash}{8da8e31f21edc30cc712f8b9d9fe1fd0}
+      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{fullhash}{838485f97ec49b13d7a83d77ce54d87e}
+      \strng{fullhashraw}{838485f97ec49b13d7a83d77ce54d87e}
       \strng{bibnamehash}{a59738ce572b31ac846aabfa8d764c79}
       \strng{authorbibnamehash}{a59738ce572b31ac846aabfa8d764c79}
-      \strng{authornamehash}{8da8e31f21edc30cc712f8b9d9fe1fd0}
+      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{authorfullhash}{838485f97ec49b13d7a83d77ce54d87e}
+      \strng{authorfullhashraw}{838485f97ec49b13d7a83d77ce54d87e}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -190,29 +197,30 @@
       \verb https://www.atsjournals.org/doi/10.1513/AnnalsATS.202312-1083OC
       \endverb
       \keyw{article}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
-    \entry{santi_prevalence_2025}{inproceedings}{}
+    \entry{robbins_prevalence_2025}{inproceedings}{}{}
       \name{author}{7}{}{%
-        {{hash=b5ede9fb3c9e443a5f30f25f21db8c60}{%
-           family={Santi},
-           familyi={S\bibinitperiod},
-           given={Armella},
-           giveni={A\bibinitperiod}}}%
-        {{hash=27cf082cadb0b6cadf52b5cd25991f5f}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Langjing},
-           giveni={L\bibinitperiod}}}%
+        {{hash=33de91a3ed9c8f7a3f8e6e3948b69815}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Eric\bibnamedelima William},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
         {{hash=aab11f0fb594b1f0652e19fbd6ab4a55}{%
            family={Ngah},
            familyi={N\bibinitperiod},
            given={Veranyuy},
            giveni={V\bibinitperiod}}}%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=32cbee34d4e176b4745f83c71be7822f}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lanjing},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b5ede9fb3c9e443a5f30f25f21db8c60}{%
+           family={Santi},
+           familyi={S\bibinitperiod},
+           given={Armella},
+           giveni={A\bibinitperiod}}}%
         {{hash=0191646c9b3cb94f451f39efccd11870}{%
            family={Diao},
            familyi={D\bibinitperiod},
@@ -230,31 +238,123 @@
            giveni={K\bibinitperiod}}}%
       }
       \list{location}{1}{%
+        {San Francisco, {CA}}%
+      }
+      \list{publisher}{1}{%
+        {American Thoracic Society}%
+      }
+      \strng{namehash}{1c3e84e21b73f593fbfe012cdcc167ca}
+      \strng{fullhash}{98ed1bd1fa12a59cd7127b6a9ca6d467}
+      \strng{fullhashraw}{98ed1bd1fa12a59cd7127b6a9ca6d467}
+      \strng{bibnamehash}{5f71d22423043d4c532d83aba4142160}
+      \strng{authorbibnamehash}{5f71d22423043d4c532d83aba4142160}
+      \strng{authornamehash}{1c3e84e21b73f593fbfe012cdcc167ca}
+      \strng{authorfullhash}{98ed1bd1fa12a59cd7127b6a9ca6d467}
+      \strng{authorfullhashraw}{98ed1bd1fa12a59cd7127b6a9ca6d467}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{D106. {THE} {PAINTED} {LADIES}: {LATE}-{BREAKING} {ADVANCES} {IN} {PULMONARY} {VASCULAR} {DISEASE}: {BASIC} {SCIENCE}, {TRANSLATIONAL}, {AND} {CLINICAL} {ADVANCEMENTS}}
+      \field{day}{21}
+      \field{eventtitle}{American Thoracic Society 2025 International Conference}
+      \field{month}{5}
+      \field{title}{The Prevalence of Pulmonary Hypertension Associated With {HIV} in Sub-Saharan Africa: A Significant Burden}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{abstract}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{santi_32_2025}{inproceedings}{}{}
+      \name{author}{7}{}{%
+        {{hash=b5ede9fb3c9e443a5f30f25f21db8c60}{%
+           family={Santi},
+           familyi={S\bibinitperiod},
+           given={Armella},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9a75ee293f2555f40976345739087998}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=aab11f0fb594b1f0652e19fbd6ab4a55}{%
+           family={Ngah},
+           familyi={N\bibinitperiod},
+           given={Veranyuy},
+           giveni={V\bibinitperiod}}}%
+        {{hash=4ea6b46cfb34fa70926d217d91731b07}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=634ffd14395a73ab299df80030b024da}{%
+           family={Guoding},
+           familyi={G\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=740db0900978dce57a6f71e9d649e624}{%
+           family={Maron},
+           familyi={M\bibinitperiod},
+           given={Bradley},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5e6623c17073228b86fa687f85665125}{%
+           family={Zeder},
+           familyi={Z\bibinitperiod},
+           given={Katarina},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
         {Rio de Janeiro, Brazil}%
       }
       \list{publisher}{1}{%
         {Pulmonary Vascular Research Institute}%
       }
-      \strng{namehash}{368df06d2ad8041605e56680303f7fab}
-      \strng{fullhash}{d2e44f3f1bf48d9ea3268386ebd498d4}
-      \strng{bibnamehash}{69f67bf33988ebe3ede7f5212142df89}
-      \strng{authorbibnamehash}{69f67bf33988ebe3ede7f5212142df89}
-      \strng{authornamehash}{368df06d2ad8041605e56680303f7fab}
-      \strng{authorfullhash}{d2e44f3f1bf48d9ea3268386ebd498d4}
+      \strng{namehash}{50f8499813f0bb895fa56c3596e7c0ec}
+      \strng{fullhash}{8974b8a733dcd0b940524d7448db3393}
+      \strng{fullhashraw}{8974b8a733dcd0b940524d7448db3393}
+      \strng{bibnamehash}{273623cdbbae5a26f640624758e5edab}
+      \strng{authorbibnamehash}{273623cdbbae5a26f640624758e5edab}
+      \strng{authornamehash}{50f8499813f0bb895fa56c3596e7c0ec}
+      \strng{authorfullhash}{8974b8a733dcd0b940524d7448db3393}
+      \strng{authorfullhashraw}{8974b8a733dcd0b940524d7448db3393}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{30}
+      \field{booktitle}{Pulmonary Circulation}
       \field{eventtitle}{{PVRI} 2025 Annual Congress}
+      \field{langid}{english}
       \field{month}{1}
-      \field{title}{The Prevalence of Pulmonary Hypertension in Sickle Cell Disease in sub-Saharan Africa: A Systematic Review and Meta-Analysis}
+      \field{title}{The Prevalence of Pulmonary Hypertension in Sickle Cell Disease in Sub-Saharan Africa: A Systematic Review and Meta-Analysis}
+      \field{urlday}{30}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{volume}{15}
       \field{year}{2025}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
+      \field{pages}{e70062}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1002/pul2.70062
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/eric/Zotero/storage/9LC2Y3GY/2025 - Abstract.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/pul2.70062
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/pul2.70062
+      \endverb
       \keyw{abstract}
+      \annotation{item}{author}{default}{4}{}{0}{highlight}
     \endentry
-    \entry{robbins_pseudohypoglycemia_2024}{article}{}
+    \entry{robbins_pseudohypoglycemia_2024}{article}{}{}
       \name{author}{3}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
@@ -272,12 +372,15 @@
            given={Kamran},
            giveni={K\bibinitperiod}}}%
       }
-      \strng{namehash}{d4514ca0380f252b044189b653b3a8a4}
+      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{fullhash}{d4514ca0380f252b044189b653b3a8a4}
+      \strng{fullhashraw}{d4514ca0380f252b044189b653b3a8a4}
       \strng{bibnamehash}{d4514ca0380f252b044189b653b3a8a4}
       \strng{authorbibnamehash}{d4514ca0380f252b044189b653b3a8a4}
-      \strng{authornamehash}{d4514ca0380f252b044189b653b3a8a4}
+      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{authorfullhash}{d4514ca0380f252b044189b653b3a8a4}
+      \strng{authorfullhashraw}{d4514ca0380f252b044189b653b3a8a4}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -298,8 +401,9 @@
       \field{pages}{20\bibrangedash 23}
       \range{pages}{4}
       \keyw{diabetes,Humans,article,pseudohypoglycemia,Blood Glucose,clinical testing,false positives,hypoglycemia,Hypoglycemia}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
-    \entry{santi_definition_2024}{inproceedings}{}
+    \entry{santi_definition_2024}{inproceedings}{}{}
       \name{author}{6}{}{%
         {{hash=a48263cdf75c850f7ea574d54029cd14}{%
            family={Santi},
@@ -332,21 +436,27 @@
            given={K.},
            giveni={K\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {San Diego, {CA}}%
+      }
       \list{publisher}{1}{%
         {American Thoracic Society}%
       }
-      \strng{namehash}{b859066f9a8b7a919ee8a973d5bfdf58}
+      \strng{namehash}{6088ee7622e3d28d74a77b5f02595a30}
       \strng{fullhash}{8b3e044f4345071a6afa0739926ff869}
+      \strng{fullhashraw}{8b3e044f4345071a6afa0739926ff869}
       \strng{bibnamehash}{90806d06bbba992c4709cf9e0ed049f9}
       \strng{authorbibnamehash}{90806d06bbba992c4709cf9e0ed049f9}
-      \strng{authornamehash}{b859066f9a8b7a919ee8a973d5bfdf58}
+      \strng{authornamehash}{6088ee7622e3d28d74a77b5f02595a30}
       \strng{authorfullhash}{8b3e044f4345071a6afa0739926ff869}
+      \strng{authorfullhashraw}{8b3e044f4345071a6afa0739926ff869}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{C62. {TOP} {GUN}: {NOVEL} {THERAPEUTICS} {AND} {OUTCOMES} {IN} {PAH}}
-      \field{eventtitle}{American Thoracic Society 2024 International Conference, May 17-22, 2024 - San Diego, {CA}}
+      \field{eventtitle}{American Thoracic Society 2024 International Conference}
       \field{langid}{english}
       \field{month}{5}
       \field{title}{The Definition of Pulmonary Hypertension Varies Widely Across Empiric Research Studies}
@@ -369,8 +479,9 @@
       \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2024.209.1_MeetingAbstracts.A6110
       \endverb
       \keyw{abstract}
+      \annotation{item}{author}{default}{3}{}{0}{highlight}
     \endentry
-    \entry{zeder_prevalence_2024}{inproceedings}{}
+    \entry{zeder_prevalence_2024}{inproceedings}{}{}
       \name{author}{12}{}{%
         {{hash=5e6623c17073228b86fa687f85665125}{%
            family={Zeder},
@@ -436,12 +547,14 @@
       \list{publisher}{1}{%
         {European Respiratory Society}%
       }
-      \strng{namehash}{2830ad93d5958f88d70a6bb76669a9ef}
+      \strng{namehash}{4ae792cddf0e94628e00dd9e2e4f7ae1}
       \strng{fullhash}{04117f10438857a2f6e2dbb5fd0a4e3d}
+      \strng{fullhashraw}{04117f10438857a2f6e2dbb5fd0a4e3d}
       \strng{bibnamehash}{2fd9f731831fb5aa8d63b323906df00a}
       \strng{authorbibnamehash}{2fd9f731831fb5aa8d63b323906df00a}
-      \strng{authornamehash}{2830ad93d5958f88d70a6bb76669a9ef}
+      \strng{authornamehash}{4ae792cddf0e94628e00dd9e2e4f7ae1}
       \strng{authorfullhash}{04117f10438857a2f6e2dbb5fd0a4e3d}
+      \strng{authorfullhashraw}{04117f10438857a2f6e2dbb5fd0a4e3d}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -470,8 +583,9 @@
       \verb http://publications.ersnet.org/lookup/doi/10.1183/13993003.congress-2024.PA5237
       \endverb
       \keyw{abstract}
+      \annotation{item}{author}{default}{5}{}{0}{highlight}
     \endentry
-    \entry{benavente_exploring_2023}{article}{}
+    \entry{benavente_exploring_2023}{article}{}{}
       \name{author}{4}{}{%
         {{hash=d2c039c68b304d068db05a6c5b57b61c}{%
            family={Benavente},
@@ -494,12 +608,14 @@
            given={Kamran},
            giveni={K\bibinitperiod}}}%
       }
-      \strng{namehash}{7d7380aaf4d0603a9f0d80917c11b31e}
+      \strng{namehash}{9dabeee3601cf0c62f733cd84110d5a0}
       \strng{fullhash}{64a78c85dc940ba1879894b1405cba91}
+      \strng{fullhashraw}{64a78c85dc940ba1879894b1405cba91}
       \strng{bibnamehash}{64a78c85dc940ba1879894b1405cba91}
       \strng{authorbibnamehash}{64a78c85dc940ba1879894b1405cba91}
-      \strng{authornamehash}{7d7380aaf4d0603a9f0d80917c11b31e}
+      \strng{authornamehash}{9dabeee3601cf0c62f733cd84110d5a0}
       \strng{authorfullhash}{64a78c85dc940ba1879894b1405cba91}
+      \strng{authorfullhashraw}{64a78c85dc940ba1879894b1405cba91}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -536,8 +652,9 @@
       \verb https://www.journalmechanicalventilation.com/exploring-clinicians-beliefs-and-practices-regarding-non-invasive-ventilation-devices-an-international-survey-study/
       \endverb
       \keyw{article}
+      \annotation{item}{author}{default}{2}{}{0}{highlight}
     \endentry
-    \entry{dustin_pneumonitis_2023}{inproceedings}{}
+    \entry{dustin_pneumonitis_2023}{inproceedings}{}{}
       \name{author}{7}{}{%
         {{hash=e316f40eedf40b56dffe2bbce4c60a11}{%
            family={Dustin},
@@ -581,12 +698,14 @@
       \list{publisher}{1}{%
         {American Thoracic Society}%
       }
-      \strng{namehash}{18ff11a1af67219bb21db7f89ebb3866}
+      \strng{namehash}{7754001b87ccfd739dd857d18cace35f}
       \strng{fullhash}{3b7090379f55e8f7c49a2f0cf369ddcf}
+      \strng{fullhashraw}{3b7090379f55e8f7c49a2f0cf369ddcf}
       \strng{bibnamehash}{94099088b1eab6567c941c233717b35c}
       \strng{authorbibnamehash}{94099088b1eab6567c941c233717b35c}
-      \strng{authornamehash}{18ff11a1af67219bb21db7f89ebb3866}
+      \strng{authornamehash}{7754001b87ccfd739dd857d18cace35f}
       \strng{authorfullhash}{3b7090379f55e8f7c49a2f0cf369ddcf}
+      \strng{authorfullhashraw}{3b7090379f55e8f7c49a2f0cf369ddcf}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -616,8 +735,9 @@
       \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A2726
       \endverb
       \keyw{abstract}
+      \annotation{item}{author}{default}{3}{}{0}{highlight}
     \endentry
-    \entry{robbins_reduce_2023}{unpublished}{}
+    \entry{robbins_reduce_2023}{unpublished}{}{}
       \name{author}{1}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
@@ -630,10 +750,12 @@
       }
       \strng{namehash}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{fullhash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{fullhashraw}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{bibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{authorbibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{authornamehash}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{authorfullhash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{authorfullhashraw}{817410d8d04e2cbc97f884db8a8d3910}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -647,8 +769,9 @@
       \field{dateera}{ce}
       \true{nocite}
       \keyw{presentation}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
-    \entry{robbins_medication_2023}{inproceedings}{}
+    \entry{robbins_medication_2023}{inproceedings}{}{}
       \name{author}{19}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
@@ -752,12 +875,15 @@
       \list{publisher}{1}{%
         {American Thoracic Society}%
       }
-      \strng{namehash}{a71285adf71ee336d68e03b8d214ec41}
+      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{fullhash}{df86685593e983d78f79e420d5c0528b}
+      \strng{fullhashraw}{df86685593e983d78f79e420d5c0528b}
       \strng{bibnamehash}{f0e0785f9e765c7a65af39b5d0a58db5}
       \strng{authorbibnamehash}{f0e0785f9e765c7a65af39b5d0a58db5}
-      \strng{authornamehash}{a71285adf71ee336d68e03b8d214ec41}
+      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{authorfullhash}{df86685593e983d78f79e420d5c0528b}
+      \strng{authorfullhashraw}{df86685593e983d78f79e420d5c0528b}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -787,8 +913,9 @@
       \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A1186
       \endverb
       \keyw{abstract}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
-    \entry{Robbins2022}{inproceedings}{}
+    \entry{Robbins2022}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=4ea6b46cfb34fa70926d217d91731b07}{%
            family={Robbins},
@@ -809,12 +936,15 @@
       \list{publisher}{1}{%
         {Society of Critical Care Medicine}%
       }
-      \strng{namehash}{ee383ae444dc094f83da94608b7ef731}
+      \strng{namehash}{218b6d816cc9ee7eda9edc62559003b0}
       \strng{fullhash}{ee383ae444dc094f83da94608b7ef731}
+      \strng{fullhashraw}{ee383ae444dc094f83da94608b7ef731}
       \strng{bibnamehash}{ee383ae444dc094f83da94608b7ef731}
       \strng{authorbibnamehash}{ee383ae444dc094f83da94608b7ef731}
-      \strng{authornamehash}{ee383ae444dc094f83da94608b7ef731}
+      \strng{authornamehash}{218b6d816cc9ee7eda9edc62559003b0}
       \strng{authorfullhash}{ee383ae444dc094f83da94608b7ef731}
+      \strng{authorfullhashraw}{ee383ae444dc094f83da94608b7ef731}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -839,8 +969,9 @@
       \verb https://journals.lww.com/10.1097/01.ccm.0000806828.13647.9a
       \endverb
       \keyw{{caseRep}}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
-    \entry{robbins_assessing_2022}{unpublished}{}
+    \entry{robbins_assessing_2022}{unpublished}{}{}
       \name{author}{1}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
@@ -853,10 +984,12 @@
       }
       \strng{namehash}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{fullhash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{fullhashraw}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{bibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{authorbibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{authornamehash}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{authorfullhash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{authorfullhashraw}{817410d8d04e2cbc97f884db8a8d3910}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -870,8 +1003,9 @@
       \field{dateera}{ce}
       \true{nocite}
       \keyw{presentation}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
-    \entry{robbins_racial_2022}{unpublished}{}
+    \entry{robbins_racial_2022}{unpublished}{}{}
       \name{author}{1}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
@@ -884,10 +1018,12 @@
       }
       \strng{namehash}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{fullhash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{fullhashraw}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{bibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{authorbibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{authornamehash}{817410d8d04e2cbc97f884db8a8d3910}
       \strng{authorfullhash}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{authorfullhashraw}{817410d8d04e2cbc97f884db8a8d3910}
       \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -901,8 +1037,9 @@
       \field{dateera}{ce}
       \true{nocite}
       \keyw{presentation}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
-    \entry{robbins_aortic_2022}{inproceedings}{}
+    \entry{robbins_aortic_2022}{inproceedings}{}{}
       \name{author}{5}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
@@ -933,17 +1070,20 @@
       \list{publisher}{1}{%
         {Chest}%
       }
-      \strng{namehash}{5dc330ed484fc6d1e1e92baf22b2eeeb}
+      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{fullhash}{30695454b1d81294a30496b2d5e17439}
+      \strng{fullhashraw}{30695454b1d81294a30496b2d5e17439}
       \strng{bibnamehash}{30695454b1d81294a30496b2d5e17439}
       \strng{authorbibnamehash}{30695454b1d81294a30496b2d5e17439}
-      \strng{authornamehash}{5dc330ed484fc6d1e1e92baf22b2eeeb}
+      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{authorfullhash}{30695454b1d81294a30496b2d5e17439}
+      \strng{authorfullhashraw}{30695454b1d81294a30496b2d5e17439}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Chest Annual Meeting 2022}
+      \field{eventtitle}{Chest Annual Meeting 2022}
       \field{langid}{english}
       \field{month}{10}
       \field{title}{Aortic Dissection Induced by Persistent Coughing in a Patient with Emphysema}
@@ -970,8 +1110,9 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369222024308
       \endverb
       \keyw{{caseRep}}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
-    \entry{robbins_adenocarcinoma_2022}{inproceedings}{}
+    \entry{robbins_adenocarcinoma_2022}{inproceedings}{}{}
       \name{author}{5}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
@@ -1002,12 +1143,15 @@
       \list{publisher}{1}{%
         {Chest}%
       }
-      \strng{namehash}{18f3ae490b7c5d2ffb6e2bbf0cffe535}
+      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{fullhash}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
+      \strng{fullhashraw}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
       \strng{bibnamehash}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
       \strng{authorbibnamehash}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
-      \strng{authornamehash}{18f3ae490b7c5d2ffb6e2bbf0cffe535}
+      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{authorfullhash}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
+      \strng{authorfullhashraw}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1039,8 +1183,9 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369222027350
       \endverb
       \keyw{{caseRep}}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
-    \entry{Robbins2020a}{inproceedings}{}
+    \entry{Robbins2020a}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=4ea6b46cfb34fa70926d217d91731b07}{%
            family={Robbins},
@@ -1061,13 +1206,15 @@
       \list{publisher}{1}{%
         {American Thoracic Society}%
       }
-      \strng{namehash}{7d1b0c17ca5d8c251d2d1e3377902144}
+      \strng{namehash}{218b6d816cc9ee7eda9edc62559003b0}
       \strng{fullhash}{7d1b0c17ca5d8c251d2d1e3377902144}
+      \strng{fullhashraw}{7d1b0c17ca5d8c251d2d1e3377902144}
       \strng{bibnamehash}{7d1b0c17ca5d8c251d2d1e3377902144}
       \strng{authorbibnamehash}{7d1b0c17ca5d8c251d2d1e3377902144}
-      \strng{authornamehash}{7d1b0c17ca5d8c251d2d1e3377902144}
+      \strng{authornamehash}{218b6d816cc9ee7eda9edc62559003b0}
       \strng{authorfullhash}{7d1b0c17ca5d8c251d2d1e3377902144}
-      \field{extraname}{1}
+      \strng{authorfullhashraw}{7d1b0c17ca5d8c251d2d1e3377902144}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1091,8 +1238,9 @@
       \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A6990
       \endverb
       \keyw{{caseRep}}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
-    \entry{Robbins2020b}{inproceedings}{}
+    \entry{Robbins2020b}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=4ea6b46cfb34fa70926d217d91731b07}{%
            family={Robbins},
@@ -1113,12 +1261,15 @@
       \list{publisher}{1}{%
         {Chest}%
       }
-      \strng{namehash}{f555af54eeb46fe4aa29a87cd8a38395}
+      \strng{namehash}{218b6d816cc9ee7eda9edc62559003b0}
       \strng{fullhash}{f555af54eeb46fe4aa29a87cd8a38395}
+      \strng{fullhashraw}{f555af54eeb46fe4aa29a87cd8a38395}
       \strng{bibnamehash}{f555af54eeb46fe4aa29a87cd8a38395}
       \strng{authorbibnamehash}{f555af54eeb46fe4aa29a87cd8a38395}
-      \strng{authornamehash}{f555af54eeb46fe4aa29a87cd8a38395}
+      \strng{authornamehash}{218b6d816cc9ee7eda9edc62559003b0}
       \strng{authorfullhash}{f555af54eeb46fe4aa29a87cd8a38395}
+      \strng{authorfullhashraw}{f555af54eeb46fe4aa29a87cd8a38395}
+      \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1143,8 +1294,9 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369220335789
       \endverb
       \keyw{{caseRep}}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
-    \entry{robbins_progressive_2020}{unpublished}{}
+    \entry{robbins_progressive_2020}{unpublished}{}{}
       \name{author}{3}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
@@ -1165,13 +1317,15 @@
       \list{location}{1}{%
         {Weymouth, {MA}}%
       }
-      \strng{namehash}{b744966b3fed6b0377c8f8b28897125f}
+      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{fullhash}{b744966b3fed6b0377c8f8b28897125f}
+      \strng{fullhashraw}{b744966b3fed6b0377c8f8b28897125f}
       \strng{bibnamehash}{b744966b3fed6b0377c8f8b28897125f}
       \strng{authorbibnamehash}{b744966b3fed6b0377c8f8b28897125f}
-      \strng{authornamehash}{b744966b3fed6b0377c8f8b28897125f}
+      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{authorfullhash}{b744966b3fed6b0377c8f8b28897125f}
-      \field{extraname}{2}
+      \strng{authorfullhashraw}{b744966b3fed6b0377c8f8b28897125f}
+      \field{extraname}{10}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1183,8 +1337,9 @@
       \field{dateera}{ce}
       \true{nocite}
       \keyw{presentation}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
-    \entry{Robbins2020}{inproceedings}{}
+    \entry{Robbins2020}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
@@ -1210,12 +1365,15 @@
       \list{publisher}{1}{%
         {American Thoracic Society}%
       }
-      \strng{namehash}{0c7105a9d020d16f71594a55237c7dac}
+      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{fullhash}{bfad66225cfba9ea4085104b700ea23b}
+      \strng{fullhashraw}{bfad66225cfba9ea4085104b700ea23b}
       \strng{bibnamehash}{bfad66225cfba9ea4085104b700ea23b}
       \strng{authorbibnamehash}{bfad66225cfba9ea4085104b700ea23b}
-      \strng{authornamehash}{0c7105a9d020d16f71594a55237c7dac}
+      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
       \strng{authorfullhash}{bfad66225cfba9ea4085104b700ea23b}
+      \strng{authorfullhashraw}{bfad66225cfba9ea4085104b700ea23b}
+      \field{extraname}{11}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1238,8 +1396,9 @@
       \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A7618
       \endverb
       \keyw{{caseRep}}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
-    \entry{robbins_relative_2018}{unpublished}{}
+    \entry{robbins_relative_2018}{unpublished}{}{}
       \name{author}{2}{}{%
         {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
            family={Robbins},
@@ -1257,10 +1416,12 @@
       }
       \strng{namehash}{a5a92219dc69086b9792464551ca3e51}
       \strng{fullhash}{a5a92219dc69086b9792464551ca3e51}
+      \strng{fullhashraw}{a5a92219dc69086b9792464551ca3e51}
       \strng{bibnamehash}{a5a92219dc69086b9792464551ca3e51}
       \strng{authorbibnamehash}{a5a92219dc69086b9792464551ca3e51}
       \strng{authornamehash}{a5a92219dc69086b9792464551ca3e51}
       \strng{authorfullhash}{a5a92219dc69086b9792464551ca3e51}
+      \strng{authorfullhashraw}{a5a92219dc69086b9792464551ca3e51}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1272,6 +1433,7 @@
       \field{dateera}{ce}
       \true{nocite}
       \keyw{presentation}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
     \endentry
   \enddatalist
 \endrefsection

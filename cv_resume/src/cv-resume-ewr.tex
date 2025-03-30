@@ -60,7 +60,7 @@
 
 \newcommand{\entryvspace}{\vspace{0.5em}}
 \newcommand{\fellowshipClinical}{University of Maryland Medical Center}
-\newcommand{\fellowshipResearch}{National Institutes of Health, Criticla Care Medicine Department}
+\newcommand{\fellowshipResearch}{National Institutes of Health, Critical Care Medicine Department}
 \newcommand{\residency}{Rhode Island Hospital / Brown University}
 \newcommand{\medschool}{Tufts University School of Medicine}
 \newcommand{\me}{Robbins EW}
@@ -68,6 +68,18 @@
 \newcommand{\cphone}{339-203-8046}
 \newcommand{\address}{10201 Grosvenor Place \#1206, Rockville, MD 20852}
 \newcommand{\email}{\href{mailto:erobbins.md@protonmail.com}{erobbins.md@protonmail.com}}
+
+\renewcommand*{\mkbibnamegiven}[1]{%
+	\ifitemannotation{highlight}
+	{\textbf{#1}}
+	{#1}
+	}
+
+\renewcommand*{\mkbibnamefamily}[1]{%
+	\ifitemannotation{highlight}
+	{\textbf{#1}}
+	{#1}
+	}
 
 \titleformat{\section}
 {\bfseries\Large}
@@ -177,7 +189,7 @@
 \section*{Research}
 	\nocite{*}
 	\subsection*{Ongoing Projects}
-		Co-Investigator on a Prospective Registry Assessing the Proteomic Profiling of Myositis-Associated Interstitial Lung Disease, \textit{Critlcal Care Medicine Department, National Institutes of Health}.
+		Co-Investigator on a Prospective Registry Assessing the Proteomic Profiling of Myositis-Associated Interstitial Lung Disease, \textit{Critical Care Medicine Department, National Institutes of Health}.
 		Mentors and PIs: Anthony Suffredini, MD, and Julio Huapaya, MD, MHS.
 		\\ \\
 		Co-Principal Investigator on a Prospective Registry Assessing the Pulmonary Manifestations of Relapsing Polychondritis and VEXAS Syndrome, \textit{Division of Rheumatology, Allergy and Clinical Immunology, University of Maryland}.
@@ -185,10 +197,6 @@
 		\\ \\
 		Co-Investigator on a Systematic Review and Meta-analysis on the Global Prevalence and Burden of Pulmonary Hypertension across Ten Global Regions, \textit{University of Maryland Institute for Health Computing}.
 		Mentor: Bradley Maron, MD. PI: Katarina Zeder, MD, PhD.
-	\subsection*{Submitted Works}
-	HIV to ATS
-	\\ \\
-	SCD to CHEST
 	\subsection*{Peer-Reviewed Articles}
 		\printbibliography[keyword=article, heading=none]
 	\subsection*{Scientific Abstracts}

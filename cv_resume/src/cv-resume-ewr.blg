@@ -1,15 +1,15 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'cv-resume-ewr.blg'
-[118] biber:340> INFO - === Tue Feb 25, 2025, 09:32:15
-[137] Biber.pm:419> INFO - Reading 'cv-resume-ewr.bcf'
-[227] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[250] Biber.pm:4419> INFO - Processing section 0
-[264] Biber.pm:4610> INFO - Looking for bibtex file 'works.bib' for section 0
-[266] bibtex.pm:1713> INFO - LaTeX decoding ...
-[336] bibtex.pm:1519> INFO - Found BibTeX data source 'works.bib'
-[731] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[732] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[732] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[732] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[771] bbl.pm:660> INFO - Writing 'cv-resume-ewr.bbl' with encoding 'UTF-8'
-[787] bbl.pm:763> INFO - Output to cv-resume-ewr.bbl
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'cv-resume-ewr.blg'
+[119] biber:340> INFO - === Sun Mar 30, 2025, 10:58:54
+[139] Biber.pm:420> INFO - Reading 'cv-resume-ewr.bcf'
+[231] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[254] Biber.pm:4463> INFO - Processing section 0
+[268] Biber.pm:4654> INFO - Looking for bibtex file 'works.bib' for section 0
+[271] bibtex.pm:1713> INFO - LaTeX decoding ...
+[347] bibtex.pm:1519> INFO - Found BibTeX data source 'works.bib'
+[781] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[781] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[781] Biber.pm:4283> INFO - Sorting list 'ydnt/global//global/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[781] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[825] bbl.pm:676> INFO - Writing 'cv-resume-ewr.bbl' with encoding 'UTF-8'
+[845] bbl.pm:779> INFO - Output to cv-resume-ewr.bbl
