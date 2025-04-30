@@ -82,7 +82,7 @@
       <file>cv-resume-ewr.bcf</file>
     </requires>
     <requires type="editable">
-      <file>works.bib</file>
+      <file>personal_bib.bib</file>
     </requires>
   </external>
 </requests>

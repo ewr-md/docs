@@ -21,11 +21,9 @@
   \datalist[entry]{ydnt/global//global/global/global}
     \entry{robbins_medication_2025}{article}{}{}
       \name{author}{18}{}{%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
+           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
+           familyi={\\bibinitperiod}}}%
         {{hash=bd14696a2df1dfb4adf8d4c6238fb5bf}{%
            family={Bradley},
            familyi={B\bibinitperiod},
@@ -112,14 +110,14 @@
            given={Corey\bibnamedelima E.},
            giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
-      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{fullhash}{838485f97ec49b13d7a83d77ce54d87e}
-      \strng{fullhashraw}{838485f97ec49b13d7a83d77ce54d87e}
-      \strng{bibnamehash}{a59738ce572b31ac846aabfa8d764c79}
-      \strng{authorbibnamehash}{a59738ce572b31ac846aabfa8d764c79}
-      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{authorfullhash}{838485f97ec49b13d7a83d77ce54d87e}
-      \strng{authorfullhashraw}{838485f97ec49b13d7a83d77ce54d87e}
+      \strng{namehash}{de7c51a8453632731ed5602ecdce2330}
+      \strng{fullhash}{2261cc75ee9e2eb6cf820a2f54c8881a}
+      \strng{fullhashraw}{2261cc75ee9e2eb6cf820a2f54c8881a}
+      \strng{bibnamehash}{82ac14177c0b54de37127ccf96e86947}
+      \strng{authorbibnamehash}{82ac14177c0b54de37127ccf96e86947}
+      \strng{authornamehash}{de7c51a8453632731ed5602ecdce2330}
+      \strng{authorfullhash}{2261cc75ee9e2eb6cf820a2f54c8881a}
+      \strng{authorfullhashraw}{2261cc75ee9e2eb6cf820a2f54c8881a}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -155,11 +153,9 @@
     \endentry
     \entry{robbins_prevalence_2025}{inproceedings}{}{}
       \name{author}{7}{}{%
-        {{hash=33de91a3ed9c8f7a3f8e6e3948b69815}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima William},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=a1da1d1e6f457cb5ead57f23e7678afb}{%
+           family={\textbf{\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}illiam}},
+           familyi={\\bibinitperiod}}}%
         {{hash=aab11f0fb594b1f0652e19fbd6ab4a55}{%
            family={Ngah},
            familyi={N\bibinitperiod},
@@ -197,15 +193,14 @@
       \list{publisher}{1}{%
         {American Thoracic Society}%
       }
-      \strng{namehash}{1c3e84e21b73f593fbfe012cdcc167ca}
-      \strng{fullhash}{98ed1bd1fa12a59cd7127b6a9ca6d467}
-      \strng{fullhashraw}{98ed1bd1fa12a59cd7127b6a9ca6d467}
-      \strng{bibnamehash}{5f71d22423043d4c532d83aba4142160}
-      \strng{authorbibnamehash}{5f71d22423043d4c532d83aba4142160}
-      \strng{authornamehash}{1c3e84e21b73f593fbfe012cdcc167ca}
-      \strng{authorfullhash}{98ed1bd1fa12a59cd7127b6a9ca6d467}
-      \strng{authorfullhashraw}{98ed1bd1fa12a59cd7127b6a9ca6d467}
-      \field{extraname}{2}
+      \strng{namehash}{267c7a2fe0738f3a6ae90b55609bd05d}
+      \strng{fullhash}{bf43c359cafe7c1a6d210ff533d2f267}
+      \strng{fullhashraw}{bf43c359cafe7c1a6d210ff533d2f267}
+      \strng{bibnamehash}{2b030481a8fb9e478d3c0c4b050ff11a}
+      \strng{authorbibnamehash}{2b030481a8fb9e478d3c0c4b050ff11a}
+      \strng{authornamehash}{267c7a2fe0738f3a6ae90b55609bd05d}
+      \strng{authorfullhash}{bf43c359cafe7c1a6d210ff533d2f267}
+      \strng{authorfullhashraw}{bf43c359cafe7c1a6d210ff533d2f267}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -232,11 +227,9 @@
            familyi={C\bibinitperiod},
            given={Lisa},
            giveni={L\bibinitperiod}}}%
-        {{hash=4ea6b46cfb34fa70926d217d91731b07}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
+        {{hash=6308b63cd05ba97f41b21cf4098aef9e}{%
+           family={\textbf{Robbins,\bibnamedelimb Eric}},
+           familyi={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
         {{hash=184021798b85008507f96786d64a9a41}{%
            family={Ngah},
            familyi={N\bibinitperiod},
@@ -254,13 +247,13 @@
            giveni={K\bibinitperiod}}}%
       }
       \strng{namehash}{50f8499813f0bb895fa56c3596e7c0ec}
-      \strng{fullhash}{72630d0a0862cf79470ac538d852baca}
-      \strng{fullhashraw}{72630d0a0862cf79470ac538d852baca}
-      \strng{bibnamehash}{b2d50304f6f995c92140af40683a4e85}
-      \strng{authorbibnamehash}{b2d50304f6f995c92140af40683a4e85}
+      \strng{fullhash}{11bd408f4deacddb2570e697bbd8330b}
+      \strng{fullhashraw}{11bd408f4deacddb2570e697bbd8330b}
+      \strng{bibnamehash}{eb36825bc92b614e3fa49d627e254e91}
+      \strng{authorbibnamehash}{eb36825bc92b614e3fa49d627e254e91}
       \strng{authornamehash}{50f8499813f0bb895fa56c3596e7c0ec}
-      \strng{authorfullhash}{72630d0a0862cf79470ac538d852baca}
-      \strng{authorfullhashraw}{72630d0a0862cf79470ac538d852baca}
+      \strng{authorfullhash}{11bd408f4deacddb2570e697bbd8330b}
+      \strng{authorfullhashraw}{11bd408f4deacddb2570e697bbd8330b}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -295,11 +288,9 @@
            familyi={N\bibinitperiod},
            given={Veranyuy},
            giveni={V\bibinitperiod}}}%
-        {{hash=4ea6b46cfb34fa70926d217d91731b07}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
+        {{hash=6308b63cd05ba97f41b21cf4098aef9e}{%
+           family={\textbf{Robbins,\bibnamedelimb Eric}},
+           familyi={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
         {{hash=634ffd14395a73ab299df80030b024da}{%
            family={Guoding},
            familyi={G\bibinitperiod},
@@ -323,13 +314,13 @@
         {Pulmonary Vascular Research Institute}%
       }
       \strng{namehash}{50f8499813f0bb895fa56c3596e7c0ec}
-      \strng{fullhash}{8974b8a733dcd0b940524d7448db3393}
-      \strng{fullhashraw}{8974b8a733dcd0b940524d7448db3393}
-      \strng{bibnamehash}{273623cdbbae5a26f640624758e5edab}
-      \strng{authorbibnamehash}{273623cdbbae5a26f640624758e5edab}
+      \strng{fullhash}{d0371a4c6c1498e10d63fa45df86b54c}
+      \strng{fullhashraw}{d0371a4c6c1498e10d63fa45df86b54c}
+      \strng{bibnamehash}{621ea7a063d7cd3a10decfced72ab530}
+      \strng{authorbibnamehash}{621ea7a063d7cd3a10decfced72ab530}
       \strng{authornamehash}{50f8499813f0bb895fa56c3596e7c0ec}
-      \strng{authorfullhash}{8974b8a733dcd0b940524d7448db3393}
-      \strng{authorfullhashraw}{8974b8a733dcd0b940524d7448db3393}
+      \strng{authorfullhash}{d0371a4c6c1498e10d63fa45df86b54c}
+      \strng{authorfullhashraw}{d0371a4c6c1498e10d63fa45df86b54c}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -366,11 +357,9 @@
     \endentry
     \entry{robbins_pseudohypoglycemia_2024}{article}{}{}
       \name{author}{3}{}{%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W.},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=691b3935cadc882d98a3a7648e89e1fd}{%
+           family={\textbf{\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}.}},
+           familyi={\\bibinitperiod}}}%
         {{hash=c35dfcf9ad2ae277e26bcbaafa7f912f}{%
            family={Minami},
            familyi={M\bibinitperiod},
@@ -382,15 +371,15 @@
            given={Kamran},
            giveni={K\bibinitperiod}}}%
       }
-      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{fullhash}{d4514ca0380f252b044189b653b3a8a4}
-      \strng{fullhashraw}{d4514ca0380f252b044189b653b3a8a4}
-      \strng{bibnamehash}{d4514ca0380f252b044189b653b3a8a4}
-      \strng{authorbibnamehash}{d4514ca0380f252b044189b653b3a8a4}
-      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{authorfullhash}{d4514ca0380f252b044189b653b3a8a4}
-      \strng{authorfullhashraw}{d4514ca0380f252b044189b653b3a8a4}
-      \field{extraname}{3}
+      \strng{namehash}{4cc228abb154e552a97a5abae106e469}
+      \strng{fullhash}{1425bd70add82b644ed93614a017f459}
+      \strng{fullhashraw}{1425bd70add82b644ed93614a017f459}
+      \strng{bibnamehash}{1425bd70add82b644ed93614a017f459}
+      \strng{authorbibnamehash}{1425bd70add82b644ed93614a017f459}
+      \strng{authornamehash}{4cc228abb154e552a97a5abae106e469}
+      \strng{authorfullhash}{1425bd70add82b644ed93614a017f459}
+      \strng{authorfullhashraw}{1425bd70add82b644ed93614a017f459}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -424,11 +413,9 @@
            familyi={C\bibinitperiod},
            given={L.},
            giveni={L\bibinitperiod}}}%
-        {{hash=a5b1ddb7e9374130cdd39c57967a6b89}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod}}}%
+        {{hash=a04a9170bf7ac109544863d3762ec2a3}{%
+           family={\textbf{Robbins,\bibnamedelimb E.}},
+           familyi={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
         {{hash=c63c2e800ca6d02388e53a8ddd2361ee}{%
            family={Ngah},
            familyi={N\bibinitperiod},
@@ -452,13 +439,13 @@
         {American Thoracic Society}%
       }
       \strng{namehash}{6088ee7622e3d28d74a77b5f02595a30}
-      \strng{fullhash}{8b3e044f4345071a6afa0739926ff869}
-      \strng{fullhashraw}{8b3e044f4345071a6afa0739926ff869}
-      \strng{bibnamehash}{90806d06bbba992c4709cf9e0ed049f9}
-      \strng{authorbibnamehash}{90806d06bbba992c4709cf9e0ed049f9}
+      \strng{fullhash}{2054040e5a9933c2a1c3358f91809b20}
+      \strng{fullhashraw}{2054040e5a9933c2a1c3358f91809b20}
+      \strng{bibnamehash}{22620a2395487bbee380d9c2f101ea1a}
+      \strng{authorbibnamehash}{22620a2395487bbee380d9c2f101ea1a}
       \strng{authornamehash}{6088ee7622e3d28d74a77b5f02595a30}
-      \strng{authorfullhash}{8b3e044f4345071a6afa0739926ff869}
-      \strng{authorfullhashraw}{8b3e044f4345071a6afa0739926ff869}
+      \strng{authorfullhash}{2054040e5a9933c2a1c3358f91809b20}
+      \strng{authorfullhashraw}{2054040e5a9933c2a1c3358f91809b20}
       \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -511,11 +498,9 @@
            familyi={S\bibinitperiod},
            given={Armella},
            giveni={A\bibinitperiod}}}%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
+           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
+           familyi={\\bibinitperiod}}}%
         {{hash=aab11f0fb594b1f0652e19fbd6ab4a55}{%
            family={Ngah},
            familyi={N\bibinitperiod},
@@ -556,13 +541,13 @@
         {European Respiratory Society}%
       }
       \strng{namehash}{4ae792cddf0e94628e00dd9e2e4f7ae1}
-      \strng{fullhash}{04117f10438857a2f6e2dbb5fd0a4e3d}
-      \strng{fullhashraw}{04117f10438857a2f6e2dbb5fd0a4e3d}
-      \strng{bibnamehash}{2fd9f731831fb5aa8d63b323906df00a}
-      \strng{authorbibnamehash}{2fd9f731831fb5aa8d63b323906df00a}
+      \strng{fullhash}{bf6cda261f840e60db23a195dfd26547}
+      \strng{fullhashraw}{bf6cda261f840e60db23a195dfd26547}
+      \strng{bibnamehash}{2f58706aa475bd8c1942ceff054ab85a}
+      \strng{authorbibnamehash}{2f58706aa475bd8c1942ceff054ab85a}
       \strng{authornamehash}{4ae792cddf0e94628e00dd9e2e4f7ae1}
-      \strng{authorfullhash}{04117f10438857a2f6e2dbb5fd0a4e3d}
-      \strng{authorfullhashraw}{04117f10438857a2f6e2dbb5fd0a4e3d}
+      \strng{authorfullhash}{bf6cda261f840e60db23a195dfd26547}
+      \strng{authorfullhashraw}{bf6cda261f840e60db23a195dfd26547}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -599,11 +584,9 @@
            familyi={B\bibinitperiod},
            given={Kevin},
            giveni={K\bibinitperiod}}}%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W.},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=691b3935cadc882d98a3a7648e89e1fd}{%
+           family={\textbf{\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}.}},
+           familyi={\\bibinitperiod}}}%
         {{hash=08e578cc9f2bb558b586224a7f6aff16}{%
            family={Fujiuchi},
            familyi={F\bibinitperiod},
@@ -616,13 +599,13 @@
            giveni={K\bibinitperiod}}}%
       }
       \strng{namehash}{9dabeee3601cf0c62f733cd84110d5a0}
-      \strng{fullhash}{64a78c85dc940ba1879894b1405cba91}
-      \strng{fullhashraw}{64a78c85dc940ba1879894b1405cba91}
-      \strng{bibnamehash}{64a78c85dc940ba1879894b1405cba91}
-      \strng{authorbibnamehash}{64a78c85dc940ba1879894b1405cba91}
+      \strng{fullhash}{633b53ee9efe4078338ce3ace9c14615}
+      \strng{fullhashraw}{633b53ee9efe4078338ce3ace9c14615}
+      \strng{bibnamehash}{633b53ee9efe4078338ce3ace9c14615}
+      \strng{authorbibnamehash}{633b53ee9efe4078338ce3ace9c14615}
       \strng{authornamehash}{9dabeee3601cf0c62f733cd84110d5a0}
-      \strng{authorfullhash}{64a78c85dc940ba1879894b1405cba91}
-      \strng{authorfullhashraw}{64a78c85dc940ba1879894b1405cba91}
+      \strng{authorfullhash}{633b53ee9efe4078338ce3ace9c14615}
+      \strng{authorfullhashraw}{633b53ee9efe4078338ce3ace9c14615}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -672,11 +655,9 @@
            familyi={M\bibinitperiod},
            given={P.},
            giveni={P\bibinitperiod}}}%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
+           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
+           familyi={\\bibinitperiod}}}%
         {{hash=ada81c825f20660042d904fc0a9719b8}{%
            family={Decarli},
            familyi={D\bibinitperiod},
@@ -705,13 +686,13 @@
         {American Thoracic Society}%
       }
       \strng{namehash}{7754001b87ccfd739dd857d18cace35f}
-      \strng{fullhash}{3b7090379f55e8f7c49a2f0cf369ddcf}
-      \strng{fullhashraw}{3b7090379f55e8f7c49a2f0cf369ddcf}
-      \strng{bibnamehash}{94099088b1eab6567c941c233717b35c}
-      \strng{authorbibnamehash}{94099088b1eab6567c941c233717b35c}
+      \strng{fullhash}{a1b96ff34eeaeb9b7797f278579f5373}
+      \strng{fullhashraw}{a1b96ff34eeaeb9b7797f278579f5373}
+      \strng{bibnamehash}{51eb66125ae93085a7937c8675325189}
+      \strng{authorbibnamehash}{51eb66125ae93085a7937c8675325189}
       \strng{authornamehash}{7754001b87ccfd739dd857d18cace35f}
-      \strng{authorfullhash}{3b7090379f55e8f7c49a2f0cf369ddcf}
-      \strng{authorfullhashraw}{3b7090379f55e8f7c49a2f0cf369ddcf}
+      \strng{authorfullhash}{a1b96ff34eeaeb9b7797f278579f5373}
+      \strng{authorfullhashraw}{a1b96ff34eeaeb9b7797f278579f5373}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -744,23 +725,21 @@
     \endentry
     \entry{robbins_reduce_2023}{unpublished}{}{}
       \name{author}{1}{}{%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
+           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
+           familyi={\\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Providence, {RI}}%
       }
-      \strng{namehash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{fullhash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{fullhashraw}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{bibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{authorbibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{authornamehash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{authorfullhash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{authorfullhashraw}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{namehash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{fullhash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{fullhashraw}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{bibnamehash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{authorbibnamehash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{authornamehash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{authorfullhash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{authorfullhashraw}{f4e43afac1cb5203623664c6e8f77c16}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -777,11 +756,9 @@
     \endentry
     \entry{robbins_medication_2023}{inproceedings}{}{}
       \name{author}{19}{}{%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
+           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
+           familyi={\\bibinitperiod}}}%
         {{hash=d740f15a48e5a346c6cb12eb95f4d4f2}{%
            family={Bradley},
            familyi={B\bibinitperiod},
@@ -879,15 +856,15 @@
       \list{publisher}{1}{%
         {American Thoracic Society}%
       }
-      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{fullhash}{df86685593e983d78f79e420d5c0528b}
-      \strng{fullhashraw}{df86685593e983d78f79e420d5c0528b}
-      \strng{bibnamehash}{f0e0785f9e765c7a65af39b5d0a58db5}
-      \strng{authorbibnamehash}{f0e0785f9e765c7a65af39b5d0a58db5}
-      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{authorfullhash}{df86685593e983d78f79e420d5c0528b}
-      \strng{authorfullhashraw}{df86685593e983d78f79e420d5c0528b}
-      \field{extraname}{4}
+      \strng{namehash}{de7c51a8453632731ed5602ecdce2330}
+      \strng{fullhash}{231f6e2315722441cd7ded6139d14e1e}
+      \strng{fullhashraw}{231f6e2315722441cd7ded6139d14e1e}
+      \strng{bibnamehash}{86244ef9ba2d528301b4cf6f18b5d6dc}
+      \strng{authorbibnamehash}{86244ef9ba2d528301b4cf6f18b5d6dc}
+      \strng{authornamehash}{de7c51a8453632731ed5602ecdce2330}
+      \strng{authorfullhash}{231f6e2315722441cd7ded6139d14e1e}
+      \strng{authorfullhashraw}{231f6e2315722441cd7ded6139d14e1e}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -920,11 +897,9 @@
     \endentry
     \entry{Robbins2022}{inproceedings}{}{}
       \name{author}{3}{}{%
-        {{hash=4ea6b46cfb34fa70926d217d91731b07}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
+        {{hash=6308b63cd05ba97f41b21cf4098aef9e}{%
+           family={\textbf{Robbins,\bibnamedelimb Eric}},
+           familyi={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
         {{hash=33e093767511995ab8da349fefdc0338}{%
            family={Yee},
            familyi={Y\bibinitperiod},
@@ -939,15 +914,15 @@
       \list{publisher}{1}{%
         {Society of Critical Care Medicine}%
       }
-      \strng{namehash}{218b6d816cc9ee7eda9edc62559003b0}
-      \strng{fullhash}{ee383ae444dc094f83da94608b7ef731}
-      \strng{fullhashraw}{ee383ae444dc094f83da94608b7ef731}
-      \strng{bibnamehash}{ee383ae444dc094f83da94608b7ef731}
-      \strng{authorbibnamehash}{ee383ae444dc094f83da94608b7ef731}
-      \strng{authornamehash}{218b6d816cc9ee7eda9edc62559003b0}
-      \strng{authorfullhash}{ee383ae444dc094f83da94608b7ef731}
-      \strng{authorfullhashraw}{ee383ae444dc094f83da94608b7ef731}
-      \field{extraname}{5}
+      \strng{namehash}{ea7124d69adbe2d0a1291c9b212ab40c}
+      \strng{fullhash}{eb6f4fa3661dfcbb83bc29740e0ca993}
+      \strng{fullhashraw}{eb6f4fa3661dfcbb83bc29740e0ca993}
+      \strng{bibnamehash}{eb6f4fa3661dfcbb83bc29740e0ca993}
+      \strng{authorbibnamehash}{eb6f4fa3661dfcbb83bc29740e0ca993}
+      \strng{authornamehash}{ea7124d69adbe2d0a1291c9b212ab40c}
+      \strng{authorfullhash}{eb6f4fa3661dfcbb83bc29740e0ca993}
+      \strng{authorfullhashraw}{eb6f4fa3661dfcbb83bc29740e0ca993}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -975,23 +950,21 @@
     \endentry
     \entry{robbins_assessing_2022}{unpublished}{}{}
       \name{author}{1}{}{%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
+           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
+           familyi={\\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Providence, {RI}}%
       }
-      \strng{namehash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{fullhash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{fullhashraw}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{bibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{authorbibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{authornamehash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{authorfullhash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{authorfullhashraw}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{namehash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{fullhash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{fullhashraw}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{bibnamehash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{authorbibnamehash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{authornamehash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{authorfullhash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{authorfullhashraw}{f4e43afac1cb5203623664c6e8f77c16}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1008,23 +981,21 @@
     \endentry
     \entry{robbins_racial_2022}{unpublished}{}{}
       \name{author}{1}{}{%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
+           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
+           familyi={\\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Providence, {RI}}%
       }
-      \strng{namehash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{fullhash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{fullhashraw}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{bibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{authorbibnamehash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{authornamehash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{authorfullhash}{817410d8d04e2cbc97f884db8a8d3910}
-      \strng{authorfullhashraw}{817410d8d04e2cbc97f884db8a8d3910}
+      \strng{namehash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{fullhash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{fullhashraw}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{bibnamehash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{authorbibnamehash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{authornamehash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{authorfullhash}{f4e43afac1cb5203623664c6e8f77c16}
+      \strng{authorfullhashraw}{f4e43afac1cb5203623664c6e8f77c16}
       \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1041,11 +1012,9 @@
     \endentry
     \entry{robbins_aortic_2022}{inproceedings}{}{}
       \name{author}{5}{}{%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
+           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
+           familyi={\\bibinitperiod}}}%
         {{hash=5aa1d86c788b9114a04854a38864815a}{%
            family={Ayaz},
            familyi={A\bibinitperiod},
@@ -1070,15 +1039,15 @@
       \list{publisher}{1}{%
         {Chest}%
       }
-      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{fullhash}{30695454b1d81294a30496b2d5e17439}
-      \strng{fullhashraw}{30695454b1d81294a30496b2d5e17439}
-      \strng{bibnamehash}{30695454b1d81294a30496b2d5e17439}
-      \strng{authorbibnamehash}{30695454b1d81294a30496b2d5e17439}
-      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{authorfullhash}{30695454b1d81294a30496b2d5e17439}
-      \strng{authorfullhashraw}{30695454b1d81294a30496b2d5e17439}
-      \field{extraname}{6}
+      \strng{namehash}{de7c51a8453632731ed5602ecdce2330}
+      \strng{fullhash}{dd15b232ef865cb287bee7ea95ced5d1}
+      \strng{fullhashraw}{dd15b232ef865cb287bee7ea95ced5d1}
+      \strng{bibnamehash}{dd15b232ef865cb287bee7ea95ced5d1}
+      \strng{authorbibnamehash}{dd15b232ef865cb287bee7ea95ced5d1}
+      \strng{authornamehash}{de7c51a8453632731ed5602ecdce2330}
+      \strng{authorfullhash}{dd15b232ef865cb287bee7ea95ced5d1}
+      \strng{authorfullhashraw}{dd15b232ef865cb287bee7ea95ced5d1}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1113,11 +1082,9 @@
     \endentry
     \entry{robbins_adenocarcinoma_2022}{inproceedings}{}{}
       \name{author}{5}{}{%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
+           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
+           familyi={\\bibinitperiod}}}%
         {{hash=53047d6686a1cd4ec7d7eaee14b10edc}{%
            family={Sacks},
            familyi={S\bibinitperiod},
@@ -1142,15 +1109,15 @@
       \list{publisher}{1}{%
         {Chest}%
       }
-      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{fullhash}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
-      \strng{fullhashraw}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
-      \strng{bibnamehash}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
-      \strng{authorbibnamehash}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
-      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{authorfullhash}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
-      \strng{authorfullhashraw}{0dc7231d3c5bb9b68ea79a5402cb2ecb}
-      \field{extraname}{7}
+      \strng{namehash}{de7c51a8453632731ed5602ecdce2330}
+      \strng{fullhash}{2c5d39315a4d7614a4c59ada78c5f7a6}
+      \strng{fullhashraw}{2c5d39315a4d7614a4c59ada78c5f7a6}
+      \strng{bibnamehash}{2c5d39315a4d7614a4c59ada78c5f7a6}
+      \strng{authorbibnamehash}{2c5d39315a4d7614a4c59ada78c5f7a6}
+      \strng{authornamehash}{de7c51a8453632731ed5602ecdce2330}
+      \strng{authorfullhash}{2c5d39315a4d7614a4c59ada78c5f7a6}
+      \strng{authorfullhashraw}{2c5d39315a4d7614a4c59ada78c5f7a6}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1185,11 +1152,9 @@
     \endentry
     \entry{Robbins2020a}{inproceedings}{}{}
       \name{author}{3}{}{%
-        {{hash=4ea6b46cfb34fa70926d217d91731b07}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
+        {{hash=6308b63cd05ba97f41b21cf4098aef9e}{%
+           family={\textbf{Robbins,\bibnamedelimb Eric}},
+           familyi={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
         {{hash=8dc7dee9976f5f2442fff1a16c4e7f1a}{%
            family={Allam},
            familyi={A\bibinitperiod},
@@ -1204,15 +1169,15 @@
       \list{publisher}{1}{%
         {American Thoracic Society}%
       }
-      \strng{namehash}{218b6d816cc9ee7eda9edc62559003b0}
-      \strng{fullhash}{7d1b0c17ca5d8c251d2d1e3377902144}
-      \strng{fullhashraw}{7d1b0c17ca5d8c251d2d1e3377902144}
-      \strng{bibnamehash}{7d1b0c17ca5d8c251d2d1e3377902144}
-      \strng{authorbibnamehash}{7d1b0c17ca5d8c251d2d1e3377902144}
-      \strng{authornamehash}{218b6d816cc9ee7eda9edc62559003b0}
-      \strng{authorfullhash}{7d1b0c17ca5d8c251d2d1e3377902144}
-      \strng{authorfullhashraw}{7d1b0c17ca5d8c251d2d1e3377902144}
-      \field{extraname}{8}
+      \strng{namehash}{ea7124d69adbe2d0a1291c9b212ab40c}
+      \strng{fullhash}{4138756300780cd4b20d96dec32617e2}
+      \strng{fullhashraw}{4138756300780cd4b20d96dec32617e2}
+      \strng{bibnamehash}{4138756300780cd4b20d96dec32617e2}
+      \strng{authorbibnamehash}{4138756300780cd4b20d96dec32617e2}
+      \strng{authornamehash}{ea7124d69adbe2d0a1291c9b212ab40c}
+      \strng{authorfullhash}{4138756300780cd4b20d96dec32617e2}
+      \strng{authorfullhashraw}{4138756300780cd4b20d96dec32617e2}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1239,11 +1204,9 @@
     \endentry
     \entry{Robbins2020b}{inproceedings}{}{}
       \name{author}{3}{}{%
-        {{hash=4ea6b46cfb34fa70926d217d91731b07}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
+        {{hash=6308b63cd05ba97f41b21cf4098aef9e}{%
+           family={\textbf{Robbins,\bibnamedelimb Eric}},
+           familyi={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
         {{hash=3844c00e1e146591b0024a5e634d699c}{%
            family={Thota},
            familyi={T\bibinitperiod},
@@ -1258,15 +1221,15 @@
       \list{publisher}{1}{%
         {Chest}%
       }
-      \strng{namehash}{218b6d816cc9ee7eda9edc62559003b0}
-      \strng{fullhash}{f555af54eeb46fe4aa29a87cd8a38395}
-      \strng{fullhashraw}{f555af54eeb46fe4aa29a87cd8a38395}
-      \strng{bibnamehash}{f555af54eeb46fe4aa29a87cd8a38395}
-      \strng{authorbibnamehash}{f555af54eeb46fe4aa29a87cd8a38395}
-      \strng{authornamehash}{218b6d816cc9ee7eda9edc62559003b0}
-      \strng{authorfullhash}{f555af54eeb46fe4aa29a87cd8a38395}
-      \strng{authorfullhashraw}{f555af54eeb46fe4aa29a87cd8a38395}
-      \field{extraname}{9}
+      \strng{namehash}{ea7124d69adbe2d0a1291c9b212ab40c}
+      \strng{fullhash}{26433ee218eca20dcae483fe606f8a5d}
+      \strng{fullhashraw}{26433ee218eca20dcae483fe606f8a5d}
+      \strng{bibnamehash}{26433ee218eca20dcae483fe606f8a5d}
+      \strng{authorbibnamehash}{26433ee218eca20dcae483fe606f8a5d}
+      \strng{authornamehash}{ea7124d69adbe2d0a1291c9b212ab40c}
+      \strng{authorfullhash}{26433ee218eca20dcae483fe606f8a5d}
+      \strng{authorfullhashraw}{26433ee218eca20dcae483fe606f8a5d}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1294,11 +1257,9 @@
     \endentry
     \entry{robbins_progressive_2020}{unpublished}{}{}
       \name{author}{3}{}{%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
+           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
+           familyi={\\bibinitperiod}}}%
         {{hash=f6851b7c13d4d6614e2e9bdc871cdb47}{%
            family={Allam},
            familyi={A\bibinitperiod},
@@ -1313,15 +1274,15 @@
       \list{location}{1}{%
         {Weymouth, {MA}}%
       }
-      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{fullhash}{b744966b3fed6b0377c8f8b28897125f}
-      \strng{fullhashraw}{b744966b3fed6b0377c8f8b28897125f}
-      \strng{bibnamehash}{b744966b3fed6b0377c8f8b28897125f}
-      \strng{authorbibnamehash}{b744966b3fed6b0377c8f8b28897125f}
-      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{authorfullhash}{b744966b3fed6b0377c8f8b28897125f}
-      \strng{authorfullhashraw}{b744966b3fed6b0377c8f8b28897125f}
-      \field{extraname}{10}
+      \strng{namehash}{de7c51a8453632731ed5602ecdce2330}
+      \strng{fullhash}{d7548e995673ba44f4522a4bbd5d83c2}
+      \strng{fullhashraw}{d7548e995673ba44f4522a4bbd5d83c2}
+      \strng{bibnamehash}{d7548e995673ba44f4522a4bbd5d83c2}
+      \strng{authorbibnamehash}{d7548e995673ba44f4522a4bbd5d83c2}
+      \strng{authornamehash}{de7c51a8453632731ed5602ecdce2330}
+      \strng{authorfullhash}{d7548e995673ba44f4522a4bbd5d83c2}
+      \strng{authorfullhashraw}{d7548e995673ba44f4522a4bbd5d83c2}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1336,11 +1297,9 @@
     \endentry
     \entry{Robbins2020}{inproceedings}{}{}
       \name{author}{4}{}{%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W.},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=691b3935cadc882d98a3a7648e89e1fd}{%
+           family={\textbf{\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}.}},
+           familyi={\\bibinitperiod}}}%
         {{hash=3d7983fc004e121d3541cc59d02ecf97}{%
            family={Arao},
            familyi={A\bibinitperiod},
@@ -1360,15 +1319,15 @@
       \list{publisher}{1}{%
         {American Thoracic Society}%
       }
-      \strng{namehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{fullhash}{bfad66225cfba9ea4085104b700ea23b}
-      \strng{fullhashraw}{bfad66225cfba9ea4085104b700ea23b}
-      \strng{bibnamehash}{bfad66225cfba9ea4085104b700ea23b}
-      \strng{authorbibnamehash}{bfad66225cfba9ea4085104b700ea23b}
-      \strng{authornamehash}{823661be2918b8cef6ff75a4c26ed285}
-      \strng{authorfullhash}{bfad66225cfba9ea4085104b700ea23b}
-      \strng{authorfullhashraw}{bfad66225cfba9ea4085104b700ea23b}
-      \field{extraname}{11}
+      \strng{namehash}{4cc228abb154e552a97a5abae106e469}
+      \strng{fullhash}{d94f5f88c4e6077d814d3bfee7840ba4}
+      \strng{fullhashraw}{d94f5f88c4e6077d814d3bfee7840ba4}
+      \strng{bibnamehash}{d94f5f88c4e6077d814d3bfee7840ba4}
+      \strng{authorbibnamehash}{d94f5f88c4e6077d814d3bfee7840ba4}
+      \strng{authornamehash}{4cc228abb154e552a97a5abae106e469}
+      \strng{authorfullhash}{d94f5f88c4e6077d814d3bfee7840ba4}
+      \strng{authorfullhashraw}{d94f5f88c4e6077d814d3bfee7840ba4}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1394,11 +1353,9 @@
     \endentry
     \entry{robbins_relative_2018}{unpublished}{}{}
       \name{author}{2}{}{%
-        {{hash=817410d8d04e2cbc97f884db8a8d3910}{%
-           family={Robbins},
-           familyi={R\bibinitperiod},
-           given={Eric\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
+           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
+           familyi={\\bibinitperiod}}}%
         {{hash=88a2ef473b6172bc4cf7219dd1315146}{%
            family={Thanikachalam},
            familyi={T\bibinitperiod},
@@ -1408,14 +1365,14 @@
       \list{location}{1}{%
         {Boston, {MA}}%
       }
-      \strng{namehash}{a5a92219dc69086b9792464551ca3e51}
-      \strng{fullhash}{a5a92219dc69086b9792464551ca3e51}
-      \strng{fullhashraw}{a5a92219dc69086b9792464551ca3e51}
-      \strng{bibnamehash}{a5a92219dc69086b9792464551ca3e51}
-      \strng{authorbibnamehash}{a5a92219dc69086b9792464551ca3e51}
-      \strng{authornamehash}{a5a92219dc69086b9792464551ca3e51}
-      \strng{authorfullhash}{a5a92219dc69086b9792464551ca3e51}
-      \strng{authorfullhashraw}{a5a92219dc69086b9792464551ca3e51}
+      \strng{namehash}{af3c0f3c67db5bb1b44667bb91849794}
+      \strng{fullhash}{af3c0f3c67db5bb1b44667bb91849794}
+      \strng{fullhashraw}{af3c0f3c67db5bb1b44667bb91849794}
+      \strng{bibnamehash}{af3c0f3c67db5bb1b44667bb91849794}
+      \strng{authorbibnamehash}{af3c0f3c67db5bb1b44667bb91849794}
+      \strng{authornamehash}{af3c0f3c67db5bb1b44667bb91849794}
+      \strng{authorfullhash}{af3c0f3c67db5bb1b44667bb91849794}
+      \strng{authorfullhashraw}{af3c0f3c67db5bb1b44667bb91849794}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}

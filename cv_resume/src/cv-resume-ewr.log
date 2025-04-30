@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.3.26)  27 APR 2025 10:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.3.26)  29 APR 2025 20:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -475,24 +475,24 @@ Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 (./cv-resume-ewr.aux)
 \openout1 = `cv-resume-ewr.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -553,7 +553,7 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 \makeMPintoPDFobject=\count419
 \everyMPtoPDFconversion=\toks23
 )) (/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 121.
+Package hyperref Info: Link coloring ON on input line 125.
 
 (./cv-resume-ewr.out) (./cv-resume-ewr.out)
 \@outlinefile=\write4
@@ -573,15 +573,15 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv-resume-ewr.bbl' found.
  (./cv-resume-ewr.bbl)
-Package biblatex Info: Reference section=0 on input line 121.
-Package biblatex Info: Reference segment=0 on input line 121.
+Package biblatex Info: Reference section=0 on input line 125.
+Package biblatex Info: Reference segment=0 on input line 125.
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--200
+Underfull \hbox (badness 10000) in paragraph at lines 196--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--200
+Underfull \hbox (badness 10000) in paragraph at lines 196--204
 
  []
 
@@ -592,9 +592,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 192--200
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
 /enc/dvips/cm-super/cm-super-ts1.enc}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 201.
+(Font)              <7> on input line 205.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 201.
+(Font)              <5> on input line 205.
 
 
 
@@ -602,7 +602,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.205 ...yword=caseRep, heading=none,resetnumbers]
+l.209 ...yword=caseRep, heading=none,resetnumbers]
                                                    [2]
 
 
@@ -610,7 +610,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.238 
+l.243 
        [3]
 
 
@@ -618,7 +618,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.294 \end{document}
+l.299 \end{document}
                      [4] (./cv-resume-ewr.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -631,10 +631,10 @@ Package logreq Info: Writing requests to 'cv-resume-ewr.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16569 strings out of 475171
- 294564 string characters out of 5767095
- 1124327 words of memory out of 5000000
- 39406 multiletter control sequences out of 15000+600000
+ 16573 strings out of 475171
+ 294625 string characters out of 5767095
+ 1124431 words of memory out of 5000000
+ 39410 multiletter control sequences out of 15000+600000
  562466 words of font info for 48 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,5n,81p,3980b,1483s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -646,7 +646,7 @@ cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
 /share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1
 /public/cm-super/sfrm0800.pfb>
-Output written on cv-resume-ewr.pdf (4 pages, 162505 bytes).
+Output written on cv-resume-ewr.pdf (4 pages, 162690 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  87 compressed objects within 1 object stream

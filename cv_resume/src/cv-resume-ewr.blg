@@ -1,15 +1,15 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'cv-resume-ewr.blg'
-[115] biber:340> INFO - === Sun Apr 27, 2025, 10:33:22
+[116] biber:340> INFO - === Tue Apr 29, 2025, 20:34:57
 [135] Biber.pm:420> INFO - Reading 'cv-resume-ewr.bcf'
-[227] Biber.pm:991> INFO - Using all citekeys in bib section 0
-[250] Biber.pm:4463> INFO - Processing section 0
-[313] Biber.pm:4654> INFO - Looking for bibtex file 'works.bib' for section 0
-[334] bibtex.pm:1713> INFO - LaTeX decoding ...
-[409] bibtex.pm:1519> INFO - Found BibTeX data source 'works.bib'
-[884] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[884] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[884] Biber.pm:4283> INFO - Sorting list 'ydnt/global//global/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[884] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[966] bbl.pm:676> INFO - Writing 'cv-resume-ewr.bbl' with encoding 'UTF-8'
-[985] bbl.pm:779> INFO - Output to cv-resume-ewr.bbl
+[229] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[251] Biber.pm:4463> INFO - Processing section 0
+[265] Biber.pm:4654> INFO - Looking for bibtex file 'personal_bib.bib' for section 0
+[267] bibtex.pm:1713> INFO - LaTeX decoding ...
+[338] bibtex.pm:1519> INFO - Found BibTeX data source 'personal_bib.bib'
+[762] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[763] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[763] Biber.pm:4283> INFO - Sorting list 'ydnt/global//global/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[763] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[810] bbl.pm:676> INFO - Writing 'cv-resume-ewr.bbl' with encoding 'UTF-8'
+[827] bbl.pm:779> INFO - Output to cv-resume-ewr.bbl
