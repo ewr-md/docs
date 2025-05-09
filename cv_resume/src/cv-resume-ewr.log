@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.3.26)  29 APR 2025 20:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.9)  9 MAY 2025 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -378,10 +378,20 @@ Package biblatex Info: ... file 'blx-compat.def' found.
 (/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 )
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back bibtex backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+ (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 \c@textcitecount=\count400
 \c@textcitetotal=\count401
@@ -568,7 +578,10 @@ File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `cv-resume-ewr.bcf'.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `cv-resume-ewr-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv-resume-ewr.bbl' found.
@@ -576,25 +589,15 @@ Package biblatex Info: ... file 'cv-resume-ewr.bbl' found.
 Package biblatex Info: Reference section=0 on input line 125.
 Package biblatex Info: Reference segment=0 on input line 125.
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--204
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 196--204
-
- []
-
-
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
 /enc/dvips/cm-super/cm-super-ts1.enc}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 205.
+(Font)              <7> on input line 206.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 205.
+(Font)              <5> on input line 206.
 
 
 
@@ -602,7 +605,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.209 ...yword=caseRep, heading=none,resetnumbers]
+l.210 ...yword=caseRep, heading=none,resetnumbers]
                                                    [2]
 
 
@@ -610,7 +613,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.243 
+l.244 
        [3]
 
 
@@ -618,7 +621,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.299 \end{document}
+l.300 \end{document}
                      [4] (./cv-resume-ewr.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -631,13 +634,13 @@ Package logreq Info: Writing requests to 'cv-resume-ewr.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16573 strings out of 475171
- 294625 string characters out of 5767095
- 1124431 words of memory out of 5000000
- 39410 multiletter control sequences out of 15000+600000
+ 16653 strings out of 475171
+ 296615 string characters out of 5767096
+ 914940 words of memory out of 5000000
+ 39486 multiletter control sequences out of 15000+600000
  562466 words of font info for 48 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,5n,81p,3980b,1483s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,81p,1892b,1473s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/publ
@@ -646,7 +649,7 @@ cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
 /share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1
 /public/cm-super/sfrm0800.pfb>
-Output written on cv-resume-ewr.pdf (4 pages, 162690 bytes).
+Output written on cv-resume-ewr.pdf (4 pages, 162371 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  87 compressed objects within 1 object stream

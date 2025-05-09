@@ -1,15 +1,65 @@
-[0] Config.pm:308> INFO - This is Biber 2.20
-[0] Config.pm:311> INFO - Logfile is 'cv-resume-ewr.blg'
-[116] biber:340> INFO - === Tue Apr 29, 2025, 20:34:57
-[135] Biber.pm:420> INFO - Reading 'cv-resume-ewr.bcf'
-[229] Biber.pm:991> INFO - Using all citekeys in bib section 0
-[251] Biber.pm:4463> INFO - Processing section 0
-[265] Biber.pm:4654> INFO - Looking for bibtex file 'personal_bib.bib' for section 0
-[267] bibtex.pm:1713> INFO - LaTeX decoding ...
-[338] bibtex.pm:1519> INFO - Found BibTeX data source 'personal_bib.bib'
-[762] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[763] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[763] Biber.pm:4283> INFO - Sorting list 'ydnt/global//global/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[763] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[810] bbl.pm:676> INFO - Writing 'cv-resume-ewr.bbl' with encoding 'UTF-8'
-[827] bbl.pm:779> INFO - Output to cv-resume-ewr.bbl
+This is BibTeX, Version 0.99d (TeX Live 2026/dev/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: cv-resume-ewr.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=8) to 20 items from 10.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Database file #1: cv-resume-ewr-blx.bib
+Database file #2: personal_bib.bib
+Biblatex version: 3.20
+Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+You've used 22 entries,
+            6402 wiz_defined-function locations,
+            1400 strings with 25527 characters,
+and the built_in function-call counts, 392575 in all, are:
+= -- 27086
+> -- 22353
+< -- 1922
++ -- 27215
+- -- 18491
+* -- 23460
+:= -- 55331
+add.period$ -- 0
+call.type$ -- 22
+change.case$ -- 616
+chr.to.int$ -- 1400
+cite$ -- 42
+duplicate$ -- 34699
+empty$ -- 25881
+format.name$ -- 2355
+if$ -- 63773
+int.to.chr$ -- 0
+int.to.str$ -- 102
+missing$ -- 0
+newline$ -- 1317
+num.names$ -- 1375
+pop$ -- 8765
+preamble$ -- 1
+purify$ -- 876
+quote$ -- 0
+skip$ -- 6599
+stack$ -- 0
+substring$ -- 53749
+swap$ -- 6329
+text.length$ -- 1336
+text.prefix$ -- 23
+top$ -- 1
+type$ -- 736
+warning$ -- 0
+while$ -- 5424
+width$ -- 0
+write$ -- 1296

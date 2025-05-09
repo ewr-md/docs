@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated by
-% biber as required.
+% This file may safely be deleted. It will be recreated as
+% required.
 %
 \begingroup
 \makeatletter
@@ -16,1376 +16,1431 @@
   {}
 \endgroup
 
+\datalist[entry]{ydnt/global//global/global/global}
+  \entry{santi_heterogeneity_2025}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=SA}{%
+         family={Santi},
+         familyi={S\bibinitperiod},
+         given={Armella},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Ngah},
+         familyi={N\bibinitperiod},
+         given={Veranyuy},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric W.}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=MBA}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={Bradley\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=ZK}{%
+         family={Zeder},
+         familyi={Z\bibinitperiod},
+         given={Katarina},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \keyw{article}
+    \strng{namehash}{SA+2}
+    \strng{fullhash}{SANVtMBAZK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    {ABSTRACT} This systematic literature review of three Western European
+  Countries identified N  = 48 different terms to describe pulmonary
+  arterial pressure and N  = 35 thresholds used to define pulmonary
+  hypertension in published empiric research studies. There is an urgent need
+  to standardize pulmonary artery pressure nomenclature and pulmonary
+  hypertension definitions in clinical research reports.%
+    }
+    \verb{doi}
+    \verb 10.1002/pul2.70089
+    \endverb
+    \field{issn}{2045-8940, 2045-8940}
+    \field{number}{2}
+    \field{pages}{e70089}
+    \field{shortjournal}{Pulm. circ.}
+    \field{shorttitle}{The Heterogeneity of Pulmonary Hypertension Nomenclature
+  in Empiric Research Studies}
+    \field{title}{The Heterogeneity of Pulmonary Hypertension Nomenclature in
+  Empiric Research Studies: Systematic Findings From Three Western European
+  Countries}
+    \verb{url}
+    \verb https://onlinelibrary.wiley.com/doi/10.1002/pul2.70089
+    \endverb
+    \field{volume}{15}
+    \field{langid}{english}
+    \field{journaltitle}{Pulmonary Circulation}
+    \field{month}{04}
+    \field{year}{2025}
+    \field{urlday}{09}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+  \endentry
 
-\refsection{0}
-  \datalist[entry]{ydnt/global//global/global/global}
-    \entry{robbins_medication_2025}{article}{}{}
-      \name{author}{18}{}{%
-        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
-           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
-           familyi={\\bibinitperiod}}}%
-        {{hash=bd14696a2df1dfb4adf8d4c6238fb5bf}{%
-           family={Bradley},
-           familyi={B\bibinitperiod},
-           given={Kaitlin},
-           giveni={K\bibinitperiod}}}%
-        {{hash=4abe318e780dd09a9ab22dac31a470ed}{%
-           family={Badesch},
-           familyi={B\bibinitperiod},
-           given={David\bibnamedelima B.},
-           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=e9d4d544d8c64453c91c3f5981cfba7e}{%
-           family={Burger},
-           familyi={B\bibinitperiod},
-           given={Charles},
-           giveni={C\bibinitperiod}}}%
-        {{hash=a7c905ed5c475c84aab54310235a5d82}{%
-           family={Chybowski},
-           familyi={C\bibinitperiod},
-           given={Amy\bibnamedelima M},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=42efd61171afa7b6034d2ac20b7a60db}{%
-           family={De\bibnamedelima Marco},
-           familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
-           given={Teresa},
-           giveni={T\bibinitperiod}}}%
-        {{hash=ce977d3e9eabee8c3a13ee6a9564c7bc}{%
-           family={Hemnes},
-           familyi={H\bibinitperiod},
-           given={Anna\bibnamedelima R},
-           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=45ebe57afbe71b29f09527a2b28772f9}{%
-           family={Lammi},
-           familyi={L\bibinitperiod},
-           given={Matthew},
-           giveni={M\bibinitperiod}}}%
-        {{hash=1aa127573cda9bbc9d20ac648313463d}{%
-           family={Mathai},
-           familyi={M\bibinitperiod},
-           given={Stephen\bibnamedelima C.},
-           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=806f25480e7f66bac65d07d09b811552}{%
-           family={Melendres-Groves},
-           familyi={M\bibinithyphendelim G\bibinitperiod},
-           given={Lana},
-           giveni={L\bibinitperiod}}}%
-        {{hash=bd7baf960dc5883a24908b48aa606436}{%
-           family={Raza},
-           familyi={R\bibinitperiod},
-           given={Farhan},
-           giveni={F\bibinitperiod}}}%
-        {{hash=728841003bdcb90f5131e4f56da90224}{%
-           family={Sager},
-           familyi={S\bibinitperiod},
-           given={Jeffrey},
-           giveni={J\bibinitperiod}}}%
-        {{hash=4ca336f436afd0d2bf95a12106559d25}{%
-           family={Shlobin},
-           familyi={S\bibinitperiod},
-           given={Oksana\bibnamedelima A.},
-           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=4ebf359e41254488f1ffd0c6e555d3c9}{%
-           family={Thenappan},
-           familyi={T\bibinitperiod},
-           given={Thenappan},
-           giveni={T\bibinitperiod}}}%
-        {{hash=d5426d0f20bd55e57e5dea2cba1f8464}{%
-           family={Zamanian},
-           familyi={Z\bibinitperiod},
-           given={Roham},
-           giveni={R\bibinitperiod}}}%
-        {{hash=c80b42991f159890664b7ab8b0705f7d}{%
-           family={Runo},
-           familyi={R\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=b1fb63add619e8272ed843223cbed7ad}{%
-           family={Baird},
-           familyi={B\bibinitperiod},
-           given={Grayson\bibnamedelima L},
-           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=5f980e98a1602dd495ec610e220a725e}{%
-           family={Ventetuolo},
-           familyi={V\bibinitperiod},
-           given={Corey\bibnamedelima E.},
-           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \strng{namehash}{de7c51a8453632731ed5602ecdce2330}
-      \strng{fullhash}{2261cc75ee9e2eb6cf820a2f54c8881a}
-      \strng{fullhashraw}{2261cc75ee9e2eb6cf820a2f54c8881a}
-      \strng{bibnamehash}{82ac14177c0b54de37127ccf96e86947}
-      \strng{authorbibnamehash}{82ac14177c0b54de37127ccf96e86947}
-      \strng{authornamehash}{de7c51a8453632731ed5602ecdce2330}
-      \strng{authorfullhash}{2261cc75ee9e2eb6cf820a2f54c8881a}
-      \strng{authorfullhashraw}{2261cc75ee9e2eb6cf820a2f54c8881a}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{day}{18}
-      \field{issn}{2329-6933, 2325-6621}
-      \field{journaltitle}{Annals of the American Thoracic Society}
-      \field{langid}{english}
-      \field{month}{2}
-      \field{shortjournal}{Annals {ATS}}
-      \field{shorttitle}{Medication Non-Adherence in Patients with Pulmonary Arterial Hypertension}
-      \field{title}{Medication Non-Adherence in Patients with Pulmonary Arterial Hypertension: The Pulmonary Hypertension Association Registry ({PHAR})}
-      \field{urlday}{25}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
-      \field{year}{2025}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{AnnalsATS.202312\bibrangedash 1083OC}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1513/AnnalsATS.202312-1083OC
-      \endverb
-      \verb{urlraw}
-      \verb https://www.atsjournals.org/doi/10.1513/AnnalsATS.202312-1083OC
-      \endverb
-      \verb{url}
-      \verb https://www.atsjournals.org/doi/10.1513/AnnalsATS.202312-1083OC
-      \endverb
-      \keyw{article}
-    \endentry
-    \entry{robbins_prevalence_2025}{inproceedings}{}{}
-      \name{author}{7}{}{%
-        {{hash=a1da1d1e6f457cb5ead57f23e7678afb}{%
-           family={\textbf{\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}illiam}},
-           familyi={\\bibinitperiod}}}%
-        {{hash=aab11f0fb594b1f0652e19fbd6ab4a55}{%
-           family={Ngah},
-           familyi={N\bibinitperiod},
-           given={Veranyuy},
-           giveni={V\bibinitperiod}}}%
-        {{hash=32cbee34d4e176b4745f83c71be7822f}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Lanjing},
-           giveni={L\bibinitperiod}}}%
-        {{hash=b5ede9fb3c9e443a5f30f25f21db8c60}{%
-           family={Santi},
-           familyi={S\bibinitperiod},
-           given={Armella},
-           giveni={A\bibinitperiod}}}%
-        {{hash=0191646c9b3cb94f451f39efccd11870}{%
-           family={Diao},
-           familyi={D\bibinitperiod},
-           given={Guoqing},
-           giveni={G\bibinitperiod}}}%
-        {{hash=38ee374746a3d808e816652944fa661b}{%
-           family={Maron},
-           familyi={M\bibinitperiod},
-           given={Bradley\bibnamedelima A},
-           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=5e6623c17073228b86fa687f85665125}{%
-           family={Zeder},
-           familyi={Z\bibinitperiod},
-           given={Katarina},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {San Francisco, {CA}}%
-      }
-      \list{publisher}{1}{%
-        {American Thoracic Society}%
-      }
-      \strng{namehash}{267c7a2fe0738f3a6ae90b55609bd05d}
-      \strng{fullhash}{bf43c359cafe7c1a6d210ff533d2f267}
-      \strng{fullhashraw}{bf43c359cafe7c1a6d210ff533d2f267}
-      \strng{bibnamehash}{2b030481a8fb9e478d3c0c4b050ff11a}
-      \strng{authorbibnamehash}{2b030481a8fb9e478d3c0c4b050ff11a}
-      \strng{authornamehash}{267c7a2fe0738f3a6ae90b55609bd05d}
-      \strng{authorfullhash}{bf43c359cafe7c1a6d210ff533d2f267}
-      \strng{authorfullhashraw}{bf43c359cafe7c1a6d210ff533d2f267}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{D106. {THE} {PAINTED} {LADIES}: {LATE}-{BREAKING} {ADVANCES} {IN} {PULMONARY} {VASCULAR} {DISEASE}: {BASIC} {SCIENCE}, {TRANSLATIONAL}, {AND} {CLINICAL} {ADVANCEMENTS}}
-      \field{day}{21}
-      \field{eventtitle}{American Thoracic Society 2025 International Conference}
-      \field{month}{5}
-      \field{title}{The Prevalence of Pulmonary Hypertension Associated With {HIV} in Sub-Saharan Africa: A Significant Burden}
-      \field{year}{2025}
-      \field{dateera}{ce}
-      \true{nocite}
-      \keyw{abstract}
-    \endentry
-    \entry{santi_heterogeneity_2025}{article}{}{}
-      \name{author}{6}{}{%
-        {{hash=b5ede9fb3c9e443a5f30f25f21db8c60}{%
-           family={Santi},
-           familyi={S\bibinitperiod},
-           given={Armella},
-           giveni={A\bibinitperiod}}}%
-        {{hash=5bf5386978458d831b71804993ed373d}{%
-           family={Cvirn},
-           familyi={C\bibinitperiod},
-           given={Lisa},
-           giveni={L\bibinitperiod}}}%
-        {{hash=6308b63cd05ba97f41b21cf4098aef9e}{%
-           family={\textbf{Robbins,\bibnamedelimb Eric}},
-           familyi={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=184021798b85008507f96786d64a9a41}{%
-           family={Ngah},
-           familyi={N\bibinitperiod},
-           given={Vera},
-           giveni={V\bibinitperiod}}}%
-        {{hash=38ee374746a3d808e816652944fa661b}{%
-           family={Maron},
-           familyi={M\bibinitperiod},
-           given={Bradley\bibnamedelima A},
-           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=5e6623c17073228b86fa687f85665125}{%
-           family={Zeder},
-           familyi={Z\bibinitperiod},
-           given={Katarina},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{50f8499813f0bb895fa56c3596e7c0ec}
-      \strng{fullhash}{11bd408f4deacddb2570e697bbd8330b}
-      \strng{fullhashraw}{11bd408f4deacddb2570e697bbd8330b}
-      \strng{bibnamehash}{eb36825bc92b614e3fa49d627e254e91}
-      \strng{authorbibnamehash}{eb36825bc92b614e3fa49d627e254e91}
-      \strng{authornamehash}{50f8499813f0bb895fa56c3596e7c0ec}
-      \strng{authorfullhash}{11bd408f4deacddb2570e697bbd8330b}
-      \strng{authorfullhashraw}{11bd408f4deacddb2570e697bbd8330b}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{27}
-      \field{journaltitle}{Pulmonary Circulation}
-      \field{month}{4}
-      \field{title}{The Heterogeneity of Pulmonary Hypertension Nomenclature in Empiric Research Studies: Systematic Findings from Three Western European Countries}
-      \field{year}{2025}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb Accepted. Article In Press
-      \endverb
-      \keyw{article}
-    \endentry
-    \entry{santi_prevalence_2025}{inproceedings}{}{}
-      \name{author}{7}{}{%
-        {{hash=b5ede9fb3c9e443a5f30f25f21db8c60}{%
-           family={Santi},
-           familyi={S\bibinitperiod},
-           given={Armella},
-           giveni={A\bibinitperiod}}}%
-        {{hash=9a75ee293f2555f40976345739087998}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={L},
-           giveni={L\bibinitperiod}}}%
-        {{hash=aab11f0fb594b1f0652e19fbd6ab4a55}{%
-           family={Ngah},
-           familyi={N\bibinitperiod},
-           given={Veranyuy},
-           giveni={V\bibinitperiod}}}%
-        {{hash=6308b63cd05ba97f41b21cf4098aef9e}{%
-           family={\textbf{Robbins,\bibnamedelimb Eric}},
-           familyi={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=634ffd14395a73ab299df80030b024da}{%
-           family={Guoding},
-           familyi={G\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod}}}%
-        {{hash=740db0900978dce57a6f71e9d649e624}{%
-           family={Maron},
-           familyi={M\bibinitperiod},
-           given={Bradley},
-           giveni={B\bibinitperiod}}}%
-        {{hash=5e6623c17073228b86fa687f85665125}{%
-           family={Zeder},
-           familyi={Z\bibinitperiod},
-           given={Katarina},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Rio de Janeiro, Brazil}%
-      }
-      \list{publisher}{1}{%
-        {Pulmonary Vascular Research Institute}%
-      }
-      \strng{namehash}{50f8499813f0bb895fa56c3596e7c0ec}
-      \strng{fullhash}{d0371a4c6c1498e10d63fa45df86b54c}
-      \strng{fullhashraw}{d0371a4c6c1498e10d63fa45df86b54c}
-      \strng{bibnamehash}{621ea7a063d7cd3a10decfced72ab530}
-      \strng{authorbibnamehash}{621ea7a063d7cd3a10decfced72ab530}
-      \strng{authornamehash}{50f8499813f0bb895fa56c3596e7c0ec}
-      \strng{authorfullhash}{d0371a4c6c1498e10d63fa45df86b54c}
-      \strng{authorfullhashraw}{d0371a4c6c1498e10d63fa45df86b54c}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Pulmonary Circulation}
-      \field{eventtitle}{{PVRI} 2025 Annual Congress}
-      \field{langid}{english}
-      \field{month}{1}
-      \field{title}{The Prevalence of Pulmonary Hypertension in Sickle Cell Disease in Sub-Saharan Africa: A Systematic Review and Meta-Analysis}
-      \field{urlday}{30}
-      \field{urlmonth}{3}
-      \field{urlyear}{2025}
-      \field{volume}{15}
-      \field{year}{2025}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{e70062}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1002/pul2.70062
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/home/eric/Zotero/storage/9LC2Y3GY/2025 - Abstract.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/pul2.70062
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/10.1002/pul2.70062
-      \endverb
-      \keyw{abstract}
-    \endentry
-    \entry{robbins_pseudohypoglycemia_2024}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=691b3935cadc882d98a3a7648e89e1fd}{%
-           family={\textbf{\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}.}},
-           familyi={\\bibinitperiod}}}%
-        {{hash=c35dfcf9ad2ae277e26bcbaafa7f912f}{%
-           family={Minami},
-           familyi={M\bibinitperiod},
-           given={Taro},
-           giveni={T\bibinitperiod}}}%
-        {{hash=2dc229558d9428cef48711e6f530e3bc}{%
-           family={Manzoor},
-           familyi={M\bibinitperiod},
-           given={Kamran},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{4cc228abb154e552a97a5abae106e469}
-      \strng{fullhash}{1425bd70add82b644ed93614a017f459}
-      \strng{fullhashraw}{1425bd70add82b644ed93614a017f459}
-      \strng{bibnamehash}{1425bd70add82b644ed93614a017f459}
-      \strng{authorbibnamehash}{1425bd70add82b644ed93614a017f459}
-      \strng{authornamehash}{4cc228abb154e552a97a5abae106e469}
-      \strng{authorfullhash}{1425bd70add82b644ed93614a017f459}
-      \strng{authorfullhashraw}{1425bd70add82b644ed93614a017f459}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Hypoglycemia is a common clinical finding, especially in the inpatient setting. However, laboratory testing may show falsely low blood glucose levels. It is crucial for clinicians to recognize the existence of pseudohypo- glycemia and know when and how to test for it.}
-      \field{day}{1}
-      \field{issn}{2327-2228}
-      \field{journaltitle}{Rhode Island Medical Journal (2013)}
-      \field{month}{2}
-      \field{number}{2}
-      \field{shortjournal}{R I Med J (2013)}
-      \field{shorttitle}{Pseudohypoglycemia}
-      \field{title}{Pseudohypoglycemia: A Pitfall in Everyday Practice}
-      \field{volume}{107}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \true{nocite}
-      \field{pages}{20\bibrangedash 23}
-      \range{pages}{4}
-      \keyw{diabetes,Humans,article,pseudohypoglycemia,Blood Glucose,clinical testing,false positives,hypoglycemia,Hypoglycemia}
-    \endentry
-    \entry{santi_definition_2024}{inproceedings}{}{}
-      \name{author}{6}{}{%
-        {{hash=a48263cdf75c850f7ea574d54029cd14}{%
-           family={Santi},
-           familyi={S\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=1ca6e068b2ddc03e55c1de706cc7c5a4}{%
-           family={Cvirn},
-           familyi={C\bibinitperiod},
-           given={L.},
-           giveni={L\bibinitperiod}}}%
-        {{hash=a04a9170bf7ac109544863d3762ec2a3}{%
-           family={\textbf{Robbins,\bibnamedelimb E.}},
-           familyi={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=c63c2e800ca6d02388e53a8ddd2361ee}{%
-           family={Ngah},
-           familyi={N\bibinitperiod},
-           given={V.},
-           giveni={V\bibinitperiod}}}%
-        {{hash=124e4de33c3d3316015706b8d71cb31e}{%
-           family={Maron},
-           familyi={M\bibinitperiod},
-           given={B.A.},
-           giveni={B\bibinitperiod}}}%
-        {{hash=76c24fce6ab8b056b3a00268b53e1d1b}{%
-           family={Zeder},
-           familyi={Z\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {San Diego, {CA}}%
-      }
-      \list{publisher}{1}{%
-        {American Thoracic Society}%
-      }
-      \strng{namehash}{6088ee7622e3d28d74a77b5f02595a30}
-      \strng{fullhash}{2054040e5a9933c2a1c3358f91809b20}
-      \strng{fullhashraw}{2054040e5a9933c2a1c3358f91809b20}
-      \strng{bibnamehash}{22620a2395487bbee380d9c2f101ea1a}
-      \strng{authorbibnamehash}{22620a2395487bbee380d9c2f101ea1a}
-      \strng{authornamehash}{6088ee7622e3d28d74a77b5f02595a30}
-      \strng{authorfullhash}{2054040e5a9933c2a1c3358f91809b20}
-      \strng{authorfullhashraw}{2054040e5a9933c2a1c3358f91809b20}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{C62. {TOP} {GUN}: {NOVEL} {THERAPEUTICS} {AND} {OUTCOMES} {IN} {PAH}}
-      \field{eventtitle}{American Thoracic Society 2024 International Conference}
-      \field{langid}{english}
-      \field{month}{5}
-      \field{title}{The Definition of Pulmonary Hypertension Varies Widely Across Empiric Research Studies}
-      \field{urlday}{23}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{A6110\bibrangedash A6110}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1164/ajrccm-conference.2024.209.1_MeetingAbstracts.A6110
-      \endverb
-      \verb{urlraw}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2024.209.1_MeetingAbstracts.A6110
-      \endverb
-      \verb{url}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2024.209.1_MeetingAbstracts.A6110
-      \endverb
-      \keyw{abstract}
-    \endentry
-    \entry{zeder_prevalence_2024}{inproceedings}{}{}
-      \name{author}{12}{}{%
-        {{hash=5e6623c17073228b86fa687f85665125}{%
-           family={Zeder},
-           familyi={Z\bibinitperiod},
-           given={Katarina},
-           giveni={K\bibinitperiod}}}%
-        {{hash=6359c8221f9f7f5ea9fa5563fdad7a70}{%
-           family={Brown},
-           familyi={B\bibinitperiod},
-           given={Clayton},
-           giveni={C\bibinitperiod}}}%
-        {{hash=5bf5386978458d831b71804993ed373d}{%
-           family={Cvirn},
-           familyi={C\bibinitperiod},
-           given={Lisa},
-           giveni={L\bibinitperiod}}}%
-        {{hash=b5ede9fb3c9e443a5f30f25f21db8c60}{%
-           family={Santi},
-           familyi={S\bibinitperiod},
-           given={Armella},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
-           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
-           familyi={\\bibinitperiod}}}%
-        {{hash=aab11f0fb594b1f0652e19fbd6ab4a55}{%
-           family={Ngah},
-           familyi={N\bibinitperiod},
-           given={Veranyuy},
-           giveni={V\bibinitperiod}}}%
-        {{hash=1fd015e280539df81aad5b5ff93fcd35}{%
-           family={Ulrich},
-           familyi={U\bibinitperiod},
-           given={Silvia},
-           giveni={S\bibinitperiod}}}%
-        {{hash=37f97016061ad99b8332096312c35397}{%
-           family={Rosenkranz},
-           familyi={R\bibinitperiod},
-           given={Stephan},
-           giveni={S\bibinitperiod}}}%
-        {{hash=23ce1c98bd608bfd4e659b85991d808f}{%
-           family={Stewart},
-           familyi={S\bibinitperiod},
-           given={Simon},
-           giveni={S\bibinitperiod}}}%
-        {{hash=c37509f46189b7840b59bd6304e8a035}{%
-           family={Strange},
-           familyi={S\bibinitperiod},
-           given={Geoff},
-           giveni={G\bibinitperiod}}}%
-        {{hash=33ef7227fa20e25c3e35a565eb43e495}{%
-           family={Kovacs},
-           familyi={K\bibinitperiod},
-           given={Gabor},
-           giveni={G\bibinitperiod}}}%
-        {{hash=38ee374746a3d808e816652944fa661b}{%
-           family={Maron},
-           familyi={M\bibinitperiod},
-           given={Bradley\bibnamedelima A},
-           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {European Respiratory Society}%
-      }
-      \strng{namehash}{4ae792cddf0e94628e00dd9e2e4f7ae1}
-      \strng{fullhash}{bf6cda261f840e60db23a195dfd26547}
-      \strng{fullhashraw}{bf6cda261f840e60db23a195dfd26547}
-      \strng{bibnamehash}{2f58706aa475bd8c1942ceff054ab85a}
-      \strng{authorbibnamehash}{2f58706aa475bd8c1942ceff054ab85a}
-      \strng{authornamehash}{4ae792cddf0e94628e00dd9e2e4f7ae1}
-      \strng{authorfullhash}{bf6cda261f840e60db23a195dfd26547}
-      \strng{authorfullhashraw}{bf6cda261f840e60db23a195dfd26547}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Pulmonary hypertension}
-      \field{day}{14}
-      \field{eventtitle}{{ERS} Congress 2024 abstracts}
-      \field{month}{9}
-      \field{title}{The Prevalence of Pulmonary Hypertension in Left Heart Disease in Austria, Germany and Switzerland ({DACH} Region)}
-      \field{urlday}{7}
-      \field{urlmonth}{2}
-      \field{urlyear}{2025}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{PA5237}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1183/13993003.congress-2024.PA5237
-      \endverb
-      \verb{urlraw}
-      \verb http://publications.ersnet.org/lookup/doi/10.1183/13993003.congress-2024.PA5237
-      \endverb
-      \verb{url}
-      \verb http://publications.ersnet.org/lookup/doi/10.1183/13993003.congress-2024.PA5237
-      \endverb
-      \keyw{abstract}
-    \endentry
-    \entry{benavente_exploring_2023}{article}{}{}
-      \name{author}{4}{}{%
-        {{hash=d2c039c68b304d068db05a6c5b57b61c}{%
-           family={Benavente},
-           familyi={B\bibinitperiod},
-           given={Kevin},
-           giveni={K\bibinitperiod}}}%
-        {{hash=691b3935cadc882d98a3a7648e89e1fd}{%
-           family={\textbf{\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}.}},
-           familyi={\\bibinitperiod}}}%
-        {{hash=08e578cc9f2bb558b586224a7f6aff16}{%
-           family={Fujiuchi},
-           familyi={F\bibinitperiod},
-           given={Bradley},
-           giveni={B\bibinitperiod}}}%
-        {{hash=2dc229558d9428cef48711e6f530e3bc}{%
-           family={Manzoor},
-           familyi={M\bibinitperiod},
-           given={Kamran},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{9dabeee3601cf0c62f733cd84110d5a0}
-      \strng{fullhash}{633b53ee9efe4078338ce3ace9c14615}
-      \strng{fullhashraw}{633b53ee9efe4078338ce3ace9c14615}
-      \strng{bibnamehash}{633b53ee9efe4078338ce3ace9c14615}
-      \strng{authorbibnamehash}{633b53ee9efe4078338ce3ace9c14615}
-      \strng{authornamehash}{9dabeee3601cf0c62f733cd84110d5a0}
-      \strng{authorfullhash}{633b53ee9efe4078338ce3ace9c14615}
-      \strng{authorfullhashraw}{633b53ee9efe4078338ce3ace9c14615}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Introduction Non-invasive ventilation ({NIV}) has a significant role in supporting patients with respiratory failure with the goal of avoiding mechanical ventilation. Traditionally, {NIV} has been applied using dedicated {NIV}-specific devices but over the last decade, newer generation critical care ventilators have updated their capabilities to include {NIV} options with improved synchrony and leak compensation. No recent trials have compared the efficacy of new generation critical care ventilators to {NIV} ventilators. The purpose of this study was to evaluate clinicians attitudes and perceptions toward the use of {NIV} between the dedicated {NIV} and critical care ventilators. Methods An online survey of clinicians with seven questions regarding their thoughts and experience in using {NIV} in acute care settings was posted online and promoted through emails and social media. The survey was anonymous and an exemption of consent was obtained from the Institutional Review Board. Analysis of variants ({ANOVA}) was done for the total responses in each question, followed by multivariate analysis of variants ({MANOVA}) for responses per occupation. Results 514 responses from 54 countries were recorded. 151 from North America, 109 from South America, 125 from Europe, 97 from Asia, 21 from Africa, and 11 from Australia. 218 responders were physicians, 218 were respiratory therapists, 28 were nurses, and 50 were reported as other professionals (engineers, biomedical technicians). 346 (67.3\%) reported using both types of ventilators for {NIV}, 91 (17.7\%) use only {NIV} -specific devices, and 77 (15\%) only use critical care ventilators (P 0.097), responses per occupation (P {<} 0.001). 290 (56.4\%) have automatic synchronization software on either of their ventilators, 113 (22\%) do not, while 111 (21.6\%) are unsure if they do (P 0.22), with significant variation by occupation (P 0.008). Regarding synchrony, 233 (45.3\%) said {NIV} ventilators are better, and 165 (32.1\%) said critical care ventilators are better, while 116 (22.5\%) said both are similar (P 0.59) with significant variation by occupation (P 0.04). Regarding leak compensation, 241 (46.9\%) said {NIV} ventilators are better, and 146 (284\%) said critical care ventilators are better, while 127 (24.7\%) said both are similar (P 0.6) without significant variation by occupation (P 0.07). Regarding the general opinion of superiority, 273 (53.1\%) said {NIV} ventilators are better, 131 (25.5\%) said critical care ventilators are better, and 110 (21.4\%) said both are similar (P 0.42) without significant variation by occupation (P 0.098). Conclusion Despite the lack of evidence, there is wide variability in opinion with no clear consensus regarding the clinicians’ attitude towards which ventilators are superior to use during {NIV}, especially according to surveyed occupation.}
-      \field{day}{15}
-      \field{issn}{26940450}
-      \field{journaltitle}{Journal of Mechanical Ventilation}
-      \field{month}{6}
-      \field{number}{2}
-      \field{shortjournal}{{JMV}}
-      \field{shorttitle}{Exploring clinicians' beliefs and practices regarding Non-Invasive Ventilation devices}
-      \field{title}{Exploring clinicians' beliefs and practices regarding Non-Invasive Ventilation devices: An international survey study}
-      \field{urlday}{30}
-      \field{urlmonth}{1}
-      \field{urlyear}{2024}
-      \field{volume}{4}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{84\bibrangedash 93}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.53097/JMV.10078
-      \endverb
-      \verb{file}
-      \verb Full Text:/home/eric/Zotero/storage/HSPJQDNW/University of Hawaii et al. - 2023 - Exploring clinicians' beliefs and practices regard.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.journalmechanicalventilation.com/exploring-clinicians-beliefs-and-practices-regarding-non-invasive-ventilation-devices-an-international-survey-study/
-      \endverb
-      \verb{url}
-      \verb https://www.journalmechanicalventilation.com/exploring-clinicians-beliefs-and-practices-regarding-non-invasive-ventilation-devices-an-international-survey-study/
-      \endverb
-      \keyw{article}
-    \endentry
-    \entry{dustin_pneumonitis_2023}{inproceedings}{}{}
-      \name{author}{7}{}{%
-        {{hash=e316f40eedf40b56dffe2bbce4c60a11}{%
-           family={Dustin},
-           familyi={D\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod}}}%
-        {{hash=7b539e39c4503be51686e9616ad31383}{%
-           family={Moku},
-           familyi={M\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod}}}%
-        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
-           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
-           familyi={\\bibinitperiod}}}%
-        {{hash=ada81c825f20660042d904fc0a9719b8}{%
-           family={Decarli},
-           familyi={D\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=868f6310db9f8ceaa5f030e7abef589e}{%
-           family={Tanzer},
-           familyi={T\bibinitperiod},
-           given={J.R.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=abd9f0802f8b1a4fc3d7760818a57db3}{%
-           family={Koffer},
-           familyi={K\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod}}}%
-        {{hash=ac2cc010c62833485a4ae178ce10a951}{%
-           family={Azzoli},
-           familyi={A\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Washington, {DC}}%
-      }
-      \list{publisher}{1}{%
-        {American Thoracic Society}%
-      }
-      \strng{namehash}{7754001b87ccfd739dd857d18cace35f}
-      \strng{fullhash}{a1b96ff34eeaeb9b7797f278579f5373}
-      \strng{fullhashraw}{a1b96ff34eeaeb9b7797f278579f5373}
-      \strng{bibnamehash}{51eb66125ae93085a7937c8675325189}
-      \strng{authorbibnamehash}{51eb66125ae93085a7937c8675325189}
-      \strng{authornamehash}{7754001b87ccfd739dd857d18cace35f}
-      \strng{authorfullhash}{a1b96ff34eeaeb9b7797f278579f5373}
-      \strng{authorfullhashraw}{a1b96ff34eeaeb9b7797f278579f5373}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{A110. {LUNG} {CANCER} {RISK}, {SCREENING}, {TREATMENT}, {AND} {OUTCOMES}}
-      \field{eventtitle}{American Thoracic Society 2023 International Conference}
-      \field{langid}{english}
-      \field{month}{5}
-      \field{shorttitle}{Pneumonitis in Stage {III} Non-small Cell Lung Cancer}
-      \field{title}{Pneumonitis in Stage {III} Non-small Cell Lung Cancer: Who Is at Risk?}
-      \field{urlday}{30}
-      \field{urlmonth}{5}
-      \field{urlyear}{2023}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{A2726\bibrangedash A2726}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A2726
-      \endverb
-      \verb{urlraw}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A2726
-      \endverb
-      \verb{url}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A2726
-      \endverb
-      \keyw{abstract}
-    \endentry
-    \entry{robbins_reduce_2023}{unpublished}{}{}
-      \name{author}{1}{}{%
-        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
-           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
-           familyi={\\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Providence, {RI}}%
-      }
-      \strng{namehash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{fullhash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{fullhashraw}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{bibnamehash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{authorbibnamehash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{authornamehash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{authorfullhash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{authorfullhashraw}{f4e43afac1cb5203623664c6e8f77c16}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{6}
-      \field{month}{10}
-      \field{note}{Morning Report for Brown University Internal Medicine Program}
-      \field{title}{{REDUCE} Trial: Limiting Steroids in {COPD} Exacerbations}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \true{nocite}
-      \keyw{presentation}
-    \endentry
-    \entry{robbins_medication_2023}{inproceedings}{}{}
-      \name{author}{19}{}{%
-        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
-           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
-           familyi={\\bibinitperiod}}}%
-        {{hash=d740f15a48e5a346c6cb12eb95f4d4f2}{%
-           family={Bradley},
-           familyi={B\bibinitperiod},
-           given={K.V.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=b6c1b6dae899b5bb8c0ca15e494cce3b}{%
-           family={Baird},
-           familyi={B\bibinitperiod},
-           given={G.L.},
-           giveni={G\bibinitperiod}}}%
-        {{hash=63dc5742508e2871a77e4cfa0fae4131}{%
-           family={Badesch},
-           familyi={B\bibinitperiod},
-           given={D.B.},
-           giveni={D\bibinitperiod}}}%
-        {{hash=aa11ea8bf8b689652731bfc65eb85816}{%
-           family={Burger},
-           familyi={B\bibinitperiod},
-           given={C.D.},
-           giveni={C\bibinitperiod}}}%
-        {{hash=977118f6e8342f917379e603dcb8b142}{%
-           family={Chybowski},
-           familyi={C\bibinitperiod},
-           given={A.M.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=a6fd92542746f4530716256844dea35c}{%
-           family={De\bibnamedelima Marco},
-           familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=81091ab41b24e6090292f1262bba8dab}{%
-           family={Hemnes},
-           familyi={H\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=2ba4571fb841b94e278f2f4a407a4a09}{%
-           family={Lammi},
-           familyi={L\bibinitperiod},
-           given={M.R.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=1be12b8a1ce757becd6a0bd75f9a336a}{%
-           family={Mathai},
-           familyi={M\bibinitperiod},
-           given={S.C.},
-           giveni={S\bibinitperiod}}}%
-        {{hash=8fa4c933da29679d08578335753e4394}{%
-           family={Mcconnell},
-           familyi={M\bibinitperiod},
-           given={J.W.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=1d47ac4bb7eb15b531632487e4427b15}{%
-           family={Melendres-Groves},
-           familyi={M\bibinithyphendelim G\bibinitperiod},
-           given={L.},
-           giveni={L\bibinitperiod}}}%
-        {{hash=66d47ac4267d690558da6c510d192db0}{%
-           family={Raza},
-           familyi={R\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=97398c8819da7543a5dfb9fb9b64d83c}{%
-           family={Runo},
-           familyi={R\bibinitperiod},
-           given={J.R.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=067e66c56a2d1b42f271ef2ecd63ee40}{%
-           family={Sager},
-           familyi={S\bibinitperiod},
-           given={J.S.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=16eeff41bcdea18d745aa17ab25d49f6}{%
-           family={Shlobin},
-           familyi={S\bibinitperiod},
-           given={O.A.},
-           giveni={O\bibinitperiod}}}%
-        {{hash=ed65d78cdc7624a3c50871b57ce7773f}{%
-           family={Thenappan},
-           familyi={T\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=88d94c62c783403443a3e8a7c84c438f}{%
-           family={Zamanian},
-           familyi={Z\bibinitperiod},
-           given={R.T.},
-           giveni={R\bibinitperiod}}}%
-        {{hash=ff5c2dbb45c8df5e22f00e28ce7e4be0}{%
-           family={Ventetuolo},
-           familyi={V\bibinitperiod},
-           given={C.E.},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Washington, {DC}}%
-      }
-      \list{publisher}{1}{%
-        {American Thoracic Society}%
-      }
-      \strng{namehash}{de7c51a8453632731ed5602ecdce2330}
-      \strng{fullhash}{231f6e2315722441cd7ded6139d14e1e}
-      \strng{fullhashraw}{231f6e2315722441cd7ded6139d14e1e}
-      \strng{bibnamehash}{86244ef9ba2d528301b4cf6f18b5d6dc}
-      \strng{authorbibnamehash}{86244ef9ba2d528301b4cf6f18b5d6dc}
-      \strng{authornamehash}{de7c51a8453632731ed5602ecdce2330}
-      \strng{authorfullhash}{231f6e2315722441cd7ded6139d14e1e}
-      \strng{authorfullhashraw}{231f6e2315722441cd7ded6139d14e1e}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{A26. {PRECISION}-{BASED} {APPROACHES} {TO} {PULMONARY} {VASCULAR} {DISEASE}}
-      \field{eventtitle}{American Thoracic Society 2023 International Conference}
-      \field{langid}{english}
-      \field{month}{5}
-      \field{shorttitle}{Medication Non-adherence and Health-related Outcomes in Patients With Pulmonary Arterial Hypertension}
-      \field{title}{Medication Non-adherence and Health-related Outcomes in Patients With Pulmonary Arterial Hypertension: The Pulmonary Hypertension Association Registry ({PHAR})}
-      \field{urlday}{30}
-      \field{urlmonth}{5}
-      \field{urlyear}{2023}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{A1186\bibrangedash A1186}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A1186
-      \endverb
-      \verb{urlraw}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A1186
-      \endverb
-      \verb{url}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A1186
-      \endverb
-      \keyw{abstract}
-    \endentry
-    \entry{Robbins2022}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=6308b63cd05ba97f41b21cf4098aef9e}{%
-           family={\textbf{Robbins,\bibnamedelimb Eric}},
-           familyi={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=33e093767511995ab8da349fefdc0338}{%
-           family={Yee},
-           familyi={Y\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
-        {{hash=6affa698c1fe9e62bc50c15830318a75}{%
-           family={Shea},
-           familyi={S\bibinitperiod},
-           given={Barry},
-           giveni={B\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Society of Critical Care Medicine}%
-      }
-      \strng{namehash}{ea7124d69adbe2d0a1291c9b212ab40c}
-      \strng{fullhash}{eb6f4fa3661dfcbb83bc29740e0ca993}
-      \strng{fullhashraw}{eb6f4fa3661dfcbb83bc29740e0ca993}
-      \strng{bibnamehash}{eb6f4fa3661dfcbb83bc29740e0ca993}
-      \strng{authorbibnamehash}{eb6f4fa3661dfcbb83bc29740e0ca993}
-      \strng{authornamehash}{ea7124d69adbe2d0a1291c9b212ab40c}
-      \strng{authorfullhash}{eb6f4fa3661dfcbb83bc29740e0ca993}
-      \strng{authorfullhashraw}{eb6f4fa3661dfcbb83bc29740e0ca993}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{16}
-      \field{eventtitle}{2022 Critical Care Congress Meeting}
-      \field{month}{1}
-      \field{title}{Diabetes Insipidus in a Critically Ill Postpartum Covid Patient}
-      \field{volume}{50}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \true{nocite}
-      \field{pages}{46\bibrangedash 46}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1097/01.ccm.0000806828.13647.9a
-      \endverb
-      \verb{urlraw}
-      \verb https://journals.lww.com/10.1097/01.ccm.0000806828.13647.9a
-      \endverb
-      \verb{url}
-      \verb https://journals.lww.com/10.1097/01.ccm.0000806828.13647.9a
-      \endverb
-      \keyw{{caseRep}}
-    \endentry
-    \entry{robbins_assessing_2022}{unpublished}{}{}
-      \name{author}{1}{}{%
-        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
-           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
-           familyi={\\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Providence, {RI}}%
-      }
-      \strng{namehash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{fullhash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{fullhashraw}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{bibnamehash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{authorbibnamehash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{authornamehash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{authorfullhash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{authorfullhashraw}{f4e43afac1cb5203623664c6e8f77c16}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{23}
-      \field{month}{3}
-      \field{note}{Morning Report for Brown University Internal Medicine Program}
-      \field{title}{Assessing Fluid Responsiveness in the {MICU}}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \true{nocite}
-      \keyw{presentation}
-    \endentry
-    \entry{robbins_racial_2022}{unpublished}{}{}
-      \name{author}{1}{}{%
-        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
-           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
-           familyi={\\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Providence, {RI}}%
-      }
-      \strng{namehash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{fullhash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{fullhashraw}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{bibnamehash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{authorbibnamehash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{authornamehash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{authorfullhash}{f4e43afac1cb5203623664c6e8f77c16}
-      \strng{authorfullhashraw}{f4e43afac1cb5203623664c6e8f77c16}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{11}
-      \field{month}{12}
-      \field{note}{Morning Report for Brown University Internal Medicine Program}
-      \field{title}{Racial and Ethnic Differences in Bystander {CPR} for Witnessed Cardiac Arrest}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \true{nocite}
-      \keyw{presentation}
-    \endentry
-    \entry{robbins_aortic_2022}{inproceedings}{}{}
-      \name{author}{5}{}{%
-        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
-           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
-           familyi={\\bibinitperiod}}}%
-        {{hash=5aa1d86c788b9114a04854a38864815a}{%
-           family={Ayaz},
-           familyi={A\bibinitperiod},
-           given={Ahsan},
-           giveni={A\bibinitperiod}}}%
-        {{hash=39cec4bc1bf314787950c154c860ac92}{%
-           family={Perosevic},
-           familyi={P\bibinitperiod},
-           given={Nikola},
-           giveni={N\bibinitperiod}}}%
-        {{hash=53047d6686a1cd4ec7d7eaee14b10edc}{%
-           family={Sacks},
-           familyi={S\bibinitperiod},
-           given={Ari},
-           giveni={A\bibinitperiod}}}%
-        {{hash=2dc229558d9428cef48711e6f530e3bc}{%
-           family={Manzoor},
-           familyi={M\bibinitperiod},
-           given={Kamran},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Chest}%
-      }
-      \strng{namehash}{de7c51a8453632731ed5602ecdce2330}
-      \strng{fullhash}{dd15b232ef865cb287bee7ea95ced5d1}
-      \strng{fullhashraw}{dd15b232ef865cb287bee7ea95ced5d1}
-      \strng{bibnamehash}{dd15b232ef865cb287bee7ea95ced5d1}
-      \strng{authorbibnamehash}{dd15b232ef865cb287bee7ea95ced5d1}
-      \strng{authornamehash}{de7c51a8453632731ed5602ecdce2330}
-      \strng{authorfullhash}{dd15b232ef865cb287bee7ea95ced5d1}
-      \strng{authorfullhashraw}{dd15b232ef865cb287bee7ea95ced5d1}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{eventtitle}{Chest Annual Meeting 2022}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{title}{Aortic Dissection Induced by Persistent Coughing in a Patient with Emphysema}
-      \field{urlday}{17}
-      \field{urlmonth}{2}
-      \field{urlyear}{2023}
-      \field{volume}{162}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{A1340\bibrangedash A1341}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1016/j.chest.2022.08.1070
-      \endverb
-      \verb{file}
-      \verb Full Text:/home/eric/Zotero/storage/GYV7FIPQ/Robbins et al. - 2022 - AORTIC DISSECTION INDUCED BY PERSISTENT COUGHING I.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369222024308
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369222024308
-      \endverb
-      \keyw{{caseRep}}
-    \endentry
-    \entry{robbins_adenocarcinoma_2022}{inproceedings}{}{}
-      \name{author}{5}{}{%
-        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
-           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
-           familyi={\\bibinitperiod}}}%
-        {{hash=53047d6686a1cd4ec7d7eaee14b10edc}{%
-           family={Sacks},
-           familyi={S\bibinitperiod},
-           given={Ari},
-           giveni={A\bibinitperiod}}}%
-        {{hash=d03dd691378c603217b9df82a34fa597}{%
-           family={A\bibnamedelima Sloan},
-           familyi={A\bibinitperiod\bibinitdelim S\bibinitperiod},
-           given={Karin},
-           giveni={K\bibinitperiod}}}%
-        {{hash=fc669c3a0618d8e691b3c96aeed2ebc0}{%
-           family={Halle},
-           familyi={H\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-        {{hash=2dc229558d9428cef48711e6f530e3bc}{%
-           family={Manzoor},
-           familyi={M\bibinitperiod},
-           given={Kamran},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Chest}%
-      }
-      \strng{namehash}{de7c51a8453632731ed5602ecdce2330}
-      \strng{fullhash}{2c5d39315a4d7614a4c59ada78c5f7a6}
-      \strng{fullhashraw}{2c5d39315a4d7614a4c59ada78c5f7a6}
-      \strng{bibnamehash}{2c5d39315a4d7614a4c59ada78c5f7a6}
-      \strng{authorbibnamehash}{2c5d39315a4d7614a4c59ada78c5f7a6}
-      \strng{authornamehash}{de7c51a8453632731ed5602ecdce2330}
-      \strng{authorfullhash}{2c5d39315a4d7614a4c59ada78c5f7a6}
-      \strng{authorfullhashraw}{2c5d39315a4d7614a4c59ada78c5f7a6}
-      \field{extraname}{4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{eventtitle}{Chest Annual Meeting 2022}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{title}{Adenocarcinoma of the Lung Mimicking Miliary {TB} and Pott Disease}
-      \field{urlday}{17}
-      \field{urlmonth}{2}
-      \field{urlyear}{2023}
-      \field{volume}{162}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{A1642\bibrangedash A1643}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1016/j.chest.2022.08.1375
-      \endverb
-      \verb{file}
-      \verb Full Text:/home/eric/Zotero/storage/RRY9XVWK/Robbins et al. - 2022 - ADENOCARCINOMA OF THE LUNG MIMICKING MILIARY TB AN.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369222027350
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369222027350
-      \endverb
-      \keyw{{caseRep}}
-    \endentry
-    \entry{Robbins2020a}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=6308b63cd05ba97f41b21cf4098aef9e}{%
-           family={\textbf{Robbins,\bibnamedelimb Eric}},
-           familyi={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=8dc7dee9976f5f2442fff1a16c4e7f1a}{%
-           family={Allam},
-           familyi={A\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod}}}%
-        {{hash=72adc1fd012d368b5a379500b569d8cf}{%
-           family={Manzoor},
-           familyi={M\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {American Thoracic Society}%
-      }
-      \strng{namehash}{ea7124d69adbe2d0a1291c9b212ab40c}
-      \strng{fullhash}{4138756300780cd4b20d96dec32617e2}
-      \strng{fullhashraw}{4138756300780cd4b20d96dec32617e2}
-      \strng{bibnamehash}{4138756300780cd4b20d96dec32617e2}
-      \strng{authorbibnamehash}{4138756300780cd4b20d96dec32617e2}
-      \strng{authornamehash}{ea7124d69adbe2d0a1291c9b212ab40c}
-      \strng{authorfullhash}{4138756300780cd4b20d96dec32617e2}
-      \strng{authorfullhashraw}{4138756300780cd4b20d96dec32617e2}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{D48. {CRITICAL} {CARE} {CASE} {REPORTS}: {NEUROCRITICAL} {CARE}, {SEDATION}, {AND} {DELIRIUM}}
-      \field{eventtitle}{{ATS} International Conference 2020}
-      \field{month}{5}
-      \field{title}{Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \true{nocite}
-      \field{pages}{A6990\bibrangedash A6990}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1164/ajrccm-conference.2020.201.1_meetingabstracts.a6990
-      \endverb
-      \verb{urlraw}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A6990
-      \endverb
-      \verb{url}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A6990
-      \endverb
-      \keyw{{caseRep}}
-    \endentry
-    \entry{Robbins2020b}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=6308b63cd05ba97f41b21cf4098aef9e}{%
-           family={\textbf{Robbins,\bibnamedelimb Eric}},
-           familyi={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=3844c00e1e146591b0024a5e634d699c}{%
-           family={Thota},
-           familyi={T\bibinitperiod},
-           given={Ajit},
-           giveni={A\bibinitperiod}}}%
-        {{hash=2dc229558d9428cef48711e6f530e3bc}{%
-           family={Manzoor},
-           familyi={M\bibinitperiod},
-           given={Kamran},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Chest}%
-      }
-      \strng{namehash}{ea7124d69adbe2d0a1291c9b212ab40c}
-      \strng{fullhash}{26433ee218eca20dcae483fe606f8a5d}
-      \strng{fullhashraw}{26433ee218eca20dcae483fe606f8a5d}
-      \strng{bibnamehash}{26433ee218eca20dcae483fe606f8a5d}
-      \strng{authorbibnamehash}{26433ee218eca20dcae483fe606f8a5d}
-      \strng{authornamehash}{ea7124d69adbe2d0a1291c9b212ab40c}
-      \strng{authorfullhash}{26433ee218eca20dcae483fe606f8a5d}
-      \strng{authorfullhashraw}{26433ee218eca20dcae483fe606f8a5d}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{{SESSION} {TITLE}: Medical Student/Resident Lung Cancer Posters {SESSION} {TYPE}: Med Student/Res Case Rep Postr {PRESENTED} {ON}: October 18-21, 2020 {INTRODUCTION}: A miliary pattern on chest imaging is often concerning for primary tuberculosis. However, such nodules may also be seen in fungal infections and autoimmune or (rarely) metastatic processes. Here, we report a case of a miliary mottling on chest imaging associated with metastatic lung adenocarcinoma. {CASE} {PRESENTATION}: A 39-year-old man with a history of obesity and tobacco use presented with worsening chest congestion and dyspnea on exertion for 2 months. He had occasional wheezing without associated symptoms, including fever, chills or night sweats, or weight loss. He worked in environmental services without any known sick contacts or recent travel history. Physical examination was unremarkable except a small, palpable right supraclavicular lymph node. The initial chest x-ray showed diffuse interstitial infiltrates. Chest {CT} revealed innumerable bilateral cavitary nodules with an apical gradient, a right lower lobe 6-cm mass with cavitation, and mediastinal and supraclavicular lymphadenopathy. Given concern of pulmonary tuberculosis with a miliary component, the patient remained on airborne precautions. Laboratory workup was notable for a mild leukocytosis of 12,000. Sputum cultures and {AFB} staining were negative. A baseline connective tissue panel, {AFP}, and beta-{hCG} levels were unmeasurable. Given his age and concern for metastatic disease, a scrotal ultrasound was performed but did not reveal any testicular mass. Subsequently, the patient underwent a fine-needle aspiration and core biopsy of the right supraclavicular lymph node, which showed metastatic adenocarcinoma. The immunohistochemical profile was suggestive of a positive {CK}7 but negative for {CK}20, {TTF}-1, {CDX}2, and Napsin A—support the diagnosis of non-small cell lung cancer with a {KRAS} Q61K mutation. Immuno-chemotherapy with a combination of carboplatin, pemetrexed, and pembrolizumab was initiated, given his stage {IV} metastatic lung adenocarcinoma. {DISCUSSION}: The differential diagnosis for miliary patterns on chest imaging includes tuberculosis, fungal infections, sarcoidosis, pneumoconiosis, and secondary metastasis. Miliary-pattern metastatic lung adenocarcinomas have been rarely reported. Our case is of interest given the negative {TTF}-1 with a {KRAS} Q61K mutation, the later of which is associated with resistance to the {EGFR} inhibitors gefitinib and erlotinib. This entity is thought to have a poorer prognosis than {KRAS} wild-type adenocarcinomas. {CONCLUSIONS}: The initial radiologic presentation of these cases can be misleading in areas with high prevalence of infections such as tuberculosis and fungal infections. The possibility of primary lung cancer should also be considered in these cases. Reference \#1: A. Sekine et al., “Miliary lung metastases from non‑small cell lung cancer with Exon 20 insertion: A dismal prognostic entity: A case report,” Mol. Clin. Oncol., Oct. 2018, doi: 10.3892/mco.2018.1730. Reference \#2: L. Kimmig and J. Bueno, “Miliary Nodules: Not Always Tuberculosis,” Ann. Am. Thorac. Soc., vol. 14, no. 12, pp. 1858–1860, Dec. 2017, doi: 10.1513/{AnnalsATS}.201706-436CC. Reference \#3: P. J. Roberts, T. E. Stinchcombe, C. J. Der, and M. A. Socinski, “Personalized medicine in non-small-cell lung cancer: is {KRAS} a useful marker in selecting patients for epidermal growth factor receptor-targeted therapy?,” J. Clin. Oncol., vol. 28, no. 31, pp. 4769–77, Nov. 2010, doi: 10.1200/{JCO}.2009.27.4365. {DISCLOSURES}: No relevant relationships by Kamran Manzoor, source=Web Response No relevant relationships by Eric Robbins, source=Web Response No relevant relationships by Ajit Thota, source=Web Response}
-      \field{booktitle}{Chest Annual Meeting 2020}
-      \field{month}{10}
-      \field{title}{Adenocarcinoma of the Lung With a Miliary Pattern}
-      \field{volume}{158}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \true{nocite}
-      \field{pages}{A1550}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1016/j.chest.2020.08.1392
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369220335789
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369220335789
-      \endverb
-      \keyw{{caseRep}}
-    \endentry
-    \entry{robbins_progressive_2020}{unpublished}{}{}
-      \name{author}{3}{}{%
-        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
-           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
-           familyi={\\bibinitperiod}}}%
-        {{hash=f6851b7c13d4d6614e2e9bdc871cdb47}{%
-           family={Allam},
-           familyi={A\bibinitperiod},
-           given={Gregory},
-           giveni={G\bibinitperiod}}}%
-        {{hash=2dc229558d9428cef48711e6f530e3bc}{%
-           family={Manzoor},
-           familyi={M\bibinitperiod},
-           given={Kamran},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Weymouth, {MA}}%
-      }
-      \strng{namehash}{de7c51a8453632731ed5602ecdce2330}
-      \strng{fullhash}{d7548e995673ba44f4522a4bbd5d83c2}
-      \strng{fullhashraw}{d7548e995673ba44f4522a4bbd5d83c2}
-      \strng{bibnamehash}{d7548e995673ba44f4522a4bbd5d83c2}
-      \strng{authorbibnamehash}{d7548e995673ba44f4522a4bbd5d83c2}
-      \strng{authornamehash}{de7c51a8453632731ed5602ecdce2330}
-      \strng{authorfullhash}{d7548e995673ba44f4522a4bbd5d83c2}
-      \strng{authorfullhashraw}{d7548e995673ba44f4522a4bbd5d83c2}
-      \field{extraname}{5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{1}
-      \field{note}{South Shore Health Research Symposium}
-      \field{title}{Progressive Weakness in a Patient with Respiratory Failure: Finding the Uncommon}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \true{nocite}
-      \keyw{presentation}
-    \endentry
-    \entry{Robbins2020}{inproceedings}{}{}
-      \name{author}{4}{}{%
-        {{hash=691b3935cadc882d98a3a7648e89e1fd}{%
-           family={\textbf{\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}.}},
-           familyi={\\bibinitperiod}}}%
-        {{hash=3d7983fc004e121d3541cc59d02ecf97}{%
-           family={Arao},
-           familyi={A\bibinitperiod},
-           given={K.A.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=7cd182fbc2b5814b04d5fd8d673fabb6}{%
-           family={Minami},
-           familyi={M\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=72adc1fd012d368b5a379500b569d8cf}{%
-           family={Manzoor},
-           familyi={M\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {American Thoracic Society}%
-      }
-      \strng{namehash}{4cc228abb154e552a97a5abae106e469}
-      \strng{fullhash}{d94f5f88c4e6077d814d3bfee7840ba4}
-      \strng{fullhashraw}{d94f5f88c4e6077d814d3bfee7840ba4}
-      \strng{bibnamehash}{d94f5f88c4e6077d814d3bfee7840ba4}
-      \strng{authorbibnamehash}{d94f5f88c4e6077d814d3bfee7840ba4}
-      \strng{authornamehash}{4cc228abb154e552a97a5abae106e469}
-      \strng{authorfullhash}{d94f5f88c4e6077d814d3bfee7840ba4}
-      \strng{authorfullhashraw}{d94f5f88c4e6077d814d3bfee7840ba4}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{D79. {SRN}: {CURIOUS} {CASES} {IN} {SLEEP} {AND} {RESPIRATORY} {MEDICINE}}
-      \field{month}{5}
-      \field{title}{Denosumab-Related Mononeuritis Leading to Diaphragm and Long Thoracic Nerve Paralysis}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \true{nocite}
-      \field{pages}{A7618\bibrangedash A7618}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1164/ajrccm-conference.2020.201.1_meetingabstracts.a7618
-      \endverb
-      \verb{urlraw}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A7618
-      \endverb
-      \verb{url}
-      \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A7618
-      \endverb
-      \keyw{{caseRep}}
-    \endentry
-    \entry{robbins_relative_2018}{unpublished}{}{}
-      \name{author}{2}{}{%
-        {{hash=f4e43afac1cb5203623664c6e8f77c16}{%
-           family={\textbf{\textbf{Robbins,\bibnamedelimb Eric}\bibnamedelimb W}},
-           familyi={\\bibinitperiod}}}%
-        {{hash=88a2ef473b6172bc4cf7219dd1315146}{%
-           family={Thanikachalam},
-           familyi={T\bibinitperiod},
-           given={Mohan},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Boston, {MA}}%
-      }
-      \strng{namehash}{af3c0f3c67db5bb1b44667bb91849794}
-      \strng{fullhash}{af3c0f3c67db5bb1b44667bb91849794}
-      \strng{fullhashraw}{af3c0f3c67db5bb1b44667bb91849794}
-      \strng{bibnamehash}{af3c0f3c67db5bb1b44667bb91849794}
-      \strng{authorbibnamehash}{af3c0f3c67db5bb1b44667bb91849794}
-      \strng{authornamehash}{af3c0f3c67db5bb1b44667bb91849794}
-      \strng{authorfullhash}{af3c0f3c67db5bb1b44667bb91849794}
-      \strng{authorfullhashraw}{af3c0f3c67db5bb1b44667bb91849794}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{1}
-      \field{note}{Tufts University School of Medicine Summer Research Fair}
-      \field{title}{Relative Contributions of Insulin Resistance and Beta Cell Dysfunction to the Development of Type 2 Diabetes in the {PURSE}-{HIS} Cohort}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \true{nocite}
-      \keyw{presentation}
-    \endentry
-  \enddatalist
-\endrefsection
+  \entry{santi_prevalence_2025}{inproceedings}{}{}
+    \name{author}{7}{}{%
+      {{hash=SA}{%
+         family={Santi},
+         familyi={S\bibinitperiod},
+         given={Armella},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={L},
+         giveni={L},
+      }}%
+      {{hash=NV}{%
+         family={Ngah},
+         familyi={N\bibinitperiod},
+         given={Veranyuy},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Guoding},
+         familyi={G\bibinitperiod},
+         given={D},
+         giveni={D},
+      }}%
+      {{hash=MB}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={Bradley},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ZK}{%
+         family={Zeder},
+         familyi={Z\bibinitperiod},
+         given={Katarina},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pulmonary Vascular Research Institute}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{SA+2}
+    \strng{fullhash}{SAWLNVtGDMBZK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Pulmonary Circulation}
+    \verb{doi}
+    \verb 10.1002/pul2.70062
+    \endverb
+    \field{eventtitle}{{PVRI} 2025 Annual Congress}
+    \field{pages}{e70062}
+    \field{title}{The Prevalence of Pulmonary Hypertension in Sickle Cell
+  Disease in Sub-Saharan Africa: A Systematic Review and Meta-Analysis}
+    \verb{url}
+    \verb https://onlinelibrary.wiley.com/doi/10.1002/pul2.70062
+    \endverb
+    \field{volume}{15}
+    \field{langid}{english}
+    \list{location}{1}{%
+      {Rio de Janeiro, Brazil}%
+    }
+    \verb{file}
+    \verb Full Text PDF:/home/eric/Zotero/storage/9LC2Y3GY/2025 - Abstract.pdf:
+    \verb application/pdf
+    \endverb
+    \field{month}{01}
+    \field{year}{2025}
+    \field{urlday}{30}
+    \field{urlmonth}{03}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{robbins_medication_2025}{article}{}{}
+    \name{author}{18}{}{%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric W}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=BK}{%
+         family={Bradley},
+         familyi={B\bibinitperiod},
+         given={Kaitlin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BDB}{%
+         family={Badesch},
+         familyi={B\bibinitperiod},
+         given={David\bibnamedelima B.},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Burger},
+         familyi={B\bibinitperiod},
+         given={Charles},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CAM}{%
+         family={Chybowski},
+         familyi={C\bibinitperiod},
+         given={Amy\bibnamedelima M},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=DMT}{%
+         family={De\bibnamedelima Marco},
+         familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Teresa},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HAR}{%
+         family={Hemnes},
+         familyi={H\bibinitperiod},
+         given={Anna\bibnamedelima R},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Lammi},
+         familyi={L\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MSC}{%
+         family={Mathai},
+         familyi={M\bibinitperiod},
+         given={Stephen\bibnamedelima C.},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MGL}{%
+         family={Melendres-Groves},
+         familyi={M\bibinithyphendelim G\bibinitperiod},
+         given={Lana},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RF}{%
+         family={Raza},
+         familyi={R\bibinitperiod},
+         given={Farhan},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sager},
+         familyi={S\bibinitperiod},
+         given={Jeffrey},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SOA}{%
+         family={Shlobin},
+         familyi={S\bibinitperiod},
+         given={Oksana\bibnamedelima A.},
+         giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Thenappan},
+         familyi={T\bibinitperiod},
+         given={Thenappan},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=ZR}{%
+         family={Zamanian},
+         familyi={Z\bibinitperiod},
+         given={Roham},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Runo},
+         familyi={R\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BGL}{%
+         family={Baird},
+         familyi={B\bibinitperiod},
+         given={Grayson\bibnamedelima L},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=VCE}{%
+         family={Ventetuolo},
+         familyi={V\bibinitperiod},
+         given={Corey\bibnamedelima E.},
+         giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \keyw{article}
+    \strng{namehash}{t+4}
+    \strng{fullhash}{tBKBDBBCCAMDMTHARLMMSCMGLRFSJSOATTZRRJBGLVCE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \verb{doi}
+    \verb 10.1513/AnnalsATS.202312-1083OC
+    \endverb
+    \field{issn}{2329-6933, 2325-6621}
+    \field{pages}{AnnalsATS.202312\bibrangedash 1083OC}
+    \field{shortjournal}{Annals {ATS}}
+    \field{shorttitle}{Medication Non-Adherence in Patients with Pulmonary
+  Arterial Hypertension}
+    \field{title}{Medication Non-Adherence in Patients with Pulmonary Arterial
+  Hypertension: The Pulmonary Hypertension Association Registry ({PHAR})}
+    \verb{url}
+    \verb https://www.atsjournals.org/doi/10.1513/AnnalsATS.202312-1083OC
+    \endverb
+    \field{langid}{english}
+    \field{journaltitle}{Annals of the American Thoracic Society}
+    \field{day}{18}
+    \field{month}{02}
+    \field{year}{2025}
+    \field{urlday}{25}
+    \field{urlmonth}{02}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{robbins_prevalence_2025}{inproceedings}{}{}
+    \name{author}{7}{}{%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric William}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Ngah},
+         familyi={N\bibinitperiod},
+         given={Veranyuy},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Lanjing},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Santi},
+         familyi={S\bibinitperiod},
+         given={Armella},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Diao},
+         familyi={D\bibinitperiod},
+         given={Guoqing},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MBA}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={Bradley\bibnamedelima A},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=ZK}{%
+         family={Zeder},
+         familyi={Z\bibinitperiod},
+         given={Katarina},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Thoracic Society}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{t+7}
+    \strng{fullhash}{tNVWLSADGMBAZK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{D106. {THE} {PAINTED} {LADIES}: {LATE}-{BREAKING}
+  {ADVANCES} {IN} {PULMONARY} {VASCULAR} {DISEASE}: {BASIC} {SCIENCE},
+  {TRANSLATIONAL}, {AND} {CLINICAL} {ADVANCEMENTS}}
+    \field{eventtitle}{American Thoracic Society 2025 International Conference}
+    \field{title}{The Prevalence of Pulmonary Hypertension Associated With
+  {HIV} in Sub-Saharan Africa: A Significant Burden}
+    \list{location}{1}{%
+      {San Francisco, {CA}}%
+    }
+    \field{day}{21}
+    \field{month}{05}
+    \field{year}{2025}
+  \endentry
+
+  \entry{santi_definition_2024}{inproceedings}{}{}
+    \name{author}{6}{}{%
+      {{hash=SA}{%
+         family={Santi},
+         familyi={S\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Cvirn},
+         familyi={C\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{Robbins, E.}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Ngah},
+         familyi={N\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={B.A.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ZK}{%
+         family={Zeder},
+         familyi={Z\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Thoracic Society}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{SA+1}
+    \strng{fullhash}{SACLtNVMBZK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{C62. {TOP} {GUN}: {NOVEL} {THERAPEUTICS} {AND} {OUTCOMES}
+  {IN} {PAH}}
+    \verb{doi}
+    \verb 10.1164/ajrccm-conference.2024.209.1_MeetingAbstracts.A6110
+    \endverb
+    \field{eventtitle}{American Thoracic Society 2024 International Conference}
+    \field{pages}{A6110\bibrangedash A6110}
+    \field{title}{The Definition of Pulmonary Hypertension Varies Widely Across
+  Empiric Research Studies}
+    \verb{url}
+    \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2024.209.1_
+    \verb MeetingAbstracts.A6110
+    \endverb
+    \field{langid}{english}
+    \list{location}{1}{%
+      {San Diego, {CA}}%
+    }
+    \field{month}{05}
+    \field{year}{2024}
+    \field{urlday}{23}
+    \field{urlmonth}{06}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{robbins_pseudohypoglycemia_2024}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric W.}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Minami},
+         familyi={M\bibinitperiod},
+         given={Taro},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Manzoor},
+         familyi={M\bibinitperiod},
+         given={Kamran},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \keyw{article}
+    \strng{namehash}{t+5}
+    \strng{fullhash}{tMTMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Hypoglycemia is a common clinical finding, especially in the inpatient
+  setting. However, laboratory testing may show falsely low blood glucose
+  levels. It is crucial for clinicians to recognize the existence of
+  pseudohypo- glycemia and know when and how to test for it.%
+    }
+    \field{issn}{2327-2228}
+    \field{number}{2}
+    \field{pages}{20\bibrangedash 23}
+    \field{shortjournal}{R I Med J (2013)}
+    \field{shorttitle}{Pseudohypoglycemia}
+    \field{title}{Pseudohypoglycemia: A Pitfall in Everyday Practice}
+    \field{volume}{107}
+    \field{journaltitle}{Rhode Island Medical Journal (2013)}
+    \field{day}{01}
+    \field{month}{02}
+    \field{year}{2024}
+  \endentry
+
+  \entry{zeder_prevalence_2024}{inproceedings}{}{}
+    \name{author}{12}{}{%
+      {{hash=ZK}{%
+         family={Zeder},
+         familyi={Z\bibinitperiod},
+         given={Katarina},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Clayton},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Cvirn},
+         familyi={C\bibinitperiod},
+         given={Lisa},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Santi},
+         familyi={S\bibinitperiod},
+         given={Armella},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric W}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Ngah},
+         familyi={N\bibinitperiod},
+         given={Veranyuy},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=US}{%
+         family={Ulrich},
+         familyi={U\bibinitperiod},
+         given={Silvia},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Rosenkranz},
+         familyi={R\bibinitperiod},
+         given={Stephan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Stewart},
+         familyi={S\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Strange},
+         familyi={S\bibinitperiod},
+         given={Geoff},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Kovacs},
+         familyi={K\bibinitperiod},
+         given={Gabor},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MBA}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={Bradley\bibnamedelima A},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {European Respiratory Society}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{ZK+1}
+    \strng{fullhash}{ZKBCCLSAtNVUSRSSSSGKGMBA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Pulmonary hypertension}
+    \verb{doi}
+    \verb 10.1183/13993003.congress-2024.PA5237
+    \endverb
+    \field{eventtitle}{{ERS} Congress 2024 abstracts}
+    \field{pages}{PA5237}
+    \field{title}{The Prevalence of Pulmonary Hypertension in Left Heart
+  Disease in Austria, Germany and Switzerland ({DACH} Region)}
+    \verb{url}
+    \verb http://publications.ersnet.org/lookup/doi/10.1183/13993003.congress-2
+    \verb 024.PA5237
+    \endverb
+    \field{day}{14}
+    \field{month}{09}
+    \field{year}{2024}
+    \field{urlday}{07}
+    \field{urlmonth}{02}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{benavente_exploring_2023}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=BK}{%
+         family={Benavente},
+         familyi={B\bibinitperiod},
+         given={Kevin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric W.}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=FB}{%
+         family={Fujiuchi},
+         familyi={F\bibinitperiod},
+         given={Bradley},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Manzoor},
+         familyi={M\bibinitperiod},
+         given={Kamran},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \keyw{article}
+    \strng{namehash}{BK+1}
+    \strng{fullhash}{BKtFBMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Introduction Non-invasive ventilation ({NIV}) has a significant role in
+  supporting patients with respiratory failure with the goal of avoiding
+  mechanical ventilation. Traditionally, {NIV} has been applied using dedicated
+  {NIV}-specific devices but over the last decade, newer generation critical
+  care ventilators have updated their capabilities to include {NIV} options
+  with improved synchrony and leak compensation. No recent trials have compared
+  the efficacy of new generation critical care ventilators to {NIV}
+  ventilators. The purpose of this study was to evaluate clinicians attitudes
+  and perceptions toward the use of {NIV} between the dedicated {NIV} and
+  critical care ventilators. Methods An online survey of clinicians with seven
+  questions regarding their thoughts and experience in using {NIV} in acute
+  care settings was posted online and promoted through emails and social media.
+  The survey was anonymous and an exemption of consent was obtained from the
+  Institutional Review Board. Analysis of variants ({ANOVA}) was done for the
+  total responses in each question, followed by multivariate analysis of
+  variants ({MANOVA}) for responses per occupation. Results 514 responses from
+  54 countries were recorded. 151 from North America, 109 from South America,
+  125 from Europe, 97 from Asia, 21 from Africa, and 11 from Australia. 218
+  responders were physicians, 218 were respiratory therapists, 28 were nurses,
+  and 50 were reported as other professionals (engineers, biomedical
+  technicians). 346 (67.3\%) reported using both types of ventilators for
+  {NIV}, 91 (17.7\%) use only {NIV} -specific devices, and 77 (15\%) only use
+  critical care ventilators (P 0.097), responses per occupation (P {\textless}
+  0.001). 290 (56.4\%) have automatic synchronization software on either of
+  their ventilators, 113 (22\%) do not, while 111 (21.6\%) are unsure if they
+  do (P 0.22), with significant variation by occupation (P 0.008). Regarding
+  synchrony, 233 (45.3\%) said {NIV} ventilators are better, and 165 (32.1\%)
+  said critical care ventilators are better, while 116 (22.5\%) said both are
+  similar (P 0.59) with significant variation by occupation (P 0.04). Regarding
+  leak compensation, 241 (46.9\%) said {NIV} ventilators are better, and 146
+  (284\%) said critical care ventilators are better, while 127 (24.7\%) said
+  both are similar (P 0.6) without significant variation by occupation (P
+  0.07). Regarding the general opinion of superiority, 273 (53.1\%) said {NIV}
+  ventilators are better, 131 (25.5\%) said critical care ventilators are
+  better, and 110 (21.4\%) said both are similar (P 0.42) without significant
+  variation by occupation (P 0.098). Conclusion Despite the lack of evidence,
+  there is wide variability in opinion with no clear consensus regarding the
+  clinicians’ attitude towards which ventilators are superior to use during
+  {NIV}, especially according to surveyed occupation.%
+    }
+    \verb{doi}
+    \verb 10.53097/JMV.10078
+    \endverb
+    \field{issn}{26940450}
+    \field{number}{2}
+    \field{pages}{84\bibrangedash 93}
+    \field{shortjournal}{{JMV}}
+    \field{shorttitle}{Exploring clinicians' beliefs and practices regarding
+  Non-Invasive Ventilation devices}
+    \field{title}{Exploring clinicians' beliefs and practices regarding
+  Non-Invasive Ventilation devices: An international survey study}
+    \verb{url}
+    \verb https://www.journalmechanicalventilation.com/exploring-clinicians-bel
+    \verb iefs-and-practices-regarding-non-invasive-ventilation-devices-an-inte
+    \verb rnational-survey-study/
+    \endverb
+    \field{volume}{4}
+    \verb{file}
+    \verb Full Text:/home/eric/Zotero/storage/HSPJQDNW/University of Hawaii et
+    \verb al. - 2023 - Exploring clinicians' beliefs and practices regard.pdf:a
+    \verb pplication/pdf
+    \endverb
+    \field{journaltitle}{Journal of Mechanical Ventilation}
+    \field{day}{15}
+    \field{month}{06}
+    \field{year}{2023}
+    \field{urlday}{30}
+    \field{urlmonth}{01}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{dustin_pneumonitis_2023}{inproceedings}{}{}
+    \name{author}{7}{}{%
+      {{hash=DD}{%
+         family={Dustin},
+         familyi={D\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Moku},
+         familyi={M\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric W}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={Decarli},
+         familyi={D\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Tanzer},
+         familyi={T\bibinitperiod},
+         given={J.R.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KP}{%
+         family={Koffer},
+         familyi={K\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Azzoli},
+         familyi={A\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Thoracic Society}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{DD+1}
+    \strng{fullhash}{DDMPtDKTJKPAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{A110. {LUNG} {CANCER} {RISK}, {SCREENING}, {TREATMENT},
+  {AND} {OUTCOMES}}
+    \verb{doi}
+    \verb 10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A2726
+    \endverb
+    \field{eventtitle}{American Thoracic Society 2023 International Conference}
+    \field{pages}{A2726\bibrangedash A2726}
+    \field{shorttitle}{Pneumonitis in Stage {III} Non-small Cell Lung Cancer}
+    \field{title}{Pneumonitis in Stage {III} Non-small Cell Lung Cancer: Who Is
+  at Risk?}
+    \verb{url}
+    \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2023.207.1_
+    \verb MeetingAbstracts.A2726
+    \endverb
+    \field{langid}{english}
+    \list{location}{1}{%
+      {Washington, {DC}}%
+    }
+    \field{month}{05}
+    \field{year}{2023}
+    \field{urlday}{30}
+    \field{urlmonth}{05}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{robbins_reduce_2023}{unpublished}{}{}
+    \name{author}{1}{}{%
+      {{hash=REW}{%
+         family={Robbins},
+         familyi={R\bibinitperiod},
+         given={Eric\bibnamedelima W},
+         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \keyw{presentation}
+    \strng{namehash}{REW1}
+    \strng{fullhash}{REW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{note}{Morning Report for Brown University Internal Medicine Program}
+    \field{title}{{REDUCE} Trial: Limiting Steroids in {COPD} Exacerbations}
+    \list{location}{1}{%
+      {Providence, {RI}}%
+    }
+    \field{day}{06}
+    \field{month}{10}
+    \field{year}{2023}
+  \endentry
+
+  \entry{robbins_medication_2023}{inproceedings}{}{}
+    \name{author}{19}{}{%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric W}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=BK}{%
+         family={Bradley},
+         familyi={B\bibinitperiod},
+         given={K.V.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Baird},
+         familyi={B\bibinitperiod},
+         given={G.L.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Badesch},
+         familyi={B\bibinitperiod},
+         given={D.B.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Burger},
+         familyi={B\bibinitperiod},
+         given={C.D.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Chybowski},
+         familyi={C\bibinitperiod},
+         given={A.M.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DMT}{%
+         family={De\bibnamedelima Marco},
+         familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hemnes},
+         familyi={H\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Lammi},
+         familyi={L\bibinitperiod},
+         given={M.R.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Mathai},
+         familyi={M\bibinitperiod},
+         given={S.C.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Mcconnell},
+         familyi={M\bibinitperiod},
+         given={J.W.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MGL}{%
+         family={Melendres-Groves},
+         familyi={M\bibinithyphendelim G\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RF}{%
+         family={Raza},
+         familyi={R\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Runo},
+         familyi={R\bibinitperiod},
+         given={J.R.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sager},
+         familyi={S\bibinitperiod},
+         given={J.S.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Shlobin},
+         familyi={S\bibinitperiod},
+         given={O.A.},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Thenappan},
+         familyi={T\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=ZR}{%
+         family={Zamanian},
+         familyi={Z\bibinitperiod},
+         given={R.T.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=VC}{%
+         family={Ventetuolo},
+         familyi={V\bibinitperiod},
+         given={C.E.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Thoracic Society}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{t+4}
+    \strng{fullhash}{tBKBGBDBCCADMTHALMMSMJMGLRFRJSJSOTTZRVC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{A26. {PRECISION}-{BASED} {APPROACHES} {TO} {PULMONARY}
+  {VASCULAR} {DISEASE}}
+    \verb{doi}
+    \verb 10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A1186
+    \endverb
+    \field{eventtitle}{American Thoracic Society 2023 International Conference}
+    \field{pages}{A1186\bibrangedash A1186}
+    \field{shorttitle}{Medication Non-adherence and Health-related Outcomes in
+  Patients With Pulmonary Arterial Hypertension}
+    \field{title}{Medication Non-adherence and Health-related Outcomes in
+  Patients With Pulmonary Arterial Hypertension: The Pulmonary Hypertension
+  Association Registry ({PHAR})}
+    \verb{url}
+    \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2023.207.1_
+    \verb MeetingAbstracts.A1186
+    \endverb
+    \field{langid}{english}
+    \list{location}{1}{%
+      {Washington, {DC}}%
+    }
+    \field{month}{05}
+    \field{year}{2023}
+    \field{urlday}{30}
+    \field{urlmonth}{05}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{robbins_assessing_2022}{unpublished}{}{}
+    \name{author}{1}{}{%
+      {{hash=REW}{%
+         family={Robbins},
+         familyi={R\bibinitperiod},
+         given={Eric\bibnamedelima W},
+         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \keyw{presentation}
+    \strng{namehash}{REW1}
+    \strng{fullhash}{REW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{note}{Morning Report for Brown University Internal Medicine Program}
+    \field{title}{Assessing Fluid Responsiveness in the {MICU}}
+    \list{location}{1}{%
+      {Providence, {RI}}%
+    }
+    \field{day}{23}
+    \field{month}{03}
+    \field{year}{2022}
+  \endentry
+
+  \entry{robbins_racial_2022}{unpublished}{}{}
+    \name{author}{1}{}{%
+      {{hash=REW}{%
+         family={Robbins},
+         familyi={R\bibinitperiod},
+         given={Eric\bibnamedelima W},
+         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \keyw{presentation}
+    \strng{namehash}{REW1}
+    \strng{fullhash}{REW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{note}{Morning Report for Brown University Internal Medicine Program}
+    \field{title}{Racial and Ethnic Differences in Bystander {CPR} for
+  Witnessed Cardiac Arrest}
+    \list{location}{1}{%
+      {Providence, {RI}}%
+    }
+    \field{day}{11}
+    \field{month}{12}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Robbins2022}{inproceedings}{}{}
+    \name{author}{3}{}{%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=YD}{%
+         family={Yee},
+         familyi={Y\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Shea},
+         familyi={S\bibinitperiod},
+         given={Barry},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Society of Critical Care Medicine}%
+    }
+    \keyw{{caseRep}}
+    \strng{namehash}{t+1}
+    \strng{fullhash}{tYDSB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \verb{doi}
+    \verb 10.1097/01.ccm.0000806828.13647.9a
+    \endverb
+    \field{eventtitle}{2022 Critical Care Congress Meeting}
+    \field{pages}{46\bibrangedash 46}
+    \field{title}{Diabetes Insipidus in a Critically Ill Postpartum Covid
+  Patient}
+    \verb{url}
+    \verb https://journals.lww.com/10.1097/01.ccm.0000806828.13647.9a
+    \endverb
+    \field{volume}{50}
+    \field{day}{16}
+    \field{month}{01}
+    \field{year}{2022}
+  \endentry
+
+  \entry{robbins_aortic_2022}{inproceedings}{}{}
+    \name{author}{5}{}{%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric W}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Ayaz},
+         familyi={A\bibinitperiod},
+         given={Ahsan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PN}{%
+         family={Perosevic},
+         familyi={P\bibinitperiod},
+         given={Nikola},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sacks},
+         familyi={S\bibinitperiod},
+         given={Ari},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Manzoor},
+         familyi={M\bibinitperiod},
+         given={Kamran},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Chest}%
+    }
+    \keyw{{caseRep}}
+    \strng{namehash}{t+4}
+    \strng{fullhash}{tAAPNSAMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \verb{doi}
+    \verb 10.1016/j.chest.2022.08.1070
+    \endverb
+    \field{eventtitle}{Chest Annual Meeting 2022}
+    \field{pages}{A1340\bibrangedash A1341}
+    \field{title}{Aortic Dissection Induced by Persistent Coughing in a Patient
+  with Emphysema}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369222024308
+    \endverb
+    \field{volume}{162}
+    \field{langid}{english}
+    \verb{file}
+    \verb Full Text:/home/eric/Zotero/storage/GYV7FIPQ/Robbins et al. - 2022 -
+    \verb AORTIC DISSECTION INDUCED BY PERSISTENT COUGHING I.pdf:application/pd
+    \verb f
+    \endverb
+    \field{month}{10}
+    \field{year}{2022}
+    \field{urlday}{17}
+    \field{urlmonth}{02}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{robbins_adenocarcinoma_2022}{inproceedings}{}{}
+    \name{author}{5}{}{%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric W}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sacks},
+         familyi={S\bibinitperiod},
+         given={Ari},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ASK}{%
+         family={A\bibnamedelima Sloan},
+         familyi={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Karin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Halle},
+         familyi={H\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Manzoor},
+         familyi={M\bibinitperiod},
+         given={Kamran},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Chest}%
+    }
+    \keyw{{caseRep}}
+    \strng{namehash}{t+6}
+    \strng{fullhash}{tSAASKHDMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \verb{doi}
+    \verb 10.1016/j.chest.2022.08.1375
+    \endverb
+    \field{eventtitle}{Chest Annual Meeting 2022}
+    \field{pages}{A1642\bibrangedash A1643}
+    \field{title}{Adenocarcinoma of the Lung Mimicking Miliary {TB} and Pott
+  Disease}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369222027350
+    \endverb
+    \field{volume}{162}
+    \field{langid}{english}
+    \verb{file}
+    \verb Full Text:/home/eric/Zotero/storage/RRY9XVWK/Robbins et al. - 2022 -
+    \verb ADENOCARCINOMA OF THE LUNG MIMICKING MILIARY TB AN.pdf:application/pd
+    \verb f
+    \endverb
+    \field{month}{10}
+    \field{year}{2022}
+    \field{urlday}{17}
+    \field{urlmonth}{02}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{Robbins2020a}{inproceedings}{}{}
+    \name{author}{3}{}{%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=AG}{%
+         family={Allam},
+         familyi={A\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Manzoor},
+         familyi={M\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Thoracic Society}%
+    }
+    \keyw{{caseRep}}
+    \strng{namehash}{t+1}
+    \strng{fullhash}{tAGMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{D48. {CRITICAL} {CARE} {CASE} {REPORTS}: {NEUROCRITICAL}
+  {CARE}, {SEDATION}, {AND} {DELIRIUM}}
+    \verb{doi}
+    \verb 10.1164/ajrccm-conference.2020.201.1_meetingabstracts.a6990
+    \endverb
+    \field{eventtitle}{{ATS} International Conference 2020}
+    \field{pages}{A6990\bibrangedash A6990}
+    \field{title}{Progressive Weakness in a Patient with Respiratory Failure:
+  Finding the Uncommon}
+    \verb{url}
+    \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_
+    \verb MeetingAbstracts.A6990
+    \endverb
+    \field{month}{05}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Robbins2020b}{inproceedings}{}{}
+    \name{author}{3}{}{%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Thota},
+         familyi={T\bibinitperiod},
+         given={Ajit},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Manzoor},
+         familyi={M\bibinitperiod},
+         given={Kamran},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Chest}%
+    }
+    \keyw{{caseRep}}
+    \strng{namehash}{t+1}
+    \strng{fullhash}{tTAMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    {SESSION} {TITLE}: Medical Student/Resident Lung Cancer Posters {SESSION}
+  {TYPE}: Med Student/Res Case Rep Postr {PRESENTED} {ON}: October 18-21, 2020
+  {INTRODUCTION}: A miliary pattern on chest imaging is often concerning for
+  primary tuberculosis. However, such nodules may also be seen in fungal
+  infections and autoimmune or (rarely) metastatic processes. Here, we report a
+  case of a miliary mottling on chest imaging associated with metastatic lung
+  adenocarcinoma. {CASE} {PRESENTATION}: A 39-year-old man with a history of
+  obesity and tobacco use presented with worsening chest congestion and dyspnea
+  on exertion for 2 months. He had occasional wheezing without associated
+  symptoms, including fever, chills or night sweats, or weight loss. He worked
+  in environmental services without any known sick contacts or recent travel
+  history. Physical examination was unremarkable except a small, palpable right
+  supraclavicular lymph node. The initial chest x-ray showed diffuse
+  interstitial infiltrates. Chest {CT} revealed innumerable bilateral cavitary
+  nodules with an apical gradient, a right lower lobe 6-cm mass with
+  cavitation, and mediastinal and supraclavicular lymphadenopathy. Given
+  concern of pulmonary tuberculosis with a miliary component, the patient
+  remained on airborne precautions. Laboratory workup was notable for a mild
+  leukocytosis of 12,000. Sputum cultures and {AFB} staining were negative. A
+  baseline connective tissue panel, {AFP}, and beta-{hCG} levels were
+  unmeasurable. Given his age and concern for metastatic disease, a scrotal
+  ultrasound was performed but did not reveal any testicular mass.
+  Subsequently, the patient underwent a fine-needle aspiration and core biopsy
+  of the right supraclavicular lymph node, which showed metastatic
+  adenocarcinoma. The immunohistochemical profile was suggestive of a positive
+  {CK}7 but negative for {CK}20, {TTF}-1, {CDX}2, and Napsin A—support the
+  diagnosis of non-small cell lung cancer with a {KRAS} Q61K mutation.
+  Immuno-chemotherapy with a combination of carboplatin, pemetrexed, and
+  pembrolizumab was initiated, given his stage {IV} metastatic lung
+  adenocarcinoma. {DISCUSSION}: The differential diagnosis for miliary patterns
+  on chest imaging includes tuberculosis, fungal infections, sarcoidosis,
+  pneumoconiosis, and secondary metastasis. Miliary-pattern metastatic lung
+  adenocarcinomas have been rarely reported. Our case is of interest given the
+  negative {TTF}-1 with a {KRAS} Q61K mutation, the later of which is
+  associated with resistance to the {EGFR} inhibitors gefitinib and erlotinib.
+  This entity is thought to have a poorer prognosis than {KRAS} wild-type
+  adenocarcinomas. {CONCLUSIONS}: The initial radiologic presentation of these
+  cases can be misleading in areas with high prevalence of infections such as
+  tuberculosis and fungal infections. The possibility of primary lung cancer
+  should also be considered in these cases. Reference \#1: A. Sekine et al.,
+  “Miliary lung metastases from non‑small cell lung cancer with Exon 20
+  insertion: A dismal prognostic entity: A case report,” Mol. Clin. Oncol.,
+  Oct. 2018, doi: 10.3892/mco.2018.1730. Reference \#2: L. Kimmig and J. Bueno,
+  “Miliary Nodules: Not Always Tuberculosis,” Ann. Am. Thorac. Soc., vol.
+  14, no. 12, pp. 1858–1860, Dec. 2017, doi:
+  10.1513/{AnnalsATS}.201706-436CC. Reference \#3: P. J. Roberts, T. E.
+  Stinchcombe, C. J. Der, and M. A. Socinski, “Personalized medicine in
+  non-small-cell lung cancer: is {KRAS} a useful marker in selecting patients
+  for epidermal growth factor receptor-targeted therapy?,” J. Clin. Oncol.,
+  vol. 28, no. 31, pp. 4769–77, Nov. 2010, doi: 10.1200/{JCO}.2009.27.4365.
+  {DISCLOSURES}: No relevant relationships by Kamran Manzoor, source=Web
+  Response No relevant relationships by Eric Robbins, source=Web Response No
+  relevant relationships by Ajit Thota, source=Web Response%
+    }
+    \field{booktitle}{Chest Annual Meeting 2020}
+    \verb{doi}
+    \verb 10.1016/j.chest.2020.08.1392
+    \endverb
+    \field{pages}{A1550}
+    \field{title}{Adenocarcinoma of the Lung With a Miliary Pattern}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S0012369220335789
+    \endverb
+    \field{volume}{158}
+    \field{month}{10}
+    \field{year}{2020}
+  \endentry
+
+  \entry{robbins_progressive_2020}{unpublished}{}{}
+    \name{author}{3}{}{%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric W}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=AG}{%
+         family={Allam},
+         familyi={A\bibinitperiod},
+         given={Gregory},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Manzoor},
+         familyi={M\bibinitperiod},
+         given={Kamran},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \keyw{presentation}
+    \strng{namehash}{t+2}
+    \strng{fullhash}{tAGMK2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{note}{South Shore Health Research Symposium}
+    \field{title}{Progressive Weakness in a Patient with Respiratory Failure:
+  Finding the Uncommon}
+    \list{location}{1}{%
+      {Weymouth, {MA}}%
+    }
+    \field{month}{01}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Robbins2020}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric W.}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=AK}{%
+         family={Arao},
+         familyi={A\bibinitperiod},
+         given={K.A.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Minami},
+         familyi={M\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Manzoor},
+         familyi={M\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Thoracic Society}%
+    }
+    \keyw{{caseRep}}
+    \strng{namehash}{t+3}
+    \strng{fullhash}{tAKMTMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{D79. {SRN}: {CURIOUS} {CASES} {IN} {SLEEP} {AND}
+  {RESPIRATORY} {MEDICINE}}
+    \verb{doi}
+    \verb 10.1164/ajrccm-conference.2020.201.1_meetingabstracts.a7618
+    \endverb
+    \field{pages}{A7618\bibrangedash A7618}
+    \field{title}{Denosumab-Related Mononeuritis Leading to Diaphragm and Long
+  Thoracic Nerve Paralysis}
+    \verb{url}
+    \verb https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_
+    \verb MeetingAbstracts.A7618
+    \endverb
+    \field{month}{05}
+    \field{year}{2020}
+  \endentry
+
+  \entry{robbins_relative_2018}{unpublished}{}{}
+    \name{author}{2}{}{%
+      {{hash=t}{%
+         family={\textbf{Robbins, Eric W}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Thanikachalam},
+         familyi={T\bibinitperiod},
+         given={Mohan},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{presentation}
+    \strng{namehash}{tTM1}
+    \strng{fullhash}{tTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{note}{Tufts University School of Medicine Summer Research Fair}
+    \field{title}{Relative Contributions of Insulin Resistance and Beta Cell
+  Dysfunction to the Development of Type 2 Diabetes in the {PURSE}-{HIS}
+  Cohort}
+    \list{location}{1}{%
+      {Boston, {MA}}%
+    }
+    \field{month}{01}
+    \field{year}{2018}
+  \endentry
+\enddatalist
 \endinput
-
