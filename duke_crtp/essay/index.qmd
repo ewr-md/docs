@@ -3,37 +3,44 @@ output: html
 ---
 
 # Career Goals and Benefit of Program
-Since early in my medical career, I have striven to know not just what to do for patients, but why it is we use a given therapy.
-What is the evidence base to support its use, and what evidentiary limitations should I keep in mind when picking a therapy?
-Knowing how we came to adopt a therapeutic intervention also allows us to know the limits of our certitude on its benefits, as well as what we can do when looking for better options in the future.
 
-Within pulmonology, our understanding of many autoinflammatory diseases has advanced over the past few decades, but our evidence base for their treatments remains woefully inadequate. 
-As a pulmonary-critical care fellow and aspiring physician-scientist, my career goals are to become an academic clinician-researcher who can continue to flesh out our understanding of the sequelae of chronic pulmonary immune dysregulation, such as connective-tissue-disease-related pulmonary hypertension and autoimmune interstitial lung diseases.
-I also hope to eventually work as a site principal investigator for clinical trials on these conditions, as well as to eventually run my own single- or multi-center trials on therapeutics for chronic autoinflammatory pulmonology conditions.
+Since early in my medical career, I have striven to know not only what to do for patients, but to also understand the why.
+What is the evidence base to support a given therapy’s use, and what evidentiary limitations should I keep in mind when selecting it? Knowing how we came to adopt a therapeutic intervention also allows us to know the limits of our certitude on its benefits, as well as what we can do when looking for better options in the future.
+
+Within pulmonology, our understanding of many autoinflammatory diseases has advanced over the past few decades, but our evidence base for their treatments remains woefully inadequate.
+As an aspiring physician-scientist, my career goals are to become an academic clinician-researcher who can continue to flesh out our understanding of the sequelae of chronic pulmonary immune dysregulation, such as connective-tissue-disease-related pulmonary hypertension and autoimmune interstitial lung diseases.
+I aspire to eventually work as a site principal investigator for clinical trials on these conditions, and to eventually run my own single- or multi-center trials on therapeutics for chronic autoinflammatory pulmonary conditions.
+The NIH-Duke program would offer me the skills and knowledge to become a more literate, informed colleague better able to have constructive and meaningful interactions with professional epidemiologists and biostatisticians or, when appropriate, to design and perform trials and analyses on my own.
 
 In my research experience to date, one of the largest roadblocks I have experienced (even with small, relatively straightforward projects) has been delays relating to statistical analyses.
 Statisticians are busy, in-demand professionals, and recruiting them for small or exploratory projects can often be overshadowed by their commitments to larger or more complex undertakings.
 With the training provided by the NIH-Duke CRTP, I hope to gain a foundation in statistical methods.
-With this, I hope to be able to create basic plans for exploratory analyses -- especially for clinical or retrospective hypothesis-generating projects.
-The CRTP would provide pragmatic experience in statistic programming with relevant languages (such as R and python).
-And for projects necessitating statistical methodologies more complex than my foundational training allows, I believe the CRTP would given me sufficient understanding to formulate research and statistical questions to better communicate, plan, and collaborate with PhD statisticians.
-Finally, I believe the coursework in the CRTP focusing on trial design and analysis would prepare me to be a not only a better clinician-researcher, but also a better appraiser of clinical and translational studies in my field. 
-
+With this, I hope to be able to create basic plans for exploratory analyses–especially for clinical or retrospective hypothesis-generating projects.
+The CRTP would provide pragmatic experience in statistical programming with relevant languages (such as R and Python).
+And for projects necessitating statistical methodologies more complex than my foundational training allows, I believe the CRTP would provide me with the knowledge and insight necessary to formulate research and statistical questions leading to more fruitful communication, planning, and collaboration with PhD statisticians.
+Finally, I believe the CRTP’s focus on trial design and analysis would prepare me to be not only a better clinician-researcher, but also a better appraiser of clinical and translational studies in my field.
+This, combined with coursework on medical genetics, proteomics, and clinical immunology, would directly support my interest in precision medicine and allow me to become a physician-investigator focused on clinically relevant, patient-oriented research while maintaining a significant clinical presence.
 
 # Research Interests 
 
-First as a medical student, and then continued throughout both residency and fellowship, I have had a long-standing interest in the sequelae of both acute and chronic immune dysregulation within the lungs.
-I am currently working one three primary projects, each of which would benefit from my entry into the NIH-Duke CRTP in different ways.
+Beginning in medical school and continuing throughout residency and fellowship, I have had an interest in the sequelae of acute and chronic immune dysregulation within the lungs.
+My research and career interests are directly informed by the desire to provide new, better, or better-evidence therapies to the patients I haven seen in clinic and the hospital, many of whom have devistating, life-limiting pulmonary diseases.
+Accordingly, I have three ongoing research projects, each of which would benefit from my entry into the NIH-Duke CRTP in different ways.
 
-First, I am part of an ongoing project on pulmonary hypertension (PH) attempting to quantify the global burden of the disease.
-This, along with most of my other work on PH to date have been mostly epidemiological.
-I hope to delve further into this field, and obtaining formal training in statistical methods through the NIH-Duke Masters program would be immeasurably helpful in achieving this goal.
- 
-Second, I am part of a prospective cohort study assessing the pulmonary manifestations of relapsing polychondritis and VEXAS, rare autoinflammatory diseases that lack definitive treatments or strong evidence bases for their management.
-I believe the training offered by Duke in research methods such as in trial design, longitudinal analysis, and research management would strongly strengthen my contribution to this project.
+First, I am part of an ongoing project attempting to quantify the global burden of pulmonary hypertension (PH).
+This research, along with most of my other work on PH to date, has been epidemiological in nature.
+Specifically, we are performing a systematic review and meta-analysis focused on all published papers in sub-Saharan Africa (SSA) with echocardiographic data.
+We have screened thousands of papers using PRISMA guidelines, extracted relevant data, and (with the help of our statisticians) calculated the overall prevalence and estimated the disease burden of PH within the entirety of SSA.
+Obtaining formal training in statistical analyses and methodologies through the NIH-Duke Masters program would be immeasurably helpful in facilitating my continued research in this field, as we plan on broadening this effort beyond sub-Saharan Africa.
 
-Finally, at the NIH I am part of an effort to investigate proteomic expression patterns seen in patients with myositis-associated interstitial lung disease, using a variety of platforms and techniques.
-As someone who has long held a personal interest in computers and programming, I hope to utilize the ever-expanding set of tools to analyze large, multi-dimensional datasets, such as those common in multi-omic analyses. 
+Second, I have helped construct a prospective cohort study assessing the pulmonary manifestations of relapsing polychondritis and VEXAS syndrome, rare autoinflammatory diseases that lack definitive treatments or strong evidence bases for their management.
+The training offered by Duke in research methods such as in trial design, longitudinal analysis, and research management would strongly strengthen my contribution to this project.
 
-My long-term goal is to remain actively engaged in clinical and translational research at an academic medical center, where I also hope to continue an active clinical presence.
-I hope to use the skills and knowledge the NIH-Duke program would offer me to become a more literate, informed colleague better able to have constructive and meaningful interactions with professional epidemiologists and biostatisticians or, when appropriate, to design and perform trials and analyses on my own.
+At the NIH I am part of an effort to investigate proteomic expression patterns seen in patients with myositis-associated interstitial lung disease, using a variety of platforms and techniques.
+As someone who has long held a personal interest in computers and programming, I hope to utilize the ever-expanding set of tools to analyze large, multi-dimensional datasets, such as those common in multi-omic analyses.
+I am currently using a combination of R and Python to transform patient clinical data previously recorded in a series of Excel spreadsheets into a properly normalized relational database.
+One we begin primary data collection from our patient blood samples, we will need to simplify and analyze a high-dimensional dataset, likely using unsupervised learning methods (prinicpal component analyses, UMAP, etc.).
+
+My aim with all of these research projects is to better understand and ultimately better treat patients with life-threatening pulmonary conditions.
+With these comparatively rare and heterogeneous autoinflammatory diseases, my hope is that the combination of big data anlyses, translational mechanistic insights, and clinic-based cohort data will allow transformative improvements in care. 
+As someone who wishes to maintain a strong presence in the clinical and hospital taking care of these patients, research is critically important to 
