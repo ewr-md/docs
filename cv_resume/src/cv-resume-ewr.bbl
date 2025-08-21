@@ -17,13 +17,233 @@
 \endgroup
 
 \datalist[entry]{ydnt/global//global/global/global}
+  \entry{ajitumar_factor_2025}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=AA}{%
+         family={Ajitumar},
+         familyi={A\bibinitperiod},
+         given={Ashika},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=MY}{%
+         family={Mastoor},
+         familyi={M\bibinitperiod},
+         given={Yusuf},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Ferrada},
+         familyi={F\bibinitperiod},
+         given={Marcela},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{AA+1}
+    \strng{fullhash}{AAtMYFM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{eventtitle}{{ACR} Convergence 2025}
+    \field{title}{Factor {VIII} as a Potential Biomarker of Disease Activity in
+  Relapsing Polychondritis}
+    \field{day}{27}
+    \field{month}{10}
+    \field{year}{2025}
+  \endentry
+
+  \entry{santi_heterogeneity_2025}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=SA}{%
+         family={Santi},
+         familyi={S\bibinitperiod},
+         given={Armella},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Ngah},
+         familyi={N\bibinitperiod},
+         given={Veranyuy},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=MBA}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={Bradley\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=ZK}{%
+         family={Zeder},
+         familyi={Z\bibinitperiod},
+         given={Katarina},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \keyw{article}
+    \strng{namehash}{SA+2}
+    \strng{fullhash}{SANVtMBAZK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    {ABSTRACT} This systematic literature review of three Western European
+  Countries identified N  = 48 different terms to describe pulmonary
+  arterial pressure and N  = 35 thresholds used to define pulmonary
+  hypertension in published empiric research studies. There is an urgent need
+  to standardize pulmonary artery pressure nomenclature and pulmonary
+  hypertension definitions in clinical research reports.%
+    }
+    \verb{doi}
+    \verb 10.1002/pul2.70089
+    \endverb
+    \field{issn}{2045-8940, 2045-8940}
+    \field{number}{2}
+    \field{pages}{e70089}
+    \field{shortjournal}{Pulm. circ.}
+    \field{shorttitle}{The Heterogeneity of Pulmonary Hypertension Nomenclature
+  in Empiric Research Studies}
+    \field{title}{The Heterogeneity of Pulmonary Hypertension Nomenclature in
+  Empiric Research Studies: Systematic Findings From Three Western European
+  Countries}
+    \verb{url}
+    \verb https://onlinelibrary.wiley.com/doi/10.1002/pul2.70089
+    \endverb
+    \field{volume}{15}
+    \field{langid}{english}
+    \field{journaltitle}{Pulmonary Circulation}
+    \field{month}{04}
+    \field{year}{2025}
+    \field{urlday}{09}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{santi_prevalence_2025}{inproceedings}{}{}
+    \name{author}{7}{}{%
+      {{hash=SA}{%
+         family={Santi},
+         familyi={S\bibinitperiod},
+         given={Armella},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={L},
+         giveni={L},
+      }}%
+      {{hash=NV}{%
+         family={Ngah},
+         familyi={N\bibinitperiod},
+         given={Veranyuy},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Guoding},
+         familyi={G\bibinitperiod},
+         given={D},
+         giveni={D},
+      }}%
+      {{hash=MB}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={Bradley},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ZK}{%
+         family={Zeder},
+         familyi={Z\bibinitperiod},
+         given={Katarina},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pulmonary Vascular Research Institute}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{SA+2}
+    \strng{fullhash}{SAWLNVtGDMBZK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Pulmonary Circulation}
+    \verb{doi}
+    \verb 10.1002/pul2.70062
+    \endverb
+    \field{eventtitle}{{PVRI} 2025 Annual Congress}
+    \field{pages}{e70062}
+    \field{title}{The Prevalence of Pulmonary Hypertension in Sickle Cell
+  Disease in Sub-Saharan Africa: A Systematic Review and Meta-Analysis}
+    \verb{url}
+    \verb https://onlinelibrary.wiley.com/doi/10.1002/pul2.70062
+    \endverb
+    \field{volume}{15}
+    \field{langid}{english}
+    \list{location}{1}{%
+      {Rio de Janeiro, Brazil}%
+    }
+    \verb{file}
+    \verb Full Text PDF:/home/eric/Zotero/storage/9LC2Y3GY/2025 - Abstract.pdf:
+    \verb application/pdf
+    \endverb
+    \field{month}{01}
+    \field{year}{2025}
+    \field{urlday}{30}
+    \field{urlmonth}{03}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{robbins_relapsing_2025}{inproceedings}{}{}
+    \name{author}{2}{}{%
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Ferrada},
+         familyi={F\bibinitperiod},
+         given={Marcela},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{tFM1}
+    \strng{fullhash}{tFM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{eventtitle}{{ACR} Convergence 2025}
+    \field{title}{Relapsing Polychondritis: Mimicking Asthma while Airways get
+  Damaged}
+    \list{location}{1}{%
+      {Chicago, {IL}}%
+    }
+    \field{day}{28}
+    \field{month}{10}
+    \field{year}{2025}
+  \endentry
+
   \entry{robbins_medication_2025}{article}{}{}
     \name{author}{18}{}{%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=BK}{%
          family={Bradley},
@@ -129,8 +349,8 @@
       }}%
     }
     \keyw{article}
-    \strng{namehash}{REW+3}
-    \strng{fullhash}{REWBKBDBBCCAMDMTHARLMMSCMGLRFSJSOATTZRRJBGLVCE1}
+    \strng{namehash}{t+2}
+    \strng{fullhash}{tBKBDBBCCAMDMTHARLMMSCMGLRFSJSOATTZRRJBGLVCE1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{shorttitle}
     \field{sortinit}{7}
@@ -160,11 +380,9 @@
 
   \entry{robbins_prevalence_2025}{inproceedings}{}{}
     \name{author}{7}{}{%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima William},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=NV}{%
          family={Ngah},
@@ -207,8 +425,8 @@
       {American Thoracic Society}%
     }
     \keyw{abstract}
-    \strng{namehash}{REW+6}
-    \strng{fullhash}{REWNVWLSADGMBAZK1}
+    \strng{namehash}{t+2}
+    \strng{fullhash}{tNVWLSADGMBAZK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
@@ -227,81 +445,12 @@
     \field{year}{2025}
   \endentry
 
-  \entry{santi_heterogeneity_2025}{article}{}{}
-    \name{author}{5}{}{%
-      {{hash=SA}{%
-         family={Santi},
-         familyi={S\bibinitperiod},
-         given={Armella},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=NV}{%
-         family={Ngah},
-         familyi={N\bibinitperiod},
-         given={Veranyuy},
-         giveni={V\bibinitperiod},
-      }}%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W.},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
-      }}%
-      {{hash=MBA}{%
-         family={Maron},
-         familyi={M\bibinitperiod},
-         given={Bradley\bibnamedelima A.},
-         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-      {{hash=ZK}{%
-         family={Zeder},
-         familyi={Z\bibinitperiod},
-         given={Katarina},
-         giveni={K\bibinitperiod},
-      }}%
-    }
-    \keyw{article}
-    \strng{namehash}{SA+2}
-    \strng{fullhash}{SANVREWMBAZK1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{shorttitle}
-    \field{sortinit}{7}
-    \field{sortinithash}{7}
-    \field{abstract}{%
-    {ABSTRACT} This systematic literature review of three Western European
-  Countries identified N  = 48 different terms to describe pulmonary
-  arterial pressure and N  = 35 thresholds used to define pulmonary
-  hypertension in published empiric research studies. There is an urgent need
-  to standardize pulmonary artery pressure nomenclature and pulmonary
-  hypertension definitions in clinical research reports.%
-    }
-    \verb{doi}
-    \verb 10.1002/pul2.70089
-    \endverb
-    \field{issn}{2045-8940, 2045-8940}
-    \field{number}{2}
-    \field{pages}{e70089}
-    \field{shortjournal}{Pulm. circ.}
-    \field{shorttitle}{The Heterogeneity of Pulmonary Hypertension Nomenclature
-  in Empiric Research Studies}
-    \field{title}{The Heterogeneity of Pulmonary Hypertension Nomenclature in
-  Empiric Research Studies: Systematic Findings From Three Western European
-  Countries}
-    \verb{url}
-    \verb https://onlinelibrary.wiley.com/doi/10.1002/pul2.70089
-    \endverb
-    \field{volume}{15}
-    \field{langid}{english}
-    \field{journaltitle}{Pulmonary Circulation}
-    \field{month}{04}
-    \field{year}{2025}
-    \field{urlday}{09}
-    \field{urlmonth}{05}
-    \field{urlyear}{2025}
-  \endentry
-
-  \entry{santi_prevalence_2025}{inproceedings}{}{}
+  \entry{robbins_estimated_2025}{inproceedings}{}{}
     \name{author}{7}{}{%
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
       {{hash=SA}{%
          family={Santi},
          familyi={S\bibinitperiod},
@@ -311,8 +460,8 @@
       {{hash=WL}{%
          family={Wang},
          familyi={W\bibinitperiod},
-         given={L},
-         giveni={L},
+         given={Lanjing},
+         giveni={L\bibinitperiod},
       }}%
       {{hash=NV}{%
          family={Ngah},
@@ -320,23 +469,17 @@
          given={Veranyuy},
          giveni={V\bibinitperiod},
       }}%
-      {{hash=RE}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric},
-         giveni={E\bibinitperiod},
+      {{hash=DG}{%
+         family={Diao},
+         familyi={D\bibinitperiod},
+         given={Guoqing},
+         giveni={G\bibinitperiod},
       }}%
-      {{hash=GD}{%
-         family={Guoding},
-         familyi={G\bibinitperiod},
-         given={D},
-         giveni={D},
-      }}%
-      {{hash=MB}{%
+      {{hash=MBA}{%
          family={Maron},
          familyi={M\bibinitperiod},
-         given={Bradley},
-         giveni={B\bibinitperiod},
+         given={Bradley\bibnamedelima A},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
       {{hash=ZK}{%
          family={Zeder},
@@ -345,88 +488,233 @@
          giveni={K\bibinitperiod},
       }}%
     }
-    \list{publisher}{1}{%
-      {Pulmonary Vascular Research Institute}%
-    }
     \keyw{abstract}
-    \strng{namehash}{SA+2}
-    \strng{fullhash}{SAWLNVREGDMBZK1}
+    \strng{namehash}{t+2}
+    \strng{fullhash}{tSAWLNVDGMBAZK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
     \field{sortinithash}{7}
-    \field{booktitle}{Pulmonary Circulation}
-    \verb{doi}
-    \verb 10.1002/pul2.70062
-    \endverb
-    \field{eventtitle}{{PVRI} 2025 Annual Congress}
-    \field{pages}{e70062}
-    \field{title}{The Prevalence of Pulmonary Hypertension in Sickle Cell
-  Disease in Sub-Saharan Africa: A Systematic Review and Meta-Analysis}
-    \verb{url}
-    \verb https://onlinelibrary.wiley.com/doi/10.1002/pul2.70062
-    \endverb
-    \field{volume}{15}
-    \field{langid}{english}
+    \field{eventtitle}{{ERS} Conference 2025}
+    \field{title}{The Estimated Prevalence of Pulmonary Hypertension with
+  Sickle Cell Disease in sub-Saharan Africa}
     \list{location}{1}{%
-      {Rio de Janeiro, Brazil}%
+      {Amsterdam, Netherlands}%
     }
-    \verb{file}
-    \verb Full Text PDF:/home/eric/Zotero/storage/9LC2Y3GY/2025 - Abstract.pdf:
-    \verb application/pdf
-    \endverb
-    \field{month}{01}
+    \field{day}{30}
+    \field{month}{09}
     \field{year}{2025}
-    \field{urlday}{30}
-    \field{urlmonth}{03}
-    \field{urlyear}{2025}
   \endentry
 
-  \entry{robbins_pseudohypoglycemia_2024}{article}{}{}
-    \name{author}{3}{}{%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W.},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
-      }}%
-      {{hash=MT}{%
-         family={Minami},
-         familyi={M\bibinitperiod},
-         given={Taro},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=MK}{%
-         family={Manzoor},
-         familyi={M\bibinitperiod},
-         given={Kamran},
+  \entry{zeder_epidemiology_2025}{article}{}{}
+    \name{author}{13}{}{%
+      {{hash=ZK}{%
+         family={Zeder},
+         familyi={Z\bibinitperiod},
+         given={Katarina},
          giveni={K\bibinitperiod},
       }}%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Lanjing},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Ngah},
+         familyi={N\bibinitperiod},
+         given={Veranyuy},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Santi},
+         familyi={S\bibinitperiod},
+         given={Armella},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=MAO}{%
+         family={Mocumbi},
+         familyi={M\bibinitperiod},
+         given={Ana\bibnamedelima O},
+         giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=NJ}{%
+         family={Namuyonga},
+         familyi={N\bibinitperiod},
+         given={Judith},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NP}{%
+         family={Nyasulu},
+         familyi={N\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Kovacs},
+         familyi={K\bibinitperiod},
+         given={Gabor},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Strange},
+         familyi={S\bibinitperiod},
+         given={Geoff},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Stewart},
+         familyi={S\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Diao},
+         familyi={D\bibinitperiod},
+         given={Guoqing},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MBA}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={Bradley\bibnamedelima A},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
     }
-    \keyw{article}
-    \strng{namehash}{REW+4}
-    \strng{fullhash}{REWMTMK1}
+    \keyw{submitted}
+    \strng{namehash}{ZK+1}
+    \strng{fullhash}{ZKWLNVSAtMAONJNPKGSGSSDGMBA1}
     \field{labelnamesource}{author}
-    \field{labeltitlesource}{shorttitle}
+    \field{labeltitlesource}{title}
     \field{sortinit}{7}
     \field{sortinithash}{7}
-    \field{abstract}{%
-    Hypoglycemia is a common clinical finding, especially in the inpatient
-  setting. However, laboratory testing may show falsely low blood glucose
-  levels. It is crucial for clinicians to recognize the existence of
-  pseudohypo- glycemia and know when and how to test for it.%
+    \verb{doi}
+    \verb SUBMITTED, UNDER REVIEW
+    \endverb
+    \field{shortjournal}{Lancet Respir Med}
+    \field{title}{The Epidemiology of Pulmonary Hypertension in sub-Saharan
+  Africa}
+    \field{journaltitle}{The Lancet Respiratory Medicine}
+    \field{month}{08}
+    \field{year}{2025}
+  \endentry
+
+  \entry{zeder_prevalence_2025-1}{inproceedings}{}{}
+    \name{author}{7}{}{%
+      {{hash=ZK}{%
+         family={Zeder},
+         familyi={Z\bibinitperiod},
+         given={Katarina},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Lanjing},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Santi},
+         familyi={S\bibinitperiod},
+         given={Armella},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Ngah},
+         familyi={N\bibinitperiod},
+         given={Veranyuy},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Diao},
+         familyi={D\bibinitperiod},
+         given={Guoqing},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MBA}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={Bradley\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
     }
-    \field{issn}{2327-2228}
-    \field{number}{2}
-    \field{pages}{20\bibrangedash 23}
-    \field{shortjournal}{R I Med J (2013)}
-    \field{shorttitle}{Pseudohypoglycemia}
-    \field{title}{Pseudohypoglycemia: A Pitfall in Everyday Practice}
-    \field{volume}{107}
-    \field{journaltitle}{Rhode Island Medical Journal (2013)}
-    \field{day}{01}
-    \field{month}{02}
-    \field{year}{2024}
+    \keyw{abstract}
+    \strng{namehash}{ZK+1}
+    \strng{fullhash}{ZKWLSANVtDGMBA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{eventtitle}{American Heart Association Scientific Session 2025}
+    \field{title}{The Prevalence of Pulmonary Hypertension in Hypertensive
+  Heart Failure in Sub-Saharan Africa}
+    \field{month}{11}
+    \field{year}{2025}
+  \endentry
+
+  \entry{zeder_pulmonary_2025}{inproceedings}{}{}
+    \name{author}{7}{}{%
+      {{hash=ZK}{%
+         family={Zeder},
+         familyi={Z\bibinitperiod},
+         given={Katarina},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Lanjing},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Santi},
+         familyi={S\bibinitperiod},
+         given={Armella},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Nguh},
+         familyi={N\bibinitperiod},
+         given={Veranyuy},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Diao},
+         familyi={D\bibinitperiod},
+         given={Guoqing},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MBA}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={Bradley\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{ZK+1}
+    \strng{fullhash}{ZKWLSANVtDGMBA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{eventtitle}{American Heart Association Scientific Session 2025}
+    \field{title}{Pulmonary Hypertension Associated with Rheumatic Heart
+  Disease Presents a Major Unmet Disease Burden in Sub-Saharan Africa}
+    \field{month}{11}
+    \field{year}{2025}
   \endentry
 
   \entry{santi_definition_2024}{inproceedings}{}{}
@@ -443,11 +731,9 @@
          given={L.},
          giveni={L\bibinitperiod},
       }}%
-      {{hash=RE}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={E.},
-         giveni={E\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=NV}{%
          family={Ngah},
@@ -473,7 +759,7 @@
     }
     \keyw{abstract}
     \strng{namehash}{SA+1}
-    \strng{fullhash}{SACLRENVMBZK1}
+    \strng{fullhash}{SACLtNVMBZK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
@@ -502,6 +788,51 @@
     \field{urlyear}{2024}
   \endentry
 
+  \entry{robbins_pseudohypoglycemia_2024}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Minami},
+         familyi={M\bibinitperiod},
+         given={Taro},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Manzoor},
+         familyi={M\bibinitperiod},
+         given={Kamran},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \keyw{article}
+    \strng{namehash}{t+2}
+    \strng{fullhash}{tMTMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Hypoglycemia is a common clinical finding, especially in the inpatient
+  setting. However, laboratory testing may show falsely low blood glucose
+  levels. It is crucial for clinicians to recognize the existence of
+  pseudohypo- glycemia and know when and how to test for it.%
+    }
+    \field{issn}{2327-2228}
+    \field{number}{2}
+    \field{pages}{20\bibrangedash 23}
+    \field{shortjournal}{R I Med J (2013)}
+    \field{shorttitle}{Pseudohypoglycemia}
+    \field{title}{Pseudohypoglycemia: A Pitfall in Everyday Practice}
+    \field{volume}{107}
+    \field{journaltitle}{Rhode Island Medical Journal (2013)}
+    \field{day}{01}
+    \field{month}{02}
+    \field{year}{2024}
+  \endentry
+
   \entry{zeder_prevalence_2024}{inproceedings}{}{}
     \name{author}{12}{}{%
       {{hash=ZK}{%
@@ -528,11 +859,9 @@
          given={Armella},
          giveni={A\bibinitperiod},
       }}%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=NV}{%
          family={Ngah},
@@ -582,7 +911,7 @@
     }
     \keyw{abstract}
     \strng{namehash}{ZK+1}
-    \strng{fullhash}{ZKBCCLSAREWNVUSRSSSSGKGMBA1}
+    \strng{fullhash}{ZKBCCLSAtNVUSRSSSSGKGMBA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
@@ -615,11 +944,9 @@
          given={Kevin},
          giveni={K\bibinitperiod},
       }}%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W.},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=FB}{%
          family={Fujiuchi},
@@ -636,7 +963,7 @@
     }
     \keyw{article}
     \strng{namehash}{BK+1}
-    \strng{fullhash}{BKREWFBMK1}
+    \strng{fullhash}{BKtFBMK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{shorttitle}
     \field{sortinit}{7}
@@ -727,11 +1054,9 @@
          given={P.},
          giveni={P\bibinitperiod},
       }}%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=DK}{%
          family={Decarli},
@@ -763,7 +1088,7 @@
     }
     \keyw{abstract}
     \strng{namehash}{DD+1}
-    \strng{fullhash}{DDMPREWDKTJKPAC1}
+    \strng{fullhash}{DDMPtDKTJKPAC1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{shorttitle}
     \field{sortinit}{7}
@@ -821,11 +1146,9 @@
 
   \entry{robbins_medication_2023}{inproceedings}{}{}
     \name{author}{19}{}{%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=BK}{%
          family={Bradley},
@@ -940,8 +1263,8 @@
       {American Thoracic Society}%
     }
     \keyw{abstract}
-    \strng{namehash}{REW+3}
-    \strng{fullhash}{REWBKBGBDBCCADMTHALMMSMJMGLRFRJSJSOTTZRVC1}
+    \strng{namehash}{t+2}
+    \strng{fullhash}{tBKBGBDBCCADMTHALMMSMJMGLRFRJSJSOTTZRVC1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{shorttitle}
     \field{sortinit}{7}
@@ -971,53 +1294,6 @@
     \field{urlday}{30}
     \field{urlmonth}{05}
     \field{urlyear}{2023}
-  \endentry
-
-  \entry{Robbins2022}{inproceedings}{}{}
-    \name{author}{3}{}{%
-      {{hash=RE}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric},
-         giveni={E\bibinitperiod},
-      }}%
-      {{hash=YD}{%
-         family={Yee},
-         familyi={Y\bibinitperiod},
-         given={Daniel},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=SB}{%
-         family={Shea},
-         familyi={S\bibinitperiod},
-         given={Barry},
-         giveni={B\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Society of Critical Care Medicine}%
-    }
-    \keyw{{caseRep}}
-    \strng{namehash}{RE+1}
-    \strng{fullhash}{REYDSB1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{7}
-    \field{sortinithash}{7}
-    \verb{doi}
-    \verb 10.1097/01.ccm.0000806828.13647.9a
-    \endverb
-    \field{eventtitle}{2022 Critical Care Congress Meeting}
-    \field{pages}{46\bibrangedash 46}
-    \field{title}{Diabetes Insipidus in a Critically Ill Postpartum Covid
-  Patient}
-    \verb{url}
-    \verb https://journals.lww.com/10.1097/01.ccm.0000806828.13647.9a
-    \endverb
-    \field{volume}{50}
-    \field{day}{16}
-    \field{month}{01}
-    \field{year}{2022}
   \endentry
 
   \entry{robbins_assessing_2022}{unpublished}{}{}
@@ -1073,13 +1349,56 @@
     \field{year}{2022}
   \endentry
 
+  \entry{Robbins2022}{inproceedings}{}{}
+    \name{author}{3}{}{%
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=YD}{%
+         family={Yee},
+         familyi={Y\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Shea},
+         familyi={S\bibinitperiod},
+         given={Barry},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Society of Critical Care Medicine}%
+    }
+    \keyw{{caseRep}}
+    \strng{namehash}{t+1}
+    \strng{fullhash}{tYDSB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \verb{doi}
+    \verb 10.1097/01.ccm.0000806828.13647.9a
+    \endverb
+    \field{eventtitle}{2022 Critical Care Congress Meeting}
+    \field{pages}{46\bibrangedash 46}
+    \field{title}{Diabetes Insipidus in a Critically Ill Postpartum Covid
+  Patient}
+    \verb{url}
+    \verb https://journals.lww.com/10.1097/01.ccm.0000806828.13647.9a
+    \endverb
+    \field{volume}{50}
+    \field{day}{16}
+    \field{month}{01}
+    \field{year}{2022}
+  \endentry
+
   \entry{robbins_aortic_2022}{inproceedings}{}{}
     \name{author}{5}{}{%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=AA}{%
          family={Ayaz},
@@ -1110,8 +1429,8 @@
       {Chest}%
     }
     \keyw{{caseRep}}
-    \strng{namehash}{REW+3}
-    \strng{fullhash}{REWAAPNSAMK1}
+    \strng{namehash}{t+2}
+    \strng{fullhash}{tAAPNSAMK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
@@ -1142,11 +1461,9 @@
 
   \entry{robbins_adenocarcinoma_2022}{inproceedings}{}{}
     \name{author}{5}{}{%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=SA}{%
          family={Sacks},
@@ -1177,8 +1494,8 @@
       {Chest}%
     }
     \keyw{{caseRep}}
-    \strng{namehash}{REW+5}
-    \strng{fullhash}{REWSAASKHDMK1}
+    \strng{namehash}{t+2}
+    \strng{fullhash}{tSAASKHDMK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
@@ -1209,11 +1526,9 @@
 
   \entry{Robbins2020a}{inproceedings}{}{}
     \name{author}{3}{}{%
-      {{hash=RE}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric},
-         giveni={E\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=AG}{%
          family={Allam},
@@ -1232,8 +1547,8 @@
       {American Thoracic Society}%
     }
     \keyw{{caseRep}}
-    \strng{namehash}{RE+1}
-    \strng{fullhash}{REAGMK1}
+    \strng{namehash}{t+1}
+    \strng{fullhash}{tAGMK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
@@ -1257,11 +1572,9 @@
 
   \entry{Robbins2020b}{inproceedings}{}{}
     \name{author}{3}{}{%
-      {{hash=RE}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric},
-         giveni={E\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=TA}{%
          family={Thota},
@@ -1280,8 +1593,8 @@
       {Chest}%
     }
     \keyw{{caseRep}}
-    \strng{namehash}{RE+1}
-    \strng{fullhash}{RETAMK1}
+    \strng{namehash}{t+1}
+    \strng{fullhash}{tTAMK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
@@ -1357,11 +1670,9 @@
 
   \entry{robbins_progressive_2020}{unpublished}{}{}
     \name{author}{3}{}{%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=AG}{%
          family={Allam},
@@ -1377,8 +1688,8 @@
       }}%
     }
     \keyw{presentation}
-    \strng{namehash}{REW+1}
-    \strng{fullhash}{REWAGMK1}
+    \strng{namehash}{t+2}
+    \strng{fullhash}{tAGMK2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
@@ -1395,11 +1706,9 @@
 
   \entry{Robbins2020}{inproceedings}{}{}
     \name{author}{4}{}{%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W.},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=AK}{%
          family={Arao},
@@ -1424,8 +1733,8 @@
       {American Thoracic Society}%
     }
     \keyw{{caseRep}}
-    \strng{namehash}{REW+2}
-    \strng{fullhash}{REWAKMTMK1}
+    \strng{namehash}{t+2}
+    \strng{fullhash}{tAKMTMK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
@@ -1448,11 +1757,9 @@
 
   \entry{robbins_relative_2018}{unpublished}{}{}
     \name{author}{2}{}{%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
       {{hash=TM}{%
          family={Thanikachalam},
@@ -1462,8 +1769,8 @@
       }}%
     }
     \keyw{presentation}
-    \strng{namehash}{REWTM1}
-    \strng{fullhash}{REWTM1}
+    \strng{namehash}{tTM1}
+    \strng{fullhash}{tTM1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}

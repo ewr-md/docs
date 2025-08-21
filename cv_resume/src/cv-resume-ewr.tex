@@ -11,6 +11,7 @@
 \usepackage[sorting=ydnt, url=false, style=ieee, minbibnames=5, maxbibnames=5, defernumbers=true, backend=bibtex]{biblatex}
 \addbibresource{personal_bib.bib}
 
+
 %defining variables specifying column widths
 \newcommand\colleft{.20}
 \newcommand\colright{.75}
@@ -201,8 +202,10 @@
 		\\ \\
 		Co-Investigator on a Systematic Review and Meta-analysis on the Global Prevalence and Burden of Pulmonary Hypertension across Ten Global Regions, \textit{University of Maryland Institute for Health Computing}.
 		Mentor: Bradley Maron, MD. PI: Katarina Zeder, MD, PhD.
+	\subsection*{Submitted Manuscripts}
+		\printbibliography[keyword=submitted, heading=none,resetnumbers]
 	\subsection*{Peer-Reviewed Articles}
-		\printbibliography[keyword=article, heading=none]
+		\printbibliography[keyword=article, heading=none,resetnumbers]
 	\subsection*{Scientific Abstracts}
 		\printbibliography[keyword=abstract, heading=none,resetnumbers]	
 	\subsection*{Case Reports}
@@ -224,8 +227,13 @@
 %			\item Volunteered at a free clinic for the un- and under-insured, taking patient vitals and basic histories
 %		\end{itemize}
 %	}
-	\section*{Board Certifications}
-		\entrytwo{2023 -- 2033}{American Board of Internal Medicine}
+	\section*{Professional Licenses and Certifications}
+		\entrythree{2025}{ECMO Course Certification}{R Adams Cowley Shock Trauma Center}
+	
+		\entrythree{2025 -- 2027}{Medical License}{State of Maryland}
+		
+		\entrythree{2023 -- 2033}{Board Certification, Internal Medicine}{American Board of Internal Medicine}
+		
 	\section*{Society Memberships}
 		\emph{Honos Civicus}, Tufts University\\
 		American Thoracic Society\\
@@ -234,6 +242,12 @@
 		American College of Rheumatology
 		
 	\section*{Committees and Other Appointments}
+		\entryfour{2024 -- Present}{Peer Reviewer}{Thorax}{%
+			\begin{itemize}
+				\item Served as manuscript peer reviewer, with stated specialty in connective-tissue-associated interstitial lung disease and pulmonary hypertension
+			\end{itemize}
+	}
+	
 		\entryfour{12/2021 -- Present}{Affiliate}{medRxiv}{%
 			\begin{itemize}
 				\item Screened submitted manuscripts for appropriateness, scope, and medical feasibility
