@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.9)  22 AUG 2025 08:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.9)  23 AUG 2025 09:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -598,17 +598,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 203--211
 
  []
 
-
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
-/enc/dvips/cm-super/cm-super-ts1.enc}]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 212.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 212.
 
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
@@ -623,16 +621,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.220 ...presentation, heading=none, resetnumbers]
-                                                   [3]
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.317 	
-        [4]
+l.238 	
+        [3]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
@@ -640,7 +630,7 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.318 \end{document}
-                     [5] (./cv-resume-ewr.aux)
+                     [4] (./cv-resume-ewr.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -652,25 +642,23 @@ Package logreq Info: Writing requests to 'cv-resume-ewr.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16697 strings out of 475171
- 298761 string characters out of 5767096
- 918623 words of memory out of 5000000
- 39524 multiletter control sequences out of 15000+600000
- 562466 words of font info for 48 fonts, out of 8000000 for 9000
+ 16689 strings out of 475171
+ 298633 string characters out of 5767096
+ 917623 words of memory out of 5000000
+ 39519 multiletter control sequences out of 15000+600000
+ 561777 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,5n,81p,1892b,1473s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,81p,1892b,1475s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
-/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1
-/public/cm-super/sfrm0800.pfb>
-Output written on cv-resume-ewr.pdf (5 pages, 167506 bytes).
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on cv-resume-ewr.pdf (4 pages, 138571 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
+ 110 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
  29 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
