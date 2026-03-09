@@ -17,6 +17,364 @@
 \endgroup
 
 \datalist[entry]{ydnt/global//global/global/global}
+  \entry{burbelo_improved_2026}{article}{}{}
+    \name{author}{15}{}{%
+      {{hash=BPD}{%
+         family={Burbelo},
+         familyi={B\bibinitperiod},
+         given={Peter\bibnamedelima D.},
+         giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=PI}{%
+         family={Pinal‐Fernandez},
+         familyi={P\bibinitperiod},
+         given={Iago},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Casal‐Dominguez},
+         familyi={C\bibinitperiod},
+         given={Maria},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TX}{%
+         family={Tian},
+         familyi={T\bibinitperiod},
+         given={Xin},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={Shijinqiu},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GN}{%
+         family={Gupta},
+         familyi={G\bibinitperiod},
+         given={Neha},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=CJA}{%
+         family={Chiorini},
+         familyi={C\bibinitperiod},
+         given={John\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MCA}{%
+         family={Mecoli},
+         familyi={M\bibinitperiod},
+         given={Christopher\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Christopher‐Stine},
+         familyi={C\bibinitperiod},
+         given={Lisa},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Casciola‐Rosen},
+         familyi={C\bibinitperiod},
+         given={Livia},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mammen},
+         familyi={M\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DSK}{%
+         family={Danoff},
+         familyi={D\bibinitperiod},
+         given={Sonye\bibnamedelima K.},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=SAF}{%
+         family={Suffredini},
+         familyi={S\bibinitperiod},
+         given={Anthony\bibnamedelima F.},
+         giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=HJA}{%
+         family={Huapaya},
+         familyi={H\bibinitperiod},
+         given={Julio\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{article}
+    \strng{namehash}{BPD+1}
+    \strng{fullhash}{BPDPICMTXGSGNtCJAMCACLCLMADSKSAFHJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Background Myositis‐specific autoantibodies guide the diagnosis and
+  classification of idiopathic inflammatory myopathies, but current
+  immunoassays vary in accuracy, particularly for autoantibodies associated
+  with interstitial lung disease. Objective To compare the performance of the
+  luciferase immunoprecipitation systems ({LIPS}) assay with line blot and
+  immunoprecipitation ({IP}) and to evaluate whether antibody‐specific
+  thresholds modify line blot concordance. Methods We analyzed 279 sera with
+  line blot results from the Johns Hopkins Myositis Center. {LIPS} was
+  performed for anti‐Jo‐1, anti‐{PL}‐7, anti‐{PL}‐12,
+  anti‐{MDA}‐5, anti‐{EJ}, and anti‐Ro52 autoantibodies. Line blot
+  results were evaluated using standard thresholds (≥36, ≥71 arbitrary
+  units [{AU}]). Assay performance was evaluated against {IP} (n=141). In
+  patients without {IP} (n=138), clinical diagnoses were examined. Results
+  {LIPS} showed excellent agreement with {IP} (κ=0.90, {AUC} 0.935),
+  outperforming line blot. Line blot cutoffs influenced performance: ≥36 {AU}
+  increased sensitivity (92.9\%) but reduced specificity (73.8\%), while ≥71
+  {AU} improved specificity (92.9\%) but lowered sensitivity (82.8\%).
+  Antibody‐specific thresholds modified concordance but remained
+  quantitatively inferior to {LIPS}. In patients without {IP}, concordance
+  between {LIPS} and line blot was 89\% at ≥36 {AU} and 83\% at ≥71 {AU}.
+  {LIPS}‐positive cases were enriched for antisynthetase syndrome and
+  dermatomyositis. Among discordant cases (line
+  blot‐positive/{LIPS}‐negative), most were clinically classified as
+  inclusion body myositis (5/11). For anti‐Ro52, discrepancies were most
+  frequent at titers {\textless}36 {AU}. Conclusion {LIPS} provides
+  quantitative discrimination, strong concordance with {IP}, and improved
+  performance compared with line blot, particularly at low to intermediate
+  titers. By reducing misclassification and complementing antibody‐specific
+  thresholds, {LIPS} has the potential to enhance clinical stratification in
+  myositis patients.%
+    }
+    \verb{doi}
+    \verb 10.1002/art.70103
+    \endverb
+    \field{issn}{2326-5191, 2326-5205}
+    \field{pages}{art.70103}
+    \field{shortjournal}{Arthritis \& Rheumatology}
+    \field{shorttitle}{Improved Detection of Myositis‐Specific Autoantibodies
+  Using Luciferase Immunoprecipitation Systems Assay}
+    \field{title}{Improved Detection of Myositis‐Specific Autoantibodies
+  Using Luciferase Immunoprecipitation Systems Assay: Comparison with Line Blot
+  and Conventional Immunoprecipitation}
+    \verb{url}
+    \verb https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/art.70103
+    \endverb
+    \field{langid}{english}
+    \field{journaltitle}{Arthritis \& Rheumatology}
+    \field{day}{23}
+    \field{month}{02}
+    \field{year}{2026}
+    \field{urlday}{09}
+    \field{urlmonth}{03}
+    \field{urlyear}{2026}
+  \endentry
+
+  \entry{huapaya_proteomic_2026}{inproceedings}{}{}
+    \name{author}{19}{}{%
+      {{hash=HJ}{%
+         family={Huapaya},
+         familyi={H\bibinitperiod},
+         given={{JA}},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=PFI}{%
+         family={Pinal-Fernandez},
+         familyi={P\bibinithyphendelim F\bibinitperiod},
+         given={I},
+         giveni={I},
+      }}%
+      {{hash=TS}{%
+         family={Turan},
+         familyi={T\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+      {{hash=TX}{%
+         family={Tian},
+         familyi={T\bibinitperiod},
+         given={X},
+         giveni={X},
+      }}%
+      {{hash=GS}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+      {{hash=WJ}{%
+         family={Ward},
+         familyi={W\bibinitperiod},
+         given={J},
+         giveni={J},
+      }}%
+      {{hash=RN}{%
+         family={Redekar},
+         familyi={R\bibinitperiod},
+         given={N},
+         giveni={N},
+      }}%
+      {{hash=GS}{%
+         family={Gairhe},
+         familyi={G\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+      {{hash=GN}{%
+         family={Gupta},
+         familyi={G\bibinitperiod},
+         given={N},
+         giveni={N},
+      }}%
+      {{hash=PG}{%
+         family={Pastor},
+         familyi={P\bibinitperiod},
+         given={G},
+         giveni={G},
+      }}%
+      {{hash=PFI}{%
+         family={Pinal-Fernandez},
+         familyi={P\bibinithyphendelim F\bibinitperiod},
+         given={I},
+         giveni={I},
+      }}%
+      {{hash=CDM}{%
+         family={Casal-Dominguez},
+         familyi={C\bibinithyphendelim D\bibinitperiod},
+         given={M},
+         giveni={M},
+      }}%
+      {{hash=CSL}{%
+         family={Christopher-Stine},
+         familyi={C\bibinithyphendelim S\bibinitperiod},
+         given={L},
+         giveni={L},
+      }}%
+      {{hash=SA}{%
+         family={Schiffenbauer},
+         familyi={S\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+      {{hash=RL}{%
+         family={Rider},
+         familyi={R\bibinitperiod},
+         given={{LG}},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mammen},
+         familyi={M\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+      {{hash=DS}{%
+         family={Danoff},
+         familyi={D\bibinitperiod},
+         given={{SK}},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Suffredini},
+         familyi={S\bibinitperiod},
+         given={{AF}},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{HJ+1}
+    \strng{fullhash}{HJtPFITSTXGSWJRNGSGNPGPFICDMCSLSARLMADSSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{eventtitle}{{NHLBI} Department of Intramural Research Day, 2026}
+    \field{title}{Proteomic Profiling Identifies Autoantibody-Specific
+  Signatures and an Injury-Stress Endotype in Myositis-Associated Interstitial
+  Lung Disease}
+    \field{day}{13}
+    \field{month}{03}
+    \field{year}{2026}
+  \endentry
+
+  \entry{robbins_vv_2026}{inproceedings}{}{}
+    \name{author}{9}{}{%
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={Jacqueline},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={Emmanuel},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BKA}{%
+         family={Boswell},
+         familyi={B\bibinitperiod},
+         given={Kimberly\bibnamedelima A},
+         giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CCY}{%
+         family={Chung},
+         familyi={C\bibinitperiod},
+         given={Choyin\bibnamedelima Y},
+         giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=EEC}{%
+         family={Esposito},
+         familyi={E\bibinitperiod},
+         given={Emily\bibnamedelima C},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=HDJ}{%
+         family={Haase},
+         familyi={H\bibinitperiod},
+         given={Daniel\bibnamedelima J},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=NE}{%
+         family={Niles},
+         familyi={N\bibinitperiod},
+         given={Erin},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=PEK}{%
+         family={Powell},
+         familyi={P\bibinitperiod},
+         given={Elizabeth\bibnamedelima K},
+         giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{t+1}
+    \strng{fullhash}{tRJREBKACCYEECHDJNEPEK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{eventtitle}{{ATS} International Conference 2026}
+    \field{title}{{VV} {ECMO} in Status Asthmaticus Results in High Survival
+  Rates: A Retrospective Cohort Study}
+    \list{location}{1}{%
+      {Orlando, {FL}}%
+    }
+    \field{day}{17}
+    \field{month}{05}
+    \field{year}{2026}
+  \endentry
+
   \entry{ajitumar_factor_2025}{inproceedings}{}{}
     \name{author}{4}{}{%
       {{hash=AA}{%
@@ -349,7 +707,7 @@
       }}%
     }
     \keyw{article}
-    \strng{namehash}{t+2}
+    \strng{namehash}{t+1}
     \strng{fullhash}{tBKBDBBCCAMDMTHARLMMSCMGLRFSJSOATTZRRJBGLVCE1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{shorttitle}
@@ -425,7 +783,7 @@
       {American Thoracic Society}%
     }
     \keyw{abstract}
-    \strng{namehash}{t+2}
+    \strng{namehash}{t+1}
     \strng{fullhash}{tNVWLSADGMBAZK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -489,7 +847,7 @@
       }}%
     }
     \keyw{abstract}
-    \strng{namehash}{t+2}
+    \strng{namehash}{t+1}
     \strng{fullhash}{tSAWLNVDGMBAZK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -603,6 +961,116 @@
     \field{year}{2025}
   \endentry
 
+  \entry{zeder_pulmonary_2025}{inproceedings}{}{}
+    \name{author}{7}{}{%
+      {{hash=ZK}{%
+         family={Zeder},
+         familyi={Z\bibinitperiod},
+         given={Katarina},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Lanjing},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Santi},
+         familyi={S\bibinitperiod},
+         given={Armella},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Ngah},
+         familyi={N\bibinitperiod},
+         given={Veranyuy},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Diao},
+         familyi={D\bibinitperiod},
+         given={Guoqing},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={Brad},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{ZK+1}
+    \strng{fullhash}{ZKWLSANVtDGMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Background: In rheumatic heart disease ({RHD}), post-streptococcal
+  rheumatic fever causes valvular heart destruction leading to pulmonary
+  hypertension ({PH}), a prognostic and potentially modifiable cause of adverse
+  outcomes. Indeed, {RHD} is a major contributor to global disease burden with
+  most patients living in low-middle income countries, such as sub-Saharan
+  Africa ({SSA}). The prevalence of {PH}-{RHD} in {SSA} is unknown, but its
+  determination is a key step toward population health initiatives to mitigate
+  {RHD} burden and improve clinical care. Methods: We conducted a systematic
+  literature search following {PRISMA} and {GATHER} guidelines searching
+  {PubMed}, Embase, Web of Science, and {LILACS} for studies published until
+  09/2023 on patients in {SSA} with {RHD}, diagnosed based on {WHO} criteria,
+  who underwent echocardiography or right heart catheterization. We excluded
+  studies without a clear {PH} definition and performed a meta-analysis using a
+  random-effects model of proportions. Risk of bias was assessed for all
+  studies. We then extrapolated results to the total {RHD} population in {SSA},
+  while accounting for {RHD} severity. Results: In total, we included N=18
+  studies compromising N=3,181 patients (mean age, 32±14 years; male,
+  17±12\%) of which 72\%, 11\%, and 17\% originated from high-middle,
+  lower-middle and low-income countries, respectively. The majority of studies
+  had a retrospective (61\%) and single-centre design (83\%). In n=16 studies
+  (89\%), echocardiography was used to diagnose {PH}. The estimated {PH}
+  prevalence based on estimated systolic pulmonary arterial pressure ({sPAP})
+  {\textgreater}35mmHg was 58.9\% (95\%{CI}: 43.3–73.7\% from n=16 studies),
+  which was three-fold greater in severe vs. mild {RHD} (78.2\% [95\%{CI}:
+  69.6–85.4\%], n=10 studies vs. 25.7\% [95\%{CI}: 13.8–39.8\%], n=6
+  studies; p{\textless}0.001). Based on data from the Global Burden of Disease
+  Study, {RHD} affected 15.5 (95\%{CI}: 11.8–19.6) million people in {SSA} in
+  2021. Using this is a referent and weighting our calculations by the
+  proportion of those who have severe vs. mild {RHD}, we extrapolated that 9.2
+  (95\%{CI}: 6.5–11.9) million people are affected by {PH}-{RHD},
+  corresponding to {\textasciitilde}0.7\% of the {SSA} population in 2021
+  (Figure 1). Conclusion: {PH} is common in {RHD}, and {PH}-{RHD} prevalence
+  exceeds disorders of seemingly greater notoriety, such as ischemic or
+  congenital heart disease. Public health measures aimed at reducing {PH}-{RHD}
+  risk through primary prevention of {RHD} are expected to improve longevity in
+  this large and highly vulnerable at-risk population.%
+    }
+    \field{booktitle}{Circulation}
+    \verb{doi}
+    \verb 10.1161/circ.152.suppl_3.4358240
+    \endverb
+    \field{issn}{0009-7322, 1524-4539}
+    \field{issue}{Suppl\_3}
+    \field{shorttitle}{Abstract 4358240}
+    \field{title}{Pulmonary Hypertension Associated with Rheumatic Heart
+  Disease Presents a Major Unmet Disease Burden in Sub-Saharan Africa}
+    \verb{url}
+    \verb https://www.ahajournals.org/doi/10.1161/circ.152.suppl_3.4358240
+    \endverb
+    \field{volume}{152}
+    \field{langid}{english}
+    \field{day}{04}
+    \field{month}{11}
+    \field{year}{2025}
+    \field{urlday}{09}
+    \field{urlmonth}{03}
+    \field{urlyear}{2026}
+  \endentry
+
   \entry{zeder_prevalence_2025-1}{inproceedings}{}{}
     \name{author}{7}{}{%
       {{hash=ZK}{%
@@ -660,7 +1128,7 @@
     \field{year}{2025}
   \endentry
 
-  \entry{zeder_pulmonary_2025}{inproceedings}{}{}
+  \entry{zeder_prevalence_2025}{inproceedings}{}{}
     \name{author}{7}{}{%
       {{hash=ZK}{%
          family={Zeder},
@@ -681,9 +1149,9 @@
          giveni={A\bibinitperiod},
       }}%
       {{hash=NV}{%
-         family={Nguh},
+         family={Ngah},
          familyi={N\bibinitperiod},
-         given={Veranyuy},
+         given={Vernyuy},
          giveni={V\bibinitperiod},
       }}%
       {{hash=t}{%
@@ -703,7 +1171,6 @@
          giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
     }
-    \keyw{abstract}
     \strng{namehash}{ZK+1}
     \strng{fullhash}{ZKWLSANVtDGMBA2}
     \field{labelnamesource}{author}
@@ -711,8 +1178,8 @@
     \field{sortinit}{7}
     \field{sortinithash}{7}
     \field{eventtitle}{American Heart Association Scientific Session 2025}
-    \field{title}{Pulmonary Hypertension Associated with Rheumatic Heart
-  Disease Presents a Major Unmet Disease Burden in Sub-Saharan Africa}
+    \field{title}{The Prevalence of Pulmonary Hypertension Associated with
+  Heart Failure in Sub-Saharan Africa}
     \field{month}{11}
     \field{year}{2025}
   \endentry
@@ -808,7 +1275,7 @@
       }}%
     }
     \keyw{article}
-    \strng{namehash}{t+2}
+    \strng{namehash}{t+1}
     \strng{fullhash}{tMTMK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{shorttitle}
@@ -1120,16 +1587,14 @@
 
   \entry{robbins_reduce_2023}{unpublished}{}{}
     \name{author}{1}{}{%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
       }}%
     }
     \keyw{presentation}
-    \strng{namehash}{REW1}
-    \strng{fullhash}{REW1}
+    \strng{namehash}{t1}
+    \strng{fullhash}{t1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
@@ -1263,7 +1728,7 @@
       {American Thoracic Society}%
     }
     \keyw{abstract}
-    \strng{namehash}{t+2}
+    \strng{namehash}{t+1}
     \strng{fullhash}{tBKBGBDBCCADMTHALMMSMJMGLRFRJSJSOTTZRVC1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{shorttitle}
@@ -1294,59 +1759,6 @@
     \field{urlday}{30}
     \field{urlmonth}{05}
     \field{urlyear}{2023}
-  \endentry
-
-  \entry{robbins_assessing_2022}{unpublished}{}{}
-    \name{author}{1}{}{%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
-      }}%
-    }
-    \keyw{presentation}
-    \strng{namehash}{REW1}
-    \strng{fullhash}{REW1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{7}
-    \field{sortinithash}{7}
-    \field{note}{Morning Report for Brown University Internal Medicine Program}
-    \field{title}{Assessing Fluid Responsiveness in the {MICU}}
-    \list{location}{1}{%
-      {Providence, {RI}}%
-    }
-    \field{day}{23}
-    \field{month}{03}
-    \field{year}{2022}
-  \endentry
-
-  \entry{robbins_racial_2022}{unpublished}{}{}
-    \name{author}{1}{}{%
-      {{hash=REW}{%
-         family={Robbins},
-         familyi={R\bibinitperiod},
-         given={Eric\bibnamedelima W},
-         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
-      }}%
-    }
-    \keyw{presentation}
-    \strng{namehash}{REW1}
-    \strng{fullhash}{REW1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{7}
-    \field{sortinithash}{7}
-    \field{note}{Morning Report for Brown University Internal Medicine Program}
-    \field{title}{Racial and Ethnic Differences in Bystander {CPR} for
-  Witnessed Cardiac Arrest}
-    \list{location}{1}{%
-      {Providence, {RI}}%
-    }
-    \field{day}{11}
-    \field{month}{12}
-    \field{year}{2022}
   \endentry
 
   \entry{Robbins2022}{inproceedings}{}{}
@@ -1394,6 +1806,55 @@
     \field{year}{2022}
   \endentry
 
+  \entry{robbins_assessing_2022}{unpublished}{}{}
+    \name{author}{1}{}{%
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+    }
+    \keyw{presentation}
+    \strng{namehash}{t1}
+    \strng{fullhash}{t1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{note}{Morning Report for Brown University Internal Medicine Program}
+    \field{title}{Assessing Fluid Responsiveness in the {MICU}}
+    \list{location}{1}{%
+      {Providence, {RI}}%
+    }
+    \field{day}{23}
+    \field{month}{03}
+    \field{year}{2022}
+  \endentry
+
+  \entry{robbins_racial_2022}{unpublished}{}{}
+    \name{author}{1}{}{%
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+    }
+    \keyw{presentation}
+    \strng{namehash}{t1}
+    \strng{fullhash}{t1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{note}{Morning Report for Brown University Internal Medicine Program}
+    \field{title}{Racial and Ethnic Differences in Bystander {CPR} for
+  Witnessed Cardiac Arrest}
+    \list{location}{1}{%
+      {Providence, {RI}}%
+    }
+    \field{day}{11}
+    \field{month}{12}
+    \field{year}{2022}
+  \endentry
+
   \entry{robbins_aortic_2022}{inproceedings}{}{}
     \name{author}{5}{}{%
       {{hash=t}{%
@@ -1429,7 +1890,7 @@
       {Chest}%
     }
     \keyw{{caseRep}}
-    \strng{namehash}{t+2}
+    \strng{namehash}{t+1}
     \strng{fullhash}{tAAPNSAMK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -1494,7 +1955,7 @@
       {Chest}%
     }
     \keyw{{caseRep}}
-    \strng{namehash}{t+2}
+    \strng{namehash}{t+1}
     \strng{fullhash}{tSAASKHDMK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -1688,7 +2149,7 @@
       }}%
     }
     \keyw{presentation}
-    \strng{namehash}{t+2}
+    \strng{namehash}{t+1}
     \strng{fullhash}{tAGMK2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -1733,7 +2194,7 @@
       {American Thoracic Society}%
     }
     \keyw{{caseRep}}
-    \strng{namehash}{t+2}
+    \strng{namehash}{t+1}
     \strng{fullhash}{tAKMTMK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}

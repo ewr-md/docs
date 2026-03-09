@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2026/dev/Arch Linux)
+This is BibTeX, Version 0.99e (TeX Live 2026/Arch Linux)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: cv-resume-ewr.aux
 The style file: biblatex.bst
@@ -19,47 +19,47 @@ Reallocated singl_function (elt_size=8) to 100 items from 50.
 Reallocated singl_function (elt_size=8) to 100 items from 50.
 Database file #1: cv-resume-ewr-blx.bib
 Database file #2: personal_bib.bib
-Biblatex version: 3.20
+Biblatex version: 3.21
 Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
 Reallocated singl_function (elt_size=8) to 100 items from 50.
-You've used 28 entries,
+You've used 32 entries,
             6402 wiz_defined-function locations,
-            1432 strings with 27156 characters,
-and the built_in function-call counts, 505121 in all, are:
-= -- 35262
-> -- 28000
-< -- 2369
-+ -- 34691
-- -- 23158
-* -- 30484
-:= -- 71502
+            1467 strings with 33991 characters,
+and the built_in function-call counts, 630535 in all, are:
+= -- 45618
+> -- 32517
+< -- 2709
++ -- 41934
+- -- 26885
+* -- 39029
+:= -- 89618
 add.period$ -- 0
-call.type$ -- 28
-change.case$ -- 703
-chr.to.int$ -- 1724
-cite$ -- 54
-duplicate$ -- 45189
-empty$ -- 33293
-format.name$ -- 3113
-if$ -- 82254
+call.type$ -- 32
+change.case$ -- 751
+chr.to.int$ -- 2012
+cite$ -- 62
+duplicate$ -- 56977
+empty$ -- 41926
+format.name$ -- 3868
+if$ -- 103487
 int.to.chr$ -- 0
-int.to.str$ -- 127
+int.to.str$ -- 141
 missing$ -- 0
-newline$ -- 1654
-num.names$ -- 1673
-pop$ -- 11447
+newline$ -- 2044
+num.names$ -- 1853
+pop$ -- 13634
 preamble$ -- 1
-purify$ -- 1050
+purify$ -- 1202
 quote$ -- 0
-skip$ -- 8203
+skip$ -- 9376
 stack$ -- 0
-substring$ -- 69861
-swap$ -- 7887
-text.length$ -- 1709
-text.prefix$ -- 29
+substring$ -- 91246
+swap$ -- 9409
+text.length$ -- 2030
+text.prefix$ -- 47
 top$ -- 1
-type$ -- 940
+type$ -- 1076
 warning$ -- 0
-while$ -- 7088
+while$ -- 9037
 width$ -- 0
-write$ -- 1627
+write$ -- 2013
