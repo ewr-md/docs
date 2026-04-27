@@ -17,6 +17,89 @@
 \endgroup
 
 \datalist[entry]{ydnt/global//global/global/global}
+  \entry{alberter_treatment_2026}{article}{}{}
+    \name{author}{6}{}{%
+      {{hash=AAA}{%
+         family={Alberter},
+         familyi={A\bibinitperiod},
+         given={Andrew\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{E.W. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={Taylor},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MMJ}{%
+         family={Mackin},
+         familyi={M\bibinitperiod},
+         given={Matthew\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=NE}{%
+         family={Niles},
+         familyi={N\bibinitperiod},
+         given={Erin},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=PEK}{%
+         family={Powell},
+         familyi={P\bibinitperiod},
+         given={Elizabeth\bibnamedelima K.},
+         giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \keyw{article}
+    \strng{namehash}{AAA+1}
+    \strng{fullhash}{AAAtMTMMJNEPEK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Asthma is a common chronic respiratory disease where exacerbations can be
+  associated with significant morbidity, mortality, and economic burden. Severe
+  asthma exacerbations ({SAEs}) represent life-threatening episodes of symptom
+  burden that require intensive care treatment. While outpatient asthma
+  management is well-established by major organizational guidelines, there are
+  limited evidence-based recommendations for treatment of {SAEs} requiring
+  intensive care. This narrative review synthesizes current literature
+  regarding conventional inpatient asthma therapies, ventilation strategies,
+  and emerging rescue modalities for management of {SAEs}, including inhaled
+  anesthetics and veno-venous extracorporeal membrane oxygenation and discusses
+  future areas of interest for research. Until more robust clinical data is
+  available, intensivists should weigh the potential risks and benefits of more
+  advanced rescue therapies and consider a multidisciplinary approach to
+  determining those most likely to benefit from these interventions.%
+    }
+    \verb{doi}
+    \verb 10.1177/02676591261438969
+    \endverb
+    \field{issn}{0267-6591, 1477-111X}
+    \field{pages}{02676591261438969}
+    \field{shortjournal}{Perfusion}
+    \field{shorttitle}{The treatment of status asthmaticus in the intensive
+  care unit}
+    \field{title}{The treatment of status asthmaticus in the intensive care
+  unit: A narrative review}
+    \verb{url}
+    \verb https://journals.sagepub.com/doi/10.1177/02676591261438969
+    \endverb
+    \field{langid}{english}
+    \field{journaltitle}{Perfusion}
+    \field{day}{24}
+    \field{month}{03}
+    \field{year}{2026}
+    \field{urlday}{19}
+    \field{urlmonth}{04}
+    \field{urlyear}{2026}
+  \endentry
+
   \entry{burbelo_improved_2026}{article}{}{}
     \name{author}{15}{}{%
       {{hash=BPD}{%
@@ -956,7 +1039,7 @@
     \field{shortjournal}{Lancet Respir Med}
     \field{title}{The Epidemiology of Pulmonary Hypertension in sub-Saharan
   Africa}
-    \field{journaltitle}{The Lancet Respiratory Medicine}
+    \field{journaltitle}{{BMJ} Global Health}
     \field{month}{08}
     \field{year}{2025}
   \endentry

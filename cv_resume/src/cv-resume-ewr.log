@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.3.7)  9 MAR 2026 19:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.6)  19 APR 2026 09:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -586,36 +586,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 203--211
 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 212.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 212.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 215.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 215.
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.216 ...word=abstract, heading=none,resetnumbers]
-                                                  	 [2]
+l.219 ...word=abstract, heading=none,resetnumbers]
+                                                  	 [2{/usr/share/texmf-dist/fo
+nts/enc/dvips/cm-super/cm-super-ts1.enc}]
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.220 ...presentation, heading=none, resetnumbers]
+l.221 ...yword=caseRep, heading=none,resetnumbers]
                                                    [3]
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.319 	
-        [4]
+l.290 
+       [4]
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.320 \end{document}
+l.325 \end{document}
                      [5] (./cv-resume-ewr.aux)
  ***********
 LaTeX2e <2025-11-01>
@@ -628,23 +630,24 @@ Package logreq Info: Writing requests to 'cv-resume-ewr.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16688 strings out of 469515
- 298680 string characters out of 5470808
- 942913 words of memory out of 5000000
- 45177 multiletter control sequences out of 15000+600000
- 630661 words of font info for 50 fonts, out of 8000000 for 9000
+ 16698 strings out of 469515
+ 299080 string characters out of 5470808
+ 946036 words of memory out of 5000000
+ 45184 multiletter control sequences out of 15000+600000
+ 630998 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,5n,79p,1892b,1471s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,1892b,1481s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
-/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv-resume-ewr.pdf (5 pages, 140869 bytes).
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-d
+ist/fonts/type1/public/cm-super/sfrm0800.pfb>
+Output written on cv-resume-ewr.pdf (5 pages, 157952 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
- 97 compressed objects within 1 object stream
- 32 named destinations out of 1000 (max. 500000)
+ 127 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
