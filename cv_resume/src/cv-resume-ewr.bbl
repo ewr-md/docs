@@ -458,6 +458,103 @@
     \field{year}{2026}
   \endentry
 
+  \entry{zeder_epidemiology_2025}{article}{}{}
+    \name{author}{13}{}{%
+      {{hash=ZK}{%
+         family={Zeder},
+         familyi={Z\bibinitperiod},
+         given={Katarina},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Lanjing},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Ngah},
+         familyi={N\bibinitperiod},
+         given={Veranyuy},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Santi},
+         familyi={S\bibinitperiod},
+         given={Armella},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=MAO}{%
+         family={Mocumbi},
+         familyi={M\bibinitperiod},
+         given={Ana\bibnamedelima O},
+         giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=NJ}{%
+         family={Namuyonga},
+         familyi={N\bibinitperiod},
+         given={Judith},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NP}{%
+         family={Nyasulu},
+         familyi={N\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Kovacs},
+         familyi={K\bibinitperiod},
+         given={Gabor},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Strange},
+         familyi={S\bibinitperiod},
+         given={Geoff},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Stewart},
+         familyi={S\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Diao},
+         familyi={D\bibinitperiod},
+         given={Guoqing},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MBA}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={Bradley\bibnamedelima A},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{submitted}
+    \strng{namehash}{ZK+1}
+    \strng{fullhash}{ZKWLNVSAtMAONJNPKGSGSSDGMBA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \verb{doi}
+    \verb SUBMITTED, UNDER REVIEW
+    \endverb
+    \field{shortjournal}{Pulm Circ}
+    \field{title}{The Epidemiology of Pulmonary Hypertension in sub-Saharan
+  Africa}
+    \field{journaltitle}{Pulm Circ}
+    \field{month}{04}
+    \field{year}{2026}
+  \endentry
+
   \entry{ajitumar_factor_2025}{inproceedings}{}{}
     \name{author}{4}{}{%
       {{hash=AA}{%
@@ -944,103 +1041,6 @@
     }
     \field{day}{30}
     \field{month}{09}
-    \field{year}{2025}
-  \endentry
-
-  \entry{zeder_epidemiology_2025}{article}{}{}
-    \name{author}{13}{}{%
-      {{hash=ZK}{%
-         family={Zeder},
-         familyi={Z\bibinitperiod},
-         given={Katarina},
-         giveni={K\bibinitperiod},
-      }}%
-      {{hash=WL}{%
-         family={Wang},
-         familyi={W\bibinitperiod},
-         given={Lanjing},
-         giveni={L\bibinitperiod},
-      }}%
-      {{hash=NV}{%
-         family={Ngah},
-         familyi={N\bibinitperiod},
-         given={Veranyuy},
-         giveni={V\bibinitperiod},
-      }}%
-      {{hash=SA}{%
-         family={Santi},
-         familyi={S\bibinitperiod},
-         given={Armella},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=t}{%
-         family={\textbf{E. Robbins}},
-         familyi={t\bibinitperiod},
-      }}%
-      {{hash=MAO}{%
-         family={Mocumbi},
-         familyi={M\bibinitperiod},
-         given={Ana\bibnamedelima O},
-         giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
-      }}%
-      {{hash=NJ}{%
-         family={Namuyonga},
-         familyi={N\bibinitperiod},
-         given={Judith},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=NP}{%
-         family={Nyasulu},
-         familyi={N\bibinitperiod},
-         given={Peter},
-         giveni={P\bibinitperiod},
-      }}%
-      {{hash=KG}{%
-         family={Kovacs},
-         familyi={K\bibinitperiod},
-         given={Gabor},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=SG}{%
-         family={Strange},
-         familyi={S\bibinitperiod},
-         given={Geoff},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=SS}{%
-         family={Stewart},
-         familyi={S\bibinitperiod},
-         given={Simon},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=DG}{%
-         family={Diao},
-         familyi={D\bibinitperiod},
-         given={Guoqing},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=MBA}{%
-         family={Maron},
-         familyi={M\bibinitperiod},
-         given={Bradley\bibnamedelima A},
-         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-    }
-    \keyw{submitted}
-    \strng{namehash}{ZK+1}
-    \strng{fullhash}{ZKWLNVSAtMAONJNPKGSGSSDGMBA1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{7}
-    \field{sortinithash}{7}
-    \verb{doi}
-    \verb SUBMITTED, UNDER REVIEW
-    \endverb
-    \field{shortjournal}{Lancet Respir Med}
-    \field{title}{The Epidemiology of Pulmonary Hypertension in sub-Saharan
-  Africa}
-    \field{journaltitle}{{BMJ} Global Health}
-    \field{month}{08}
     \field{year}{2025}
   \endentry
 
