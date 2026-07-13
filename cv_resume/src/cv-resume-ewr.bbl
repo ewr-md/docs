@@ -254,6 +254,199 @@
     \field{urlyear}{2026}
   \endentry
 
+  \entry{huapaya_sps9-05_2026}{article}{}{}
+    \name{author}{19}{}{%
+      {{hash=HJA}{%
+         family={Huapaya},
+         familyi={H\bibinitperiod},
+         given={J\bibnamedelima A},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Burbelo},
+         familyi={B\bibinitperiod},
+         given={P},
+         giveni={P},
+      }}%
+      {{hash=TS}{%
+         family={Turan},
+         familyi={T\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+      {{hash=TX}{%
+         family={Tian},
+         familyi={T\bibinitperiod},
+         given={X},
+         giveni={X},
+      }}%
+      {{hash=GS}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Ward},
+         familyi={W\bibinitperiod},
+         given={J},
+         giveni={J},
+      }}%
+      {{hash=RN}{%
+         family={Redekar},
+         familyi={R\bibinitperiod},
+         given={N},
+         giveni={N},
+      }}%
+      {{hash=GS}{%
+         family={Gairhe},
+         familyi={G\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+      {{hash=GN}{%
+         family={Gupta},
+         familyi={G\bibinitperiod},
+         given={N},
+         giveni={N},
+      }}%
+      {{hash=PFI}{%
+         family={Pinal-Fernandez},
+         familyi={P\bibinithyphendelim F\bibinitperiod},
+         given={I},
+         giveni={I},
+      }}%
+      {{hash=CDM}{%
+         family={Casal-Dominguez},
+         familyi={C\bibinithyphendelim D\bibinitperiod},
+         given={M},
+         giveni={M},
+      }}%
+      {{hash=CSL}{%
+         family={Christopher-Stine},
+         familyi={C\bibinithyphendelim S\bibinitperiod},
+         given={L},
+         giveni={L},
+      }}%
+      {{hash=SA}{%
+         family={Schiffenbauer},
+         familyi={S\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+      {{hash=LJL}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={J\bibnamedelima L},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=RL}{%
+         family={Rider},
+         familyi={R\bibinitperiod},
+         given={L},
+         giveni={L},
+      }}%
+      {{hash=MA}{%
+         family={Mammen},
+         familyi={M\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+      {{hash=DSK}{%
+         family={Danoff},
+         familyi={D\bibinitperiod},
+         given={S\bibnamedelima K},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=SAF}{%
+         family={Suffredini},
+         familyi={S\bibinitperiod},
+         given={A\bibnamedelima F},
+         giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \keyw{abstract}
+    \strng{namehash}{HJA+1}
+    \strng{fullhash}{HJABPTSTXGStWJRNGSGNPFICDMCSLSALJLRLMADSKSAF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Abstract Rationale Myositis-specific autoantibodies ({MSAs}) define
+  clinical subgroups in idiopathic inflammatory myopathy-associated
+  interstitial lung disease ({IIM}-{ILD}), yet serology alone does not explain
+  heterogeneity in disease severity, progression, or outcomes. Integrating
+  quantitative autoantibody levels with circulating proteomic biomarkers may
+  help delineate shared and antibody-specific biological mechanisms and
+  identify risk-aligned disease states. Methods We quantified {MSAs} using a
+  luminescent immunoprecipitation system and measured targeted serum proteomics
+  (inflammation and organ damage panels) in 226 adults with {IIM} and 35
+  matched healthy controls. Patients were categorized by {ILD}-risk (Jo-1,
+  {MDA}5, {PL}-7, {PL}-12, {EJ}) and non-{ILD}-risk (Mi-2, {NXP}2)
+  autoantibodies. Correlation analyses, pathway enrichment, unsupervised
+  proteomic clustering, and exploratory longitudinal analyses of lung function
+  were performed. Results Distinct autoantibody-associated proteomic signatures
+  were observed. Anti-Jo-1 showed the highest {CXCL}9 expression; anti-{MDA}5
+  demonstrated prominent upregulation of {ATP}6AP2 and {PSMA}1 with marked
+  downregulation of {TNNI}3; anti-{PL}-12 showed the greatest increases in
+  {IL}-6 and {FKBP}1B; and anti-{PL}-7 exhibited pronounced upregulation of
+  {CASP}8, {FES}, {TIGAR}, and {EN}-{RAGE}. Across {ILD}-associated
+  autoantibodies, a shared inflammatory program was evident, characterized by
+  upregulation of {LTA}4H, {CXCL}9/10/11, {CASP}8, and {MCP}-3, with
+  downregulation of {CRH} and 4E-{BP}1. Pathway analyses highlighted
+  {IL}-6/{JAK}/{STAT}3 and interferon-γ signaling coupled with epithelial
+  stress and apoptotic responses. Quantitative autoantibody levels correlated
+  with interferon-related chemokines, pro-fibrotic signaling ({LAP}-{TGF}-β1),
+  and metabolic-vascular markers (e.g., {NCF}3, {EGFL}7). Unsupervised
+  clustering of the targeted proteome identified four biologically distinct
+  endotypes (Figure 1A), which were characterized by differential protein
+  expression patterns and associated survival curves (Figure 1B). One
+  injury-stress endotype was enriched for epithelial injury, apoptotic
+  signaling, neutrophil oxidative stress, and vascular remodeling proteins and
+  was associated with higher autoantibody levels, lower lung function, and
+  lower survival. In exploratory longitudinal analyses, {SERPINA}9 emerged as
+  the most consistent circulating protein associated with subsequent lung
+  function decline over time. Conclusions Quantitative autoantibody profiling
+  integrated with targeted proteomics reveals both autoantibody-associated
+  heterogeneity and a shared interferon-driven inflammatory program in
+  {IIM}-{ILD}. Beyond serologic classification, proteomic clustering identifies
+  a convergent injury-stress endotype linked to impaired lung physiology and
+  poorer survival. These findings support the use of circulating protein
+  signatures to enable biologically grounded risk stratification and
+  autoantibody-aligned precision phenotyping in {IIM}-{ILD}. This abstract is
+  funded by: Mentored Research Fellowship (The Myositis Association);
+  Bench-to-Bedside and Back Program (National Institutes of Health)%
+    }
+    \verb{doi}
+    \verb 10.1093/ajrccm/aamag286.070
+    \endverb
+    \field{issn}{1073-449X, 1535-4970}
+    \field{issue}{Supplement\_2}
+    \field{pages}{aamag286.070}
+    \field{title}{{SPS}9-05 Proteomic Profiling Identifies
+  Autoantibody-Associated Proteomic Signatures and an Injury-Stress Endotype
+  Linked to Poor Outcomes in Myositis-Associated Interstitial Lung Disease}
+    \verb{url}
+    \verb https://academic.oup.com/ajrccm/article/doi/10.1093/ajrccm/aamag286.0
+    \verb 70/8712273
+    \endverb
+    \field{volume}{212}
+    \field{langid}{english}
+    \field{journaltitle}{American Journal of Respiratory and Critical Care
+  Medicine}
+    \field{day}{01}
+    \field{month}{06}
+    \field{year}{2026}
+    \field{urlday}{05}
+    \field{urlmonth}{07}
+    \field{urlyear}{2026}
+  \endentry
+
   \entry{huapaya_proteomic_2026}{inproceedings}{}{}
     \name{author}{19}{}{%
       {{hash=HJ}{%
@@ -369,7 +562,7 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \keyw{abstract}
+    \keyw{presentation}
     \strng{namehash}{HJ+1}
     \strng{fullhash}{HJtPFITSTXGSWJRNGSGNPGPFICDMCSLSARLMADSSA1}
     \field{labelnamesource}{author}
@@ -455,103 +648,6 @@
     }
     \field{day}{17}
     \field{month}{05}
-    \field{year}{2026}
-  \endentry
-
-  \entry{zeder_epidemiology_2025}{article}{}{}
-    \name{author}{13}{}{%
-      {{hash=ZK}{%
-         family={Zeder},
-         familyi={Z\bibinitperiod},
-         given={Katarina},
-         giveni={K\bibinitperiod},
-      }}%
-      {{hash=WL}{%
-         family={Wang},
-         familyi={W\bibinitperiod},
-         given={Lanjing},
-         giveni={L\bibinitperiod},
-      }}%
-      {{hash=NV}{%
-         family={Ngah},
-         familyi={N\bibinitperiod},
-         given={Veranyuy},
-         giveni={V\bibinitperiod},
-      }}%
-      {{hash=SA}{%
-         family={Santi},
-         familyi={S\bibinitperiod},
-         given={Armella},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=t}{%
-         family={\textbf{E. Robbins}},
-         familyi={t\bibinitperiod},
-      }}%
-      {{hash=MAO}{%
-         family={Mocumbi},
-         familyi={M\bibinitperiod},
-         given={Ana\bibnamedelima O},
-         giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
-      }}%
-      {{hash=NJ}{%
-         family={Namuyonga},
-         familyi={N\bibinitperiod},
-         given={Judith},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=NP}{%
-         family={Nyasulu},
-         familyi={N\bibinitperiod},
-         given={Peter},
-         giveni={P\bibinitperiod},
-      }}%
-      {{hash=KG}{%
-         family={Kovacs},
-         familyi={K\bibinitperiod},
-         given={Gabor},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=SG}{%
-         family={Strange},
-         familyi={S\bibinitperiod},
-         given={Geoff},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=SS}{%
-         family={Stewart},
-         familyi={S\bibinitperiod},
-         given={Simon},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=DG}{%
-         family={Diao},
-         familyi={D\bibinitperiod},
-         given={Guoqing},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=MBA}{%
-         family={Maron},
-         familyi={M\bibinitperiod},
-         given={Bradley\bibnamedelima A},
-         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-    }
-    \keyw{submitted}
-    \strng{namehash}{ZK+1}
-    \strng{fullhash}{ZKWLNVSAtMAONJNPKGSGSSDGMBA1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{7}
-    \field{sortinithash}{7}
-    \verb{doi}
-    \verb SUBMITTED, UNDER REVIEW
-    \endverb
-    \field{shortjournal}{Pulm Circ}
-    \field{title}{The Epidemiology of Pulmonary Hypertension in sub-Saharan
-  Africa}
-    \field{journaltitle}{Pulm Circ}
-    \field{month}{04}
     \field{year}{2026}
   \endentry
 
@@ -1041,6 +1137,103 @@
     }
     \field{day}{30}
     \field{month}{09}
+    \field{year}{2025}
+  \endentry
+
+  \entry{zeder_epidemiology_2025}{article}{}{}
+    \name{author}{13}{}{%
+      {{hash=ZK}{%
+         family={Zeder},
+         familyi={Z\bibinitperiod},
+         given={Katarina},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Lanjing},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Ngah},
+         familyi={N\bibinitperiod},
+         given={Veranyuy},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Santi},
+         familyi={S\bibinitperiod},
+         given={Armella},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{E. Robbins}},
+         familyi={t\bibinitperiod},
+      }}%
+      {{hash=MAO}{%
+         family={Mocumbi},
+         familyi={M\bibinitperiod},
+         given={Ana\bibnamedelima O},
+         giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=NJ}{%
+         family={Namuyonga},
+         familyi={N\bibinitperiod},
+         given={Judith},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NP}{%
+         family={Nyasulu},
+         familyi={N\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Kovacs},
+         familyi={K\bibinitperiod},
+         given={Gabor},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Strange},
+         familyi={S\bibinitperiod},
+         given={Geoff},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Stewart},
+         familyi={S\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Diao},
+         familyi={D\bibinitperiod},
+         given={Guoqing},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MBA}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={Bradley\bibnamedelima A},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{submitted}
+    \strng{namehash}{ZK+1}
+    \strng{fullhash}{ZKWLNVSAtMAONJNPKGSGSSDGMBA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \verb{doi}
+    \verb SUBMITTED, UNDER REVIEW
+    \endverb
+    \field{shortjournal}{Lancet Respir Med}
+    \field{title}{The Epidemiology of Pulmonary Hypertension in sub-Saharan
+  Africa}
+    \field{journaltitle}{{BMJ} Global Health}
+    \field{month}{08}
     \field{year}{2025}
   \endentry
 
